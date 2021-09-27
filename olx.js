@@ -21,6 +21,21 @@ function startOLX() {
             tipo: "instrumento musical",
             keyword: ["orgão", "eletrico"],
         },
+        {
+            url: "https://sp.olx.com.br/sao-paulo-e-regiao/zona-oeste/instrumentos-musicais?pe=1000&q=baixo&sd=2918&sd=2914&sf=1",
+            tipo: "instrumento musical",
+            keyword: [""]
+        },
+        {
+            url: "https://sp.olx.com.br/sao-paulo-e-regiao/zona-norte/instrumentos-musicais?pe=1000&q=baixo&sd=2799&sd=2792&sd=2787&sf=1",
+            tipo: "instrumento musical",
+            keyword: [""]
+        },
+        {
+            url: "https://sp.olx.com.br/sao-paulo-e-regiao?q=clarinete&sf=1",
+            tipo: "instrumento musical",
+            keyword: [""]
+        },
     ];
 
     // scrapPup
