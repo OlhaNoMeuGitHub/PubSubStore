@@ -1,5 +1,6 @@
 const scrapPup = require("./pupScript.js");
 const prodsAtual = require("./oldProducts.json");
+const fs = require("fs");
 
 var prod1 = [
   {
@@ -61,6 +62,31 @@ function startSoub() {
     });
   }
 
+  function salvaCSV(prods, oldname, newname) {
+    // console.log(prods)
+  
+    prodsAtual.push(...prods);
+    const jsonString = JSON.stringify(prodsAtual, null, 2);
+    const jsonStringnewprod = JSON.stringify(prods, null, 2);
+    // console.log(jsonString)
+  
+    fs.writeFile("./" + oldname + ".json", jsonString, (err) => {
+      if (err) {
+        console.log("Error writing file", err);
+      } else {
+        console.log("Successfully wrote file");
+      }
+    });
+  
+    fs.writeFile("./" + newname + ".json", jsonStringnewprod, (err) => {
+      if (err) {
+        console.log("Error writing file", err);
+      } else {
+        console.log("Successfully wrote file");
+      }
+    });
+  }
+
   scrapPup
     .scrape(ArrURL, getdataFuncSB)
     .then((v) => {
@@ -70,7 +96,7 @@ function startSoub() {
       return filtra(v);
     })
     .then((v) => {
-      scrapPup.salvaCSV(v, "oldProducts", "newProducts");
+      salvaCSV(v, "oldProducts", "newProducts");
     });
 }
 
