@@ -34,7 +34,7 @@ function startOLX() {
         {
             url: "https://sp.olx.com.br/sao-paulo-e-regiao?q=clarinete&sf=1",
             tipo: "instrumento musical",
-            keyword: [""]
+            keyword: ["clarinete"]
         },
     ];
 
