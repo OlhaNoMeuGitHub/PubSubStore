@@ -1,5 +1,6 @@
 const scrapPup = require("./pupScript.js");
 const prodsAtual = require("./oldProducts.json");
+const { ProdutoSouB } = require('./Produto');
 const fs = require("fs");
 
 var prod1 = [
@@ -20,14 +21,6 @@ var prod1 = [
     preco: "1.299,99",
   },
 ];
-
-function Produto(nome, preco) {
-  this.nome = nome
-    .replace("USADO - ", "")
-    .replace("Usado: ", "")
-    .replace("USADO: ", "");
-  this.preco = preco.replace("R$ ", "");
-}
 
 function startSoub() {
   let ArrURL = [
@@ -90,7 +83,7 @@ function startSoub() {
   scrapPup
     .scrape(ArrURL, getdataFuncSB)
     .then((v) => {
-      return v.map((e) => new Produto(e.nome, e.preco));
+      return v.map((e) => new ProdutoSouB(e.nome, e.preco));
     })
     .then((v) => {
       return filtra(v);
