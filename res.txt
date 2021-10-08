@@ -1,0 +1,48 @@
+.1. Assinale a alternativa que enumera os pilares do Pensamento Computacional.
+Algoritmos, programação, testes.
+Tecnologia, ciência, engenharia.
+Lógica, técnica, habilidades.
+Inteligência artificial, IOT e Big Data.
+X Abstração, algoritmos, decomposição, reconhecimento de padrões
+
+O que é computação em nuvem?
+Um motor de busca.
+Internet.
+Ferramenta de aplicação usada para controlar a Internet.
+Processamento de alto desempenho por computadores pertencentes a companhias transnacionais.
+X Fornecimento de serviços de computação pela Internet.
+
+
+1.4. Como é conhecida a referência nacional para a formulação dos currículos, que define um conjunto orgânico e progressivo de aprendizagens essenciais que todos os alunos devem desenvolver ao longo das etapas e modalidades da educação básica?
+X Base Nacional Comum Curricular.
+Base Nacional de Ciência da Computação.
+Base Nacional de Competências e Capacidades.
+Referência internacional para o Pensamento Computacional.
+Framework K-12.
+
+
+1.5 Para ensinar seus alunos a compilar um programa, um professor escreveu um texto com a sequência de passos que deveria ser seguida. Pode-se considerar que esse texto é:
+programa.
+X algoritmo.
+executável.
+fluxograma.
+lógica de programação.
+
+1.6. Assinale a alternativa que indica corretamente o resultado da execução do programa em Scratch abaixo.
+Imagem sem legenda
+Desenha um triângulo na tela com lados de tamanho 100.
+Desenha um triângulo na tela com lados de tamanho 90.
+Desenha um quadrado na tela com lados de tamanho 90.
+Desenha um quadrado na tela com lados de tamanho 100.
+Limpa a tela, mostra a caneta e levanta a caneta 4 vezes.
+
+1.7. Considerando Scratch e App Inventor, analise as afirmações abaixo:
+Imagem sem legenda
+Nenhuma afirmação está correta.
+II está correta.
+III está correta.
+I, II, III, IV, V estão corretas.
+X I, IV e V estão corretas.
+
+De qual eixo da computação alguém precisa ter conhecimento para comunicar-se no mundo atual, segundo as “Diretrizes para ensino de Computação na Educação Básica” da Sociedade Brasileira de Computação (SBC)?
+X cultura digital

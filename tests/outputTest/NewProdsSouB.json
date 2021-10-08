@@ -1,0 +1,54 @@
+[
+  {
+    "id": "Geladeira Panasonic 435L Aço Escovado NR-BT50BD3XA",
+    "nome": "Geladeira Panasonic 435L Aco Escovado NR-BT50BD3XA",
+    "preco": {
+      "valor": "2.559,99",
+      "data": "2021-10-05T04:09:52.105Z"
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Câmera Gear 360 (2017) Branca - Samsung",
+    "nome": "Camera Gear 360 (2017) Branca - Samsung",
+    "preco": {
+      "valor": "749,69",
+      "data": "2021-10-05T04:09:52.105Z"
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Fogão de Piso Mesa de Vidro Electrolux 4 Bocas 52LPV Preto Bivolt",
+    "nome": "Fogao de Piso Mesa de Vidro Electrolux 4 Bocas 52LPV Preto Bivolt",
+    "preco": {
+      "valor": "935,99",
+      "data": "2021-10-05T04:09:52.105Z"
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Teclado Gamer Dk13 com Iluminação de Led Abnt2 - DPX",
+    "nome": "Teclado Gamer Dk13 com Iluminacao de Led Abnt2 - DPX",
+    "preco": {
+      "valor": "71,99",
+      "data": "2021-10-05T04:09:52.105Z"
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  }
+]

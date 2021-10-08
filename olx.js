@@ -4,7 +4,7 @@ const { ProdutoOLX } = require("./Produto");
 
 const fs = require("fs");
 
-async function startOLX() {
+async function startOLX(OldProds,fileNameOld,FileNameNew) {
   let ArrURL = [
     {
       url: "https://sp.olx.com.br/sao-paulo-e-regiao/zona-norte?q=movel&sf=1",
@@ -33,40 +33,22 @@ async function startOLX() {
     },
   ];
 
-  // scrapPup
-  //   .scrape(ArrURL, getdataFuncOLX)
-  //   .then((v) => {
-  //     console.log(v);
-  //   })
 
-  // }
 let retornoScrapeOlx =  await scrapPup.scrape(ArrURL, getdataFuncOLX)
-retornoScrapeOlx = 
-  scrapPup
-    .scrape(ArrURL, getdataFuncOLX)
-    .then((v) => {
-      return v.map(
-        (e) => new ProdutoOLX(e.nome, e.preco, e.tipo, e.url, e.keyword)
-      );
-    })
-    .then((v) => {
-      return filtra(v);
-    })
-    .then((v) => {
-      salvaCSV(v, "prodsOlxOld", "prodsOlxNew");
-    });
+ExecutafluxoDeTratamentoPersistencia(retornoScrapeOlx,prodsAtual,fileNameOld,FileNameNew)
+
 }
 
-function filtra(arr) {
+function filtra(arr,prodold) {
   return arr.filter((v1) => {
     return (
-      !prodsAtual.find(
+      !prodold.find(
         (v2) =>
           v1.nome == v2.nome &&
           v1.url == v2.url &&
-          (isNaN(v1.preco) || isNaN(v2.preco)
+          (isNaN(v1.preco.valorAtual) || isNaN(v2.preco.valorAtual)
             ? true
-            : parseFloat(v1.preco) >= parseFloat(v2.preco))
+            : parseFloat(v1.preco.valorAtual) >= parseFloat(v2.preco.valorAtual))
       ) &&
       v1.keyword.reduce((acc, cv, indice, array) => {
         return acc
@@ -108,29 +90,19 @@ function atualizaProdsOld(prodOld, prodNew) {
   return prodOld;
 }
 
-function salvaCSV(prods, oldname, newname) {
-  // console.log(prods)
+function ExecutafluxoDeTratamentoPersistencia(arrProducts,OldProds,fileNameOld,FileNameNew){
+  arrProducts = arrProducts.map(
+    (e) => new ProdutoOLX(e.nome, e.preco, e.tipo, e.url, e.keyword)
+    );
+  OldProds = OldProds.map(
+    (e) => new ProdutoOLX(e.nome, e.preco, e.tipo, e.url, e.keyword)
+      );
+  let produtosfiltrados = filtra(arrProducts,OldProds);
+  let produtosAntigosAtualizados = ProdutoOLX.atualizaProdsOld(OldProds,produtosfiltrados);
+  ProdutoOLX.salvaCSV(produtosAntigosAtualizados, fileNameOld);
+  ProdutoOLX.salvaCSV(produtosfiltrados, FileNameNew);
 
-  prodsAtual.push(...prods);
-  const jsonString = JSON.stringify(prodsAtual, null, 2);
-  const jsonStringnewprod = JSON.stringify(prods, null, 2);
-  // console.log(jsonString)
-
-  fs.writeFile("./" + oldname + ".json", jsonString, (err) => {
-    if (err) {
-      console.log("Error writing file", err);
-    } else {
-      console.log("Successfully wrote file");
-    }
-  });
-
-  fs.writeFile("./" + newname + ".json", jsonStringnewprod, (err) => {
-    if (err) {
-      console.log("Error writing file", err);
-    } else {
-      console.log("Successfully wrote file");
-    }
-  });
 }
 
-module.exports = { startOLX, filtra, salvaCSV, atualizaProdsOld };
+
+module.exports = { startOLX, filtra, atualizaProdsOld ,ExecutafluxoDeTratamentoPersistencia};

@@ -1,8 +1,11 @@
 [
   {
-    "id": "Smartphone Samsung Galaxy J1 Duos Dual Chip Desbloqueado Tim Android 4.4 Tela 4.3\" 4GB 4G Wi-Fi Câmera 5MP - Preto",
-    "nome": "Smartphone Samsung Galaxy J1 Duos Dual Chip Desbloqueado Tim Android 4.4 Tela 4.3\" 4GB 4G Wi-Fi Camera 5MP - Preto",
-    "preco": "546,74",
+    "id": "Passadeira a Vapor RI514 Philips Walita Easytouch Plus Rosa - 1600W",
+    "nome": "Passadeira a Vapor RI514 Philips Walita Easytouch Plus Rosa - 1600W",
+    "preco": {
+      "valor": "258,32",
+      "data": "2021-10-05T04:37:15.206Z"
+    },
     "tipo": "usado",
     "url": "",
     "keyword": [
@@ -10,9 +13,12 @@
     ]
   },
   {
-    "id": "Smartphone Moto G 4 Plus Dual Chip Android 6.0 Tela 5.5'' 32GB Câmera 16MP - Branco",
-    "nome": "Smartphone Moto G 4 Plus Dual Chip Android 6.0 Tela 5.5'' 32GB Camera 16MP - Branco",
-    "preco": "449,99",
+    "id": "Aspirador de Pó Philco PAS4000v Power Clean 2000W",
+    "nome": "Aspirador de Po Philco PAS4000v Power Clean 2000W",
+    "preco": {
+      "valor": "117,59",
+      "data": "2021-10-05T04:37:15.206Z"
+    },
     "tipo": "usado",
     "url": "",
     "keyword": [
@@ -20,9 +26,12 @@
     ]
   },
   {
-    "id": "Smartphone Moto G 4 Plus Dual Chip Android 6.0 Tela 5.5'' 32GB Câmera 16MP - Preto",
-    "nome": "Smartphone Moto G 4 Plus Dual Chip Android 6.0 Tela 5.5'' 32GB Camera 16MP - Preto",
-    "preco": "449,99",
+    "id": "Forno Elétrico Britânia BFE 10 Litros Vermelho",
+    "nome": "Forno Eletrico Britania BFE 10 Litros Vermelho",
+    "preco": {
+      "valor": "107,03",
+      "data": "2021-10-05T04:37:15.207Z"
+    },
     "tipo": "usado",
     "url": "",
     "keyword": [
@@ -30,119 +39,12 @@
     ]
   },
   {
-    "id": "Smartphone Sony G8341 Xperia Xz1 Single Chip Android Tela 5.2\" Octa-core 64GB 4G Câmera 13MP - Preto",
-    "nome": "Smartphone Sony G8341 Xperia Xz1 Single Chip Android Tela 5.2\" Octa-core 64GB 4G Camera 13MP - Preto",
-    "preco": "2.099,99",
-    "tipo": "usado",
-    "url": "",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "Smartphone Samsung Galaxy A80 128GB 8GB Dual Chip Android 9.0 Tela 6,7\" Octa-Core 4G Câmera 48MP + 5MP - Preto",
-    "nome": "Smartphone Samsung Galaxy A80 128GB 8GB Dual Chip Android 9.0 Tela 6,7\" Octa-Core 4G Camera 48MP + 5MP - Preto",
-    "preco": "1.999,99",
-    "tipo": "usado",
-    "url": "",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "Console Xbox Series S 500gb SSD",
-    "nome": "Console Xbox Series S 500gb SSD",
-    "preco": "2.224,99",
-    "tipo": "usado",
-    "url": "",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "Smartphone Samsung Galaxy Z Flip Dual Chip Android 10 Tela 6.7\" Octa-Core 156GB 4G Câmera Dupla 12MP + 13MP - Preto",
-    "nome": "Smartphone Samsung Galaxy Z Flip Dual Chip Android 10 Tela 6.7\" Octa-Core 156GB 4G Camera Dupla 12MP + 13MP - Preto",
-    "preco": "4.699,99",
-    "tipo": "usado",
-    "url": "",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "Monitor Cardíaco TomTom Runner Cardio com GPS Preto",
-    "nome": "Monitor Cardiaco TomTom Runner Cardio com GPS Preto",
-    "preco": "1.115,99",
-    "tipo": "usado",
-    "url": "",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "Forno Elétrico Philco Pfe38p 38l Preto 1500W",
-    "nome": "Forno Eletrico Philco Pfe38p 38l Preto 1500W",
-    "preco": "223,99",
-    "tipo": "usado",
-    "url": "",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "Chaleira Elétrica Britânia 1,8L BCH02PI - Prata",
-    "nome": "Chaleira Eletrica Britania 1,8L BCH02PI - Prata",
-    "preco": "69,99",
-    "tipo": "usado",
-    "url": "",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "Smartphone Motorola Moto G9 Play Dual Chip Desbloqueado Android 10 Tela 6.5\" 64GB 4G Câmera 48MP+2MP+2MP Qualcomm Snapdragon - Verde Turquesa",
-    "nome": "Smartphone Motorola Moto G9 Play Dual Chip Desbloqueado Android 10 Tela 6.5\" 64GB 4G Camera 48MP+2MP+2MP Qualcomm Snapdragon - Verde Turquesa",
-    "preco": "899,99",
-    "tipo": "usado",
-    "url": "",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "Console Playstation 4 Hits 1TB Bundle 15 - Games Spider-Man: Goty + Horizon Zero Dawn: Complete Edition + Ratchet&Clank",
-    "nome": "Console Playstation 4 Hits 1TB Bundle 15 - Games Spider-Man: Goty + Horizon Zero Dawn: Complete Edition + Ratchet&Clank",
-    "preco": "2.199,99",
-    "tipo": "usado",
-    "url": "",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "Smart TV LED 42'' Philco Full HD - PTV42G70N5CF co",
-    "nome": "Smart TV LED 42'' Philco Full HD - PTV42G70N5CF co",
-    "preco": "1.529,99",
-    "tipo": "usado",
-    "url": "",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "Smartphone Motorola Moto G8 Power Dual Chip Desbloqueado Android Tela 6,4\" 64GB 4G Câmera Traseira 16MP + 8MP + 2MP Filmadora 4K Qualcomm Snapdragon 665 - Preto Titanium",
-    "nome": "Smartphone Motorola Moto G8 Power Dual Chip Desbloqueado Android Tela 6,4\" 64GB 4G Camera Traseira 16MP + 8MP + 2MP Filmadora 4K Qualcomm Snapdragon 665 - Preto Titanium",
-    "preco": "929,99",
-    "tipo": "usado",
-    "url": "",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "Smartphone Asus ZenFone Selfie Dual Chip Android Nougat 7.0 Tela 5.5 Qualcomm Snapdragon 16GB 4G Câmera 13MP + Frontal 13MP - Dourado",
-    "nome": "Smartphone Asus ZenFone Selfie Dual Chip Android Nougat 7.0 Tela 5.5 Qualcomm Snapdragon 16GB 4G Camera 13MP + Frontal 13MP - Dourado",
-    "preco": "719,99",
+    "id": "Som Portátil Philco PB119bt com Rádio AM/FM MP3 Bluetooth USB e AUX IN - Cinza/Preto",
+    "nome": "Som Portatil Philco PB119bt com Radio AM/FM MP3 Bluetooth USB e AUX IN - Cinza/Preto",
+    "preco": {
+      "valor": "79,99",
+      "data": "2021-10-05T04:37:15.207Z"
+    },
     "tipo": "usado",
     "url": "",
     "keyword": [

@@ -1,6 +1,6 @@
 const scrapPup = require("./pupScript.js");
-const prodsAtual = require("./oldProducts.json");
-const { ProdutoSouB } = require('./Produto');
+
+const { ProdutoSouB } = require("./Produto");
 const fs = require("fs");
 
 var prod1 = [
@@ -22,15 +22,36 @@ var prod1 = [
   },
 ];
 
-function startSoub() {
+async function startSoub(OldProds,fileNameOld,FileNameNew) {
   let ArrURL = [
-    {url:"https://www.soubarato.com.br/hotsite/usados/pagina-5",tipo:"usado"},
-    {url:"https://www.soubarato.com.br/hotsite/usados/pagina-3",tipo:"usado"},
-    {url:"https://www.soubarato.com.br/hotsite/usados/pagina-2",tipo:"usado"},
-    {url:"https://www.soubarato.com.br/hotsite/usados/pagina-4",tipo:"usado"},
-    {url:"https://www.soubarato.com.br/hotsite/usados/pagina-6",tipo:"usado"},
-    {url:"https://www.soubarato.com.br/hotsite/usados/pagina-7",tipo:"usado"},
-    {url:"https://www.soubarato.com.br/hotsite/usados?chave=prf_hm_tt_0_1_ttusados",tipo:"usado"}
+    {
+      url: "https://www.soubarato.com.br/hotsite/usados/pagina-5",
+      tipo: "usado",
+    },
+    {
+      url: "https://www.soubarato.com.br/hotsite/usados/pagina-3",
+      tipo: "usado",
+    },
+    {
+      url: "https://www.soubarato.com.br/hotsite/usados/pagina-2",
+      tipo: "usado",
+    },
+    {
+      url: "https://www.soubarato.com.br/hotsite/usados/pagina-4",
+      tipo: "usado",
+    },
+    {
+      url: "https://www.soubarato.com.br/hotsite/usados/pagina-6",
+      tipo: "usado",
+    },
+    {
+      url: "https://www.soubarato.com.br/hotsite/usados/pagina-7",
+      tipo: "usado",
+    },
+    {
+      url: "https://www.soubarato.com.br/hotsite/usados?chave=prf_hm_tt_0_1_ttusados",
+      tipo: "usado",
+    },
   ];
 
   const getdataFuncSB = async function getDataSB(page) {
@@ -45,52 +66,38 @@ function startSoub() {
       });
     });
   };
+  
+  let produtosObtidos = await scrapPup.scrape(ArrURL, getdataFuncSB)
+  ExecutafluxoDeTratamentoPersistencia(produtosObtidos,OldProds,fileNameOld,FileNameNew)
 
-  function filtra(arr) {
-    return arr.filter((v1) => {
-      return !prodsAtual.find(
-        (v2) =>
-          v1.nome == v2.nome && parseFloat(v1.preco) >= parseFloat(v2.preco)
+
+  }
+  
+  
+  
+  function ExecutafluxoDeTratamentoPersistencia(arrProducts,OldProds,fileNameOld,FileNameNew){
+
+    arrProducts = arrProducts.map(
+      (e) => new ProdutoSouB(e.nome, e.preco)
       );
-    });
-  }
+    OldProds = OldProds.map(
+        (e) => new ProdutoSouB(e.nome, e.preco)
+        );
+    let produtosfiltrados = filtra(arrProducts,OldProds);
+    let produtosAntigosAtualizados = ProdutoSouB.atualizaProdsOld(OldProds,produtosfiltrados);
+    ProdutoSouB.salvaCSV(produtosAntigosAtualizados, fileNameOld);
+    ProdutoSouB.salvaCSV(produtosfiltrados, FileNameNew);
 
-  function salvaCSV(prods, oldname, newname) {
-    // console.log(prods)
-  
-    prodsAtual.push(...prods);
-    const jsonString = JSON.stringify(prodsAtual, null, 2);
-    const jsonStringnewprod = JSON.stringify(prods, null, 2);
-    // console.log(jsonString)
-  
-    fs.writeFile("./" + oldname + ".json", jsonString, (err) => {
-      if (err) {
-        console.log("Error writing file", err);
-      } else {
-        console.log("Successfully wrote file");
-      }
-    });
-  
-    fs.writeFile("./" + newname + ".json", jsonStringnewprod, (err) => {
-      if (err) {
-        console.log("Error writing file", err);
-      } else {
-        console.log("Successfully wrote file");
-      }
-    });
-  }
-
-  scrapPup
-    .scrape(ArrURL, getdataFuncSB)
-    .then((v) => {
-      return v.map((e) => new ProdutoSouB(e.nome, e.preco));
-    })
-    .then((v) => {
-      return filtra(v);
-    })
-    .then((v) => {
-      salvaCSV(v, "oldProducts", "newProducts");
-    });
 }
 
-module.exports = { startSoub };
+function filtra(arr, prodold) {
+  return arr.filter((v1) => {
+    return !prodold.find(
+      (v2) =>
+        v1.nome == v2.nome &&
+        parseFloat(v1.preco.valorAtual) >= parseFloat(v2.preco.valorAtual)
+    );
+  });
+}
+
+module.exports = { startSoub, filtra,ExecutafluxoDeTratamentoPersistencia };
