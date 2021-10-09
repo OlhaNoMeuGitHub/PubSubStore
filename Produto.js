@@ -5,7 +5,7 @@ class Preco {
   constructor() {
     if ( typeof(arguments[0]) == "object"){
       this.valor = arguments[0].valor.replace("R$ ", "").replace("R$", "");
-      this.data = arguments.data
+      this.data = typeof(arguments[0].data) !== "undefined"?  arguments[0].data : new Date()
     }
     else{
       this.valor = arguments[0].replace("R$ ", "").replace("R$", "");
@@ -15,6 +15,10 @@ class Preco {
 
   get valorAtual() {
     return this.valor;
+  }
+
+  get dataAtual() {
+    return this.data;
   }
 }
 
@@ -31,16 +35,21 @@ class Produto {
   }
 
   static atualizaProdsOld(prodOld, prodNew) {
+    const prodOldLocal = [].concat(prodOld);
     console.log("entrei");
     prodNew.slice(0).forEach((element, index) => {
       let foundIndex = prodOld.findIndex((x) => x.id == element.id);
       if (foundIndex !== -1) {
-        const prodNewLocal = [].concat(prodNew);
-        prodNewLocal.splice(index, 1);
-        prodOld[foundIndex] = element;
+        // const prodNewLocal = [].concat(prodNew);
+        // prodNewLocal.splice(index, 1);
+        prodOldLocal[foundIndex] = element;
+      }
+      else{
+        prodOldLocal.push(element)
+
       }
     });
-    return prodOld;
+    return prodOldLocal;
   }
 
   static async salvaCSV(prods, nameFile) {

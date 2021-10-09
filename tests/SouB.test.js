@@ -18,6 +18,7 @@ describe("atualizaCSV", () => {
 
     expect(OldProds[3].preco.valorAtual).toBe("2.559,99");
     expect(OldProds[3].preco.valorAtual).not.toBe("2.559,90");
+    expect(OldProds[6].preco.valorAtual).toBe("71,99");
   });
 })
 
@@ -86,9 +87,16 @@ describe("Valida fluxo funcionais", () => {
     //   (e) => new ProdutoSouB(e.nome, e.preco)
     // );
 
+    try {
+      fs.unlinkSync('tests/outputTest/oldProdsSouB.json')
+      fs.unlinkSync('tests/outputTest/NewProdsSouB.json')
+      //file removed
+    } catch(err) {
+      console.log(err)
+    }
+
     
     scrapSoub.ExecutafluxoDeTratamentoPersistencia(souBNewProds,souBOldProds,"tests/outputTest/oldProdsSouB","tests/outputTest/NewProdsSouB")
-
     let rawdataOld = fs.readFileSync('tests/outputTest/oldProdsSouB.json');
     let souBOldProdsOutPut = JSON.parse(rawdataOld).map(
       (e) => new ProdutoSouB(e.nome, e.preco)
@@ -96,7 +104,7 @@ describe("Valida fluxo funcionais", () => {
     let rawdataNew = fs.readFileSync('tests/outputTest/NewProdsSouB.json');
     let souBNewProdsOutPut = JSON.parse(rawdataNew).map(
       (e) => new ProdutoSouB(e.nome, e.preco)
-    );;
+    );
 
     expect(souBNewProdsOutPut[0].preco.valorAtual).toBe("2.559,99");
     expect(souBNewProdsOutPut[2].nome).toBe("Teclado Gamer Dk13 com Iluminacao de Led Abnt2 - DPX");
@@ -109,11 +117,18 @@ describe("Valida fluxo funcionais", () => {
 
 
   
-  it("Validar fluxo com scrap", async () => {
+  it("Validarp fluxo com scrap", async () => {
 
     expect.assertions(1);
 
-    await scrapSoub.startSoub(SouBOldProductsFull,"tests/outputTest/oldProdsSouBFull","tests/outputTest/NewProdsSouBFull")
+    let arr = [
+      {
+        "url": "https://www.soubarato.com.br/hotsite/usados?chave=prf_hm_tt_0_1_ttusados",
+        "tipo": "usado"
+      }
+    ]
+
+    await scrapSoub.startSoub(SouBOldProductsFull,"tests/outputTest/oldProdsSouBFull","tests/outputTest/NewProdsSouBFull",arr)
 
       let rawdataOld = fs.readFileSync('tests/outputTest/oldProdsSouBFull.json');
       let souBOldProdsOutPut = JSON.parse(rawdataOld).map(

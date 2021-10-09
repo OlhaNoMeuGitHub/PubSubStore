@@ -11,8 +11,15 @@ describe("Valida fluxo funcionais", () => {
     it("Validar fluxo com scrap OLX", async () => {
 
         expect.assertions(1);
+
+        let ArrURL = [
+          {
+            url: "https://sp.olx.com.br/sao-paulo-e-regiao/zona-norte?q=movel&sf=1",
+            tipo: "Casa",
+            keyword: ["casa", "apartamento", "chacara"],
+          }]
     
-        await scrapOLX.startOLX(OLXOldProductsFull,"tests/outputTest/oldProdsOLXFull","tests/outputTest/NewProdsOLXFull")
+        await scrapOLX.startOLX(OLXOldProductsFull,"tests/outputTest/oldProdsOLXFull","tests/outputTest/NewProdsOLXFull",ArrURL)
     
           let rawdataOld = fs.readFileSync('tests/outputTest/oldProdsOLXFull.json');
           let souBOldProdsOutPut = JSON.parse(rawdataOld).map(

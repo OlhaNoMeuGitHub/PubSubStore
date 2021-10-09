@@ -22,73 +22,56 @@ var prod1 = [
   },
 ];
 
-async function startSoub(OldProds,fileNameOld,FileNameNew) {
-  let ArrURL = [
-    {
-      url: "https://www.soubarato.com.br/hotsite/usados/pagina-5",
-      tipo: "usado",
-    },
-    {
-      url: "https://www.soubarato.com.br/hotsite/usados/pagina-3",
-      tipo: "usado",
-    },
-    {
-      url: "https://www.soubarato.com.br/hotsite/usados/pagina-2",
-      tipo: "usado",
-    },
-    {
-      url: "https://www.soubarato.com.br/hotsite/usados/pagina-4",
-      tipo: "usado",
-    },
-    {
-      url: "https://www.soubarato.com.br/hotsite/usados/pagina-6",
-      tipo: "usado",
-    },
-    {
-      url: "https://www.soubarato.com.br/hotsite/usados/pagina-7",
-      tipo: "usado",
-    },
-    {
-      url: "https://www.soubarato.com.br/hotsite/usados?chave=prf_hm_tt_0_1_ttusados",
-      tipo: "usado",
-    },
-  ];
-
-  const getdataFuncSB = async function getDataSB(page) {
-    return page.evaluate(() => {
-      return Array.from(
-        document.querySelectorAll("div.RippleContainer-sc-1rpenp9-0")
-      ).map((prodWeb) => {
-        return {
-          preco: prodWeb.getElementsByClassName("price")[0].innerText,
-          nome: prodWeb.getElementsByClassName("product-name")[0].innerText,
-        };
-      });
-    });
-  };
-  
-  let produtosObtidos = await scrapPup.scrape(ArrURL, getdataFuncSB)
-  ExecutafluxoDeTratamentoPersistencia(produtosObtidos,OldProds,fileNameOld,FileNameNew)
-
-
-  }
-  
-  
-  
-  function ExecutafluxoDeTratamentoPersistencia(arrProducts,OldProds,fileNameOld,FileNameNew){
-
-    arrProducts = arrProducts.map(
-      (e) => new ProdutoSouB(e.nome, e.preco)
-      );
-    OldProds = OldProds.map(
-        (e) => new ProdutoSouB(e.nome, e.preco)
-        );
-    let produtosfiltrados = filtra(arrProducts,OldProds);
-    let produtosAntigosAtualizados = ProdutoSouB.atualizaProdsOld(OldProds,produtosfiltrados);
-    ProdutoSouB.salvaCSV(produtosAntigosAtualizados, fileNameOld);
-    ProdutoSouB.salvaCSV(produtosfiltrados, FileNameNew);
-
+async function startSoub(OldProds, fileNameOld, FileNameNew, ArrURL) {
+  let produtosObtidos = await scrapPup.scrape(ArrURL, getdataFuncSB);
+  ExecutafluxoDeTratamentoPersistencia(
+    produtosObtidos,
+    OldProds,
+    fileNameOld,
+    FileNameNew
+  );
 }
+
+function ExecutafluxoDeTratamentoPersistencia(
+  arrProducts,
+  OldProds,
+  fileNameOld,
+  FileNameNew
+) {
+  arrProducts = arrProducts.map((e) => new ProdutoSouB(e.nome, e.preco));
+  OldProds = OldProds.map((e) => new ProdutoSouB(e.nome, e.preco));
+  let produtosfiltrados = filtra(arrProducts, OldProds);
+  let produtosAntigosAtualizados = ProdutoSouB.atualizaProdsOld(
+    OldProds,
+    produtosfiltrados
+  );
+  ProdutoSouB.salvaCSV(produtosAntigosAtualizados, fileNameOld);
+  ProdutoSouB.salvaCSV(produtosfiltrados, FileNameNew);
+}
+
+const getdataFuncSB = async function getDataSB(page) {
+  return page.evaluate(() => {
+     return Array.from(
+      document.querySelectorAll("div.RippleContainer-sc-1rpenp9-0")
+    ).reduce((accumulator, currentValue) => {
+      if (
+        typeof currentValue.getElementsByClassName("price")[0] == "object" &&
+        typeof currentValue.getElementsByClassName("product-name")[0] ==
+          "object"
+      ) {
+        
+        let obj = {
+          preco: currentValue.getElementsByClassName("price")[0].innerText,
+          nome: currentValue.getElementsByClassName("product-name")[0]
+            .innerText,
+        };
+        console.log(obj);
+        accumulator.push(obj);
+      }
+      return accumulator;
+    }, []);
+  });
+};
 
 function filtra(arr, prodold) {
   return arr.filter((v1) => {
@@ -100,4 +83,4 @@ function filtra(arr, prodold) {
   });
 }
 
-module.exports = { startSoub, filtra,ExecutafluxoDeTratamentoPersistencia };
+module.exports = { startSoub, filtra, ExecutafluxoDeTratamentoPersistencia };
