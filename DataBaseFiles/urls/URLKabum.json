@@ -1,7 +1,37 @@
 [
     {
-        "url": "https://www.kabum.com.br/busca?query=processador&page_number=1&page_size=20&facet_filters=eyJwcmljZSI6eyJtaW4iOjE5LjIyLCJtYXgiOjI3MjAuNzd9LCJHZXJhw6fDtWVzIjpbIkludGVsOiAxMMKqIEdlcmHDp8OjbyIsIkludGVsOiAxMcKqIEdlcmHDp8OjbyIsIkludGVsOiA3wqogR2VyYcOnw6NvIiwiSW50ZWw6IDjCqiBHZXJhw6fDo28iLCJJbnRlbDogOcKqIEdlcmHDp8OjbyJdfQ==&sort=most_searched",
-        "tipo": "Processador intel",
+        "url": "https://www.kabum.com.br/busca?query=processador&page_number=1&page_size=40&facet_filters=eyJwcmljZSI6eyJtaW4iOjE5LjIyLCJtYXgiOjY4NzIuNzJ9LCJTb2NrZXQiOlsiTEdBIDEyMDAiXX0=&sort=most_searched",
+        "tipo": "Processador intel 1200",
         "keyword": ["processador"]
+    },
+    {
+        "url": "https://www.kabum.com.br/busca?query=processador&page_number=1&page_size=20&facet_filters=eyJwcmljZSI6eyJtaW4iOjE5LjIyLCJtYXgiOjUwOTMuMzF9LCJTb2NrZXQiOlsiTEdBIDExNTEiXX0=&sort=most_searched",
+        "tipo": "Processador intel 1151",
+        "keyword": ["processador"]
+    },
+    {
+        "url": "https://www.kabum.com.br/busca?query=processador&page_number=1&page_size=20&facet_filters=eyJwcmljZSI6eyJtaW4iOjE5LjIyLCJtYXgiOjUwOTMuMzF9LCJHZXJhw6fDtWVzIjpbIkFNRDogR2VuIDUwMDAiXX0=&sort=most_searched",
+        "tipo": "Processador AMD 5000",
+        "keyword": ["processador"]
+    },
+    {
+        "url": "https://www.kabum.com.br/hardware/placas-mae?query=placa+mae&page_number=1&page_size=40&facet_filters=eyJTb2NrZXQgQ1BVIjpbIkxHQSAxMjAwIl0sImNhdGVnb3J5IjpbIkhhcmR3YXJlIl0sInByaWNlIjp7Im1pbiI6MzE2LjQyLCJtYXgiOjE4NjYuOTV9fQ==&sort=most_searched",
+        "tipo": "Placa mae 1200",
+        "keyword": [""]
+    },
+    {
+        "url": "https://www.kabum.com.br/hardware/placas-mae?query=placa+mae&page_number=1&page_size=40&facet_filters=eyJTb2NrZXQgQ1BVIjpbIkxHQSAxMTUxIl0sImNhdGVnb3J5IjpbIkhhcmR3YXJlIl0sInByaWNlIjp7Im1pbiI6MzE2LjQyLCJtYXgiOjE4NjYuOTV9fQ==&sort=most_searched",
+        "tipo": "Placa mae 1151",
+        "keyword": [""]
+    },
+    {
+        "url": "https://www.kabum.com.br/hardware/placas-mae?query=placa+mae&page_number=1&page_size=40&facet_filters=eyJTb2NrZXQgQ1BVIjpbIkFNNCJdLCJjYXRlZ29yeSI6WyJIYXJkd2FyZSJdLCJwcmljZSI6eyJtaW4iOjMxNi40MiwibWF4IjoxODY2Ljk1fX0=&sort=most_searched",
+        "tipo": "Placa mae AM4",
+        "keyword": [""]
+    },
+    {
+        "url": "https://www.kabum.com.br/hardware/ssd-2-5/m-2?query=ssd+m2&page_number=1&page_size=60&facet_filters=eyJGYXRvciBkZSBGb3JtYSI6WyJNLjIiXSwiQ2FwYWNpZGFkZSI6WyIyMTAgLSAzMDAgR0IiLCI0MTAgLSA1MDAgR0IiXSwicHJpY2UiOnsibWluIjoxOTEuMDMsIm1heCI6NTg4Mi4yNH19&sort=most_searched",
+        "tipo": "SSD M2",
+        "keyword": [""]
     }
 ]

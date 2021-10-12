@@ -1,12 +1,30 @@
 [
   {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/casa-de-condominio-a-venda-com-2-dormitorios-em-tucuruvi-sao-paulo-cod-288964-943057581",
+    "nome": "Casa de condominio a venda com 2 dormitorios em Tucuruvi, Sao paulo cod:288964",
+    "preco": {
+      "preco": [
+        {
+          "valor": "425000",
+          "data": "2021-10-12T13:01:52.224Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/casa-de-condominio-a-venda-com-2-dormitorios-em-tucuruvi-sao-paulo-cod-288964-943057581",
+    "keyword": [
+      "casa",
+      "apartamento",
+      "chacara"
+    ]
+  },
+  {
     "id": "https://sp.olx.com.br/sao-paulo-e-regiao/antiguidades/orgao-eletronico-spark-942892244",
     "nome": "Orgao Eletronico Spark",
     "preco": {
       "preco": [
         {
-          "valor": "300",
-          "data": "2021-10-11T19:51:45.568Z"
+          "valor": "550",
+          "data": "2021-10-12T13:01:52.225Z"
         }
       ]
     },
@@ -17,17 +35,203 @@
     ]
   },
   {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-selmer-10-sii-942895839",
-    "nome": "Clarinete Selmer 10 SII",
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-gambitt-perfeito-conservado-e-funcionamento-942693090",
+    "nome": "orgao eletronico gambitt perfeito conservado e funcionamento",
     "preco": {
       "preco": [
         {
-          "valor": "8.250",
-          "data": "2021-10-11T19:51:45.568Z"
+          "valor": "1650",
+          "data": "2021-10-12T13:01:52.225Z"
         }
       ]
     },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-selmer-10-sii-942895839",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-gambitt-perfeito-conservado-e-funcionamento-942693090",
+    "keyword": [
+      "orgao",
+      "eletrico"
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-usado-funcionando-perfeitamente-942567391",
+    "nome": "Orgao Eletronico usado funcionando perfeitamente",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1500",
+          "data": "2021-10-12T13:01:52.225Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-usado-funcionando-perfeitamente-942567391",
+    "keyword": [
+      "orgao",
+      "eletrico"
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-gambitt-tradicional-ccb-942146698",
+    "nome": "orgao eletronico gambitt tradicional ccb",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1950",
+          "data": "2021-10-12T13:01:52.225Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-gambitt-tradicional-ccb-942146698",
+    "keyword": [
+      "orgao",
+      "eletrico"
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-organist-904838784",
+    "nome": "Orgao eletronico Organist ",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2500",
+          "data": "2021-10-12T13:01:52.225Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-organist-904838784",
+    "keyword": [
+      "orgao",
+      "eletrico"
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-yamaha-941276660",
+    "nome": "Orgao Yamaha",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2000",
+          "data": "2021-10-12T13:01:52.225Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-yamaha-941276660",
+    "keyword": [
+      "orgao",
+      "eletrico"
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-rohnes-liz-plus-usado-940521384",
+    "nome": "Orgao eletronico Rohnes Liz Plus - Usado",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1800",
+          "data": "2021-10-12T13:01:52.225Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-rohnes-liz-plus-usado-940521384",
+    "keyword": [
+      "orgao",
+      "eletrico"
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-842536755",
+    "nome": "Orgao eletronico",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2700",
+          "data": "2021-10-12T13:01:52.225Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-842536755",
+    "keyword": [
+      "orgao",
+      "eletrico"
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-gambitt-perfeito-estado-conservacao-negociamos-938820264",
+    "nome": "Orgao Eletronico Gambitt perfeito estado conservacao negociamos",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1950",
+          "data": "2021-10-12T13:01:52.225Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-gambitt-perfeito-estado-conservacao-negociamos-938820264",
+    "keyword": [
+      "orgao",
+      "eletrico"
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-gambitt-tradicional-ccb-937866084",
+    "nome": "Orgao Eletronico Gambitt tradicional ccb ",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1950",
+          "data": "2021-10-12T13:01:52.225Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-gambitt-tradicional-ccb-937866084",
+    "keyword": [
+      "orgao",
+      "eletrico"
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-gambitt-bx-40-perfeito-conservacao-tradicional-ccb-937697492",
+    "nome": "Orgao Eletronico Gambitt Bx 40 perfeito conservacao tradicional CCB",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1950",
+          "data": "2021-10-12T13:01:52.225Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-gambitt-bx-40-perfeito-conservacao-tradicional-ccb-937697492",
+    "keyword": [
+      "orgao",
+      "eletrico"
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-si-bemol-943096350",
+    "nome": "Clarinete Si bemol",
+    "preco": {
+      "preco": [
+        {
+          "valor": "400",
+          "data": "2021-10-12T13:01:52.226Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-si-bemol-943096350",
+    "keyword": [
+      "clarinete"
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-jupter-17ch-sib-mol-jcl-700n-lj-oficial-jupter-ccb-793642396",
+    "nome": "Clarinete Jupter 17ch Sib-mol Jcl-700n Lj Oficial Jupter Ccb",
+    "preco": {
+      "preco": [
+        {
+          "valor": "5987",
+          "data": "2021-10-12T13:01:52.226Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-jupter-17ch-sib-mol-jcl-700n-lj-oficial-jupter-ccb-793642396",
     "keyword": [
       "clarinete"
     ]
@@ -38,8 +242,8 @@
     "preco": {
       "preco": [
         {
-          "valor": "1.200",
-          "data": "2021-10-11T19:51:45.568Z"
+          "valor": "1200",
+          "data": "2021-10-12T13:01:52.226Z"
         }
       ]
     },
@@ -49,17 +253,81 @@
     ]
   },
   {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-blaver-942781073",
-    "nome": "CLARINETE BLAVER",
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-sib-werill-r-2-300-942626110",
+    "nome": "Clarinete Sib  Werill  R$ 2.300 ",
     "preco": {
       "preco": [
         {
-          "valor": "300",
-          "data": "2021-10-11T19:51:45.568Z"
+          "valor": "2300",
+          "data": "2021-10-12T13:01:52.226Z"
         }
       ]
     },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-blaver-942781073",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-sib-werill-r-2-300-942626110",
+    "keyword": [
+      "clarinete"
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-madeira-ludwig-warschewski-raridade-942166842",
+    "nome": "Clarinete Madeira Ludwig Warschewski Raridade",
+    "preco": {
+      "preco": [
+        {
+          "valor": "3500",
+          "data": "2021-10-12T13:01:52.226Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-madeira-ludwig-warschewski-raridade-942166842",
+    "keyword": [
+      "clarinete"
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-buffet-crampon-e11-940674200",
+    "nome": "Clarinete Buffet crampon e11",
+    "preco": {
+      "preco": [
+        {
+          "valor": "4500",
+          "data": "2021-10-12T13:01:52.226Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-buffet-crampon-e11-940674200",
+    "keyword": [
+      "clarinete"
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-ycl-32-939826675",
+    "nome": "Clarinete YCL-32",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1500",
+          "data": "2021-10-12T13:01:52.226Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-ycl-32-939826675",
+    "keyword": [
+      "clarinete"
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-selmer-paris-depose-21-teclas-906300663",
+    "nome": "Clarinete Selmer Paris Depose 21 teclas",
+    "preco": {
+      "preco": [
+        {
+          "valor": "3000",
+          "data": "2021-10-12T13:01:52.226Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-selmer-paris-depose-21-teclas-906300663",
     "keyword": [
       "clarinete"
     ]

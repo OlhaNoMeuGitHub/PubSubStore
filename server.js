@@ -8,6 +8,6 @@ const urlSouB = require("./SouBUrl.json");
 const urlOLX = require("./OlxURL.json");
 const urlKabum = require("./DataBaseFiles/urls/URLKabum.json");
 
-scrapSoub.startSoub(prodsAtualSouB,"oldProducts","newProducts",urlSouB);
-scrapOLX.startOLX(prodsAtualOLX,"prodsOlxOld","prodsOlxNew",urlOLX);
+// scrapSoub.startSoub(prodsAtualSouB,"oldProducts","newProducts",urlSouB);
+// scrapOLX.startOLX(prodsAtualOLX,"prodsOlxOld","prodsOlxNew",urlOLX);
 scrapKabum.startKabum(prodsAtualKabum,"DataBaseFiles/old/oldProdsKabum","DataBaseFiles/new/NewProdsKabum",urlKabum)
