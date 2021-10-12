@@ -1,8 +1,15 @@
 [
   {
-    "id": "Smartphone Samsung Galaxy J1 Duos Dual Chip Desbloqueado Tim Android 4.4 Tela 4.3\" 4GB 4G Wi-Fi Câmera 5MP - Preto",
-    "nome": "Smartphone Samsung Galaxy J1 Duos Dual Chip Desbloqueado Tim Android 4.4 Tela 4.3\" 4GB 4G Wi-Fi Camera 5MP - Preto",
-    "preco": "546,74",
+    "id": "Forno Elétrico Britânia BFE 10 Litros Vermelho",
+    "nome": "Forno Eletrico Britania BFE 10 Litros Vermelho",
+    "preco": {
+      "preco": [
+        {
+          "valor": "96,33",
+          "data": "2021-10-10T16:05:02.582Z"
+        }
+      ]
+    },
     "tipo": "usado",
     "url": "",
     "keyword": [
@@ -10,9 +17,16 @@
     ]
   },
   {
-    "id": "Smartphone Moto G 4 Plus Dual Chip Android 6.0 Tela 5.5'' 32GB Câmera 16MP - Branco",
-    "nome": "Smartphone Moto G 4 Plus Dual Chip Android 6.0 Tela 5.5'' 32GB Camera 16MP - Branco",
-    "preco": "449,99",
+    "id": "PEQUENAS AVARIAS: Sanduicheira Britânia Crome Inox 750W - 110V",
+    "nome": "PEQUENAS AVARIAS: Sanduicheira Britania Crome Inox 750W - 110V",
+    "preco": {
+      "preco": [
+        {
+          "valor": "55,99",
+          "data": "2021-10-10T16:05:02.582Z"
+        }
+      ]
+    },
     "tipo": "usado",
     "url": "",
     "keyword": [
@@ -20,9 +34,16 @@
     ]
   },
   {
-    "id": "Smartphone Moto G 4 Plus Dual Chip Android 6.0 Tela 5.5'' 32GB Câmera 16MP - Preto",
-    "nome": "Smartphone Moto G 4 Plus Dual Chip Android 6.0 Tela 5.5'' 32GB Camera 16MP - Preto",
-    "preco": "449,99",
+    "id": "Escova Rotativa Philco Ceramic Spin Íon Brush Pec05v - 1100W",
+    "nome": "Escova Rotativa Philco Ceramic Spin Ion Brush Pec05v - 1100W",
+    "preco": {
+      "preco": [
+        {
+          "valor": "123,92",
+          "data": "2021-10-10T16:05:02.582Z"
+        }
+      ]
+    },
     "tipo": "usado",
     "url": "",
     "keyword": [
@@ -30,9 +51,16 @@
     ]
   },
   {
-    "id": "Smartphone Sony G8341 Xperia Xz1 Single Chip Android Tela 5.2\" Octa-core 64GB 4G Câmera 13MP - Preto",
-    "nome": "Smartphone Sony G8341 Xperia Xz1 Single Chip Android Tela 5.2\" Octa-core 64GB 4G Camera 13MP - Preto",
-    "preco": "2.099,99",
+    "id": "Batedeira Planetária Arno Deluxe SX82 8 Velocidades Preta",
+    "nome": "Batedeira Planetaria Arno Deluxe SX82 8 Velocidades Preta",
+    "preco": {
+      "preco": [
+        {
+          "valor": "226,79",
+          "data": "2021-10-10T16:05:02.582Z"
+        }
+      ]
+    },
     "tipo": "usado",
     "url": "",
     "keyword": [
@@ -40,9 +68,16 @@
     ]
   },
   {
-    "id": "Smartphone Samsung Galaxy A80 128GB 8GB Dual Chip Android 9.0 Tela 6,7\" Octa-Core 4G Câmera 48MP + 5MP - Preto",
-    "nome": "Smartphone Samsung Galaxy A80 128GB 8GB Dual Chip Android 9.0 Tela 6,7\" Octa-Core 4G Camera 48MP + 5MP - Preto",
-    "preco": "1.999,99",
+    "id": "Multiprocessador com Liquidificador 1,5L + Espremedor de frutas + 1 Batedor de massa pesada + 1 Emulsificador Arno Multichef 7 em 1 Preto - 700W",
+    "nome": "Multiprocessador com Liquidificador 1,5L + Espremedor de frutas + 1 Batedor de massa pesada + 1 Emulsificador Arno Multichef 7 em 1 Preto - 700W",
+    "preco": {
+      "preco": [
+        {
+          "valor": "254,99",
+          "data": "2021-10-10T16:05:02.582Z"
+        }
+      ]
+    },
     "tipo": "usado",
     "url": "",
     "keyword": [
@@ -50,9 +85,16 @@
     ]
   },
   {
-    "id": "Console Xbox Series S 500gb SSD",
-    "nome": "Console Xbox Series S 500gb SSD",
-    "preco": "2.224,99",
+    "id": "Patins Infantil com kit Proteção 28-31 Rosa - brink+",
+    "nome": "Patins Infantil com kit Protecao 28-31 Rosa - brink+",
+    "preco": {
+      "preco": [
+        {
+          "valor": "128,79",
+          "data": "2021-10-10T16:05:02.582Z"
+        }
+      ]
+    },
     "tipo": "usado",
     "url": "",
     "keyword": [
@@ -60,9 +102,16 @@
     ]
   },
   {
-    "id": "Smartphone Samsung Galaxy Z Flip Dual Chip Android 10 Tela 6.7\" Octa-Core 156GB 4G Câmera Dupla 12MP + 13MP - Preto",
-    "nome": "Smartphone Samsung Galaxy Z Flip Dual Chip Android 10 Tela 6.7\" Octa-Core 156GB 4G Camera Dupla 12MP + 13MP - Preto",
-    "preco": "4.699,99",
+    "id": "Conjunto de Panelas Tramontina Paris Aluminio 7 Peças Grafite",
+    "nome": "Conjunto de Panelas Tramontina Paris Aluminio 7 Pecas Grafite",
+    "preco": {
+      "preco": [
+        {
+          "valor": "234,99",
+          "data": "2021-10-10T16:05:02.582Z"
+        }
+      ]
+    },
     "tipo": "usado",
     "url": "",
     "keyword": [
@@ -70,9 +119,16 @@
     ]
   },
   {
-    "id": "Monitor Cardíaco TomTom Runner Cardio com GPS Preto",
-    "nome": "Monitor Cardiaco TomTom Runner Cardio com GPS Preto",
-    "preco": "1.115,99",
+    "id": "Ferro a Vapor Arno Ultragliss 41 FU41",
+    "nome": "Ferro a Vapor Arno Ultragliss 41 FU41",
+    "preco": {
+      "preco": [
+        {
+          "valor": "78,39",
+          "data": "2021-10-10T16:05:02.583Z"
+        }
+      ]
+    },
     "tipo": "usado",
     "url": "",
     "keyword": [
@@ -80,9 +136,16 @@
     ]
   },
   {
-    "id": "Forno Elétrico Philco Pfe38p 38l Preto 1500W",
-    "nome": "Forno Eletrico Philco Pfe38p 38l Preto 1500W",
-    "preco": "223,99",
+    "id": "Mixer Britânia Mixer e Triturador de Alimentos 2 Preto 200W 2 Velocidades 1 Batedor 1 Mixer com Recipiente e Copo - 127V",
+    "nome": "Mixer Britania Mixer e Triturador de Alimentos 2 Preto 200W 2 Velocidades 1 Batedor 1 Mixer com Recipiente e Copo - 127V",
+    "preco": {
+      "preco": [
+        {
+          "valor": "106,24",
+          "data": "2021-10-10T16:05:02.583Z"
+        }
+      ]
+    },
     "tipo": "usado",
     "url": "",
     "keyword": [
@@ -90,9 +153,16 @@
     ]
   },
   {
-    "id": "Chaleira Elétrica Britânia 1,8L BCH02PI - Prata",
-    "nome": "Chaleira Eletrica Britania 1,8L BCH02PI - Prata",
-    "preco": "69,99",
+    "id": "Liquidificador Philips Walita Problend 2,4L 6 Lâminas 5 Velocidades Ultraviolet - 700W",
+    "nome": "Liquidificador Philips Walita Problend 2,4L 6 Laminas 5 Velocidades Ultraviolet - 700W",
+    "preco": {
+      "preco": [
+        {
+          "valor": "136,79",
+          "data": "2021-10-10T16:05:02.583Z"
+        }
+      ]
+    },
     "tipo": "usado",
     "url": "",
     "keyword": [
@@ -100,9 +170,16 @@
     ]
   },
   {
-    "id": "Smartphone Motorola Moto G9 Play Dual Chip Desbloqueado Android 10 Tela 6.5\" 64GB 4G Câmera 48MP+2MP+2MP Qualcomm Snapdragon - Verde Turquesa",
-    "nome": "Smartphone Motorola Moto G9 Play Dual Chip Desbloqueado Android 10 Tela 6.5\" 64GB 4G Camera 48MP+2MP+2MP Qualcomm Snapdragon - Verde Turquesa",
-    "preco": "899,99",
+    "id": "Ferro de Passar à Vapor Philips Easyspeed Plus Rosa Ri2146/44 - 2300W",
+    "nome": "Ferro de Passar a Vapor Philips Easyspeed Plus Rosa Ri2146/44 - 2300W",
+    "preco": {
+      "preco": [
+        {
+          "valor": "114,74",
+          "data": "2021-10-10T16:05:02.583Z"
+        }
+      ]
+    },
     "tipo": "usado",
     "url": "",
     "keyword": [
@@ -110,9 +187,16 @@
     ]
   },
   {
-    "id": "Console Playstation 4 Hits 1TB Bundle 15 - Games Spider-Man: Goty + Horizon Zero Dawn: Complete Edition + Ratchet&Clank",
-    "nome": "Console Playstation 4 Hits 1TB Bundle 15 - Games Spider-Man: Goty + Horizon Zero Dawn: Complete Edition + Ratchet&Clank",
-    "preco": "2.199,99",
+    "id": "Cafeteira Elétrica Philco Ph41 Thermo 1L - Preta",
+    "nome": "Cafeteira Eletrica Philco Ph41 Thermo 1L - Preta",
+    "preco": {
+      "preco": [
+        {
+          "valor": "183,59",
+          "data": "2021-10-10T16:05:02.583Z"
+        }
+      ]
+    },
     "tipo": "usado",
     "url": "",
     "keyword": [
@@ -120,9 +204,16 @@
     ]
   },
   {
-    "id": "Smart TV LED 42'' Philco Full HD - PTV42G70N5CF co",
-    "nome": "Smart TV LED 42'' Philco Full HD - PTV42G70N5CF co",
-    "preco": "1.529,99",
+    "id": "Passadeira a Vapor RI514 Philips Walita Easytouch Plus Rosa - 1600W",
+    "nome": "Passadeira a Vapor RI514 Philips Walita Easytouch Plus Rosa - 1600W",
+    "preco": {
+      "preco": [
+        {
+          "valor": "243,13",
+          "data": "2021-10-10T16:05:02.583Z"
+        }
+      ]
+    },
     "tipo": "usado",
     "url": "",
     "keyword": [
@@ -130,9 +221,16 @@
     ]
   },
   {
-    "id": "Smartphone Motorola Moto G8 Power Dual Chip Desbloqueado Android Tela 6,4\" 64GB 4G Câmera Traseira 16MP + 8MP + 2MP Filmadora 4K Qualcomm Snapdragon 665 - Preto Titanium",
-    "nome": "Smartphone Motorola Moto G8 Power Dual Chip Desbloqueado Android Tela 6,4\" 64GB 4G Camera Traseira 16MP + 8MP + 2MP Filmadora 4K Qualcomm Snapdragon 665 - Preto Titanium",
-    "preco": "929,99",
+    "id": "Batedeira Arno Planetária Deluxe Branca SX80",
+    "nome": "Batedeira Arno Planetaria Deluxe Branca SX80",
+    "preco": {
+      "preco": [
+        {
+          "valor": "302,17",
+          "data": "2021-10-10T16:05:02.583Z"
+        }
+      ]
+    },
     "tipo": "usado",
     "url": "",
     "keyword": [
@@ -140,9 +238,152 @@
     ]
   },
   {
-    "id": "Smartphone Asus ZenFone Selfie Dual Chip Android Nougat 7.0 Tela 5.5 Qualcomm Snapdragon 16GB 4G Câmera 13MP + Frontal 13MP - Dourado",
-    "nome": "Smartphone Asus ZenFone Selfie Dual Chip Android Nougat 7.0 Tela 5.5 Qualcomm Snapdragon 16GB 4G Camera 13MP + Frontal 13MP - Dourado",
-    "preco": "719,99",
+    "id": "Aspirador de Pó e Água Philco PAS3000 com Filtro Hepa 1250W",
+    "nome": "Aspirador de Po e Agua Philco PAS3000 com Filtro Hepa 1250W",
+    "preco": {
+      "preco": [
+        {
+          "valor": "123,47",
+          "data": "2021-10-10T16:05:02.583Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Liquidificador Philips Walita Problend Branco 2136/0 - 2L e 5 Velocidades - 800W - 127V",
+    "nome": "Liquidificador Philips Walita Problend Branco 2136/0 - 2L e 5 Velocidades - 800W - 127V",
+    "preco": {
+      "preco": [
+        {
+          "valor": "135,99",
+          "data": "2021-10-10T16:05:02.583Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Vaporizador Higienizador Britânia Express 1000W Amarelo",
+    "nome": "Vaporizador Higienizador Britania Express 1000W Amarelo",
+    "preco": {
+      "preco": [
+        {
+          "valor": "115,19",
+          "data": "2021-10-10T16:05:02.583Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Liquidificador Arno Power Max 700 Limpa Fácil",
+    "nome": "Liquidificador Arno Power Max 700 Limpa Facil",
+    "preco": {
+      "preco": [
+        {
+          "valor": "110,87",
+          "data": "2021-10-10T16:05:02.583Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Secador de Cabelo Philco PH3700 Golden Star - 2000W",
+    "nome": "Secador de Cabelo Philco PH3700 Golden Star - 2000W",
+    "preco": {
+      "preco": [
+        {
+          "valor": "96,89",
+          "data": "2021-10-10T16:05:02.584Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Liquidificador Philco PLQ1412V 3L 12 velocidades + Pulsar/Autolimpeza Vermelho - 1200W",
+    "nome": "Liquidificador Philco PLQ1412V 3L 12 velocidades + Pulsar/Autolimpeza Vermelho - 1200W",
+    "preco": {
+      "preco": [
+        {
+          "valor": "79,33",
+          "data": "2021-10-10T16:05:02.584Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Faqueiro Inox 24 Peças Malibu - Tramontina",
+    "nome": "Faqueiro Inox 24 Pecas Malibu - Tramontina",
+    "preco": {
+      "preco": [
+        {
+          "valor": "41,99",
+          "data": "2021-10-10T16:05:02.584Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Sanduicheira e Grill Britânia Press Inox - Preto",
+    "nome": "Sanduicheira e Grill Britania Press Inox - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "97,92",
+          "data": "2021-10-10T16:05:02.584Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Geladeira / Refrigerador Electrolux Defrost Cycle DC35A 2 Portas 207 Litros Branco",
+    "nome": "Geladeira / Refrigerador Electrolux Defrost Cycle DC35A 2 Portas 207 Litros Branco",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1.255,99",
+          "data": "2021-10-10T16:05:02.584Z"
+        }
+      ]
+    },
     "tipo": "usado",
     "url": "",
     "keyword": [

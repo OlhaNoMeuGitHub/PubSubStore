@@ -18,9 +18,9 @@ function filtra(arr,prodold) {
         (v2) =>
           v1.nome == v2.nome &&
           v1.url == v2.url &&
-          (isNaN(v1.preco.valorAtual) || isNaN(v2.preco.valorAtual)
+          ((isNaN(v1.preco.valorAtual) || isNaN(v2.preco.valorAtual) || v2.preco.valorAtual == "")
             ? true
-            : parseFloat(v1.preco.valorAtual) >= parseFloat(v2.preco.valorAtual))
+            : parseFloat(v1.preco.valorAtual) == parseFloat(v2.preco.valorAtual))
       ) &&
       v1.keyword.reduce((acc, cv, indice, array) => {
         return acc
@@ -66,9 +66,9 @@ function ExecutafluxoDeTratamentoPersistencia(arrProducts,OldProds,fileNameOld,F
     (e) => new ProdutoOLX(e.nome, e.preco, e.tipo, e.url, e.keyword)
       );
   let produtosfiltrados = filtra(arrProducts,OldProds);
-  let produtosAntigosAtualizados = ProdutoOLX.atualizaProdsOld(OldProds,produtosfiltrados);
-  ProdutoOLX.salvaCSV(produtosAntigosAtualizados, fileNameOld);
-  ProdutoOLX.salvaCSV(produtosfiltrados, FileNameNew);
+  let {prodOldLocalAtualiazado, prodNewLocalAtualiazado} = ProdutoOLX.atualizaProds(OldProds,produtosfiltrados);
+  ProdutoOLX.salvaCSV(prodOldLocalAtualiazado, fileNameOld);
+  ProdutoOLX.salvaCSV(prodNewLocalAtualiazado, FileNameNew);
 
 }
 

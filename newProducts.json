@@ -1,10 +1,14 @@
 [
   {
-    "id": "Lavadora de Roupas Electrolux 8,5Kg LES09 Branca Essencial Care - 110v",
-    "nome": "Lavadora de Roupas Electrolux 8,5Kg LES09 Branca Essencial Care - 110v",
+    "id": "Ferro a Vapor Arno Ultragliss 41 FU41",
+    "nome": "Ferro a Vapor Arno Ultragliss 41 FU41",
     "preco": {
-      "valor": "860,99",
-      "data": "2021-10-09T20:35:52.062Z"
+      "preco": [
+        {
+          "valor": "97,99",
+          "data": "2021-10-11T19:51:57.839Z"
+        }
+      ]
     },
     "tipo": "usado",
     "url": "",
@@ -13,11 +17,15 @@
     ]
   },
   {
-    "id": "Processador de Alimentos 3 em 1 Philips Viva RI7632 650W",
-    "nome": "Processador de Alimentos 3 em 1 Philips Viva RI7632 650W",
+    "id": "Aparelho de Jantar 20 Peças Cerâmica Domino Branco/Vermelho - La Cuisine",
+    "nome": "Aparelho de Jantar 20 Pecas Ceramica Domino Branco/Vermelho - La Cuisine",
     "preco": {
-      "valor": "189,99",
-      "data": "2021-10-09T20:35:52.062Z"
+      "preco": [
+        {
+          "valor": "117,59",
+          "data": "2021-10-11T19:51:57.839Z"
+        }
+      ]
     },
     "tipo": "usado",
     "url": "",
@@ -26,11 +34,15 @@
     ]
   },
   {
-    "id": "PEQUENAS AVARIAS: Sanduicheira Britânia Crome Inox 750W - 110V",
-    "nome": "PEQUENAS AVARIAS: Sanduicheira Britania Crome Inox 750W - 110V",
+    "id": "USADO : Liquidificador Philips Walita Duravita Ri2131 2,4L Preto - 1000w",
+    "nome": "USADO : Liquidificador Philips Walita Duravita Ri2131 2,4L Preto - 1000w",
     "preco": {
-      "valor": "69,99",
-      "data": "2021-10-09T20:35:52.062Z"
+      "preco": [
+        {
+          "valor": "163,79",
+          "data": "2021-10-11T19:51:57.839Z"
+        }
+      ]
     },
     "tipo": "usado",
     "url": "",
@@ -39,11 +51,15 @@
     ]
   },
   {
-    "id": "Jogo de Panelas Antiaderente Felicitá 3 Peças Cobre - La Cuisine",
-    "nome": "Jogo de Panelas Antiaderente Felicita 3 Pecas Cobre - La Cuisine",
+    "id": "Batedeira Arno Planetária Deluxe Branca SX80",
+    "nome": "Batedeira Arno Planetaria Deluxe Branca SX80",
     "preco": {
-      "valor": "311,99",
-      "data": "2021-10-09T20:35:52.062Z"
+      "preco": [
+        {
+          "valor": "355,49",
+          "data": "2021-10-11T19:51:57.839Z"
+        }
+      ]
     },
     "tipo": "usado",
     "url": "",
@@ -52,11 +68,15 @@
     ]
   },
   {
-    "id": "Fogão de Piso Continental 4 Bocas FC4CB Branco Automático com Mesa Compartimentada - Bivolt",
-    "nome": "Fogao de Piso Continental 4 Bocas FC4CB Branco Automatico com Mesa Compartimentada - Bivolt",
+    "id": "Passadeira a Vapor RI514 Philips Walita Easytouch Plus Rosa - 1600W",
+    "nome": "Passadeira a Vapor RI514 Philips Walita Easytouch Plus Rosa - 1600W",
     "preco": {
-      "valor": "587,99",
-      "data": "2021-10-09T20:35:52.062Z"
+      "preco": [
+        {
+          "valor": "303,91",
+          "data": "2021-10-11T19:51:57.839Z"
+        }
+      ]
     },
     "tipo": "usado",
     "url": "",
@@ -65,11 +85,15 @@
     ]
   },
   {
-    "id": "Multiprocessador com Liquidificador 1,5L + Espremedor de frutas + 1 Batedor de massa pesada + 1 Emulsificador Arno Multichef 7 em 1 Preto - 700W",
-    "nome": "Multiprocessador com Liquidificador 1,5L + Espremedor de frutas + 1 Batedor de massa pesada + 1 Emulsificador Arno Multichef 7 em 1 Preto - 700W",
+    "id": "Frigideira sem tampa Power Taste - 24 cm - La Cuisine",
+    "nome": "Frigideira sem tampa Power Taste - 24 cm - La Cuisine",
     "preco": {
-      "valor": "299,99",
-      "data": "2021-10-09T20:35:52.062Z"
+      "preco": [
+        {
+          "valor": "73,49",
+          "data": "2021-10-11T19:51:57.839Z"
+        }
+      ]
     },
     "tipo": "usado",
     "url": "",
@@ -78,11 +102,15 @@
     ]
   },
   {
-    "id": "Árvore de Natal Spruce Monroe Verde 2,1m, 800 Galhos, Base Metálica - Orb Christmas",
-    "nome": "Arvore de Natal Spruce Monroe Verde 2,1m, 800 Galhos, Base Metalica - Orb Christmas",
+    "id": "Liquidificador Philips Walita Problend Branco 2136/0 - 2L e 5 Velocidades - 800W - 127V",
+    "nome": "Liquidificador Philips Walita Problend Branco 2136/0 - 2L e 5 Velocidades - 800W - 127V",
     "preco": {
-      "valor": "348,07",
-      "data": "2021-10-09T20:35:52.062Z"
+      "preco": [
+        {
+          "valor": "159,99",
+          "data": "2021-10-11T19:51:57.839Z"
+        }
+      ]
     },
     "tipo": "usado",
     "url": "",
@@ -91,11 +119,15 @@
     ]
   },
   {
-    "id": "Bicicleta Ergométrica Polimet BP-880 - Preta com 6 funções",
-    "nome": "Bicicleta Ergometrica Polimet BP-880 - Preta com 6 funcoes",
+    "id": "Galaxy Fit E - Amarelo",
+    "nome": "Galaxy Fit E - Amarelo",
     "preco": {
-      "valor": "399,99",
-      "data": "2021-10-09T20:35:52.063Z"
+      "preco": [
+        {
+          "valor": "162,00",
+          "data": "2021-10-11T19:51:57.839Z"
+        }
+      ]
     },
     "tipo": "usado",
     "url": "",
@@ -104,11 +136,15 @@
     ]
   },
   {
-    "id": "Cafeteira Elétrica Philco Ph41 Thermo 1L - Preta",
-    "nome": "Cafeteira Eletrica Philco Ph41 Thermo 1L - Preta",
+    "id": "Liquidificador Philips Walita RI2087/90 2 Litros 8 Velocidades com Jarra DuraVita Preto 600W",
+    "nome": "Liquidificador Philips Walita RI2087/90 2 Litros 8 Velocidades com Jarra DuraVita Preto 600W",
     "preco": {
-      "valor": "215,99",
-      "data": "2021-10-09T20:35:52.063Z"
+      "preco": [
+        {
+          "valor": "134,99",
+          "data": "2021-10-11T19:51:57.839Z"
+        }
+      ]
     },
     "tipo": "usado",
     "url": "",
@@ -117,11 +153,15 @@
     ]
   },
   {
-    "id": "Aspirador de Pó Philco PAS4000v Power Clean 2000W",
-    "nome": "Aspirador de Po Philco PAS4000v Power Clean 2000W",
+    "id": "Multiprocessador com Liquidificador Philco PMP1600v 2 Velocidades + Pulsar Vermelho",
+    "nome": "Multiprocessador com Liquidificador Philco PMP1600v 2 Velocidades + Pulsar Vermelho",
     "preco": {
-      "valor": "117,59",
-      "data": "2021-10-09T20:35:52.063Z"
+      "preco": [
+        {
+          "valor": "265,99",
+          "data": "2021-10-11T19:51:57.840Z"
+        }
+      ]
     },
     "tipo": "usado",
     "url": "",
@@ -130,115 +170,15 @@
     ]
   },
   {
-    "id": "Smartphone LG OpTimus L7 II Desbloqueado Android 4.1 Tela 4.3\" 4GB 3G Wi-Fi Câmera 8MP - Branco",
-    "nome": "Smartphone LG OpTimus L7 II Desbloqueado Android 4.1 Tela 4.3\" 4GB 3G Wi-Fi Camera 8MP - Branco",
+    "id": "Liquidificador Philips Daily Turbo Ri2113/90 com Jarra Duravita 700w 5 Velocidades",
+    "nome": "Liquidificador Philips Daily Turbo Ri2113/90 com Jarra Duravita 700w 5 Velocidades",
     "preco": {
-      "valor": "427,49",
-      "data": "2021-10-09T20:35:52.063Z"
-    },
-    "tipo": "usado",
-    "url": "",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "Forno Elétrico Britânia BFE 10 Litros Vermelho",
-    "nome": "Forno Eletrico Britania BFE 10 Litros Vermelho",
-    "preco": {
-      "valor": "107,03",
-      "data": "2021-10-09T20:35:52.063Z"
-    },
-    "tipo": "usado",
-    "url": "",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "Geladeira/Refrigerador Continental TC56 Branca 472L",
-    "nome": "Geladeira/Refrigerador Continental TC56 Branca 472L",
-    "preco": {
-      "valor": "2.316,59",
-      "data": "2021-10-09T20:35:52.063Z"
-    },
-    "tipo": "usado",
-    "url": "",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "Smartphone Samsung Galaxy A01 Android 10.0 Tela 5.7 Octa-Core 32GB 4G Câmera 13MP - Vermelho",
-    "nome": "Smartphone Samsung Galaxy A01 Android 10.0 Tela 5.7 Octa-Core 32GB 4G Camera 13MP - Vermelho",
-    "preco": {
-      "valor": "503,99",
-      "data": "2021-10-09T20:35:52.063Z"
-    },
-    "tipo": "usado",
-    "url": "",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "Geladeira/Refrigerador Electrolux Frost Free 431 Litros Inverter Top Freezer - IF55 Branco",
-    "nome": "Geladeira/Refrigerador Electrolux Frost Free 431 Litros Inverter Top Freezer - IF55 Branco",
-    "preco": {
-      "valor": "2.308,49",
-      "data": "2021-10-09T20:35:52.063Z"
-    },
-    "tipo": "usado",
-    "url": "",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "Geladeira / Refrigerador Panasonic Duplex NR-BT55PV2XA Inverter Frost Free 483L Aço Escovado",
-    "nome": "Geladeira / Refrigerador Panasonic Duplex NR-BT55PV2XA Inverter Frost Free 483L Aco Escovado",
-    "preco": {
-      "valor": "2.879,99",
-      "data": "2021-10-09T20:35:52.063Z"
-    },
-    "tipo": "usado",
-    "url": "",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "Multiprocessador com Liquidificador 1,5L + Espremedor de frutas + 1 Batedor de massa pesada + 1 Emulsificador Arno Multichef 7 em 1 Preto - 700W",
-    "nome": "Multiprocessador com Liquidificador 1,5L + Espremedor de frutas + 1 Batedor de massa pesada + 1 Emulsificador Arno Multichef 7 em 1 Preto - 700W",
-    "preco": {
-      "valor": "299,99",
-      "data": "2021-10-09T20:35:52.063Z"
-    },
-    "tipo": "usado",
-    "url": "",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "Refrigerador Panasonic Nr-bb53gv3ba 110v 425l Black Glass",
-    "nome": "Refrigerador Panasonic Nr-bb53gv3ba 110v 425l Black Glass",
-    "preco": {
-      "valor": "3.387,99",
-      "data": "2021-10-09T20:35:52.063Z"
-    },
-    "tipo": "usado",
-    "url": "",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "Panela de Pressão Tramontina Vancouver 6L Alumínio - Vermelho",
-    "nome": "Panela de Pressao Tramontina Vancouver 6L Aluminio - Vermelho",
-    "preco": {
-      "valor": "149,99",
-      "data": "2021-10-09T20:35:52.063Z"
+      "preco": [
+        {
+          "valor": "129,59",
+          "data": "2021-10-11T19:51:57.840Z"
+        }
+      ]
     },
     "tipo": "usado",
     "url": "",

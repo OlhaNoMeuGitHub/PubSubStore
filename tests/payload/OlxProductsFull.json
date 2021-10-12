@@ -1271,5 +1271,24 @@
       "keyword": [
         "clarinete"
       ]
+    },
+    {
+      "id": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-a-venda-com-2-dormitorios-em-jacana-sao-paulo-cod-reo176495-839832729",
+      "nome": "Apartamento a venda com 2 dormitorios em Jacana, Sao paulo cod:REO176495",
+      "preco": {
+        "preco": [
+          {
+            "valor": "300.000",
+            "data": "2021-10-11T02:35:32.670Z"
+          }
+        ]
+      },
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-a-venda-com-2-dormitorios-em-jacana-sao-paulo-cod-reo176495-839832729",
+      "keyword": [
+        "casa",
+        "apartamento",
+        "chacara"
+      ]
     }
+
 ]

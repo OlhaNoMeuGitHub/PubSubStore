@@ -41,12 +41,12 @@ function ExecutafluxoDeTratamentoPersistencia(
   arrProducts = arrProducts.map((e) => new ProdutoSouB(e.nome, e.preco));
   OldProds = OldProds.map((e) => new ProdutoSouB(e.nome, e.preco));
   let produtosfiltrados = filtra(arrProducts, OldProds);
-  let produtosAntigosAtualizados = ProdutoSouB.atualizaProdsOld(
+  let {prodOldLocalAtualiazado, prodNewLocalAtualiazado} = ProdutoSouB.atualizaProds(
     OldProds,
     produtosfiltrados
   );
-  ProdutoSouB.salvaCSV(produtosAntigosAtualizados, fileNameOld);
-  ProdutoSouB.salvaCSV(produtosfiltrados, FileNameNew);
+  ProdutoSouB.salvaCSV(prodOldLocalAtualiazado, fileNameOld);
+  ProdutoSouB.salvaCSV(prodNewLocalAtualiazado, FileNameNew);
 }
 
 const getdataFuncSB = async function getDataSB(page) {
@@ -78,7 +78,7 @@ function filtra(arr, prodold) {
     return !prodold.find(
       (v2) =>
         v1.nome == v2.nome &&
-        parseFloat(v1.preco.valorAtual) >= parseFloat(v2.preco.valorAtual)
+        parseFloat(v1.preco.valorAtual) == parseFloat(v2.preco.valorAtual)
     );
   });
 }

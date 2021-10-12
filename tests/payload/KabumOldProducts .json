@@ -1,0 +1,34 @@
+[
+  {
+      "id": "Processador Intel Core i5-10400, Cache 12MB, 2.9GHz (4.3GHz Max Turbo), LGA 1200 - BX8070110400",
+      "nome": "Processador Intel Core i5-10400, Cache 12MB, 2.9GHz (4.3GHz Max Turbo), LGA 1200 - BX8070110400",
+      "preco": {
+        "preco": [
+          {
+            "valor": " 1.219,90",
+            "data": "2021-10-10T23:21:34.438Z"
+          }
+        ]
+      },
+      "url": "https://www.kabum.com.br/produto/112990/processador-intel-core-i5-10400-cache-12mb-2-9ghz-4-3ghz-max-turbo-lga-1200-bx8070110400",
+      "keyword": [
+        "processador"
+      ]
+    },
+      {
+          "id": "Processador Intel Core i3-9100, Cache 6MB, 3.6 GHz, Box LGA 1151 - BX80684I39100",
+          "nome": "Processador Intel Core i3-9100, Cache 6MB, 3.6 GHz, Box LGA 1151 - BX80684I39100",
+          "preco": {
+            "preco": [
+              {
+                "valor": " 1.000,00",
+                "data": "2021-10-10T23:10:39.231Z"
+              }
+            ]
+          },
+          "url": "https://www.kabum.com.br/produto/150239/processador-intel-core-i3-9100-cache-6mb-3-6-ghz-box-lga-1151-bx80684i39100",
+          "keyword": [
+            "processador"
+          ]
+        }
+]

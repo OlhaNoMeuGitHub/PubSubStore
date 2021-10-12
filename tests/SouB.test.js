@@ -14,11 +14,13 @@ describe("atualizaCSV", () => {
       (e) => new ProdutoSouB(e.nome, e.preco)
     );
 
-    OldProds = ProdutoSouB.atualizaProdsOld(OldProds, NewProds);
+    let {prodOldLocalAtualiazado, prodNewLocalAtualiazado} = ProdutoSouB.atualizaProds(OldProds, NewProds);
 
-    expect(OldProds[3].preco.valorAtual).toBe("2.559,99");
-    expect(OldProds[3].preco.valorAtual).not.toBe("2.559,90");
-    expect(OldProds[6].preco.valorAtual).toBe("71,99");
+    expect(prodOldLocalAtualiazado[3].preco.valorAtual).toBe("2559.99");
+    expect(prodOldLocalAtualiazado[3].preco.valorAtual).not.toBe("3559.99");
+    expect(prodOldLocalAtualiazado[3].preco.preco.length).toBe(2)
+    expect(prodOldLocalAtualiazado[6].preco.valorAtual).toBe("71.99");
+    expect(prodOldLocalAtualiazado[6].preco.preco.length).toBe(1)
   });
 })
 
@@ -34,7 +36,7 @@ describe("Valida filtros", () => {
 
     produtosfiltrados = scrapSoub.filtra(NewProds,OldProds);
 
-    expect(NewProds[0].preco.valorAtual).toBe("2.559,99");
+    expect(NewProds[0].preco.valorAtual).toBe("2559.99");
   });
 
 });
@@ -66,8 +68,8 @@ describe("Valida fluxo de SalvarCSV", () => {
       (e) => new ProdutoSouB(e.nome, e.preco)
     );;
 
-    expect(souBNewProdsOutPut[0].preco.valorAtual).toBe("2.559,99");
-    expect(souBOldProdsOutPut[0].preco.valorAtual).toBe("167,99");
+    expect(souBNewProdsOutPut[0].preco.valorAtual).toBe("2559.99");
+    expect(souBOldProdsOutPut[0].preco.valorAtual).toBe("167.99");
 
   });
 
@@ -106,11 +108,11 @@ describe("Valida fluxo funcionais", () => {
       (e) => new ProdutoSouB(e.nome, e.preco)
     );
 
-    expect(souBNewProdsOutPut[0].preco.valorAtual).toBe("2.559,99");
+    expect(souBNewProdsOutPut[0].preco.valorAtual).toBe("2559.99");
     expect(souBNewProdsOutPut[2].nome).toBe("Teclado Gamer Dk13 com Iluminacao de Led Abnt2 - DPX");
-    expect(souBOldProdsOutPut[0].preco.valorAtual).toBe("167,99");
-    expect(souBOldProdsOutPut[3].preco.valorAtual).toBe("2.559,99");
-    expect(souBOldProdsOutPut[3].preco.valorAtual).not.toBe("2.559,90");
+    expect(souBOldProdsOutPut[0].preco.valorAtual).toBe("167.99");
+    expect(souBOldProdsOutPut[3].preco.valorAtual).toBe("2559.99");
+    expect(souBOldProdsOutPut[3].preco.valorAtual).not.toBe("2559.90");
 
   });
 
