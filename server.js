@@ -24,5 +24,5 @@ const URLFacebook = require("./DataBaseFiles/urls/URLFacebook.json");
 scrapSoub.startSoub(prodsAtualSouB,"oldProducts","newProducts",urlSouB);
 scrapOLX.startOLX(prodsAtualOLX,"prodsOlxOld","prodsOlxNew",urlOLX);
 scrapKabum.startKabum(prodsAtualKabum,"DataBaseFiles/old/oldProdsKabum","DataBaseFiles/new/NewProdsKabum",urlKabum)
-scrapTeraByte.startTeraByte(prodsAtulTerabyte,"DataBaseFiles/old/oldProdsTeraByte","DataBaseFiles/new/NewProdsTeraByte",urlTeraByte)
+scrapTeraByte.startTeraByte(prodsAtualTerabyte,"DataBaseFiles/old/oldProdsTeraByte","DataBaseFiles/new/NewProdsTeraByte",urlTeraByte)
 scrapFacebook.startFacebook(prodsAtualFacebook,"DataBaseFiles/old/oldProdsFacebook","DataBaseFiles/new/NewProdsFacebook",URLFacebook)
