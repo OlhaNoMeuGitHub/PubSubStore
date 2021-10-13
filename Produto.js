@@ -6,13 +6,13 @@ class Preco {
       if (arguments[0].hasOwnProperty("preco"))
         arguments[0] = arguments[0].preco;
         
-      this.valor = isNaN(arguments[0].valor)?arguments[0].valor.replace("R$ ", "").replace("R$", "").replace(" ","").replace(' ','').replace(".","").replace(",","."):arguments[0].valor;
+      this.valor = isNaN(arguments[0].valor)?arguments[0].valor.replace("R$ ", "").replace("R$", "").replace(" ","").replace(' ','').replace(".","").replace(",",".").replace(/(?!,)[^0-9.]/g, ""):arguments[0].valor;
       this.data =
         typeof arguments[0].data !== "undefined"
           ? arguments[0].data
           : new Date();
     } else {
-      this.valor = isNaN(arguments[0])?arguments[0].replace("R$ ", "").replace("R$", "").replace(" ","").replace(' ','').replace(".","").replace(",","."):arguments[0];
+      this.valor = isNaN(arguments[0])?arguments[0].replace("R$ ", "").replace("R$", "").replace(" ","").replace(' ','').replace(".","").replace(",",".").replace(/(?!,)[^0-9.]/g, ""):arguments[0];
       this.data = new Date();
     }
   }
@@ -79,9 +79,8 @@ class Produto {
       let foundIndex = prodOld.findIndex((x) => x.id == element.id);
       if (foundIndex !== -1) {
         let valorElement = element.preco.valorAtual ;
-        if (valorElement >= prodOldLocalAtualiazado[foundIndex].preco.valorAtual)
-        prodNewLocalAtualiazado.splice(index, 1);
-          prodOldLocalAtualiazado[foundIndex].preco.atualizaPreco(valorElement);
+        if (valorElement >= prodOldLocalAtualiazado[foundIndex].preco.valorAtual) {prodNewLocalAtualiazado.splice(index, 1)};
+        prodOldLocalAtualiazado[foundIndex].preco.atualizaPreco(valorElement);
       } else {
         prodOldLocalAtualiazado.push(element);
       }
@@ -107,16 +106,19 @@ class Produto {
               ((isNaN(v1.preco.valorAtual) || isNaN(v2.preco.valorAtual) || v2.preco.valorAtual == "")
                 ? true
                 : parseFloat(v1.preco.valorAtual) == parseFloat(v2.preco.valorAtual))
-          ) &&
-          v1.keyword.reduce((acc, cv, indice, array) => {
-            return acc
-              ? true
-              : !v1.nome.toLocaleLowerCase().search(cv.toLocaleLowerCase())
-              ? true
-              : false;
-          }, false)
+          ) && this.possuiKeyWord(v1.keyword,v1.nome)
+  
         );
       });
+  }
+
+  static possuiKeyWord(keywords, texto){
+    let result = keywords.reduce((acc, cv, indice, array) => {
+      return texto.toLocaleLowerCase().search(cv.toLocaleLowerCase()) != -1
+        ? true
+        : false;
+    }, false)
+    return result;
   }
 
   static ExecutafluxoDeTratamentoPersistencia(
@@ -147,7 +149,7 @@ class ProdutoSouB extends Produto {
       .replace("USADO - ", "")
       .replace("Usado: ", "")
       .replace("USADO: ", "");
-    let id = nome;
+    let id = nome.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
     super(id, nome, preco, tipo, url, keyword);
   }
 }

@@ -1,7 +1,7 @@
 const { Produto } = require("../../Produto");
 
 
-class ProdutoKabum extends Produto {
+class ProdutoTeraByte extends Produto {
     constructor(nome, preco, tipo, url, keyword) {
       let id = nome.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
       super(id, nome, preco, tipo, url, keyword);
@@ -15,5 +15,5 @@ class ProdutoKabum extends Produto {
   
 
   module.exports = {
-    ProdutoKabum
+    ProdutoTeraByte
 }

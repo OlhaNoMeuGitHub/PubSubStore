@@ -1,0 +1,746 @@
+[
+  {
+    "id": "Processador Intel Core i5-10400, Cache 12MB, 2.9GHz (4.3GHz Max Turbo), LGA 1200 - BX8070110400",
+    "nome": "Processador Intel Core i5-10400, Cache 12MB, 2.9GHz (4.3GHz Max Turbo), LGA 1200 - BX8070110400",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1219.90",
+          "data": "2021-10-11T23:10:39.230Z"
+        }
+      ]
+    },
+    "url": "https://www.kabum.com.br/produto/112990/processador-intel-core-i5-10400-cache-12mb-2-9ghz-4-3ghz-max-turbo-lga-1200-bx8070110400",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I5 10400F 2.90GHZ (4.30GHZ TURBO), 10ª GERACAO, 6-CORES 12-THREADS, LGA 1200, O",
+    "nome": "PROCESSADOR INTEL CORE I5 10400F 2.90GHZ (4.30GHZ TURBO), 10ª GERACAO, 6-CORES 12-THREADS, LGA 1200, O",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1089.00",
+          "data": "2021-10-12T14:12:28.584Z"
+        },
+        {
+          "valor": "1099.00",
+          "data": "2021-10-12T14:11:43.723Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19365/processador-intel-core-i5-10400f-290ghz-430ghz-turbo-10-geracao-6-cores-12-threads-lga-1200-oem",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR AMD ATHLON 320GE 3.5GHZ, DUAL CORE 4MB AM4, COM VIDEO INTEGRADO, COM COOLER",
+    "nome": "PROCESSADOR AMD ATHLON 320GE 3.5GHZ, DUAL CORE 4MB AM4, COM VIDEO INTEGRADO, COM COOLER",
+    "preco": {
+      "preco": [
+        {
+          "valor": "379.00",
+          "data": "2021-10-12T14:11:43.723Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19012/processador-amd-athlon-320ge-35ghz-dual-core-4mb-am4-com-video-integrado-sem-caixa-yd32gec6fhmpk",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I3 9300 3.7GHZ (4.3GHZ TURBO), 9ª GERACAO, 4-CORE 4-THREAD, LGA 1151, BX80684I3",
+    "nome": "PROCESSADOR INTEL CORE I3 9300 3.7GHZ (4.3GHZ TURBO), 9ª GERACAO, 4-CORE 4-THREAD, LGA 1151, BX80684I3",
+    "preco": {
+      "preco": [
+        {
+          "valor": "879.00",
+          "data": "2021-10-12T14:11:43.723Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/18932/processador-intel-core-i3-9300-37ghz-43ghz-turbo-9-geracao-4-core-4-thread-lga-1151-bx80684i39300",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I5 10600KF 4.1GHZ (4.8GHZ TURBO), 10ª GERACAO, LGA 1200, BX8070110600KF",
+    "nome": "PROCESSADOR INTEL CORE I5 10600KF 4.1GHZ (4.8GHZ TURBO), 10ª GERACAO, LGA 1200, BX8070110600KF",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1189.00",
+          "data": "2021-10-12T14:11:43.723Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/18187/processador-intel-core-i5-10600kf-41ghz-48ghz-turbo-10-geracao-lga-1200-bx8070110600kf",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I3 10105F 3.7GHZ (4.4GHZ TURBO), 10ª GERACAO, 4-CORES 8-THREADS, LGA 1200, BX80",
+    "nome": "PROCESSADOR INTEL CORE I3 10105F 3.7GHZ (4.4GHZ TURBO), 10ª GERACAO, 4-CORES 8-THREADS, LGA 1200, BX80",
+    "preco": {
+      "preco": [
+        {
+          "valor": "599.00",
+          "data": "2021-10-12T14:11:43.723Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/17522/processador-intel-i3-10105f-37ghz-44ghz-turbo-10-geracao-4-cores-8-threads-lga-1200-bx8070110105f",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I9 9900 3.10GHZ (5.0GHZ TURBO), 9ª GERACAO, 8-CORE 16-THREAD, LGA 1151, BX80684",
+    "nome": "PROCESSADOR INTEL CORE I9 9900 3.10GHZ (5.0GHZ TURBO), 9ª GERACAO, 8-CORE 16-THREAD, LGA 1151, BX80684",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2389.00",
+          "data": "2021-10-12T14:11:43.723Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/16704/processador-intel-core-i9-9900-310ghz-50ghz-turbo-9-geracao-8-core-16-thread-lga-1151-bx80684i99900",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I3 10100F 3.60GHZ (4.30GHZ TURBO), 10ª GERACAO, 4-CORES 8-THREADS, LGA 1200, S/",
+    "nome": "PROCESSADOR INTEL CORE I3 10100F 3.60GHZ (4.30GHZ TURBO), 10ª GERACAO, 4-CORES 8-THREADS, LGA 1200, S/",
+    "preco": {
+      "preco": [
+        {
+          "valor": "579.00",
+          "data": "2021-10-12T14:11:43.723Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/16324/processador-intel-core-i3-10100f-360ghz-430ghz-turbo-10-geracao-4-cores-8-threads-lga-1200-s-video-bx8070110100f",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR AMD RYZEN 5 5600X 3.7GHZ (4.6GHZ TURBO), 6-CORES 12-THREADS, COOLER WRAITH STEALTH, AM4, 100-",
+    "nome": "PROCESSADOR AMD RYZEN 5 5600X 3.7GHZ (4.6GHZ TURBO), 6-CORES 12-THREADS, COOLER WRAITH STEALTH, AM4, 100-",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1799.90",
+          "data": "2021-10-12T14:11:43.723Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/15692/processador-amd-ryzen-5-5600x-37ghz-46ghz-turbo-6-cores-12-threads-cooler-wraith-stealth-am4",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I7 10700K, 3.80GHZ (5.10GHZ TURBO), 10ª GERACAO, 8-CORES 16-THREADS, LGA 1200,",
+    "nome": "PROCESSADOR INTEL CORE I7 10700K, 3.80GHZ (5.10GHZ TURBO), 10ª GERACAO, 8-CORES 16-THREADS, LGA 1200,",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2059.00",
+          "data": "2021-10-12T14:11:43.723Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/13724/processador-intel-core-i7-10700k-380ghz-470ghz-turbo-10-geracao-8-cores-16-threads-lga-1200-bx8070110700k",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I7 9700F 3.00GHZ (4.70GHZ TURBO), 9ª GERACAO, 8-CORE 8-THREAD, LGA 1151, BX8068",
+    "nome": "PROCESSADOR INTEL CORE I7 9700F 3.00GHZ (4.70GHZ TURBO), 9ª GERACAO, 8-CORE 8-THREAD, LGA 1151, BX8068",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1499.00",
+          "data": "2021-10-12T14:11:43.723Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/13216/processador-intel-core-i7-9700f-300ghz-470ghz-turbo-9-geracao-8-core-8-thread-lga-1151-bx80684i79700f",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR AMD ATHLON 3000G 3.5GHZ, 2-CORES, 4-THREADS, 4MB CACHE, AM4, COM VIDEO INTEGRADO, YD3000C6FH",
+    "nome": "PROCESSADOR AMD ATHLON 3000G 3.5GHZ, 2-CORES, 4-THREADS, 4MB CACHE, AM4, COM VIDEO INTEGRADO, YD3000C6FH",
+    "preco": {
+      "preco": [
+        {
+          "valor": "599.00",
+          "data": "2021-10-12T20:12:50.767Z"
+        },
+        {
+          "valor": "399.00",
+          "data": "2021-10-12T14:11:43.723Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/12553/processador-amd-athlon-3000g-35ghz-2-core-4-thread-4mb-cache-am4-yd3000c6fhbox",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I7 9700KF 3.60GHZ (4.90GHZ MAX TURBO), 9ª GERACAO, 8-CORE 8-THREAD, LGA 1151, B",
+    "nome": "PROCESSADOR INTEL CORE I7 9700KF 3.60GHZ (4.90GHZ MAX TURBO), 9ª GERACAO, 8-CORE 8-THREAD, LGA 1151, B",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1769.00",
+          "data": "2021-10-12T14:11:43.723Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/11749/processador-intel-core-i7-9700kf-360ghz-490ghz-max-turbo-9-geracao-8-core-8-thread-lga-1151-bx80684i79700kf",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR AMD RYZEN 5 5600G 3.9GHZ (4.4GHZ TURBO), 6-CORES 12-THREADS, COOLER WRAITH STEALTH, AM4, COM",
+    "nome": "PROCESSADOR AMD RYZEN 5 5600G 3.9GHZ (4.4GHZ TURBO), 6-CORES 12-THREADS, COOLER WRAITH STEALTH, AM4, COM",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1749.00",
+          "data": "2021-10-12T14:11:43.723Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/18971/processador-amd-ryzen-5-5600g-39ghz-44ghz-turbo-6-cores-12-threads-cooler-wraith-stealth-am4-com-video-integrado-100-100000252box",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I7 10700KF, 3.80GHZ (5.10GHZ TURBO), 10ª GERACAO, 8-CORES 16-THREADS, LGA 1200,",
+    "nome": "PROCESSADOR INTEL CORE I7 10700KF, 3.80GHZ (5.10GHZ TURBO), 10ª GERACAO, 8-CORES 16-THREADS, LGA 1200,",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1899.00",
+          "data": "2021-10-12T14:11:43.723Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/16463/processador-intel-core-i7-10700kf-380ghz-510ghz-turbo-10-geracao-8-cores-16-threads-lga-1200-svideo-bx8070110700kf",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR AMD RYZEN 7 5800X 3.8GHZ (4.7GHZ TURBO), 8-CORES 16-THREADS, AM4, SEM COOLER",
+    "nome": "PROCESSADOR AMD RYZEN 7 5800X 3.8GHZ (4.7GHZ TURBO), 8-CORES 16-THREADS, AM4, SEM COOLER",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2499.00",
+          "data": "2021-10-12T14:11:43.723Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/15695/processador-amd-ryzen-7-5800x-38ghz-47ghz-turbo-8-cores-16-threads-am4-sem-cooler",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I5-10600K 4.8GHZ 12MB, 10ª GERACAO, LGA 1200, BX8070110600K",
+    "nome": "PROCESSADOR INTEL CORE I5-10600K 4.8GHZ 12MB, 10ª GERACAO, LGA 1200, BX8070110600K",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1429.00",
+          "data": "2021-10-12T14:11:43.723Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/14468/processador-intel-core-i5-10600k-38ghz-12mb-10-geracao-lga-1200-bx8070110600k",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I7 9700K 3.60GHZ (4.90GHZ TURBO), 9ª GERACAO, 8-CORE 8-THREAD, LGA 1151, BX8068",
+    "nome": "PROCESSADOR INTEL CORE I7 9700K 3.60GHZ (4.90GHZ TURBO), 9ª GERACAO, 8-CORE 8-THREAD, LGA 1151, BX8068",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1879.00",
+          "data": "2021-10-12T14:11:43.723Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/9881/processador-intel-core-i7-9700k-360ghz-490-ghz-turbo-12mb-bx80684i79700k-9-geracao-coffee-lake-lga-1151",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR AMD RYZEN 7 5700G 3.8GHZ (4.6GHZ TURBO), 8-CORES 16-THREADS, COOLER WRAITH STEALTH, AM4, COM",
+    "nome": "PROCESSADOR AMD RYZEN 7 5700G 3.8GHZ (4.6GHZ TURBO), 8-CORES 16-THREADS, COOLER WRAITH STEALTH, AM4, COM",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2189.00",
+          "data": "2021-10-12T14:11:43.723Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/18973/processador-amd-ryzen-7-5700g-38ghz-46ghz-turbo-8-cores-16-threads-cooler-wraith-stealth-am4-com-video-integrado-100-100000263box",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I5 11600K 3.9GHZ (5.0GHZ TURBO), 11ª GERACAO, 6-CORES 12-THREADS, LGA 1200, BX8",
+    "nome": "PROCESSADOR INTEL CORE I5 11600K 3.9GHZ (5.0GHZ TURBO), 11ª GERACAO, 6-CORES 12-THREADS, LGA 1200, BX8",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1629.00",
+          "data": "2021-10-12T14:11:43.723Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/17256/processador-intel-core-i5-11600k-39ghz-50ghz-turbo-11-geracao-6-cores-12-threads-lga-1200-bx8070811600k",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL, CORE I9 10850K, 3.6GHZ (5.2GHZ TURBO), 10 CORES, 20 THREADS, LGA 1200, C/ VIDEO",
+    "nome": "PROCESSADOR INTEL, CORE I9 10850K, 3.6GHZ (5.2GHZ TURBO), 10 CORES, 20 THREADS, LGA 1200, C/ VIDEO",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2729.00",
+          "data": "2021-10-12T14:11:43.723Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/15417/processador-intel-core-i9-10850k-36ghz-52ghz-turbo-10-cores-20-threads-lga-1200-c-video",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR AMD RYZEN 5 3500 3.6GHZ + COOLER AMD WRAITH STEALTH, 92MM, AM4",
+    "nome": "PROCESSADOR AMD RYZEN 5 3500 3.6GHZ + COOLER AMD WRAITH STEALTH, 92MM, AM4",
+    "preco": {
+      "preco": [
+        {
+          "valor": "899.00",
+          "data": "2021-10-12T14:11:43.723Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19363/processador-amd-ryzen-5-3500-36ghz-cooler-amd-wraith-stealth-92mm-am4",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I3 9100 3.6GHZ (4.2GHZ TURBO), 9ª GERACAO, 4-CORE 4-THREAD, LGA 1151, BX80684I3",
+    "nome": "PROCESSADOR INTEL CORE I3 9100 3.6GHZ (4.2GHZ TURBO), 9ª GERACAO, 4-CORE 4-THREAD, LGA 1151, BX80684I3",
+    "preco": {
+      "preco": [
+        {
+          "valor": "799.00",
+          "data": "2021-10-12T14:11:43.723Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/18857/processador-intel-core-i3-9100-36ghz-42ghz-turbo-9-geracao-4-core-4-thread-lga-1151-bx80684i39100",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR AMD RYZEN 9 5950X 3.4GHZ (4.9GHZ TURBO), 16-CORES 32-THREADS, AM4, SEM COOLER, 100-100000059W",
+    "nome": "PROCESSADOR AMD RYZEN 9 5950X 3.4GHZ (4.9GHZ TURBO), 16-CORES 32-THREADS, AM4, SEM COOLER, 100-100000059W",
+    "preco": {
+      "preco": [
+        {
+          "valor": "5699.00",
+          "data": "2021-10-12T14:11:43.723Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/15697/processador-amd-ryzen-9-5950x-34ghz-49ghz-turbo-16-cores-32-threads-am4-sem-cooler",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I9 10900, 2.80GHZ (5.20GHZ TURBO), 10ª GERACAO, 10-CORES 20-THREADS, LGA 1200,",
+    "nome": "PROCESSADOR INTEL CORE I9 10900, 2.80GHZ (5.20GHZ TURBO), 10ª GERACAO, 10-CORES 20-THREADS, LGA 1200,",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2696.13",
+          "data": "2021-10-12T14:11:43.723Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/14022/processador-intel-core-i9-10900-280ghz-520ghz-turbo-10-geracao-10-cores-20-threads-lga-1200-bx8070110900",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL PENTIUM GOLD G5420 3.8GHZ 4MB, 8ª GERACAO, COFFEE LAKE, LGA 1151, BX80684G5420",
+    "nome": "PROCESSADOR INTEL PENTIUM GOLD G5420 3.8GHZ 4MB, 8ª GERACAO, COFFEE LAKE, LGA 1151, BX80684G5420",
+    "preco": {
+      "preco": [
+        {
+          "valor": "549.00",
+          "data": "2021-10-12T14:11:43.723Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/13756/processador-intel-pentium-gold-g5420-38ghz-4mb-8-geracao-coffee-lake-lga-1151-bx80684g5420",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I5 10400, 2.90GHZ, (4.30GHZ TURBO), 10ª GERACAO, 6-CORES 12-THREADS, LGA 1200,",
+    "nome": "PROCESSADOR INTEL CORE I5 10400, 2.90GHZ, (4.30GHZ TURBO), 10ª GERACAO, 6-CORES 12-THREADS, LGA 1200,",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1169.00",
+          "data": "2021-10-12T14:11:43.723Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/13445/processador-intel-core-i5-10400-290ghz-430ghz-turbo-10-geracao-6-cores-12-threads-lga-1200-bx8070110400",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I5 9400 2.90GHZ (4.10GHZ TURBO), 9ª GERACAO, 6-CORE 6-THREAD, LGA 1151, BX80684",
+    "nome": "PROCESSADOR INTEL CORE I5 9400 2.90GHZ (4.10GHZ TURBO), 9ª GERACAO, 6-CORE 6-THREAD, LGA 1151, BX80684",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1279.00",
+          "data": "2021-10-12T14:11:43.723Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/11374/processador-intel-core-i5-9400-290ghz-410ghz-turbo-9-geracao-6-core-6-thread-lga-1151-bx80684i59400",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I3 9100F 3.6GHZ (4.2GHZ TURBO), 9ª GERACAO, 4-CORE 4-THREAD, LGA 1151, SEM VID",
+    "nome": "PROCESSADOR INTEL CORE I3 9100F 3.6GHZ (4.2GHZ TURBO), 9ª GERACAO, 4-CORE 4-THREAD, LGA 1151, SEM VID",
+    "preco": {
+      "preco": [
+        {
+          "valor": "869.13",
+          "data": "2021-10-12T14:11:43.723Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/11269/processador-intel-core-i3-9100f-36ghz-42ghz-turbo-9-geracao-4-core-4-thread-lga-1151-bx80684i39100f",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I5 9600K 3.70GHZ (4.60GHZ TURBO), 9ª GERACAO, 6-CORE 6-THREAD, LGA 1151, BX8068",
+    "nome": "PROCESSADOR INTEL CORE I5 9600K 3.70GHZ (4.60GHZ TURBO), 9ª GERACAO, 6-CORE 6-THREAD, LGA 1151, BX8068",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1349.00",
+          "data": "2021-10-12T14:11:43.723Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/9879/processador-intel-core-i5-9600k-370ghz-460-ghz-turbo-9mb-bx80684i59600k-9-geracao-coffee-lake-lga-1151",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I9 9900K 3.60GHZ (5.0GHZ TURBO), 9ª GERACAO, 8-CORE 16-THREAD, LGA 1151, BX8068",
+    "nome": "PROCESSADOR INTEL CORE I9 9900K 3.60GHZ (5.0GHZ TURBO), 9ª GERACAO, 8-CORE 16-THREAD, LGA 1151, BX8068",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2589.00",
+          "data": "2021-10-12T14:11:43.723Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/9882/processador-intel-core-i9-9900k-360ghz-500-ghz-turbo-16mb-bx80684i99900k-9-geracao-coffee-lake-lga-1151",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I7 9700 3.0GHZ (4.70GHZ TURBO), 9ª GERACAO, 8-CORE 8-THREAD, LGA 1151, BX80684I",
+    "nome": "PROCESSADOR INTEL CORE I7 9700 3.0GHZ (4.70GHZ TURBO), 9ª GERACAO, 8-CORE 8-THREAD, LGA 1151, BX80684I",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1829.00",
+          "data": "2021-10-12T14:11:43.723Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/12272/processador-intel-core-i7-9700-30ghz-470ghz-turbo-9-geracao-8-core-8-thread-lga-1151-bx80684i79700",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I7 11700 2.5GHZ (4.9GHZ TURBO), 11ª GERACAO, 8-CORES 16-THREADS, LGA 1200, BX80",
+    "nome": "PROCESSADOR INTEL CORE I7 11700 2.5GHZ (4.9GHZ TURBO), 11ª GERACAO, 8-CORES 16-THREADS, LGA 1200, BX80",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2339.00",
+          "data": "2021-10-12T14:11:43.723Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/17258/processador-intel-core-i7-11700-25ghz-49ghz-turbo-11-geracao-8-cores-16-threads-lga-1200-bx8070811700",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I9 10900F, 2.80GHZ (5.20GHZ TURBO), 10ª GERACAO, 10-CORES 20-THREADS, LGA 1200,",
+    "nome": "PROCESSADOR INTEL CORE I9 10900F, 2.80GHZ (5.20GHZ TURBO), 10ª GERACAO, 10-CORES 20-THREADS, LGA 1200,",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2599.00",
+          "data": "2021-10-12T14:11:43.723Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/14086/processador-intel-core-i9-10900f-280ghz-520ghz-turbo-10-geracao-10-cores-20-threads-lga-1200-bx8070110900f",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR AMD A6 9500, 3.5GHZ (3.8GHZ TURBO), 2-CORES, AM4, AD9500AGABBOX",
+    "nome": "PROCESSADOR AMD A6 9500, 3.5GHZ (3.8GHZ TURBO), 2-CORES, AM4, AD9500AGABBOX",
+    "preco": {
+      "preco": [
+        {
+          "valor": "259.00",
+          "data": "2021-10-12T14:11:43.723Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19527/processador-amd-a6-9500-35ghz-38ghz-turbo-2-cores-am4-ad9500agabbox",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I3 530 2.93GHZ, 4MB, 2-CORES 4-THREADS, LGA 1156, OEM",
+    "nome": "PROCESSADOR INTEL CORE I3 530 2.93GHZ, 4MB, 2-CORES 4-THREADS, LGA 1156, OEM",
+    "preco": {
+      "preco": [
+        {
+          "valor": "173.13",
+          "data": "2021-10-12T14:11:43.724Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/17376/processador-intel-core-i3-530-293ghz-4mb-2-cores-4-threads-lga-1156-oem",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I3 540 3.06GHZ 4MB LGA 1156, OEM",
+    "nome": "PROCESSADOR INTEL CORE I3 540 3.06GHZ 4MB LGA 1156, OEM",
+    "preco": {
+      "preco": [
+        {
+          "valor": "251.43",
+          "data": "2021-10-12T14:11:43.724Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/17378/processador-intel-core-i3-540-306ghz-4mb-lga-1156-oem",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I3 550 3.20GHZ 4MB LGA 1156, OEM",
+    "nome": "PROCESSADOR INTEL CORE I3 550 3.20GHZ 4MB LGA 1156, OEM",
+    "preco": {
+      "preco": [
+        {
+          "valor": "286.23",
+          "data": "2021-10-12T14:11:43.724Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/17380/processador-intel-core-i3-550-320ghz-4mb-lga-1156-oem",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I7 11700K 3.6GHZ (5.0GHZ TURBO), 11ª GERACAO, 8-CORES 16-THREADS, LGA 1200, BX8",
+    "nome": "PROCESSADOR INTEL CORE I7 11700K 3.6GHZ (5.0GHZ TURBO), 11ª GERACAO, 8-CORES 16-THREADS, LGA 1200, BX8",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2799.00",
+          "data": "2021-10-12T14:11:43.724Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/17255/processador-intel-core-i7-11700k-36ghz-50ghz-turbo-11-geracao-8-cores-16-threads-lga-1200-bx8070811700k",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I5 11400 2.6GHZ (4.4GHZ TURBO), 11ª GERACAO, 6-CORES 12-THREADS, LGA 1200, BX80",
+    "nome": "PROCESSADOR INTEL CORE I5 11400 2.6GHZ (4.4GHZ TURBO), 11ª GERACAO, 6-CORES 12-THREADS, LGA 1200, BX80",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1389.00",
+          "data": "2021-10-12T14:11:43.724Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/17261/processador-intel-core-i5-11400-26ghz-44ghz-turbo-11-geracao-6-cores-12-threads-lga-1200-bx8070811400",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I7 11700KF 3.6GHZ (5.0GHZ TURBO), 11ª GERACAO, 8-CORES 16-THREADS, LGA 1200, BX",
+    "nome": "PROCESSADOR INTEL CORE I7 11700KF 3.6GHZ (5.0GHZ TURBO), 11ª GERACAO, 8-CORES 16-THREADS, LGA 1200, BX",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2713.53",
+          "data": "2021-10-12T14:11:43.724Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/17263/processador-intel-core-i7-11700kf-36ghz-50ghz-turbo-11-geracao-8-cores-16-threads-lga-1200-bx8070811700kf",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I9 11900K 3.5GHZ (5.3GHZ TURBO), 11ª GERACAO, 8-CORES 16-THREADS, LGA 1200, BX8",
+    "nome": "PROCESSADOR INTEL CORE I9 11900K 3.5GHZ (5.3GHZ TURBO), 11ª GERACAO, 8-CORES 16-THREADS, LGA 1200, BX8",
+    "preco": {
+      "preco": [
+        {
+          "valor": "3899.00",
+          "data": "2021-10-12T14:11:43.724Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/17254/processador-intel-core-i9-11900k-35ghz-53ghz-turbo-11-geracao-8-cores-16-threads-lga-1200-bx8070811900k",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I9 9900KF 3.60GHZ (5.0GHZ TURBO), 9ª GERACAO, 8-CORE 16-THREAD, LGA 1151, BX806",
+    "nome": "PROCESSADOR INTEL CORE I9 9900KF 3.60GHZ (5.0GHZ TURBO), 9ª GERACAO, 8-CORE 16-THREAD, LGA 1151, BX806",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2748.33",
+          "data": "2021-10-12T14:11:43.724Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/11403/processador-intel-core-i9-9900kf-360ghz-50ghz-turbo-9-geracao-8-core-16-thread-lga-1151-bx80684i99900kf",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I5 9400F 2.90GHZ (4.10GHZ TURBO), 9ª GERACAO, 6-CORE 6-THREAD, LGA 1151, BX8068",
+    "nome": "PROCESSADOR INTEL CORE I5 9400F 2.90GHZ (4.10GHZ TURBO), 9ª GERACAO, 6-CORE 6-THREAD, LGA 1151, BX8068",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1089.00",
+          "data": "2021-10-12T14:11:43.724Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/10319/processador-intel-core-i5-9400f-290ghz-410ghz-max-turbo-9mb-bx80684i59400f-9-geracao-coffee-lake-lga-1151",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL PENTIUM G4560 3.5GHZ, 7ª GERACAO, 2-CORE 4-THREAD, LGA 1151, BX80677G4560",
+    "nome": "PROCESSADOR INTEL PENTIUM G4560 3.5GHZ, 7ª GERACAO, 2-CORE 4-THREAD, LGA 1151, BX80677G4560",
+    "preco": {
+      "preco": [
+        {
+          "valor": "529.00",
+          "data": "2021-10-12T14:11:43.724Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/7960/processador-intel-pentium-g4560-35ghz-3mb-bx80677g4560-7-geracao-kaby-lake-lga-1151",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I5 10400F 2.90GHZ (4.30GHZ TURBO) + COOLER T-DAGGER IDUN R",
+    "nome": "PROCESSADOR INTEL CORE I5 10400F 2.90GHZ (4.30GHZ TURBO) + COOLER T-DAGGER IDUN R",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1140.32",
+          "data": "2021-10-12T14:11:43.724Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19457/processador-intel-core-i5-10400f-290ghz-430ghz-turbo-cooler-box-intel-delta",
+    "keyword": [
+      "processador"
+    ]
+  }
+]

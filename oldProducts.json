@@ -5,6 +5,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "145.80",
+          "data": "2021-10-12T20:14:31.764Z"
+        },
+        {
           "valor": "109.99",
           "data": "2021-10-09T20:13:03.781Z"
         }
@@ -704,6 +708,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "721.99",
+          "data": "2021-10-12T20:14:31.764Z"
+        },
+        {
           "valor": "759.99",
           "data": "2021-10-09T20:13:03.781Z"
         }
@@ -861,6 +869,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "1439.99",
+          "data": "2021-10-12T20:14:31.765Z"
+        },
+        {
           "valor": "1599.99",
           "data": "2021-10-09T20:13:03.781Z"
         }
@@ -1001,6 +1013,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "584.99",
+          "data": "2021-10-12T20:14:31.764Z"
+        },
+        {
           "valor": "649.99",
           "data": "2021-10-09T20:13:03.781Z"
         }
@@ -1017,6 +1033,10 @@
     "nome": "Frigideira Wok com Tampa Power Taste 24cm - La Cuisine",
     "preco": {
       "preco": [
+        {
+          "valor": "139.99",
+          "data": "2021-10-12T20:14:31.764Z"
+        },
         {
           "valor": "97.99",
           "data": "2021-10-12T13:01:57.302Z"
@@ -1179,6 +1199,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "3994.99",
+          "data": "2021-10-12T20:14:31.764Z"
+        },
+        {
           "valor": "4699.99",
           "data": "2021-10-09T20:13:03.781Z"
         }
@@ -1216,6 +1240,10 @@
     "nome": "Smartphone Samsung Galaxy A71 Tela 6.7\" 4G Wi-Fi Android 10 Camera Traseira 64+12+5+5MP e Frontal 32MP 128GB - Preto",
     "preco": {
       "preco": [
+        {
+          "valor": "1799.99",
+          "data": "2021-10-12T20:14:31.765Z"
+        },
         {
           "valor": "1999.99",
           "data": "2021-10-09T20:13:03.781Z"
@@ -1445,6 +1473,10 @@
     "nome": "Smartphone Samsung Galaxy A20s 32GB Dual Chip Android 9.0 Tela 6.5\" Octa-Core 1.8 GHz 4G Camera Tripla 13.0 MP + 5.0 MP + 5.0 MP(UW) - Vermelho",
     "preco": {
       "preco": [
+        {
+          "valor": "987.24",
+          "data": "2021-10-12T20:14:31.764Z"
+        },
         {
           "valor": "1169.99",
           "data": "2021-10-09T20:13:03.781Z"
@@ -1691,6 +1723,10 @@
     "nome": "Centrifuga Britania 1000 2 Velocidades - 110V",
     "preco": {
       "preco": [
+        {
+          "valor": "224.99",
+          "data": "2021-10-12T20:14:31.765Z"
+        },
         {
           "valor": "190.98",
           "data": "2021-10-09T20:13:03.781Z"
@@ -2533,6 +2569,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "1223.28",
+          "data": "2021-10-12T20:14:31.765Z"
+        },
+        {
           "valor": "1359.20",
           "data": "2021-10-09T20:13:03.781Z"
         }
@@ -2724,6 +2764,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "1223.28",
+          "data": "2021-10-12T20:14:31.765Z"
+        },
+        {
           "valor": "1359.20",
           "data": "2021-10-09T20:13:03.782Z"
         }
@@ -2758,6 +2802,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "1349.99",
+          "data": "2021-10-12T20:14:31.764Z"
+        },
+        {
           "valor": "1499.99",
           "data": "2021-10-09T20:13:03.782Z"
         }
@@ -2791,6 +2839,10 @@
     "nome": "Smartphone Samsung Galaxy A50 128GB Dual Chip Android 9.0 Tela 6,4\" Octa-Core 4G Camera Tripla 25MP+5MP+8MP - Branco",
     "preco": {
       "preco": [
+        {
+          "valor": "1394.99",
+          "data": "2021-10-12T20:14:31.764Z"
+        },
         {
           "valor": "1099.99",
           "data": "2021-10-09T20:13:03.782Z"
@@ -2927,6 +2979,10 @@
     "nome": "Passadeira a Vapor RI514 Philips Walita Easytouch Plus Rosa - 1600W",
     "preco": {
       "preco": [
+        {
+          "valor": "303.91",
+          "data": "2021-10-12T20:14:31.765Z"
+        },
         {
           "valor": "350.99",
           "data": "2021-10-11T19:51:57.844Z"
@@ -5799,6 +5855,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "1799.99",
+          "data": "2021-10-12T20:14:31.765Z"
+        },
+        {
           "valor": "1999.99",
           "data": "2021-10-09T20:13:03.782Z"
         }
@@ -6823,6 +6883,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "104.99",
+          "data": "2021-10-12T20:14:31.765Z"
+        },
+        {
           "valor": "73.49",
           "data": "2021-10-11T19:51:57.844Z"
         },
@@ -7247,7 +7311,7 @@
     ]
   },
   {
-    "id": "Smartphone Asus Zenfone 3 Max Dual Chip Android 6 Tela 5.2\" 16GB 4G Câmera 13MP - Cinza Escuro",
+    "id": "Smartphone Asus Zenfone 3 Max Dual Chip Android 6 Tela 5.2\" 16GB 4G Camera 13MP - Cinza Escuro",
     "nome": "Smartphone Asus Zenfone 3 Max Dual Chip Android 6 Tela 5.2\" 16GB 4G Camera 13MP - Cinza Escuro",
     "preco": {
       "preco": [
@@ -7264,7 +7328,7 @@
     ]
   },
   {
-    "id": "Batedeira Planetária Deluxe Inox Sx72 Vermelha",
+    "id": "Batedeira Planetaria Deluxe Inox Sx72 Vermelha",
     "nome": "Batedeira Planetaria Deluxe Inox Sx72 Vermelha",
     "preco": {
       "preco": [
@@ -7281,7 +7345,7 @@
     ]
   },
   {
-    "id": "Fritadeira Philco Air Fry Saúde Inox PH 3 Litros Preto - 127V",
+    "id": "Fritadeira Philco Air Fry Saude Inox PH 3 Litros Preto - 127V",
     "nome": "Fritadeira Philco Air Fry Saude Inox PH 3 Litros Preto - 127V",
     "preco": {
       "preco": [
@@ -7298,7 +7362,7 @@
     ]
   },
   {
-    "id": "Smartphone Asus Zenfone 3 Max Dual Chip Android 6 Tela 5.2\" 16GB 4G Câmera 13MP - Cinza Escuro",
+    "id": "Smartphone Asus Zenfone 3 Max Dual Chip Android 6 Tela 5.2\" 16GB 4G Camera 13MP - Cinza Escuro",
     "nome": "Smartphone Asus Zenfone 3 Max Dual Chip Android 6 Tela 5.2\" 16GB 4G Camera 13MP - Cinza Escuro",
     "preco": {
       "preco": [
@@ -7315,7 +7379,7 @@
     ]
   },
   {
-    "id": "Smartphone Motorola One Fusion Dual Chip Android tela 6.5\" 128GB Wi-Fi Câmera 48MP+8MP - Azul Safira",
+    "id": "Smartphone Motorola One Fusion Dual Chip Android tela 6.5\" 128GB Wi-Fi Camera 48MP+8MP - Azul Safira",
     "nome": "Smartphone Motorola One Fusion Dual Chip Android tela 6.5\" 128GB Wi-Fi Camera 48MP+8MP - Azul Safira",
     "preco": {
       "preco": [

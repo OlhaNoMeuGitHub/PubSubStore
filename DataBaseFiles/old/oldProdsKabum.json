@@ -37,6 +37,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "1549.90",
+          "data": "2021-10-12T20:14:21.947Z"
+        },
+        {
           "valor": "1419.90",
           "data": "2021-10-11T23:16:40.342Z"
         }
@@ -805,6 +809,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "1069.90",
+          "data": "2021-10-12T20:14:21.947Z"
+        },
+        {
           "valor": "999.90",
           "data": "2021-10-12T13:09:57.082Z"
         }
@@ -1472,7 +1480,7 @@
     ]
   },
   {
-    "id": "SSD WD Blue SN550, 500GB, M.2, PCIe, NVMe, Leituras: 2400Mb/s e Gravações: 1750Mb/s - WDS500G2B0C",
+    "id": "SSD WD Blue SN550, 500GB, M.2, PCIe, NVMe, Leituras: 2400Mb/s e Gravacoes: 1750Mb/s - WDS500G2B0C",
     "nome": "SSD WD Blue SN550, 500GB, M.2, PCIe, NVMe, Leituras: 2400Mb/s e Gravacoes: 1750Mb/s - WDS500G2B0C",
     "preco": {
       "preco": [
@@ -1488,7 +1496,7 @@
     ]
   },
   {
-    "id": "SSD WD Black SN750, 500GB, M.2, NVMe, Leitura 3430MB/s, Gravação 2600MB/s - WDS500G3X0C",
+    "id": "SSD WD Black SN750, 500GB, M.2, NVMe, Leitura 3430MB/s, Gravacao 2600MB/s - WDS500G3X0C",
     "nome": "SSD WD Black SN750, 500GB, M.2, NVMe, Leitura 3430MB/s, Gravacao 2600MB/s - WDS500G3X0C",
     "preco": {
       "preco": [
@@ -1504,7 +1512,7 @@
     ]
   },
   {
-    "id": "SSD Adata XPG SX6000 Lite, 256GB, M.2 NVMe, Leitura 1800MB/s, Gravação 900MB/s - ASX6000LNP-256GT-C",
+    "id": "SSD Adata XPG SX6000 Lite, 256GB, M.2 NVMe, Leitura 1800MB/s, Gravacao 900MB/s - ASX6000LNP-256GT-C",
     "nome": "SSD Adata XPG SX6000 Lite, 256GB, M.2 NVMe, Leitura 1800MB/s, Gravacao 900MB/s - ASX6000LNP-256GT-C",
     "preco": {
       "preco": [
@@ -1536,7 +1544,7 @@
     ]
   },
   {
-    "id": "SSD WD Blue SN550, 250GB, M.2, PCIe, NVMe, Leituras: 2400Mb/s e Gravações: 950Mb/s - WDS250G2B0C",
+    "id": "SSD WD Blue SN550, 250GB, M.2, PCIe, NVMe, Leituras: 2400Mb/s e Gravacoes: 950Mb/s - WDS250G2B0C",
     "nome": "SSD WD Blue SN550, 250GB, M.2, PCIe, NVMe, Leituras: 2400Mb/s e Gravacoes: 950Mb/s - WDS250G2B0C",
     "preco": {
       "preco": [
@@ -1552,7 +1560,7 @@
     ]
   },
   {
-    "id": "SSD Adata Ultimate SU650 240GB, M.2, Leituras: 550MB/s e Gravações: 500MB/s - ASU650NS38-240GT-C",
+    "id": "SSD Adata Ultimate SU650 240GB, M.2, Leituras: 550MB/s e Gravacoes: 500MB/s - ASU650NS38-240GT-C",
     "nome": "SSD Adata Ultimate SU650 240GB, M.2, Leituras: 550MB/s e Gravacoes: 500MB/s - ASU650NS38-240GT-C",
     "preco": {
       "preco": [
@@ -1568,7 +1576,7 @@
     ]
   },
   {
-    "id": "SSD Samsung 970 EVO Plus 500GB, M.2 NVMe, Leitura 3500MB/s, Gravação 3200MB/s - MZ-V7S500B/AM",
+    "id": "SSD Samsung 970 EVO Plus 500GB, M.2 NVMe, Leitura 3500MB/s, Gravacao 3200MB/s - MZ-V7S500B/AM",
     "nome": "SSD Samsung 970 EVO Plus 500GB, M.2 NVMe, Leitura 3500MB/s, Gravacao 3200MB/s - MZ-V7S500B/AM",
     "preco": {
       "preco": [
@@ -1584,7 +1592,7 @@
     ]
   },
   {
-    "id": "SSD Husky Gaming, M.2 NVME, 256GB, Leituras: 1800MB/s e Gravações: 1300MB/s - HGML001",
+    "id": "SSD Husky Gaming, M.2 NVME, 256GB, Leituras: 1800MB/s e Gravacoes: 1300MB/s - HGML001",
     "nome": "SSD Husky Gaming, M.2 NVME, 256GB, Leituras: 1800MB/s e Gravacoes: 1300MB/s - HGML001",
     "preco": {
       "preco": [
@@ -1600,7 +1608,7 @@
     ]
   },
   {
-    "id": "SSD Adata XPG Gammix S11 Pro, 256GB, M.2 NVMe, Leitura 3500MB/s, Gravação 1200MB/s - AGAMMIXS11P-256GT-C",
+    "id": "SSD Adata XPG Gammix S11 Pro, 256GB, M.2 NVMe, Leitura 3500MB/s, Gravacao 1200MB/s - AGAMMIXS11P-256GT-C",
     "nome": "SSD Adata XPG Gammix S11 Pro, 256GB, M.2 NVMe, Leitura 3500MB/s, Gravacao 1200MB/s - AGAMMIXS11P-256GT-C",
     "preco": {
       "preco": [
@@ -1616,7 +1624,7 @@
     ]
   },
   {
-    "id": "SSD Kingston A400, 240GB, M.2, Leitura 500MB/s, Gravação 350MB/s - SA400M8/240G",
+    "id": "SSD Kingston A400, 240GB, M.2, Leitura 500MB/s, Gravacao 350MB/s - SA400M8/240G",
     "nome": "SSD Kingston A400, 240GB, M.2, Leitura 500MB/s, Gravacao 350MB/s - SA400M8/240G",
     "preco": {
       "preco": [
@@ -1632,7 +1640,7 @@
     ]
   },
   {
-    "id": "SSD WD Black SN750, 250GB, M.2, NVMe, Leitura 3100MB/s, Gravação 1600MB/s - WDS250G3X0C",
+    "id": "SSD WD Black SN750, 250GB, M.2, NVMe, Leitura 3100MB/s, Gravacao 1600MB/s - WDS250G3X0C",
     "nome": "SSD WD Black SN750, 250GB, M.2, NVMe, Leitura 3100MB/s, Gravacao 1600MB/s - WDS250G3X0C",
     "preco": {
       "preco": [
@@ -1648,7 +1656,7 @@
     ]
   },
   {
-    "id": "SSD WD Blue, 500GB, M.2, Leitura 560MB/s, Gravação 530MB/s - WDS500G2B0B",
+    "id": "SSD WD Blue, 500GB, M.2, Leitura 560MB/s, Gravacao 530MB/s - WDS500G2B0B",
     "nome": "SSD WD Blue, 500GB, M.2, Leitura 560MB/s, Gravacao 530MB/s - WDS500G2B0B",
     "preco": {
       "preco": [
@@ -1664,7 +1672,7 @@
     ]
   },
   {
-    "id": "SSD Kingston KC2500, 250GB, M.2 NVMe, Leitura 3500MB/s, Gravação 1200MB/s - SKC2500M8/250G",
+    "id": "SSD Kingston KC2500, 250GB, M.2 NVMe, Leitura 3500MB/s, Gravacao 1200MB/s - SKC2500M8/250G",
     "nome": "SSD Kingston KC2500, 250GB, M.2 NVMe, Leitura 3500MB/s, Gravacao 1200MB/s - SKC2500M8/250G",
     "preco": {
       "preco": [
@@ -1696,7 +1704,7 @@
     ]
   },
   {
-    "id": "SSD Kingston KC2500, 500GB, M.2 NVMe, Leitura 3500MB/s, Gravação 2500MB/s - SKC2500M8/500G",
+    "id": "SSD Kingston KC2500, 500GB, M.2 NVMe, Leitura 3500MB/s, Gravacao 2500MB/s - SKC2500M8/500G",
     "nome": "SSD Kingston KC2500, 500GB, M.2 NVMe, Leitura 3500MB/s, Gravacao 2500MB/s - SKC2500M8/500G",
     "preco": {
       "preco": [
@@ -1712,7 +1720,7 @@
     ]
   },
   {
-    "id": "SSD WD Black SN750 Heatsink, 500GB, M.2 NVMe, Leitura 3470MB/s, Gravação 2600MB/s - WDS500G3XHC",
+    "id": "SSD WD Black SN750 Heatsink, 500GB, M.2 NVMe, Leitura 3470MB/s, Gravacao 2600MB/s - WDS500G3XHC",
     "nome": "SSD WD Black SN750 Heatsink, 500GB, M.2 NVMe, Leitura 3470MB/s, Gravacao 2600MB/s - WDS500G3XHC",
     "preco": {
       "preco": [
@@ -1728,7 +1736,7 @@
     ]
   },
   {
-    "id": "SSD Corsair Force Series MP510, 240GB, M.2 NVMe, Leitura 3100MB/s, Gravação 1050MB/s - CSSD-F240GBMP510",
+    "id": "SSD Corsair Force Series MP510, 240GB, M.2 NVMe, Leitura 3100MB/s, Gravacao 1050MB/s - CSSD-F240GBMP510",
     "nome": "SSD Corsair Force Series MP510, 240GB, M.2 NVMe, Leitura 3100MB/s, Gravacao 1050MB/s - CSSD-F240GBMP510",
     "preco": {
       "preco": [
@@ -1744,7 +1752,7 @@
     ]
   },
   {
-    "id": "SSD Adata Swordfish, 250GB, M.2 PCIe, Leituras: 1800MB/s e Gravações: 900MB/s - ASWORDFISH-250G-C",
+    "id": "SSD Adata Swordfish, 250GB, M.2 PCIe, Leituras: 1800MB/s e Gravacoes: 900MB/s - ASWORDFISH-250G-C",
     "nome": "SSD Adata Swordfish, 250GB, M.2 PCIe, Leituras: 1800MB/s e Gravacoes: 900MB/s - ASWORDFISH-250G-C",
     "preco": {
       "preco": [
@@ -1760,7 +1768,7 @@
     ]
   },
   {
-    "id": "SSD Adata Swordfish, 500GB, M.2 PCIe, Leituras: 1800MB/s e Gravações: 1200MB/s - ASWORDFISH-500G-C",
+    "id": "SSD Adata Swordfish, 500GB, M.2 PCIe, Leituras: 1800MB/s e Gravacoes: 1200MB/s - ASWORDFISH-500G-C",
     "nome": "SSD Adata Swordfish, 500GB, M.2 PCIe, Leituras: 1800MB/s e Gravacoes: 1200MB/s - ASWORDFISH-500G-C",
     "preco": {
       "preco": [
@@ -1776,7 +1784,7 @@
     ]
   },
   {
-    "id": "SSD XPG SX8200 Pro, 256GB, M.2, PCIe, NVMe, Leituras: 3500Mb/s e Gravações: 1200Mb/s - ASX8200PNP-256GT-C",
+    "id": "SSD XPG SX8200 Pro, 256GB, M.2, PCIe, NVMe, Leituras: 3500Mb/s e Gravacoes: 1200Mb/s - ASX8200PNP-256GT-C",
     "nome": "SSD XPG SX8200 Pro, 256GB, M.2, PCIe, NVMe, Leituras: 3500Mb/s e Gravacoes: 1200Mb/s - ASX8200PNP-256GT-C",
     "preco": {
       "preco": [
@@ -1792,7 +1800,7 @@
     ]
   },
   {
-    "id": "SSD Corsair Force MP600, 500GB, M.2 PCIe + NVMe, Leituras: 4950MB/s e Gravações: 2500MB/s - CSSD-F500GBMP600",
+    "id": "SSD Corsair Force MP600, 500GB, M.2 PCIe + NVMe, Leituras: 4950MB/s e Gravacoes: 2500MB/s - CSSD-F500GBMP600",
     "nome": "SSD Corsair Force MP600, 500GB, M.2 PCIe + NVMe, Leituras: 4950MB/s e Gravacoes: 2500MB/s - CSSD-F500GBMP600",
     "preco": {
       "preco": [
@@ -1808,7 +1816,7 @@
     ]
   },
   {
-    "id": "SSD Kingston A400, 480GB, M.2, Leitura 500MB/s, Gravação 450MB/s - SA400M8/480G",
+    "id": "SSD Kingston A400, 480GB, M.2, Leitura 500MB/s, Gravacao 450MB/s - SA400M8/480G",
     "nome": "SSD Kingston A400, 480GB, M.2, Leitura 500MB/s, Gravacao 450MB/s - SA400M8/480G",
     "preco": {
       "preco": [
@@ -1824,7 +1832,7 @@
     ]
   },
   {
-    "id": "SSD WD Blue, 250GB, M.2, Leitura 550MB/s, Gravação 525MB/s - WDS250G2B0B",
+    "id": "SSD WD Blue, 250GB, M.2, Leitura 550MB/s, Gravacao 525MB/s - WDS250G2B0B",
     "nome": "SSD WD Blue, 250GB, M.2, Leitura 550MB/s, Gravacao 525MB/s - WDS250G2B0B",
     "preco": {
       "preco": [
@@ -1840,7 +1848,7 @@
     ]
   },
   {
-    "id": "SSD Gigabyte Aorus Gen4 500GB, M.2 NVMe, Leituras: 5000MB/s e Gravações: 2500MB/s - GP-ASM2NE6500GTTD",
+    "id": "SSD Gigabyte Aorus Gen4 500GB, M.2 NVMe, Leituras: 5000MB/s e Gravacoes: 2500MB/s - GP-ASM2NE6500GTTD",
     "nome": "SSD Gigabyte Aorus Gen4 500GB, M.2 NVMe, Leituras: 5000MB/s e Gravacoes: 2500MB/s - GP-ASM2NE6500GTTD",
     "preco": {
       "preco": [
@@ -1856,7 +1864,7 @@
     ]
   },
   {
-    "id": "SSD Samsung 970 EVO Plus, 250GB, M.2 NVMe, Leitura 3500MB/s, Gravação 2300MB/s - MZ-V7S250B/AM",
+    "id": "SSD Samsung 970 EVO Plus, 250GB, M.2 NVMe, Leitura 3500MB/s, Gravacao 2300MB/s - MZ-V7S250B/AM",
     "nome": "SSD Samsung 970 EVO Plus, 250GB, M.2 NVMe, Leitura 3500MB/s, Gravacao 2300MB/s - MZ-V7S250B/AM",
     "preco": {
       "preco": [
@@ -1872,7 +1880,7 @@
     ]
   },
   {
-    "id": "SSD Corsair Force Series MP510 480GB M.2 Leituras: 3480MB/s e Gravações: 2000MB/s - CSSD-F480GBMP510B",
+    "id": "SSD Corsair Force Series MP510 480GB M.2 Leituras: 3480MB/s e Gravacoes: 2000MB/s - CSSD-F480GBMP510B",
     "nome": "SSD Corsair Force Series MP510 480GB M.2 Leituras: 3480MB/s e Gravacoes: 2000MB/s - CSSD-F480GBMP510B",
     "preco": {
       "preco": [
@@ -1888,7 +1896,7 @@
     ]
   },
   {
-    "id": "SSD Adata Ultimate SU650 480GB, M.2, Leituras: 550MB/s e Gravações: 510MB/s - ASU650NS38-480GT-C",
+    "id": "SSD Adata Ultimate SU650 480GB, M.2, Leituras: 550MB/s e Gravacoes: 510MB/s - ASU650NS38-480GT-C",
     "nome": "SSD Adata Ultimate SU650 480GB, M.2, Leituras: 550MB/s e Gravacoes: 510MB/s - ASU650NS38-480GT-C",
     "preco": {
       "preco": [
@@ -1904,7 +1912,7 @@
     ]
   },
   {
-    "id": "SSD Gigabyte Aorus RGB 256GB, M.2 NVMe, Leituras: 3100MB/s e Gravações: 1050MB/s - GP-ASM2NE2256GTTDR",
+    "id": "SSD Gigabyte Aorus RGB 256GB, M.2 NVMe, Leituras: 3100MB/s e Gravacoes: 1050MB/s - GP-ASM2NE2256GTTDR",
     "nome": "SSD Gigabyte Aorus RGB 256GB, M.2 NVMe, Leituras: 3100MB/s e Gravacoes: 1050MB/s - GP-ASM2NE2256GTTDR",
     "preco": {
       "preco": [
@@ -1917,6 +1925,22 @@
     "url": "https://www.kabum.com.br/produto/103730/ssd-gigabyte-aorus-rgb-256gb-m-2-nvme-leituras-3100mb-s-e-gravacoes-1050mb-s-gp-asm2ne2256gttdr",
     "keyword": [
       ""
+    ]
+  },
+  {
+    "id": "Processador Intel Core i5-9600KF Coffee Lake Refresh, Cache 9MB, 3.7GHz (4.6GHz Max Turbo), LGA 1151, Sem Video - BX80684I59600KF",
+    "nome": "Processador Intel Core i5-9600KF Coffee Lake Refresh, Cache 9MB, 3.7GHz (4.6GHz Max Turbo), LGA 1151, Sem Video - BX80684I59600KF",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1199.90",
+          "data": "2021-10-12T20:14:21.943Z"
+        }
+      ]
+    },
+    "url": "https://www.kabum.com.br/produto/102809/processador-intel-core-i5-9600kf-coffee-lake-refresh-cache-9mb-3-7ghz-4-6ghz-max-turbo-lga-1151-sem-video-bx80684i59600kf",
+    "keyword": [
+      "processador"
     ]
   }
 ]

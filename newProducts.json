@@ -1,80 +1,199 @@
 [
   {
-    "id": "Smartphone Asus Zenfone 3 Max Dual Chip Android 6 Tela 5.2\" 16GB 4G Câmera 13MP - Cinza Escuro",
-    "nome": "Smartphone Asus Zenfone 3 Max Dual Chip Android 6 Tela 5.2\" 16GB 4G Camera 13MP - Cinza Escuro",
-    "preco": {
-      "preco": [
-        {
-          "valor": "683.99",
-          "data": "2021-10-12T13:01:57.283Z"
-        }
-      ]
-    },
-    "tipo": "usado",
-    "url": "",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "Batedeira Planetária Deluxe Inox Sx72 Vermelha",
-    "nome": "Batedeira Planetaria Deluxe Inox Sx72 Vermelha",
-    "preco": {
-      "preco": [
-        {
-          "valor": "359.99",
-          "data": "2021-10-12T13:01:57.284Z"
-        }
-      ]
-    },
-    "tipo": "usado",
-    "url": "",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "Fritadeira Philco Air Fry Saúde Inox PH 3 Litros Preto - 127V",
-    "nome": "Fritadeira Philco Air Fry Saude Inox PH 3 Litros Preto - 127V",
-    "preco": {
-      "preco": [
-        {
-          "valor": "255.99",
-          "data": "2021-10-12T13:01:57.284Z"
-        }
-      ]
-    },
-    "tipo": "usado",
-    "url": "",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "Smartphone Asus Zenfone 3 Max Dual Chip Android 6 Tela 5.2\" 16GB 4G Câmera 13MP - Cinza Escuro",
-    "nome": "Smartphone Asus Zenfone 3 Max Dual Chip Android 6 Tela 5.2\" 16GB 4G Camera 13MP - Cinza Escuro",
-    "preco": {
-      "preco": [
-        {
-          "valor": "683.99",
-          "data": "2021-10-12T13:01:57.284Z"
-        }
-      ]
-    },
-    "tipo": "usado",
-    "url": "",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "Smartphone Motorola One Fusion Dual Chip Android tela 6.5\" 128GB Wi-Fi Câmera 48MP+8MP - Azul Safira",
-    "nome": "Smartphone Motorola One Fusion Dual Chip Android tela 6.5\" 128GB Wi-Fi Camera 48MP+8MP - Azul Safira",
+    "id": "Smartphone Samsung Galaxy M31 - Azul",
+    "nome": "Smartphone Samsung Galaxy M31 - Azul",
     "preco": {
       "preco": [
         {
           "valor": "1349.99",
-          "data": "2021-10-12T13:01:57.285Z"
+          "data": "2021-10-12T20:14:31.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Frigideira Wok com Tampa Power Taste 24cm - La Cuisine",
+    "nome": "Frigideira Wok com Tampa Power Taste 24cm - La Cuisine",
+    "preco": {
+      "preco": [
+        {
+          "valor": "139.99",
+          "data": "2021-10-12T20:14:31.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Galaxy A01 Core - Preto",
+    "nome": "Smartphone Galaxy A01 Core - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "584.99",
+          "data": "2021-10-12T20:14:31.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Samsung Galaxy A01 Tela 5.7\" 32GB Octa-Core Camera 13MP/2MP A015MZREZTO Vermelho",
+    "nome": "Smartphone Samsung Galaxy A01 Tela 5.7\" 32GB Octa-Core Camera 13MP/2MP A015MZREZTO Vermelho",
+    "preco": {
+      "preco": [
+        {
+          "valor": "721.99",
+          "data": "2021-10-12T20:14:31.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Samsung Galaxy Z Flip Dual Chip Android 10 Tela 6.7\" Octa-Core 156GB 4G Camera Dupla 12MP + 13MP - Preto",
+    "nome": "Smartphone Samsung Galaxy Z Flip Dual Chip Android 10 Tela 6.7\" Octa-Core 156GB 4G Camera Dupla 12MP + 13MP - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "3994.99",
+          "data": "2021-10-12T20:14:31.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Samsung Galaxy A50 128GB Dual Chip Android 9.0 Tela 6,4\" Octa-Core 4G Camera Tripla 25MP+5MP+8MP - Branco",
+    "nome": "Smartphone Samsung Galaxy A50 128GB Dual Chip Android 9.0 Tela 6,4\" Octa-Core 4G Camera Tripla 25MP+5MP+8MP - Branco",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1394.99",
+          "data": "2021-10-12T20:14:31.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Frigideira sem tampa Power Taste - 24 cm - La Cuisine",
+    "nome": "Frigideira sem tampa Power Taste - 24 cm - La Cuisine",
+    "preco": {
+      "preco": [
+        {
+          "valor": "104.99",
+          "data": "2021-10-12T20:14:31.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Samsung Galaxy A70 - Azul",
+    "nome": "Smartphone Samsung Galaxy A70 - Azul",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1439.99",
+          "data": "2021-10-12T20:14:31.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Passadeira a Vapor RI514 Philips Walita Easytouch Plus Rosa - 1600W",
+    "nome": "Passadeira a Vapor RI514 Philips Walita Easytouch Plus Rosa - 1600W",
+    "preco": {
+      "preco": [
+        {
+          "valor": "303.91",
+          "data": "2021-10-12T20:14:31.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Centrifuga Britania 1000 2 Velocidades - 110V",
+    "nome": "Centrifuga Britania 1000 2 Velocidades - 110V",
+    "preco": {
+      "preco": [
+        {
+          "valor": "224.99",
+          "data": "2021-10-12T20:14:31.747Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Samsung Galaxy M21s - Azul",
+    "nome": "Smartphone Samsung Galaxy M21s - Azul",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1223.28",
+          "data": "2021-10-12T20:14:31.747Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Samsung Galaxy A71 Tela 6.7\" 4G Wi-Fi Android 10 Camera Traseira 64+12+5+5MP e Frontal 32MP 128GB - Preto",
+    "nome": "Smartphone Samsung Galaxy A71 Tela 6.7\" 4G Wi-Fi Android 10 Camera Traseira 64+12+5+5MP e Frontal 32MP 128GB - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1799.99",
+          "data": "2021-10-12T20:14:31.748Z"
         }
       ]
     },
