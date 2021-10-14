@@ -254,5 +254,37 @@
     "keyword": [
       "serra"
     ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/142460861367669/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "ALUGO CASA DOIS QUARTOS SERRA NEGRA Serra Negra, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "760",
+          "data": "2021-10-13T23:32:21.381Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/142460861367669/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "serra"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/4264631103619143/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Casa interior Sp Serra Negra, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "400",
+          "data": "2021-10-13T23:32:21.381Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/4264631103619143/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "serra"
+    ]
   }
 ]

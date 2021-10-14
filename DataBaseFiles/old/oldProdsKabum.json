@@ -941,6 +941,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "709.90",
+          "data": "2021-10-13T23:35:01.122Z"
+        },
+        {
           "valor": "749.90",
           "data": "2021-10-12T13:09:57.082Z"
         }
@@ -973,6 +977,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "999.90",
+          "data": "2021-10-13T23:35:01.122Z"
+        },
+        {
           "valor": "1039.90",
           "data": "2021-10-12T13:09:57.082Z"
         }
@@ -988,6 +996,10 @@
     "nome": "Placa-Mae Asus Prime A320M-K/BR, AMD AM4, mATX, DDR4",
     "preco": {
       "preco": [
+        {
+          "valor": "429.90",
+          "data": "2021-10-13T23:35:01.122Z"
+        },
         {
           "valor": "469.90",
           "data": "2021-10-12T13:09:57.082Z"
@@ -1117,6 +1129,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "449.90",
+          "data": "2021-10-13T23:35:01.122Z"
+        },
+        {
           "valor": "479.90",
           "data": "2021-10-12T13:09:57.082Z"
         }
@@ -1180,6 +1196,10 @@
     "nome": "Placa-Mae Asus TUF Gaming B450M-Plus II, AMD B450, mATX, DDR4",
     "preco": {
       "preco": [
+        {
+          "valor": "899.90",
+          "data": "2021-10-13T23:35:01.123Z"
+        },
         {
           "valor": "799.90",
           "data": "2021-10-12T13:09:57.082Z"
@@ -1613,6 +1633,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "399.90",
+          "data": "2021-10-13T23:35:01.123Z"
+        },
+        {
           "valor": "429.90",
           "data": "2021-10-12T13:14:48.618Z"
         }
@@ -1676,6 +1700,10 @@
     "nome": "SSD Kingston KC2500, 250GB, M.2 NVMe, Leitura 3500MB/s, Gravacao 1200MB/s - SKC2500M8/250G",
     "preco": {
       "preco": [
+        {
+          "valor": "379.90",
+          "data": "2021-10-13T23:35:01.123Z"
+        },
         {
           "valor": "398.90",
           "data": "2021-10-12T13:14:48.618Z"
@@ -1788,6 +1816,14 @@
     "nome": "SSD XPG SX8200 Pro, 256GB, M.2, PCIe, NVMe, Leituras: 3500Mb/s e Gravacoes: 1200Mb/s - ASX8200PNP-256GT-C",
     "preco": {
       "preco": [
+        {
+          "valor": "349.90",
+          "data": "2021-10-13T23:35:01.123Z"
+        },
+        {
+          "valor": "406.90",
+          "data": "2021-10-13T02:04:58.589Z"
+        },
         {
           "valor": "349.90",
           "data": "2021-10-12T13:14:48.618Z"
@@ -1941,6 +1977,54 @@
     "url": "https://www.kabum.com.br/produto/102809/processador-intel-core-i5-9600kf-coffee-lake-refresh-cache-9mb-3-7ghz-4-6ghz-max-turbo-lga-1151-sem-video-bx80684i59600kf",
     "keyword": [
       "processador"
+    ]
+  },
+  {
+    "id": "Placa-Mae Asus Prime H410M-A, Intel LGA 1200, mATX, DDR4",
+    "nome": "Placa-Mae Asus Prime H410M-A, Intel LGA 1200, mATX, DDR4",
+    "preco": {
+      "preco": [
+        {
+          "valor": "679.90",
+          "data": "2021-10-13T23:35:01.118Z"
+        }
+      ]
+    },
+    "url": "https://www.kabum.com.br/produto/112886/placa-mae-asus-prime-h410m-a-intel-lga-1200-matx-ddr4",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa-Mae Asus Prime H410M-D, Intel LGA 1200, mATX, DDR4",
+    "nome": "Placa-Mae Asus Prime H410M-D, Intel LGA 1200, mATX, DDR4",
+    "preco": {
+      "preco": [
+        {
+          "valor": "689.90",
+          "data": "2021-10-13T23:35:01.118Z"
+        }
+      ]
+    },
+    "url": "https://www.kabum.com.br/produto/112888/placa-mae-asus-prime-h410m-d-intel-lga-1200-matx-ddr4",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa-Mae ASUS ROG Strix B550-A Gaming, AMD B550, ATX, DDR4 - 90MB15J0-M0EAY0",
+    "nome": "Placa-Mae ASUS ROG Strix B550-A Gaming, AMD B550, ATX, DDR4 - 90MB15J0-M0EAY0",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1559.90",
+          "data": "2021-10-13T23:35:01.118Z"
+        }
+      ]
+    },
+    "url": "https://www.kabum.com.br/produto/128153/placa-mae-asus-rog-strix-b550-a-gaming-amd-b550-atx-ddr4-90mb15j0-m0eay0",
+    "keyword": [
+      ""
     ]
   }
 ]

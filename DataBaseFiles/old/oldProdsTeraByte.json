@@ -185,6 +185,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "399.00",
+          "data": "2021-10-13T23:32:15.751Z"
+        },
+        {
           "valor": "599.00",
           "data": "2021-10-12T20:12:50.767Z"
         },
@@ -739,6 +743,698 @@
       ]
     },
     "url": "https://www.terabyteshop.com.br/produto/19457/processador-intel-core-i5-10400f-290ghz-430ghz-turbo-cooler-box-intel-delta",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "SUPER KIT UPGRADE AMD ZEN 2, PROCESSADOR AMD RYZEN 7 4700S + MEMORIA RAM 16GB + PLACA MAE, 102S0480101",
+    "nome": "SUPER KIT UPGRADE AMD ZEN 2, PROCESSADOR AMD RYZEN 7 4700S + MEMORIA RAM 16GB + PLACA MAE, 102S0480101",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2034.93",
+          "data": "2021-10-13T23:32:15.751Z"
+        },
+        {
+          "valor": "1899.00",
+          "data": "2021-10-13T02:03:24.219Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/18896/kit-upgrade-amd-cardinal-zen-2-processador-amd-4700s-36ghz-turbo-40ghz-memoria-ram-16gb",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR DEEPCOOL GAMMAXX 400 XT, RAINBOW, 120MM, INTEL-AMD, DP-MCH4-GMX400-XT",
+    "nome": "COOLER PARA PROCESSADOR DEEPCOOL GAMMAXX 400 XT, RAINBOW, 120MM, INTEL-AMD, DP-MCH4-GMX400-XT",
+    "preco": {
+      "preco": [
+        {
+          "valor": "159.90",
+          "data": "2021-10-13T02:03:24.219Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/18983/cooler-para-processador-deepcool-gammaxx-400-xt-rgb-120mm-intel-amd-dp-mch4-gmx400-xt",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR SCYTHE MUGEN 5 ARGB PLUS 120MM, INTEL-AMD, SCMG-5102AR",
+    "nome": "COOLER PARA PROCESSADOR SCYTHE MUGEN 5 ARGB PLUS 120MM, INTEL-AMD, SCMG-5102AR",
+    "preco": {
+      "preco": [
+        {
+          "valor": "485.90",
+          "data": "2021-10-13T02:03:24.220Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/12655/cooler-para-processador-scythe-mugen-5-argb-plus-120mm-intel-amd-scmg-5102ar",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR SCYTHE FUMA 2 120MM, INTEL-AMD, SCFM-2000",
+    "nome": "COOLER PARA PROCESSADOR SCYTHE FUMA 2 120MM, INTEL-AMD, SCFM-2000",
+    "preco": {
+      "preco": [
+        {
+          "valor": "375.00",
+          "data": "2021-10-13T02:03:24.220Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/11859/cooler-para-processador-scythe-fuma-2-120mm-intel-amd-scfm-2000",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR T-DAGGER IDUN B, 90MM, LED BLUE, INTEL-AMD, T-GC9109 B",
+    "nome": "COOLER PARA PROCESSADOR T-DAGGER IDUN B, 90MM, LED BLUE, INTEL-AMD, T-GC9109 B",
+    "preco": {
+      "preco": [
+        {
+          "valor": "55.00",
+          "data": "2021-10-13T02:03:24.220Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19460/cooler-para-processador-t-dagger-idun-b-90mm-led-blue-intel-amd-t-gc9109-b",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR T-DAGGER IDUN R, 90MM, LED RED, INTEL-AMD, T-GC9109 R",
+    "nome": "COOLER PARA PROCESSADOR T-DAGGER IDUN R, 90MM, LED RED, INTEL-AMD, T-GC9109 R",
+    "preco": {
+      "preco": [
+        {
+          "valor": "59.00",
+          "data": "2021-10-13T02:03:24.220Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19461/cooler-para-processador-t-dagger-idun-r-90mm-led-red-intel-amd-t-gc9109-r",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR T-DAGGER VITI, 90MM, INTEL-AMD, T-GC9110",
+    "nome": "COOLER PARA PROCESSADOR T-DAGGER VITI, 90MM, INTEL-AMD, T-GC9110",
+    "preco": {
+      "preco": [
+        {
+          "valor": "39.90",
+          "data": "2021-10-13T02:03:24.220Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19463/cooler-para-processador-t-dagger-viti-90mm-intel-amd-t-gc9110",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR REDRAGON ODIN, RAINBOW, 140MM, INTEL-AMD, CC-9202",
+    "nome": "COOLER PARA PROCESSADOR REDRAGON ODIN, RAINBOW, 140MM, INTEL-AMD, CC-9202",
+    "preco": {
+      "preco": [
+        {
+          "valor": "155.00",
+          "data": "2021-10-13T02:03:24.220Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19433/cooler-para-processador-redragon-odin-rainbow-140mm-intel-amd-cc-9202",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR REDRAGON TYR, 120MM, LED BLUE, INTEL-AMD, CC-9104B",
+    "nome": "COOLER PARA PROCESSADOR REDRAGON TYR, 120MM, LED BLUE, INTEL-AMD, CC-9104B",
+    "preco": {
+      "preco": [
+        {
+          "valor": "99.00",
+          "data": "2021-10-13T02:03:24.220Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19450/cooler-para-processador-redragon-tyr-120mm-led-blue-intel-amd-cc-9104b",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR REDRAGON TYR, 120MM, RAINBOW, INTEL-AMD, CC-9104",
+    "nome": "COOLER PARA PROCESSADOR REDRAGON TYR, 120MM, RAINBOW, INTEL-AMD, CC-9104",
+    "preco": {
+      "preco": [
+        {
+          "valor": "109.00",
+          "data": "2021-10-13T02:03:24.220Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19453/cooler-para-processador-redragon-tyr-120mm-rainbow-intel-amd-cc-9104",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR REDRAGON TYR, 120MM, LED RED, INTEL-AMD, CC-9104R",
+    "nome": "COOLER PARA PROCESSADOR REDRAGON TYR, 120MM, LED RED, INTEL-AMD, CC-9104R",
+    "preco": {
+      "preco": [
+        {
+          "valor": "99.00",
+          "data": "2021-10-13T02:03:24.220Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19454/cooler-para-processador-redragon-tyr-120mm-led-red-intel-amd-cc-9104r",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR SCYTHE MUGEN 5 BLACK EDITION, 120MM, INTEL-AMD, SCMG-5100BE",
+    "nome": "COOLER PARA PROCESSADOR SCYTHE MUGEN 5 BLACK EDITION, 120MM, INTEL-AMD, SCMG-5100BE",
+    "preco": {
+      "preco": [
+        {
+          "valor": "469.90",
+          "data": "2021-10-13T02:03:24.220Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19395/cooler-para-processador-scythe-mugen-5-black-edition-120mm-intel-amd-scmg-5100be",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR DEEPCOOL AS500, ARGB, 120MM, INTEL- AMD, R-AS500-BKNLMN-G",
+    "nome": "COOLER PARA PROCESSADOR DEEPCOOL AS500, ARGB, 120MM, INTEL- AMD, R-AS500-BKNLMN-G",
+    "preco": {
+      "preco": [
+        {
+          "valor": "439.90",
+          "data": "2021-10-13T02:03:24.220Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19397/cooler-para-processador-deepcool-as500-argb-120mm-intel-amd-r-as500-bknlmn-g",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PROCESSADOR GAMDIAS BOREAS E1-410, RGB, 120MM, INTEL-AMD, BOREAS E1-410",
+    "nome": "COOLER PROCESSADOR GAMDIAS BOREAS E1-410, RGB, 120MM, INTEL-AMD, BOREAS E1-410",
+    "preco": {
+      "preco": [
+        {
+          "valor": "119.90",
+          "data": "2021-10-13T02:03:24.220Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/18975/cooler-gamdias-boreas-e1-410-rgb-120mm-intel-amd-boreas-e1-410",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR DEEPCOOL GAMMAXX 400 EX, 120MM, INTEL-AMD, DP-MCH4-GMX400EX",
+    "nome": "COOLER PARA PROCESSADOR DEEPCOOL GAMMAXX 400 EX, 120MM, INTEL-AMD, DP-MCH4-GMX400EX",
+    "preco": {
+      "preco": [
+        {
+          "valor": "199.90",
+          "data": "2021-10-13T02:03:24.220Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/18982/cooler-para-processador-deepcool-gammaxx-400-ex-120mm-intel-amd-dp-mch4-gmx400ex",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR GAMEMAX, GAMMA 500, RGB RAINBOW, 120MM, INTEL/AMD, GMX GAMMA 500",
+    "nome": "COOLER PARA PROCESSADOR GAMEMAX, GAMMA 500, RGB RAINBOW, 120MM, INTEL/AMD, GMX GAMMA 500",
+    "preco": {
+      "preco": [
+        {
+          "valor": "199.90",
+          "data": "2021-10-13T02:03:24.220Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/15605/cooler-para-processador-gamemax-gamma-500-rgb-rainbow-120mm-intelamd-gmx-gamma-500",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR GAMEMAX GAMMA 300, RAINBOW, 120MM INTEL-AMD, GMX GAMMA 300",
+    "nome": "COOLER PARA PROCESSADOR GAMEMAX GAMMA 300, RAINBOW, 120MM INTEL-AMD, GMX GAMMA 300",
+    "preco": {
+      "preco": [
+        {
+          "valor": "169.90",
+          "data": "2021-10-13T02:03:24.220Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/15604/cooler-para-processador-gamemax-gamma-300-125mm-intel-amd",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR SCYTHE, BIG SHURIKEN 3, RGB, 120MM, INTEL-AMD",
+    "nome": "COOLER PARA PROCESSADOR SCYTHE, BIG SHURIKEN 3, RGB, 120MM, INTEL-AMD",
+    "preco": {
+      "preco": [
+        {
+          "valor": "319.90",
+          "data": "2021-10-13T02:03:24.220Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/15419/cooler-para-processador-scythe-big-shuriken-rgb-122mm-intel-amd",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR SCYTHE, BIG SHURIKEN 2, 92MM, INTEL-AMD",
+    "nome": "COOLER PARA PROCESSADOR SCYTHE, BIG SHURIKEN 2, 92MM, INTEL-AMD",
+    "preco": {
+      "preco": [
+        {
+          "valor": "249.90",
+          "data": "2021-10-13T02:03:24.220Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/15420/cooler-para-processador-scythe-big-shuriken-2-rgb-120mm-intel-amd",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR DEEPCOOL GAMMAXX GT A-RGB, 120MM, INTEL- AMD, DP-MCH4-GMX-GT-ARGB",
+    "nome": "COOLER PARA PROCESSADOR DEEPCOOL GAMMAXX GT A-RGB, 120MM, INTEL- AMD, DP-MCH4-GMX-GT-ARGB",
+    "preco": {
+      "preco": [
+        {
+          "valor": "209.90",
+          "data": "2021-10-13T02:03:24.220Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/15041/cooler-para-processador-deepcool-gammax-gt-a-rgb-120mm-intel-amd-dp-mch4-gmx-gt-argb",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR SCYTHE MUGEN 5 RGB EDITION 120MM, INTEL-AMD, SCMG-5100BK",
+    "nome": "COOLER PARA PROCESSADOR SCYTHE MUGEN 5 RGB EDITION 120MM, INTEL-AMD, SCMG-5100BK",
+    "preco": {
+      "preco": [
+        {
+          "valor": "389.00",
+          "data": "2021-10-13T02:03:24.220Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/12656/cooler-para-processador-scythe-mugen-5-rgb-edition-120mm-intel-amd-scmg-5100bk",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR SCYTHE CHOTEN 120MM, INTEL-AMD, SCCT-1000",
+    "nome": "COOLER PARA PROCESSADOR SCYTHE CHOTEN 120MM, INTEL-AMD, SCCT-1000",
+    "preco": {
+      "preco": [
+        {
+          "valor": "259.90",
+          "data": "2021-10-13T02:03:24.220Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/11871/cooler-para-processador-scythe-choten-120mm-intel-amd-scct-1000",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR SCYTHE BIG SHURIKEN 3 120MM, INTEL-AMD, SCBSK-3000",
+    "nome": "COOLER PARA PROCESSADOR SCYTHE BIG SHURIKEN 3 120MM, INTEL-AMD, SCBSK-3000",
+    "preco": {
+      "preco": [
+        {
+          "valor": "309.00",
+          "data": "2021-10-13T02:03:24.220Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/11872/cooler-para-processador-scythe-big-shuriken-3-120mm-intel-amd-scbsk-3000",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR SCYTHE KOTETSU MARK 2, 120MM, INTEL-AMD, SCKTT-2000",
+    "nome": "COOLER PARA PROCESSADOR SCYTHE KOTETSU MARK 2, 120MM, INTEL-AMD, SCKTT-2000",
+    "preco": {
+      "preco": [
+        {
+          "valor": "285.00",
+          "data": "2021-10-13T02:03:24.220Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/11855/cooler-para-processador-scythe-kotetsu-2-120mm-intel-scktt-2000",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR SCYTHE MUGEN 5 REV.B 120MM, INTEL-AMD, SCMG-5100",
+    "nome": "COOLER PARA PROCESSADOR SCYTHE MUGEN 5 REV.B 120MM, INTEL-AMD, SCMG-5100",
+    "preco": {
+      "preco": [
+        {
+          "valor": "349.90",
+          "data": "2021-10-13T02:03:24.220Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/11857/cooler-para-processador-scythe-mugen-5-revb-120mm-intel-amd-scmg-5100",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR SCYTHE NINJA 5 120MM, INTEL-AMD, SCNJ-5000",
+    "nome": "COOLER PARA PROCESSADOR SCYTHE NINJA 5 120MM, INTEL-AMD, SCNJ-5000",
+    "preco": {
+      "preco": [
+        {
+          "valor": "399.90",
+          "data": "2021-10-13T02:03:24.220Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/11858/cooler-para-processador-scythe-ninja-5-120mm-intel-amd-scnj-5000",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD RYZEN 5 3500 4.1GHZ + MEMORIA DDR4",
+    "nome": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD RYZEN 5 3500 4.1GHZ + MEMORIA DDR4",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1666.45",
+          "data": "2021-10-13T02:03:24.220Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/17737/upgrade737",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD RYZEN 5 PRO 2400GE 3.2GHZ",
+    "nome": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD RYZEN 5 PRO 2400GE 3.2GHZ",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1769.69",
+          "data": "2021-10-13T02:03:24.220Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/17723/upgrade724",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD 5 3500 4.1GHZ",
+    "nome": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD 5 3500 4.1GHZ",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1288.00",
+          "data": "2021-10-13T02:03:24.220Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/17724/upgrade725",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD RYZEN 5 PRO 2400GE 3.2GHZ + MEMORIA",
+    "nome": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD RYZEN 5 PRO 2400GE 3.2GHZ + MEMORIA",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2018.70",
+          "data": "2021-10-13T02:03:24.220Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/17736/upgrade736",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD RYZEN 5 PRO 2400GE 3.2GHZ + MEMORIA",
+    "nome": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD RYZEN 5 PRO 2400GE 3.2GHZ + MEMORIA",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2168.68",
+          "data": "2021-10-13T02:03:24.220Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/17740/upgrade740",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD 5 3500 4.1GHZ + MEMORIA DDR4 8GB 30",
+    "nome": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD 5 3500 4.1GHZ + MEMORIA DDR4 8GB 30",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1863.35",
+          "data": "2021-10-13T02:03:24.220Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/17741/upgrade741",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD RYZEN 5 PRO 2400GE 3.2GHZ + MEMORIA",
+    "nome": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD RYZEN 5 PRO 2400GE 3.2GHZ + MEMORIA",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2267.70",
+          "data": "2021-10-13T02:03:24.220Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/17758/upgrade744",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD 5 3500 4.1GHZ + MEMORIA DDR4 8GB 30",
+    "nome": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD 5 3500 4.1GHZ + MEMORIA DDR4 8GB 30",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1915.45",
+          "data": "2021-10-13T02:03:24.220Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/17759/upgrade745",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD RYZEN 5 PRO 2400GE 3.2GHZ + SSD 120G",
+    "nome": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD RYZEN 5 PRO 2400GE 3.2GHZ + SSD 120G",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1919.68",
+          "data": "2021-10-13T02:03:24.220Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/17727/upgrade728",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD 5 3500 4.1GHZ + SSD 120GB",
+    "nome": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD 5 3500 4.1GHZ + SSD 120GB",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1484.90",
+          "data": "2021-10-13T02:03:24.220Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/17728/upgrade729",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD RYZEN 5 PRO 2400GE 3.2GHZ + SSD 240G",
+    "nome": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD RYZEN 5 PRO 2400GE 3.2GHZ + SSD 240G",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2018.70",
+          "data": "2021-10-13T02:03:24.220Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/17731/upgrade732",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I9 10900K, 3.70GHZ (5.30GHZ TURBO), 10ª GERACAO, 10-CORES 20-THREADS, LGA 1200,",
+    "nome": "PROCESSADOR INTEL CORE I9 10900K, 3.70GHZ (5.30GHZ TURBO), 10ª GERACAO, 10-CORES 20-THREADS, LGA 1200,",
+    "preco": {
+      "preco": [
+        {
+          "valor": "3329.00",
+          "data": "2021-10-13T23:32:15.747Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/13700/processador-intel-core-i9-10900k-370ghz-530ghz-turbo-10-geracao-10-cores-20-threads-lga-1200-bx8070110900k",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR GAMEMAX GAMMA 200, RAINBOW, 125MM, INTEL-AMD",
+    "nome": "COOLER PARA PROCESSADOR GAMEMAX GAMMA 200, RAINBOW, 125MM, INTEL-AMD",
+    "preco": {
+      "preco": [
+        {
+          "valor": "69.00",
+          "data": "2021-10-13T23:32:15.748Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/14614/cooler-para-processador-gamemax-gamma-200-125mm-intel-amd",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR COOLER MASTER G200P (COM CONTROLADOR), 92MM, MAP-G2PN-126PC-R1",
+    "nome": "COOLER PARA PROCESSADOR COOLER MASTER G200P (COM CONTROLADOR), 92MM, MAP-G2PN-126PC-R1",
+    "preco": {
+      "preco": [
+        {
+          "valor": "199.90",
+          "data": "2021-10-13T23:32:15.748Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/13518/cooler-para-processador-cooler-master-g200p-com-controlador-92mm-map-g2pn-126pc-r1",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR COOLER MASTER MASTERAIR G100M, RGB 92MM, INTEL-AMD, MAM-G1CN-924PC-R1",
+    "nome": "COOLER PARA PROCESSADOR COOLER MASTER MASTERAIR G100M, RGB 92MM, INTEL-AMD, MAM-G1CN-924PC-R1",
+    "preco": {
+      "preco": [
+        {
+          "valor": "309.90",
+          "data": "2021-10-13T23:32:15.748Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/9581/cooler-master-masterair-g100m-rgb-mam-g1cn-924pc-r1-intelamd",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I5 10400F 2.90GHZ + COOLER GAMEMAX GAMMA 200",
+    "nome": "PROCESSADOR INTEL CORE I5 10400F 2.90GHZ + COOLER GAMEMAX GAMMA 200",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1149.81",
+          "data": "2021-10-13T23:32:15.748Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19366/processador-intel-core-i5-10400f-290ghz-cooler-gamemax-gamma-200",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "KIT UPGRADE AMD CARDINAL ZEN 2, PROCESSADOR AMD 4700S 3.6GHZ (TURBO 4.0GHZ), PLACA DE VIDEO RX 550 2GB,",
+    "nome": "KIT UPGRADE AMD CARDINAL ZEN 2, PROCESSADOR AMD 4700S 3.6GHZ (TURBO 4.0GHZ), PLACA DE VIDEO RX 550 2GB,",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2721.36",
+          "data": "2021-10-13T23:32:15.748Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/18898/kit-upgrade-amd-cardinal-zen-2-processador-amd-4700s-36ghz-turbo-40ghz-placa-de-video-rx-550-2gb-memoria-ram-16gb",
     "keyword": [
       "processador"
     ]

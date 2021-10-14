@@ -12,6 +12,7 @@ async function startFacebook(OldProds, fileNameOld, FileNameNew, ArrURL) {
 }
 
 const getdataFuncFacebook =  async function getdataFacebook(page, item) {
+  await scrollDown(5,page)
   return page.evaluate((item) => {
     return Array.from(document.querySelectorAll(".b3onmgus.ph5uu5jm.g5gj957u.buofh1pr.cbu4d94t.rj1gh0hx.j83agx80.rq0escxv.fnqts5cd.fo9g3nie.n1dktuyu.e5nlhep0.ecm0bbzt")).reduce((accumulator, currentValue) => {
       if (
@@ -35,6 +36,25 @@ const getdataFuncFacebook =  async function getdataFacebook(page, item) {
       }, []);
     }, item);
   };
+
+  async function scrollDown(qtd,page){
+    await page.evaluate(async (qtd) => {
+        await new Promise((resolve, reject) => {
+            var totalvezes = 0;
+            var distance = 1500;
+            var timer = setInterval(() => {
+                window.scrollBy(0, distance);
+                totalvezes += 1;
+
+                if(totalvezes >= qtd){
+                    clearInterval(timer);
+                    resolve();
+                }
+            }, 1500);
+        });
+    },qtd);
+}
+
 
 
   module.exports = { getdataFuncFacebook,startFacebook };

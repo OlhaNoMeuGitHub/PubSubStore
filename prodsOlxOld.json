@@ -1597,6 +1597,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "",
+          "data": "2021-10-13T23:35:03.932Z"
+        },
+        {
           "valor": "2.800",
           "data": "2021-10-09T20:12:49.825Z"
         }
@@ -2817,6 +2821,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "",
+          "data": "2021-10-13T23:35:03.932Z"
+        },
+        {
           "valor": "3500",
           "data": "2021-10-12T13:01:52.232Z"
         },
@@ -3289,6 +3297,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "550",
+          "data": "2021-10-13T23:35:03.932Z"
+        },
+        {
           "valor": "599",
           "data": "2021-10-12T13:01:52.226Z"
         }
@@ -3537,6 +3549,185 @@
     "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/violoncelo-4-4-934531620",
     "keyword": [
       "violoncelo"
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-tokai-d2-943321846",
+    "nome": "Orgao eletronico Tokai D2",
+    "preco": {
+      "preco": [
+        {
+          "valor": "3450",
+          "data": "2021-10-13T02:05:18.458Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-tokai-d2-943321846",
+    "keyword": [
+      "orgao",
+      "eletrico"
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-usado-unico-dono-943542809",
+    "nome": "Orgao eletronico usado - unico dono ",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1100",
+          "data": "2021-10-13T23:35:03.923Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-usado-unico-dono-943542809",
+    "keyword": [
+      "orgao",
+      "eletrico"
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-digital-acordes-preto-laca-2d-usado-12x-s-juros-943505738",
+    "nome": "Orgao Eletronico Digital Acordes Preto Laca 2d - Usado! 12x s/ juros",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2999",
+          "data": "2021-10-13T23:35:03.923Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-digital-acordes-preto-laca-2d-usado-12x-s-juros-943505738",
+    "keyword": [
+      "orgao",
+      "eletrico"
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/pedal-trio-band-creator-looper-digitech-na-caixa-943769786",
+    "nome": "Pedal TRIO+ Band Creator + Looper DigiTech - Na Caixa.",
+    "preco": {
+      "preco": [
+        {
+          "valor": "800",
+          "data": "2021-10-13T23:35:03.923Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/pedal-trio-band-creator-looper-digitech-na-caixa-943769786",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/pedal-baixo-fuhrmann-943708182",
+    "nome": "pedal baixo fuhrmann",
+    "preco": {
+      "preco": [
+        {
+          "valor": "450",
+          "data": "2021-10-13T23:35:03.923Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/pedal-baixo-fuhrmann-943708182",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/direct-box-vendo-troco-943422813",
+    "nome": "Direct Box -?Vendo/troco",
+    "preco": {
+      "preco": [
+        {
+          "valor": "380",
+          "data": "2021-10-13T23:35:03.923Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/direct-box-vendo-troco-943422813",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-santos-madeira-do-943766862",
+    "nome": "Clarinete santos madeira do",
+    "preco": {
+      "preco": [
+        {
+          "valor": "850",
+          "data": "2021-10-13T23:35:03.923Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-santos-madeira-do-943766862",
+    "keyword": [
+      "clarinete"
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-17-chaves-douradas-sib-mol-nova-completa-promocao-peca-de-vitrine-a-paz-923460603",
+    "nome": "Clarinete 17 chaves douradas sib-mol nova completa promocao peca de vitrine A PAZ",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1786",
+          "data": "2021-10-13T23:35:03.923Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-17-chaves-douradas-sib-mol-nova-completa-promocao-peca-de-vitrine-a-paz-923460603",
+    "keyword": [
+      "clarinete"
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-jupiter-original-943562622",
+    "nome": "Clarinete Jupiter Original",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1300",
+          "data": "2021-10-13T23:35:03.923Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-jupiter-original-943562622",
+    "keyword": [
+      "clarinete"
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-em-sol-sistema-oehler-928542854",
+    "nome": "Clarinete em Sol sistema oehler ",
+    "preco": {
+      "preco": [
+        {
+          "valor": "500",
+          "data": "2021-10-13T23:35:03.923Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-em-sol-sistema-oehler-928542854",
+    "keyword": [
+      "clarinete"
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-yamaha-custom-csgi-943375325",
+    "nome": "Clarinete Yamaha Custom CSGI ",
+    "preco": {
+      "preco": [
+        {
+          "valor": "13000",
+          "data": "2021-10-13T23:35:03.923Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-yamaha-custom-csgi-943375325",
+    "keyword": [
+      "clarinete"
     ]
   }
 ]

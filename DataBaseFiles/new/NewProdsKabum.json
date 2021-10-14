@@ -1,32 +1,144 @@
 [
   {
-    "id": "Processador Intel Core i5-9600KF Coffee Lake Refresh, Cache 9MB, 3.7GHz (4.6GHz Max Turbo), LGA 1151, Sem Video - BX80684I59600KF",
-    "nome": "Processador Intel Core i5-9600KF Coffee Lake Refresh, Cache 9MB, 3.7GHz (4.6GHz Max Turbo), LGA 1151, Sem Video - BX80684I59600KF",
+    "id": "Placa-Mae Asus Prime H410M-A, Intel LGA 1200, mATX, DDR4",
+    "nome": "Placa-Mae Asus Prime H410M-A, Intel LGA 1200, mATX, DDR4",
     "preco": {
       "preco": [
         {
-          "valor": "1199.90",
-          "data": "2021-10-12T20:14:21.943Z"
+          "valor": "679.90",
+          "data": "2021-10-13T23:35:01.118Z"
         }
       ]
     },
-    "url": "https://www.kabum.com.br/produto/102809/processador-intel-core-i5-9600kf-coffee-lake-refresh-cache-9mb-3-7ghz-4-6ghz-max-turbo-lga-1151-sem-video-bx80684i59600kf",
+    "url": "https://www.kabum.com.br/produto/112886/placa-mae-asus-prime-h410m-a-intel-lga-1200-matx-ddr4",
     "keyword": [
-      "processador"
+      ""
     ]
   },
   {
-    "id": "Placa-Mae Gigabyte Z390 M Gaming, Intel LGA 1151, mATX, DDR4",
-    "nome": "Placa-Mae Gigabyte Z390 M Gaming, Intel LGA 1151, mATX, DDR4",
+    "id": "Placa-Mae Asus Prime H410M-D, Intel LGA 1200, mATX, DDR4",
+    "nome": "Placa-Mae Asus Prime H410M-D, Intel LGA 1200, mATX, DDR4",
     "preco": {
       "preco": [
         {
-          "valor": "1069.90",
-          "data": "2021-10-12T20:14:21.943Z"
+          "valor": "689.90",
+          "data": "2021-10-13T23:35:01.118Z"
         }
       ]
     },
-    "url": "https://www.kabum.com.br/produto/99107/placa-mae-gigabyte-z390-m-gaming-intel-lga-1151-matx-ddr4",
+    "url": "https://www.kabum.com.br/produto/112888/placa-mae-asus-prime-h410m-d-intel-lga-1200-matx-ddr4",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa-Mae ASRock B450M Steel Legend, AMD AM4, mATX, DDR4 - 90-MXB9Y0-A0BAYZ",
+    "nome": "Placa-Mae ASRock B450M Steel Legend, AMD AM4, mATX, DDR4 - 90-MXB9Y0-A0BAYZ",
+    "preco": {
+      "preco": [
+        {
+          "valor": "709.90",
+          "data": "2021-10-13T23:35:01.118Z"
+        }
+      ]
+    },
+    "url": "https://www.kabum.com.br/produto/100672/placa-mae-asrock-b450m-steel-legend-amd-am4-matx-ddr4-90-mxb9y0-a0bayz",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa-Mae Asus Prime A320M-K/BR, AMD AM4, mATX, DDR4",
+    "nome": "Placa-Mae Asus Prime A320M-K/BR, AMD AM4, mATX, DDR4",
+    "preco": {
+      "preco": [
+        {
+          "valor": "429.90",
+          "data": "2021-10-13T23:35:01.118Z"
+        }
+      ]
+    },
+    "url": "https://www.kabum.com.br/produto/93427/placa-mae-asus-prime-a320m-k-br-amd-am4-matx-ddr4",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa-Mae Gigabyte GA-A320M-S2H, AMD AM4, mATX, DDR4",
+    "nome": "Placa-Mae Gigabyte GA-A320M-S2H, AMD AM4, mATX, DDR4",
+    "preco": {
+      "preco": [
+        {
+          "valor": "449.90",
+          "data": "2021-10-13T23:35:01.118Z"
+        }
+      ]
+    },
+    "url": "https://www.kabum.com.br/produto/94709/placa-mae-gigabyte-ga-a320m-s2h-amd-am4-matx-ddr4",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa-Mae Asus TUF Gaming B450M-Plus II, AMD B450, mATX, DDR4",
+    "nome": "Placa-Mae Asus TUF Gaming B450M-Plus II, AMD B450, mATX, DDR4",
+    "preco": {
+      "preco": [
+        {
+          "valor": "899.90",
+          "data": "2021-10-13T23:35:01.118Z"
+        }
+      ]
+    },
+    "url": "https://www.kabum.com.br/produto/128437/placa-mae-asus-tuf-gaming-b450m-plus-ii-amd-b450-matx-ddr4",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "SSD Adata XPG Gammix S11 Pro, 256GB, M.2 NVMe, Leitura 3500MB/s, Gravacao 1200MB/s - AGAMMIXS11P-256GT-C",
+    "nome": "SSD Adata XPG Gammix S11 Pro, 256GB, M.2 NVMe, Leitura 3500MB/s, Gravacao 1200MB/s - AGAMMIXS11P-256GT-C",
+    "preco": {
+      "preco": [
+        {
+          "valor": "399.90",
+          "data": "2021-10-13T23:35:01.119Z"
+        }
+      ]
+    },
+    "url": "https://www.kabum.com.br/produto/100945/ssd-adata-xpg-gammix-s11-pro-256gb-m-2-nvme-leitura-3500mb-s-gravacao-1200mb-s-agammixs11p-256gt-c",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "SSD Kingston KC2500, 250GB, M.2 NVMe, Leitura 3500MB/s, Gravacao 1200MB/s - SKC2500M8/250G",
+    "nome": "SSD Kingston KC2500, 250GB, M.2 NVMe, Leitura 3500MB/s, Gravacao 1200MB/s - SKC2500M8/250G",
+    "preco": {
+      "preco": [
+        {
+          "valor": "379.90",
+          "data": "2021-10-13T23:35:01.119Z"
+        }
+      ]
+    },
+    "url": "https://www.kabum.com.br/produto/114413/ssd-kingston-kc2500-250gb-m-2-nvme-leitura-3500mb-s-gravacao-1200mb-s-skc2500m8-250g",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "SSD XPG SX8200 Pro, 256GB, M.2, PCIe, NVMe, Leituras: 3500Mb/s e Gravacoes: 1200Mb/s - ASX8200PNP-256GT-C",
+    "nome": "SSD XPG SX8200 Pro, 256GB, M.2, PCIe, NVMe, Leituras: 3500Mb/s e Gravacoes: 1200Mb/s - ASX8200PNP-256GT-C",
+    "preco": {
+      "preco": [
+        {
+          "valor": "349.90",
+          "data": "2021-10-13T23:35:01.119Z"
+        }
+      ]
+    },
+    "url": "https://www.kabum.com.br/produto/110711/ssd-xpg-sx8200-pro-256gb-m-2-pcie-nvme-leituras-3500mb-s-e-gravacoes-1200mb-s-asx8200pnp-256gt-c",
     "keyword": [
       ""
     ]

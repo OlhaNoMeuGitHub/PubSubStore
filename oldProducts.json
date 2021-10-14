@@ -869,6 +869,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "1599.99",
+          "data": "2021-10-13T23:35:01.436Z"
+        },
+        {
           "valor": "1439.99",
           "data": "2021-10-12T20:14:31.765Z"
         },
@@ -1012,6 +1016,10 @@
     "nome": "Smartphone Galaxy A01 Core - Preto",
     "preco": {
       "preco": [
+        {
+          "valor": "649.99",
+          "data": "2021-10-13T23:35:01.435Z"
+        },
         {
           "valor": "584.99",
           "data": "2021-10-12T20:14:31.764Z"
@@ -1932,6 +1940,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "287.99",
+          "data": "2021-10-13T02:05:07.153Z"
+        },
+        {
           "valor": "229.98",
           "data": "2021-10-09T20:13:03.781Z"
         }
@@ -1948,6 +1960,10 @@
     "nome": "Lampada LED Bulbo 9W Branco Quente Bivolt - Gaya",
     "preco": {
       "preco": [
+        {
+          "valor": "8.95",
+          "data": "2021-10-13T02:05:07.153Z"
+        },
         {
           "valor": "8.06",
           "data": "2021-10-09T20:13:03.781Z"
@@ -2624,6 +2640,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "979.99",
+          "data": "2021-10-13T23:35:01.436Z"
+        },
+        {
           "valor": "734.99",
           "data": "2021-10-09T20:13:03.781Z"
         }
@@ -2764,6 +2784,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "1359.20",
+          "data": "2021-10-13T23:35:01.436Z"
+        },
+        {
           "valor": "1223.28",
           "data": "2021-10-12T20:14:31.765Z"
         },
@@ -2801,6 +2825,10 @@
     "nome": "Smartphone Samsung Galaxy M31 - Azul",
     "preco": {
       "preco": [
+        {
+          "valor": "1499.99",
+          "data": "2021-10-13T23:35:01.435Z"
+        },
         {
           "valor": "1349.99",
           "data": "2021-10-12T20:14:31.764Z"
@@ -2979,6 +3007,10 @@
     "nome": "Passadeira a Vapor RI514 Philips Walita Easytouch Plus Rosa - 1600W",
     "preco": {
       "preco": [
+        {
+          "valor": "350.99",
+          "data": "2021-10-13T23:35:01.436Z"
+        },
         {
           "valor": "303.91",
           "data": "2021-10-12T20:14:31.765Z"
@@ -3620,6 +3652,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "1300.49",
+          "data": "2021-10-13T02:05:07.153Z"
+        },
+        {
           "valor": "999.99",
           "data": "2021-10-09T20:13:03.782Z"
         }
@@ -3831,6 +3867,10 @@
     "nome": "Geladeira/Refrigerador Brastemp Duplex 2 Portas BRE57 Frost Free 443L - Inox",
     "preco": {
       "preco": [
+        {
+          "valor": "3598.99",
+          "data": "2021-10-13T23:35:01.435Z"
+        },
         {
           "valor": "3299.99",
           "data": "2021-10-09T20:13:03.782Z"
@@ -5855,6 +5895,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "1999.99",
+          "data": "2021-10-13T23:35:01.436Z"
+        },
+        {
           "valor": "1799.99",
           "data": "2021-10-12T20:14:31.765Z"
         },
@@ -7386,6 +7430,74 @@
         {
           "valor": "1349.99",
           "data": "2021-10-12T13:01:57.285Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Fogaozinho Charmosa - Cotiplas 2034",
+    "nome": "Fogaozinho Charmosa - Cotiplas 2034",
+    "preco": {
+      "preco": [
+        {
+          "valor": "62.99",
+          "data": "2021-10-13T23:35:01.430Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Aspirador de Po Philco Robo PAS07P Bivolt - Preto",
+    "nome": "Aspirador de Po Philco Robo PAS07P Bivolt - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "461.92",
+          "data": "2021-10-13T23:35:01.430Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Tablet Genesis Betty Boop 4GB Wi-fi Tela 7\" Android 4.0 Processador Cortex A9 1.2 GHz - Preto",
+    "nome": "Tablet Genesis Betty Boop 4GB Wi-fi Tela 7\" Android 4.0 Processador Cortex A9 1.2 GHz - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "413.99",
+          "data": "2021-10-13T23:35:01.430Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Fogao Consul 4 Bocas CFO4N Branco Bivolt",
+    "nome": "Fogao Consul 4 Bocas CFO4N Branco Bivolt",
+    "preco": {
+      "preco": [
+        {
+          "valor": "699.99",
+          "data": "2021-10-13T23:35:01.430Z"
         }
       ]
     },

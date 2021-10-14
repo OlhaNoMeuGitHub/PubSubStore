@@ -6,8 +6,8 @@ async function scrape(Itens, getdata, personalfunction = () => {}) {
   var result = [];
 
   for (let item of Itens) {
-    let confDebug = { headless: false , devtools: true }
-    const browser = await puppeteer.launch();
+    let confDebug = { headless: false }
+    const browser = await puppeteer.launch(confDebug);
     const page = await browser.newPage();
     await page.setUserAgent(
       "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
@@ -15,6 +15,10 @@ async function scrape(Itens, getdata, personalfunction = () => {}) {
     console.log(item.url);
     // page.on('console', message => console.log(`${message.type().substr(0, 3).toUpperCase()} ${message.text()}`));
     await page.goto(item.url, { waitUntil: "domcontentloaded", timeout: 0 });
+    await page.setViewport({
+      width: 1200,
+      height: 800
+  });
     await waitTillHTMLRendered(page)
     // const data = await page.content()
     prodsite = await getdata(page,item,personalfunction);
