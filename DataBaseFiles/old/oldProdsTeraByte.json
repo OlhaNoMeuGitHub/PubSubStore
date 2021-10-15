@@ -121,6 +121,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "749.00",
+          "data": "2021-10-14T23:31:42.676Z"
+        },
+        {
           "valor": "579.00",
           "data": "2021-10-12T14:11:43.723Z"
         }
@@ -136,6 +140,10 @@
     "nome": "PROCESSADOR AMD RYZEN 5 5600X 3.7GHZ (4.6GHZ TURBO), 6-CORES 12-THREADS, COOLER WRAITH STEALTH, AM4, 100-",
     "preco": {
       "preco": [
+        {
+          "valor": "1759.00",
+          "data": "2021-10-14T23:31:42.676Z"
+        },
         {
           "valor": "1799.90",
           "data": "2021-10-12T14:11:43.723Z"
@@ -369,6 +377,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "749.00",
+          "data": "2021-10-14T23:31:42.676Z"
+        },
+        {
           "valor": "799.00",
           "data": "2021-10-12T14:11:43.723Z"
         }
@@ -432,6 +444,10 @@
     "nome": "PROCESSADOR INTEL CORE I5 10400, 2.90GHZ, (4.30GHZ TURBO), 10ª GERACAO, 6-CORES 12-THREADS, LGA 1200,",
     "preco": {
       "preco": [
+        {
+          "valor": "1269.00",
+          "data": "2021-10-14T23:31:42.676Z"
+        },
         {
           "valor": "1169.00",
           "data": "2021-10-12T14:11:43.723Z"
@@ -640,6 +656,10 @@
     "nome": "PROCESSADOR INTEL CORE I5 11400 2.6GHZ (4.4GHZ TURBO), 11ª GERACAO, 6-CORES 12-THREADS, LGA 1200, BX80",
     "preco": {
       "preco": [
+        {
+          "valor": "1459.00",
+          "data": "2021-10-14T23:31:42.676Z"
+        },
         {
           "valor": "1389.00",
           "data": "2021-10-12T14:11:43.724Z"
@@ -1435,6 +1455,134 @@
       ]
     },
     "url": "https://www.terabyteshop.com.br/produto/18898/kit-upgrade-amd-cardinal-zen-2-processador-amd-4700s-36ghz-turbo-40ghz-placa-de-video-rx-550-2gb-memoria-ram-16gb",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD 5 3500 4.1GHZ + SSD 240GB",
+    "nome": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD 5 3500 4.1GHZ + SSD 240GB",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1537.00",
+          "data": "2021-10-14T00:37:30.484Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/17732/upgrade733",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I5 11400 2.6GHZ (4.4GHZ TURBO), 11ª GERACAO, 6-CORES 12-THREADS, LGA 1200, OEM,",
+    "nome": "PROCESSADOR INTEL CORE I5 11400 2.6GHZ (4.4GHZ TURBO), 11ª GERACAO, 6-CORES 12-THREADS, LGA 1200, OEM,",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1319.00",
+          "data": "2021-10-14T23:31:42.674Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19594/processador-intel-core-i5-11400-26ghz-44ghz-turbo-11-geracao-6-cores-12-threads-lga-1200-oem-bx8070811400",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I3 10100 3.60GHZ (4.30GHZ TURBO), 10ª GERACAO, 4-CORES 8-THREADS, LGA 1200, OEM",
+    "nome": "PROCESSADOR INTEL CORE I3 10100 3.60GHZ (4.30GHZ TURBO), 10ª GERACAO, 4-CORES 8-THREADS, LGA 1200, OEM",
+    "preco": {
+      "preco": [
+        {
+          "valor": "839.00",
+          "data": "2021-10-14T23:31:42.674Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19595/processador-intel-core-i3-10100-360ghz-430ghz-turbo-10-geracao-4-cores-8-threads-lga-1200-oem-bx8070110100",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I5 11400F 2.6GHZ (4.4GHZ TURBO), 11ª GERACAO, 6-CORES 12-THREADS, LGA 1200, OEM",
+    "nome": "PROCESSADOR INTEL CORE I5 11400F 2.6GHZ (4.4GHZ TURBO), 11ª GERACAO, 6-CORES 12-THREADS, LGA 1200, OEM",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1299.00",
+          "data": "2021-10-14T23:31:42.674Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19593/processador-intel-core-i5-11400f-26ghz-44ghz-turbo-11-geracao-6-cores-12-threads-lga-1200-oem-bx8070811400f",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR COOLER MASTER HYPER H410R, RGB, 92MM, INTEL-AMD, RR-H410-20PC-R1",
+    "nome": "COOLER PARA PROCESSADOR COOLER MASTER HYPER H410R, RGB, 92MM, INTEL-AMD, RR-H410-20PC-R1",
+    "preco": {
+      "preco": [
+        {
+          "valor": "155.90",
+          "data": "2021-10-14T23:31:42.674Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/13130/cooler-para-processador-cooler-master-hyper-h410r-rgb-92mm-intel-amd-rr-h410-20pc-r1",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR COOLER MASTER MASTERAIR MA621P TR4 EDITION, RGB, 120MM, AMD, MAP-D6PN-218PC-R2",
+    "nome": "COOLER PARA PROCESSADOR COOLER MASTER MASTERAIR MA621P TR4 EDITION, RGB, 120MM, AMD, MAP-D6PN-218PC-R2",
+    "preco": {
+      "preco": [
+        {
+          "valor": "339.90",
+          "data": "2021-10-14T23:31:42.674Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19579/cooler-para-processador-cooler-master-masterair-ma621p-tr4-edition-rgb-120mm-amd-map-d6pn-218pc-r2",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR COOLER MASTER HYPER 212 RGB 120MM, INTEL-AMD, RR-212S-20PC-R1",
+    "nome": "COOLER PARA PROCESSADOR COOLER MASTER HYPER 212 RGB 120MM, INTEL-AMD, RR-212S-20PC-R1",
+    "preco": {
+      "preco": [
+        {
+          "valor": "319.90",
+          "data": "2021-10-14T23:31:42.674Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/10573/cooler-master-hyper-212-rgb-black-edition-rr-212s-20pc-r1-intelamd",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I3 10100 3.6GHZ + COOLER T-DAGGER VITI",
+    "nome": "PROCESSADOR INTEL CORE I3 10100 3.6GHZ + COOLER T-DAGGER VITI",
+    "preco": {
+      "preco": [
+        {
+          "valor": "878.15",
+          "data": "2021-10-14T23:31:42.674Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19596/processador-intel-core-i3-10100-36ghz-cooler-t-dagger-viti",
     "keyword": [
       "processador"
     ]

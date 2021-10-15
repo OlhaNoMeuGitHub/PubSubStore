@@ -2483,6 +2483,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "1997.99",
+          "data": "2021-10-14T23:34:21.751Z"
+        },
+        {
           "valor": "1698.29",
           "data": "2021-10-09T20:13:03.781Z"
         }
@@ -2584,6 +2588,10 @@
     "nome": "Smartphone Samsung Galaxy M21s - Azul",
     "preco": {
       "preco": [
+        {
+          "valor": "1359.20",
+          "data": "2021-10-14T00:39:17.545Z"
+        },
         {
           "valor": "1223.28",
           "data": "2021-10-12T20:14:31.765Z"
@@ -3008,6 +3016,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "303.91",
+          "data": "2021-10-14T00:39:17.544Z"
+        },
+        {
           "valor": "350.99",
           "data": "2021-10-13T23:35:01.436Z"
         },
@@ -3290,6 +3302,10 @@
     "nome": "iPhone 5C 8GB Amarelo IOS 8 4G Camera 8MP - Apple",
     "preco": {
       "preco": [
+        {
+          "valor": "1169.99",
+          "data": "2021-10-14T23:34:21.752Z"
+        },
         {
           "valor": "299.90",
           "data": "2021-10-09T20:13:03.782Z"
@@ -3867,6 +3883,10 @@
     "nome": "Geladeira/Refrigerador Brastemp Duplex 2 Portas BRE57 Frost Free 443L - Inox",
     "preco": {
       "preco": [
+        {
+          "valor": "3299.99",
+          "data": "2021-10-14T00:39:17.544Z"
+        },
         {
           "valor": "3598.99",
           "data": "2021-10-13T23:35:01.435Z"
@@ -7498,6 +7518,2114 @@
         {
           "valor": "699.99",
           "data": "2021-10-13T23:35:01.430Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Bandeja Quadrada com Alcas Tramontina Design Collection Laqueada Turquesa 40x40cm",
+    "nome": "Bandeja Quadrada com Alcas Tramontina Design Collection Laqueada Turquesa 40x40cm",
+    "preco": {
+      "preco": [
+        {
+          "valor": "179.77",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Capa para Celular Samsung S9 Clear View Standing Cover - Preto",
+    "nome": "Capa para Celular Samsung S9 Clear View Standing Cover - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "197.99",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Samsung Galaxy A7 Duos Dual Chip Desbloqueado Android 4.4 Tela 5.5\" 16GB Wi-Fi 4G Camera 13MP - Dourado",
+    "nome": "Smartphone Samsung Galaxy A7 Duos Dual Chip Desbloqueado Android 4.4 Tela 5.5\" 16GB Wi-Fi 4G Camera 13MP - Dourado",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1039.99",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Cd Player HD com Bluetooth Alpine CDE-Hd138BT Preto",
+    "nome": "Cd Player HD com Bluetooth Alpine CDE-Hd138BT Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1124.54",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Soundbar Samsung Hw-t550",
+    "nome": "Soundbar Samsung Hw-t550",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1049.99",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Capa para Celular Samsung S9+ Clear View Standing Cover - Preto",
+    "nome": "Capa para Celular Samsung S9+ Clear View Standing Cover - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "155.99",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Torneira para Banheiro Comando Duplo Quente/Frio Cromado NILO - Gaya",
+    "nome": "Torneira para Banheiro Comando Duplo Quente/Frio Cromado NILO - Gaya",
+    "preco": {
+      "preco": [
+        {
+          "valor": "186.99",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Trompa Dupla F/Bb - Niquelada - ref. 28617 6443 - Eastman",
+    "nome": "Trompa Dupla F/Bb - Niquelada - ref. 28617 6443 - Eastman",
+    "preco": {
+      "preco": [
+        {
+          "valor": "10052.09",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Caixa de Som Philco Go Speaker Pbs10btrg Bluetooth USB 10W Hands Free para Atendimento de Chamadas - Rosa",
+    "nome": "Caixa de Som Philco Go Speaker Pbs10btrg Bluetooth USB 10W Hands Free para Atendimento de Chamadas - Rosa",
+    "preco": {
+      "preco": [
+        {
+          "valor": "101.99",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Capa Protetora Clear Jelly Cover Galaxy A7 - Samsung",
+    "nome": "Capa Protetora Clear Jelly Cover Galaxy A7 - Samsung",
+    "preco": {
+      "preco": [
+        {
+          "valor": "49.49",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Sony Xperia Z3 Dual Desbloqueado Android 16gb 4g 20.7mp - Preto",
+    "nome": "Smartphone Sony Xperia Z3 Dual Desbloqueado Android 16gb 4g 20.7mp - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1199.99",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Samsung Galaxy J5 Duos Dual Chip Desbloqueado Android 5.1 Tela 5\" 16GB 4G Wi-Fi Camera 13MP - Preto",
+    "nome": "Smartphone Samsung Galaxy J5 Duos Dual Chip Desbloqueado Android 5.1 Tela 5\" 16GB 4G Wi-Fi Camera 13MP - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "826.19",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Castical Atlas 2530 Preto - Ana Maria",
+    "nome": "Castical Atlas 2530 Preto - Ana Maria",
+    "preco": {
+      "preco": [
+        {
+          "valor": "46.79",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Zenfone Asus 3 Zoom Dual Chip Android 6.0 Tela 5.5\" Qualcomm Snapdragon 32 GB 4G Wi-Fi Camera 12MP- Preto",
+    "nome": "Smartphone Zenfone Asus 3 Zoom Dual Chip Android 6.0 Tela 5.5\" Qualcomm Snapdragon 32 GB 4G Wi-Fi Camera 12MP- Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1499.99",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Quadro Porta Tampinhas de Cervejas Keep Calm 27x37x3cm Branco - Kapos",
+    "nome": "Quadro Porta Tampinhas de Cervejas Keep Calm 27x37x3cm Branco - Kapos",
+    "preco": {
+      "preco": [
+        {
+          "valor": "47.99",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Mouse Wireless Logitech M185 Vermelho",
+    "nome": "Mouse Wireless Logitech M185 Vermelho",
+    "preco": {
+      "preco": [
+        {
+          "valor": "107.09",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone LG Q6 Dual Chip Android 7.0 Tela 5.5\" Full Hd+ Octacore 32GB 4G Camera 13MP - Preto",
+    "nome": "Smartphone LG Q6 Dual Chip Android 7.0 Tela 5.5\" Full Hd+ Octacore 32GB 4G Camera 13MP - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "799.99",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone LG Q6 Plus Dual Chip Android 7.0 Tela 5.5\" Full Hd+ Snapdragon MSM8940 64GB 4G Camera 13MP - Rose Gold",
+    "nome": "Smartphone LG Q6 Plus Dual Chip Android 7.0 Tela 5.5\" Full Hd+ Snapdragon MSM8940 64GB 4G Camera 13MP - Rose Gold",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1124.99",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Capacete Street Artems Red 56 - Enox",
+    "nome": "Capacete Street Artems Red 56 - Enox",
+    "preco": {
+      "preco": [
+        {
+          "valor": "202.49",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Gorilla Yogi para Ipad 2 - Suporte Flexivel - Joby",
+    "nome": "Gorilla Yogi para Ipad 2 - Suporte Flexivel - Joby",
+    "preco": {
+      "preco": [
+        {
+          "valor": "179.99",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone LG G3 Beat Dual Chip Desbloqueado Android 4.4 Tela 5\" 8GB 3G Wi-Fi Camera 8MP - Dourado",
+    "nome": "Smartphone LG G3 Beat Dual Chip Desbloqueado Android 4.4 Tela 5\" 8GB 3G Wi-Fi Camera 8MP - Dourado",
+    "preco": {
+      "preco": [
+        {
+          "valor": "773.99",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Relogio Feminino Seculus Analogico Fashion 60663l0svns2k1 + Bolsa",
+    "nome": "Relogio Feminino Seculus Analogico Fashion 60663l0svns2k1 + Bolsa",
+    "preco": {
+      "preco": [
+        {
+          "valor": "110.92",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Bateria Eletronica Digital DDRUM DD3X Preto e Vermelho",
+    "nome": "Bateria Eletronica Digital DDRUM DD3X Preto e Vermelho",
+    "preco": {
+      "preco": [
+        {
+          "valor": "3775.27",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Case para Tablet Dell Duo Venue 7 Azul",
+    "nome": "Case para Tablet Dell Duo Venue 7 Azul",
+    "preco": {
+      "preco": [
+        {
+          "valor": "53.99",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone LG OpTimus 3D Max P720H Android 2.3 Tela 4.3\" 3G Wi-Fi Camera 5MP - Preto",
+    "nome": "Smartphone LG OpTimus 3D Max P720H Android 2.3 Tela 4.3\" 3G Wi-Fi Camera 5MP - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "841.49",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Samsung Galaxy S7 Desbloqueado Android 6.0 Tela 5,1\" 32GB 4G 12MP - Preto",
+    "nome": "Smartphone Samsung Galaxy S7 Desbloqueado Android 6.0 Tela 5,1\" 32GB 4G 12MP - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1469.99",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Samsung Galaxy S10+ 128GB Dual Chip Android 9.0 Tela 6.4¿ Octa-Core 4G Camera Tripla Traseira 12MP + 12MP + 16MP - Branco",
+    "nome": "Smartphone Samsung Galaxy S10+ 128GB Dual Chip Android 9.0 Tela 6.4¿ Octa-Core 4G Camera Tripla Traseira 12MP + 12MP + 16MP - Branco",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2543.39",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Relogio Monitor Cardiaco Speedo 58010G0EVNP1 Masculino Preto",
+    "nome": "Relogio Monitor Cardiaco Speedo 58010G0EVNP1 Masculino Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "115.59",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Capa para Celular Samsung S9+ LED View Cover - Preto",
+    "nome": "Capa para Celular Samsung S9+ LED View Cover - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "161.99",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Asus Zenfone 3 Dual Chip Android 6 Tela 5.2\" 32GB 4G Camera 16MP - Preto Safira",
+    "nome": "Smartphone Asus Zenfone 3 Dual Chip Android 6 Tela 5.2\" 32GB 4G Camera 16MP - Preto Safira",
+    "preco": {
+      "preco": [
+        {
+          "valor": "799.99",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone LG OpTimus G Desbloqueado Android 4.1 Tela 4.7\" 32GB 4G Wi-Fi Camera 13MP - Branco",
+    "nome": "Smartphone LG OpTimus G Desbloqueado Android 4.1 Tela 4.7\" 32GB 4G Wi-Fi Camera 13MP - Branco",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1070.99",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Carregador sem Fio Premium AFC 2 Posicoes Preto - Samsung",
+    "nome": "Carregador sem Fio Premium AFC 2 Posicoes Preto - Samsung",
+    "preco": {
+      "preco": [
+        {
+          "valor": "287.99",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Motorola Moto G 3ª Geracao Dual Chip Desbloqueado Android 5.1 Tela HD 5\" Memoria Interna 8GB 4G Camera 13MP Processador Quad Core 1.4GHz - Preto",
+    "nome": "Smartphone Motorola Moto G 3ª Geracao Dual Chip Desbloqueado Android 5.1 Tela HD 5\" Memoria Interna 8GB 4G Camera 13MP Processador Quad Core 1.4GHz - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "881.99",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Boneco Toy Stoy 3 Buzz Ligthyear Carate - Mattel",
+    "nome": "Boneco Toy Stoy 3 Buzz Ligthyear Carate - Mattel",
+    "preco": {
+      "preco": [
+        {
+          "valor": "130.49",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Saia De Berco Simba - Batistela",
+    "nome": "Saia De Berco Simba - Batistela",
+    "preco": {
+      "preco": [
+        {
+          "valor": "53.99",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone ASUS Zenfone Selfie Desbloqueado Dual Chip Android 5.0 Tela 5.5\" 32GB 4G 13MP - Azul",
+    "nome": "Smartphone ASUS Zenfone Selfie Desbloqueado Dual Chip Android 5.0 Tela 5.5\" 32GB 4G 13MP - Azul",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1709.99",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Asus Zenfone Laser 2 Desbloqueado Android 6.0 Tela 5.5\" 8GB 4G Camera de 13 MP - Preto",
+    "nome": "Smartphone Asus Zenfone Laser 2 Desbloqueado Android 6.0 Tela 5.5\" 8GB 4G Camera de 13 MP - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "841.49",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Gear Fit2 Pro Preto/ Vermelho Pulseira G - Samsung",
+    "nome": "Gear Fit2 Pro Preto/ Vermelho Pulseira G - Samsung",
+    "preco": {
+      "preco": [
+        {
+          "valor": "755.99",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Tablet Samsung Galaxy Tab S2 T815 32GB Wi-fi 4G Tela AMOLED 9.7'' Android 5.0 Processador Octa Core 1.9 Ghz+1.3GHz - Preto",
+    "nome": "Tablet Samsung Galaxy Tab S2 T815 32GB Wi-fi 4G Tela AMOLED 9.7'' Android 5.0 Processador Octa Core 1.9 Ghz+1.3GHz - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1871.99",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Cadeira Alimento Safety 1st 5 Estagios Rosa",
+    "nome": "Cadeira Alimento Safety 1st 5 Estagios Rosa",
+    "preco": {
+      "preco": [
+        {
+          "valor": "359.99",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Talher Duplo para Salada Joseph & Joseph Cinza",
+    "nome": "Talher Duplo para Salada Joseph & Joseph Cinza",
+    "preco": {
+      "preco": [
+        {
+          "valor": "31.49",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Boneco Tartarugas Ninja Half Shell Heroes Destruidor com Som - Multikids",
+    "nome": "Boneco Tartarugas Ninja Half Shell Heroes Destruidor com Som - Multikids",
+    "preco": {
+      "preco": [
+        {
+          "valor": "80.99",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Asus Zenfone Live Dual Chip Android 6.0 Tela 5\" Snapdragon 16GB 4G Wi-Fi Camera 13MP - Preto",
+    "nome": "Smartphone Asus Zenfone Live Dual Chip Android 6.0 Tela 5\" Snapdragon 16GB 4G Wi-Fi Camera 13MP - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1097.99",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Gear Fit2 Pro Preto/Vermelho Pulseira P - Samsung",
+    "nome": "Gear Fit2 Pro Preto/Vermelho Pulseira P - Samsung",
+    "preco": {
+      "preco": [
+        {
+          "valor": "755.99",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Spa Facial Ion - Relaxmedic",
+    "nome": "Spa Facial Ion - Relaxmedic",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1079.99",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Cercadinho Quadrado Carasteristica - Place Brinquedos",
+    "nome": "Cercadinho Quadrado Carasteristica - Place Brinquedos",
+    "preco": {
+      "preco": [
+        {
+          "valor": "728.99",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Fone de Ouvido Beats B0520 Powerbeats 2 Preto",
+    "nome": "Fone de Ouvido Beats B0520 Powerbeats 2 Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "633.59",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Carregador Apple MagSafe 2 de 60W",
+    "nome": "Carregador Apple MagSafe 2 de 60W",
+    "preco": {
+      "preco": [
+        {
+          "valor": "899.99",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Samsung Galaxy S8 Dual Chip Android 7.0 Tela 5.8\" Octa-Core 2.3GHz 64GB 4G Camera 12MP - Prata",
+    "nome": "Smartphone Samsung Galaxy S8 Dual Chip Android 7.0 Tela 5.8\" Octa-Core 2.3GHz 64GB 4G Camera 12MP - Prata",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2681.99",
+          "data": "2021-10-14T23:34:21.745Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Boneca DC Super Hero Girls Super Walkie Talkies - Mattel",
+    "nome": "Boneca DC Super Hero Girls Super Walkie Talkies - Mattel",
+    "preco": {
+      "preco": [
+        {
+          "valor": "148.49",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Motorola Moto G (3ª Geracao) Edicao Turbo Dual Chip Desbloqueado Android Tela 5\" 16GB 4G 13MP - Branco",
+    "nome": "Smartphone Motorola Moto G (3ª Geracao) Edicao Turbo Dual Chip Desbloqueado Android Tela 5\" 16GB 4G 13MP - Branco",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1147.49",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone ASUS ZenFone Selfie Dual Chip Desbloqueado Android 5 Tela 5.5\" 32GB 4G 13MP - Dourado",
+    "nome": "Smartphone ASUS ZenFone Selfie Dual Chip Desbloqueado Android 5 Tela 5.5\" 32GB 4G 13MP - Dourado",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1709.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone ASUS Zenfone 2 Laser Desbloqueado Dual Chip Android 5.0 Tela 5.5\" 16GB 4G 13MP - Prata",
+    "nome": "Smartphone ASUS Zenfone 2 Laser Desbloqueado Dual Chip Android 5.0 Tela 5.5\" 16GB 4G 13MP - Prata",
+    "preco": {
+      "preco": [
+        {
+          "valor": "899.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Samsung Galaxy A7 64GB Dual Chip Android 8.0 Tela 6\" Octa-Core 2.2GHz 4G Camera Triple - Cobre",
+    "nome": "Smartphone Samsung Galaxy A7 64GB Dual Chip Android 8.0 Tela 6\" Octa-Core 2.2GHz 4G Camera Triple - Cobre",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2056.49",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Asus Zenfone 2 Dual Chip Desbloqueado Android 5.0 Lollipop Tela 5.5\" 16GB 4G Wi-Fi Camera 13MP - Vermelho",
+    "nome": "Smartphone Asus Zenfone 2 Dual Chip Desbloqueado Android 5.0 Lollipop Tela 5.5\" 16GB 4G Wi-Fi Camera 13MP - Vermelho",
+    "preco": {
+      "preco": [
+        {
+          "valor": "989.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Boneca Barbie Fashionistas com Acessorio Fashions 38 So Sporty DTD96/DTF01 - Mattel",
+    "nome": "Boneca Barbie Fashionistas com Acessorio Fashions 38 So Sporty DTD96/DTF01 - Mattel",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1340.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone LG G3 Desbloqueado Android 4.4 Kit Kat Tela 5.5\" 16GB 4G Wi-Fi Camera 13MP - Dourado",
+    "nome": "Smartphone LG G3 Desbloqueado Android 4.4 Kit Kat Tela 5.5\" 16GB 4G Wi-Fi Camera 13MP - Dourado",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1040.84",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Andador Zebra DLH48 - Fisher Price",
+    "nome": "Andador Zebra DLH48 - Fisher Price",
+    "preco": {
+      "preco": [
+        {
+          "valor": "183.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Samsung Galaxy J5 Pro Dual Chip Android 7.0 Tela 5,2\" Octa-Core 1.6 GHz 32GB 4G Camera 13MP - Preto",
+    "nome": "Smartphone Samsung Galaxy J5 Pro Dual Chip Android 7.0 Tela 5,2\" Octa-Core 1.6 GHz 32GB 4G Camera 13MP - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "827.00",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Relogio Feminino Guess Analogico Fashion 92536lpgtdc1",
+    "nome": "Relogio Feminino Guess Analogico Fashion 92536lpgtdc1",
+    "preco": {
+      "preco": [
+        {
+          "valor": "188.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone LG K50s - Preto",
+    "nome": "Smartphone LG K50s - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "854.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "DVD Player Philco SV VCD Ph135 USB 2.0 Bivolt",
+    "nome": "DVD Player Philco SV VCD Ph135 USB 2.0 Bivolt",
+    "preco": {
+      "preco": [
+        {
+          "valor": "113.39",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Som Portatil Philco 4W RMS MP3 USB Pb126 Lavanda",
+    "nome": "Som Portatil Philco 4W RMS MP3 USB Pb126 Lavanda",
+    "preco": {
+      "preco": [
+        {
+          "valor": "189.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Filmadora Esportiva Vivitar DVR783HD HD (720p) 5MP LCD2- Laranja",
+    "nome": "Filmadora Esportiva Vivitar DVR783HD HD (720p) 5MP LCD2- Laranja",
+    "preco": {
+      "preco": [
+        {
+          "valor": "172.49",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone LG G2 lite Dual Chip Desbloqueado Android 4.4 Kit Kat 4.5 Polegadas 4GB 3G Wi-Fi Camera 8MP - Branco",
+    "nome": "Smartphone LG G2 lite Dual Chip Desbloqueado Android 4.4 Kit Kat 4.5 Polegadas 4GB 3G Wi-Fi Camera 8MP - Branco",
+    "preco": {
+      "preco": [
+        {
+          "valor": "530.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Freezer Horizontal Philco PFH160B Branco 143L - 110v",
+    "nome": "Freezer Horizontal Philco PFH160B Branco 143L - 110v",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1349.09",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Asus Zenfone 5 128GB Dual Chip Android Oreo Tela 6.2\" Snapdragon 636 Octacore 4G Camera 12MP + 8MP (Dual Traseira) 3300mAh - Preto",
+    "nome": "Smartphone Asus Zenfone 5 128GB Dual Chip Android Oreo Tela 6.2\" Snapdragon 636 Octacore 4G Camera 12MP + 8MP (Dual Traseira) 3300mAh - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "3046.49",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Tripe Compacto Dobravel para Camera GoPro e Base GoPole",
+    "nome": "Tripe Compacto Dobravel para Camera GoPro e Base GoPole",
+    "preco": {
+      "preco": [
+        {
+          "valor": "175.94",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Capa de Neoprene Travel Stamps - Mobimax",
+    "nome": "Capa de Neoprene Travel Stamps - Mobimax",
+    "preco": {
+      "preco": [
+        {
+          "valor": "89.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "WebCam Logitech C270 HD 3MP - 720p",
+    "nome": "WebCam Logitech C270 HD 3MP - 720p",
+    "preco": {
+      "preco": [
+        {
+          "valor": "314.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Kit Furadeira Impacto 3/8 500W + Jogo de Brocas 4 Pecas - Tramontina",
+    "nome": "Kit Furadeira Impacto 3/8 500W + Jogo de Brocas 4 Pecas - Tramontina",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1061.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartwatch Samsung Galaxy Watch Active - Prata",
+    "nome": "Smartwatch Samsung Galaxy Watch Active - Prata",
+    "preco": {
+      "preco": [
+        {
+          "valor": "749.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Relogio Motorola Digital Moto 360 com Bluetooth Couro Preto",
+    "nome": "Relogio Motorola Digital Moto 360 com Bluetooth Couro Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "587.24",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Asus Zenfone 2 Dual Chip Desbloqueado Android 5.0 Lollipop Tela 5.5\" 16GB 4G Wi-Fi Camera 13MP - Prata",
+    "nome": "Smartphone Asus Zenfone 2 Dual Chip Desbloqueado Android 5.0 Lollipop Tela 5.5\" 16GB 4G Wi-Fi Camera 13MP - Prata",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1102.49",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Refrigerador Panasonic NR-BB53GV3WAB 425L White Gl 220V",
+    "nome": "Refrigerador Panasonic NR-BB53GV3WAB 425L White Gl 220V",
+    "preco": {
+      "preco": [
+        {
+          "valor": "3052.16",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Samsung Galaxy S6 Edge Verde Desbloqueado 32GB 4G Android 5.0 Tela 5.1\" Octa-Core Camera 16MP",
+    "nome": "Samsung Galaxy S6 Edge Verde Desbloqueado 32GB 4G Android 5.0 Tela 5.1\" Octa-Core Camera 16MP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2569.49",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Conjunto Play-Doh Dentista - Hasbro",
+    "nome": "Conjunto Play-Doh Dentista - Hasbro",
+    "preco": {
+      "preco": [
+        {
+          "valor": "89.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Sony Xperia Z3 Compact Single Chip Android Tela 4.6\" Quad Core 16GB 4G Wi-Fi Camera 20.7MP - Preto",
+    "nome": "Smartphone Sony Xperia Z3 Compact Single Chip Android Tela 4.6\" Quad Core 16GB 4G Wi-Fi Camera 20.7MP - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1199.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Estojo de Cinto p/ Treo 600/650 - Palm",
+    "nome": "Estojo de Cinto p/ Treo 600/650 - Palm",
+    "preco": {
+      "preco": [
+        {
+          "valor": "119.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smart TV LED 65\" Samsung UN65JS8500GXZD4 HD 4 HDMI 3 USB 1440Hz",
+    "nome": "Smart TV LED 65\" Samsung UN65JS8500GXZD4 HD 4 HDMI 3 USB 1440Hz",
+    "preco": {
+      "preco": [
+        {
+          "valor": "6105.59",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Sony Xperia XZ Single Chip Android Tela 5.2\" Quad Core 32GB Azul 4G Wi-Fi Camera 23MP - Azul",
+    "nome": "Smartphone Sony Xperia XZ Single Chip Android Tela 5.2\" Quad Core 32GB Azul 4G Wi-Fi Camera 23MP - Azul",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1867.49",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Asus ZenFone Selfie Dual Chip Android Nougat 7.0 Tela 5.5 Qualcomm Snapdragon 16GB 4G Camera 13MP + Frontal 13MP - Rosa",
+    "nome": "Smartphone Asus ZenFone Selfie Dual Chip Android Nougat 7.0 Tela 5.5 Qualcomm Snapdragon 16GB 4G Camera 13MP + Frontal 13MP - Rosa",
+    "preco": {
+      "preco": [
+        {
+          "valor": "773.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Baqueta Color Wrap VCB 5A - Vater",
+    "nome": "Baqueta Color Wrap VCB 5A - Vater",
+    "preco": {
+      "preco": [
+        {
+          "valor": "50.39",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Relogio Unissex Everlast Analogico Esportivo E041",
+    "nome": "Relogio Unissex Everlast Analogico Esportivo E041",
+    "preco": {
+      "preco": [
+        {
+          "valor": "161.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Asus Zenfone 5z 4GB 64GB Dual Chip Android Oreo Tela 6.2\" Snapdragon 845 Octacore 4G Camera 12MP + 8MP (Dual Traseira) 3300mAh - Preto",
+    "nome": "Smartphone Asus Zenfone 5z 4GB 64GB Dual Chip Android Oreo Tela 6.2\" Snapdragon 845 Octacore 4G Camera 12MP + 8MP (Dual Traseira) 3300mAh - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "3428.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Bebe Conforto Wind Preto e Cinza 0 a 13 kg - Styll Baby",
+    "nome": "Bebe Conforto Wind Preto e Cinza 0 a 13 kg - Styll Baby",
+    "preco": {
+      "preco": [
+        {
+          "valor": "494.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Relogio Feminino Euro Analogico Fashion EU2035LQA/B3M",
+    "nome": "Relogio Feminino Euro Analogico Fashion EU2035LQA/B3M",
+    "preco": {
+      "preco": [
+        {
+          "valor": "125.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Samsung Galaxy S8+ Dual Chip Android 7.0 Tela 6.2\" Octa-Core 2.3 GHz 64GB Camera 12MP - Preto",
+    "nome": "Smartphone Samsung Galaxy S8+ Dual Chip Android 7.0 Tela 6.2\" Octa-Core 2.3 GHz 64GB Camera 12MP - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2969.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Tablet DL 3D Vision 8GB Wi-fi Tela 8\" Full HD Android 4.0 Processador Cortex A9 com 1.0 GHz - Preto",
+    "nome": "Tablet DL 3D Vision 8GB Wi-fi Tela 8\" Full HD Android 4.0 Processador Cortex A9 com 1.0 GHz - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "751.49",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Sony Xperia Z3 Dual Desbloqueado Android 16gb 4g 20.7mp - Branco",
+    "nome": "Smartphone Sony Xperia Z3 Dual Desbloqueado Android 16gb 4g 20.7mp - Branco",
+    "preco": {
+      "preco": [
+        {
+          "valor": "899.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Sony Xperia M4 Aqua Dual Dual Chip Desbloqueado Android 5.0 Tela 5\" 16GB 4G Camera 13MP - Coral",
+    "nome": "Smartphone Sony Xperia M4 Aqua Dual Dual Chip Desbloqueado Android 5.0 Tela 5\" 16GB 4G Camera 13MP - Coral",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1115.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Headset Gamer Mad Catz FREQ 4D Preto",
+    "nome": "Headset Gamer Mad Catz FREQ 4D Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1034.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone ASUS ZenFone Selfie Dual Chip Desbloqueado Android 5 Tela 5.5\" 32GB 4G 13MP - Prata",
+    "nome": "Smartphone ASUS ZenFone Selfie Dual Chip Desbloqueado Android 5 Tela 5.5\" 32GB 4G 13MP - Prata",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1709.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Ventilador de Mesa Philco PVT400 Turbo 3 Velocidades 40cm Preto - 127v",
+    "nome": "Ventilador de Mesa Philco PVT400 Turbo 3 Velocidades 40cm Preto - 127v",
+    "preco": {
+      "preco": [
+        {
+          "valor": "144.59",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Samsung Galaxy On7 Dual Chip Desbloqueado Android 5.1 Tela 5.5\" 8GB 4G 13MP - Preto",
+    "nome": "Smartphone Samsung Galaxy On7 Dual Chip Desbloqueado Android 5.1 Tela 5.5\" 8GB 4G 13MP - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "715.49",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Usado - Smartphone Motorola Moto X Style Dual Chip 16gb 4g 21mp - Preto",
+    "nome": "Usado - Smartphone Motorola Moto X Style Dual Chip 16gb 4g 21mp - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1349.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Zenfone Max M1 32GB Dual Chip Android 7 Tela 5.2\" Qualcomm Snapdragon 425 4G Camera 13 + 5MP (Dual Traseira) - Preto",
+    "nome": "Smartphone Zenfone Max M1 32GB Dual Chip Android 7 Tela 5.2\" Qualcomm Snapdragon 425 4G Camera 13 + 5MP (Dual Traseira) - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1120.49",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smart TV LED 65 Samsung Ultra HD 4K UN65JU6500GXZD 4HDMI 3 USB 240 Hz",
+    "nome": "Smart TV LED 65 Samsung Ultra HD 4K UN65JU6500GXZD 4HDMI 3 USB 240 Hz",
+    "preco": {
+      "preco": [
+        {
+          "valor": "5159.69",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "DVD The L Word - Season Three- Importado - 4 DVDs",
+    "nome": "DVD The L Word - Season Three- Importado - 4 DVDs",
+    "preco": {
+      "preco": [
+        {
+          "valor": "28.80",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Capa para Tablet ate 7\" Samsung Preto - Full Delta",
+    "nome": "Capa para Tablet ate 7\" Samsung Preto - Full Delta",
+    "preco": {
+      "preco": [
+        {
+          "valor": "31.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Asus Zenfone 2 Laser Dual Chip Desbloqueado Android 6 Tela 6\" 16GB 4G Camera 13MP - Dourado",
+    "nome": "Smartphone Asus Zenfone 2 Laser Dual Chip Desbloqueado Android 6 Tela 6\" 16GB 4G Camera 13MP - Dourado",
+    "preco": {
+      "preco": [
+        {
+          "valor": "899.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Capa para Macbook Pro 13\" Plastico Rigido Vermelha Yogo",
+    "nome": "Capa para Macbook Pro 13\" Plastico Rigido Vermelha Yogo",
+    "preco": {
+      "preco": [
+        {
+          "valor": "62.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Samsung Galaxy A7 Dual Chip Android 6.0 Tela 5,7\" Octa-Core 1.9GHz 64GB 4G Camera 16MP - Preto",
+    "nome": "Smartphone Samsung Galaxy A7 Dual Chip Android 6.0 Tela 5,7\" Octa-Core 1.9GHz 64GB 4G Camera 16MP - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1457.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Bebe Conforto Comfort Tour Azul Bebe Mesclado 0 a 13 kg - Styll Baby",
+    "nome": "Bebe Conforto Comfort Tour Azul Bebe Mesclado 0 a 13 kg - Styll Baby",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1530.89",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Fone de Ouvido Monster Ncredible Ntune On Ear Midnight Azul",
+    "nome": "Fone de Ouvido Monster Ncredible Ntune On Ear Midnight Azul",
+    "preco": {
+      "preco": [
+        {
+          "valor": "422.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Asus Zenfone Selfie Dual Chip Desbloqueado Android 5 Tela 5.5\" 32GB 4G Camera 13MP- Branco",
+    "nome": "Smartphone Asus Zenfone Selfie Dual Chip Desbloqueado Android 5 Tela 5.5\" 32GB 4G Camera 13MP- Branco",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1709.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone LG G4 Desbloqueado Claro Android 5.0 Tela 5.5'' 32GB 4G Wi-Fi Camera 16MP - Titanio",
+    "nome": "Smartphone LG G4 Desbloqueado Claro Android 5.0 Tela 5.5'' 32GB 4G Wi-Fi Camera 16MP - Titanio",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1376.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Asus ZenFone 4 Dual Chip Android Nougat 7.0 Tela 5.5\" Qualcomm Snapdragon 64GB 4G Camera 12 8MP (Dual Traseira) Wide Angle 120° + Capa - Preto",
+    "nome": "Smartphone Asus ZenFone 4 Dual Chip Android Nougat 7.0 Tela 5.5\" Qualcomm Snapdragon 64GB 4G Camera 12 8MP (Dual Traseira) Wide Angle 120° + Capa - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2308.49",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Capa para Celular Samsung S9 Alcantara Cover - Preto",
+    "nome": "Capa para Celular Samsung S9 Alcantara Cover - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "125.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone LG G2 Desbloqueado Android 4.2 Tela 5.2\" 16GB 4G Wi-Fi Camera 13MP - Branco",
+    "nome": "Smartphone LG G2 Desbloqueado Android 4.2 Tela 5.2\" 16GB 4G Wi-Fi Camera 13MP - Branco",
+    "preco": {
+      "preco": [
+        {
+          "valor": "935.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone LG G Flex2 Desbloqueado Android 5.0 Tela 5.5\" 16GB 4G Camera 13MP e Processador Octa Core - Titanio",
+    "nome": "Smartphone LG G Flex2 Desbloqueado Android 5.0 Tela 5.5\" 16GB 4G Camera 13MP e Processador Octa Core - Titanio",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1966.49",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Blocos de Montar 26 Pecas - brink+",
+    "nome": "Blocos de Montar 26 Pecas - brink+",
+    "preco": {
+      "preco": [
+        {
+          "valor": "89.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Boneco Transformers Decepticon Fracture Robots In Disguise One Step - Hasbro",
+    "nome": "Boneco Transformers Decepticon Fracture Robots In Disguise One Step - Hasbro",
+    "preco": {
+      "preco": [
+        {
+          "valor": "62.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Karcher Jato Duplo",
+    "nome": "Karcher Jato Duplo",
+    "preco": {
+      "preco": [
+        {
+          "valor": "136.79",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Lava-Roupas com Som Disney Princess - Xalingo",
+    "nome": "Lava-Roupas com Som Disney Princess - Xalingo",
+    "preco": {
+      "preco": [
+        {
+          "valor": "89.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Capa para Celular Flip Shell Original Para Novo Moto G Preta - Motorola",
+    "nome": "Capa para Celular Flip Shell Original Para Novo Moto G Preta - Motorola",
+    "preco": {
+      "preco": [
+        {
+          "valor": "71.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Radio Portatil Mondial UP Dynamic Bx-19 entrada USB Bluetooth Bivolt",
+    "nome": "Radio Portatil Mondial UP Dynamic Bx-19 entrada USB Bluetooth Bivolt",
+    "preco": {
+      "preco": [
+        {
+          "valor": "118.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Colecao DVD Paul Newman: (Duplo)",
+    "nome": "Colecao DVD Paul Newman: (Duplo)",
+    "preco": {
+      "preco": [
+        {
+          "valor": "59.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Tablet Samsung Galaxy Tab S2 T719 32GB Wi-Fi 4G Tela 8\" Android Processador Octa-Core - Branco",
+    "nome": "Tablet Samsung Galaxy Tab S2 T719 32GB Wi-Fi 4G Tela 8\" Android Processador Octa-Core - Branco",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1759.49",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Fantasia Infantil Frozen Anna Luxo - Rubies",
+    "nome": "Fantasia Infantil Frozen Anna Luxo - Rubies",
+    "preco": {
+      "preco": [
+        {
+          "valor": "112.49",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Livro - Learning Together: English 3° ano",
+    "nome": "Livro - Learning Together: English 3° ano",
+    "preco": {
+      "preco": [
+        {
+          "valor": "80.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Bau Princesa Disney - Xalingo",
+    "nome": "Bau Princesa Disney - Xalingo",
+    "preco": {
+      "preco": [
+        {
+          "valor": "251.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Fabrica De Raspadinha - Estrela",
+    "nome": "Fabrica De Raspadinha - Estrela",
+    "preco": {
+      "preco": [
+        {
+          "valor": "89.99",
+          "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Caixa Decorativa e Presente P Azul Turquesa - Joy Paper",
+    "nome": "Caixa Decorativa e Presente P Azul Turquesa - Joy Paper",
+    "preco": {
+      "preco": [
+        {
+          "valor": "21.59",
+          "data": "2021-10-14T23:34:21.746Z"
         }
       ]
     },

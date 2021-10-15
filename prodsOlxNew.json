@@ -1,12 +1,65 @@
 [
   {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-residencial-em-sao-paulo-sp-jacana-944287244",
+    "nome": "APARTAMENTO RESIDENCIAL em SAO PAULO - SP, JACANA",
+    "preco": {
+      "preco": [
+        {
+          "valor": "409000",
+          "data": "2021-10-14T23:47:45.717Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-residencial-em-sao-paulo-sp-jacana-944287244",
+    "keyword": [
+      "casa",
+      "apartamento",
+      "chacara"
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-padrao-residencial-em-sao-paulo-sp-vila-mazzei-944286553",
+    "nome": "APARTAMENTO PADRAO RESIDENCIAL em SAO PAULO - SP, VILA MAZZEI",
+    "preco": {
+      "preco": [
+        {
+          "valor": "379000",
+          "data": "2021-10-14T23:47:45.717Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-padrao-residencial-em-sao-paulo-sp-vila-mazzei-944286553",
+    "keyword": [
+      "casa",
+      "apartamento",
+      "chacara"
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-reikel-branco-938984818",
+    "nome": "Orgao eletronico reikel branco",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2200",
+          "data": "2021-10-14T23:47:45.718Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-reikel-branco-938984818",
+    "keyword": [
+      "orgao",
+      "eletrico"
+    ]
+  },
+  {
     "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-usado-unico-dono-943542809",
-    "nome": "Orgao eletronico usado - unico dono ",
+    "nome": "Orgao eletronico usado - unico dono",
     "preco": {
       "preco": [
         {
           "valor": "1100",
-          "data": "2021-10-13T23:35:03.923Z"
+          "data": "2021-10-14T23:47:45.718Z"
         }
       ]
     },
@@ -17,159 +70,79 @@
     ]
   },
   {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-digital-acordes-preto-laca-2d-usado-12x-s-juros-943505738",
-    "nome": "Orgao Eletronico Digital Acordes Preto Laca 2d - Usado! 12x s/ juros",
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-tokai-d2-preto-941530767",
+    "nome": "orgao eletronico tokai d2 Preto",
     "preco": {
       "preco": [
         {
-          "valor": "2999",
-          "data": "2021-10-13T23:35:03.923Z"
+          "valor": "3800",
+          "data": "2021-10-14T23:47:45.718Z"
         }
       ]
     },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-digital-acordes-preto-laca-2d-usado-12x-s-juros-943505738",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-tokai-d2-preto-941530767",
     "keyword": [
       "orgao",
       "eletrico"
     ]
   },
   {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-digital-novo-824970829",
-    "nome": "Orgao Eletronico Digital - Novo",
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-940164416",
+    "nome": "Orgao Eletronico",
     "preco": {
       "preco": [
         {
-          "valor": "",
-          "data": "2021-10-13T23:35:03.923Z"
+          "valor": "2200",
+          "data": "2021-10-14T23:47:45.718Z"
         }
       ]
     },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-digital-novo-824970829",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-940164416",
     "keyword": [
       "orgao",
       "eletrico"
     ]
   },
   {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/pedal-trio-band-creator-looper-digitech-na-caixa-943769786",
-    "nome": "Pedal TRIO+ Band Creator + Looper DigiTech - Na Caixa.",
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/baixo-condor-5-cordas-931936362",
+    "nome": "Baixo Condor 5 cordas",
     "preco": {
       "preco": [
         {
-          "valor": "800",
-          "data": "2021-10-13T23:35:03.923Z"
+          "valor": "900",
+          "data": "2021-10-14T23:47:45.719Z"
         }
       ]
     },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/pedal-trio-band-creator-looper-digitech-na-caixa-943769786",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/baixo-condor-5-cordas-931936362",
     "keyword": [
       ""
     ]
   },
   {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/pedal-baixo-fuhrmann-943708182",
-    "nome": "pedal baixo fuhrmann",
-    "preco": {
-      "preco": [
-        {
-          "valor": "450",
-          "data": "2021-10-13T23:35:03.923Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/pedal-baixo-fuhrmann-943708182",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/direct-box-vendo-troco-943422813",
-    "nome": "Direct Box -?Vendo/troco",
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/direct-box-vendo-ou-troco-932704349",
+    "nome": "Direct Box vendo ou troco",
     "preco": {
       "preco": [
         {
           "valor": "380",
-          "data": "2021-10-13T23:35:03.923Z"
+          "data": "2021-10-14T23:47:45.719Z"
         }
       ]
     },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/direct-box-vendo-troco-943422813",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/direct-box-vendo-ou-troco-932704349",
     "keyword": [
       ""
     ]
   },
   {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-santos-madeira-do-943766862",
-    "nome": "Clarinete santos madeira do",
-    "preco": {
-      "preco": [
-        {
-          "valor": "850",
-          "data": "2021-10-13T23:35:03.923Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-santos-madeira-do-943766862",
-    "keyword": [
-      "clarinete"
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-17-chaves-douradas-sib-mol-nova-completa-promocao-peca-de-vitrine-a-paz-923460603",
-    "nome": "Clarinete 17 chaves douradas sib-mol nova completa promocao peca de vitrine A PAZ",
-    "preco": {
-      "preco": [
-        {
-          "valor": "1786",
-          "data": "2021-10-13T23:35:03.923Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-17-chaves-douradas-sib-mol-nova-completa-promocao-peca-de-vitrine-a-paz-923460603",
-    "keyword": [
-      "clarinete"
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-jupiter-original-943562622",
-    "nome": "Clarinete Jupiter Original",
-    "preco": {
-      "preco": [
-        {
-          "valor": "1300",
-          "data": "2021-10-13T23:35:03.923Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-jupiter-original-943562622",
-    "keyword": [
-      "clarinete"
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-madeira-ludwig-warschewski-raridade-942166842",
-    "nome": "Clarinete Madeira Ludwig Warschewski Raridade",
-    "preco": {
-      "preco": [
-        {
-          "valor": "",
-          "data": "2021-10-13T23:35:03.923Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-madeira-ludwig-warschewski-raridade-942166842",
-    "keyword": [
-      "clarinete"
-    ]
-  },
-  {
     "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-em-sol-sistema-oehler-928542854",
-    "nome": "Clarinete em Sol sistema oehler ",
+    "nome": "Clarinete em Sol sistema oehler",
     "preco": {
       "preco": [
         {
           "valor": "500",
-          "data": "2021-10-13T23:35:03.923Z"
+          "data": "2021-10-14T23:47:45.719Z"
         }
       ]
     },
@@ -179,33 +152,33 @@
     ]
   },
   {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-yamaha-custom-csgi-943375325",
-    "nome": "Clarinete Yamaha Custom CSGI ",
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-sib-werill-r-2-300-942626110",
+    "nome": "Clarinete Sib Werill R$ 2.300",
     "preco": {
       "preco": [
         {
-          "valor": "13000",
-          "data": "2021-10-13T23:35:03.923Z"
+          "valor": "2300",
+          "data": "2021-10-14T23:47:45.719Z"
         }
       ]
     },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-yamaha-custom-csgi-943375325",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-sib-werill-r-2-300-942626110",
     "keyword": [
       "clarinete"
     ]
   },
   {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-weril-sib-17-chaves-revisada-943050886",
-    "nome": "Clarinete Weril sib 17 chaves (Revisada)",
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-weril-940982325",
+    "nome": "Clarinete weril",
     "preco": {
       "preco": [
         {
-          "valor": "550",
-          "data": "2021-10-13T23:35:03.923Z"
+          "valor": "750",
+          "data": "2021-10-14T23:47:45.719Z"
         }
       ]
     },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-weril-sib-17-chaves-revisada-943050886",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-weril-940982325",
     "keyword": [
       "clarinete"
     ]

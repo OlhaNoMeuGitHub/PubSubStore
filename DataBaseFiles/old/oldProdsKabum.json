@@ -377,6 +377,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "3099.90",
+          "data": "2021-10-14T23:34:27.168Z"
+        },
+        {
           "valor": "2899.90",
           "data": "2021-10-12T13:01:44.498Z"
         }
@@ -777,6 +781,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "489.90",
+          "data": "2021-10-14T23:34:27.168Z"
+        },
+        {
           "valor": "509.90",
           "data": "2021-10-12T13:09:57.082Z"
         }
@@ -808,6 +816,10 @@
     "nome": "Placa-Mae Gigabyte Z390 M Gaming, Intel LGA 1151, mATX, DDR4",
     "preco": {
       "preco": [
+        {
+          "valor": "999.90",
+          "data": "2021-10-14T23:34:27.168Z"
+        },
         {
           "valor": "1069.90",
           "data": "2021-10-12T20:14:21.947Z"
@@ -941,6 +953,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "749.90",
+          "data": "2021-10-14T23:34:27.168Z"
+        },
+        {
           "valor": "709.90",
           "data": "2021-10-13T23:35:01.122Z"
         },
@@ -1033,6 +1049,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "849.90",
+          "data": "2021-10-14T23:34:27.168Z"
+        },
+        {
           "valor": "759.90",
           "data": "2021-10-12T13:09:57.082Z"
         }
@@ -1080,6 +1100,10 @@
     "nome": "Placa-mae Gigabyte Aorus B450 Aorus M, AMD AM4, mATX, DDR4",
     "preco": {
       "preco": [
+        {
+          "valor": "709.90",
+          "data": "2021-10-14T23:34:27.168Z"
+        },
         {
           "valor": "689.90",
           "data": "2021-10-12T13:09:57.082Z"
@@ -1196,6 +1220,10 @@
     "nome": "Placa-Mae Asus TUF Gaming B450M-Plus II, AMD B450, mATX, DDR4",
     "preco": {
       "preco": [
+        {
+          "valor": "829.90",
+          "data": "2021-10-14T23:34:27.168Z"
+        },
         {
           "valor": "899.90",
           "data": "2021-10-13T23:35:01.123Z"
@@ -2023,6 +2051,54 @@
       ]
     },
     "url": "https://www.kabum.com.br/produto/128153/placa-mae-asus-rog-strix-b550-a-gaming-amd-b550-atx-ddr4-90mb15j0-m0eay0",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa-Mae MSI MAG B550M Bazooka, AMD AM4, mATX",
+    "nome": "Placa-Mae MSI MAG B550M Bazooka, AMD AM4, mATX",
+    "preco": {
+      "preco": [
+        {
+          "valor": "899.90",
+          "data": "2021-10-14T23:34:27.165Z"
+        }
+      ]
+    },
+    "url": "https://www.kabum.com.br/produto/114337/placa-mae-msi-mag-b550m-bazooka-amd-am4-matx",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "SSD PNY CS3030 250GB M.2, Leitura 3.500MB/s, Gravacao 1.050MB/s - M280CS3030-250-RB",
+    "nome": "SSD PNY CS3030 250GB M.2, Leitura 3.500MB/s, Gravacao 1.050MB/s - M280CS3030-250-RB",
+    "preco": {
+      "preco": [
+        {
+          "valor": "359.90",
+          "data": "2021-10-14T23:34:27.165Z"
+        }
+      ]
+    },
+    "url": "https://www.kabum.com.br/produto/104612/ssd-pny-cs3030-250gb-m-2-leitura-3-500mb-s-gravacao-1-050mb-s-m280cs3030-250-rb",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "SSD PNY CS3030 500GB M.2, Leitura 3.500MB/s, Gravacao 2.000MB/s - M280CS3030-500-RB",
+    "nome": "SSD PNY CS3030 500GB M.2, Leitura 3.500MB/s, Gravacao 2.000MB/s - M280CS3030-500-RB",
+    "preco": {
+      "preco": [
+        {
+          "valor": "559.90",
+          "data": "2021-10-14T23:34:27.165Z"
+        }
+      ]
+    },
+    "url": "https://www.kabum.com.br/produto/104613/ssd-pny-cs3030-500gb-m-2-leitura-3-500mb-s-gravacao-2-000mb-s-m280cs3030-500-rb",
     "keyword": [
       ""
     ]
