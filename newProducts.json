@@ -1,1 +1,257 @@
-[]
+[
+  {
+    "id": "Batedeira Planetaria Deluxe Inox Sx72 Vermelha",
+    "nome": "Batedeira Planetaria Deluxe Inox Sx72 Vermelha",
+    "preco": {
+      "preco": [
+        {
+          "valor": "287.99",
+          "data": "2021-10-23T19:13:44.663Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Mouse Gamer G403 Prodigy 12.000 DPI PC - Logitech",
+    "nome": "Mouse Gamer G403 Prodigy 12.000 DPI PC - Logitech",
+    "preco": {
+      "preco": [
+        {
+          "valor": "152.99",
+          "data": "2021-10-23T19:13:44.663Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "USADO : Liquidificador Philips Walita Duravita Ri2131 2,4L Preto - 1000w",
+    "nome": "USADO : Liquidificador Philips Walita Duravita Ri2131 2,4L Preto - 1000w",
+    "preco": {
+      "preco": [
+        {
+          "valor": "114.65",
+          "data": "2021-10-23T19:13:44.664Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Panificadora Multi Pane - Britania",
+    "nome": "Panificadora Multi Pane - Britania",
+    "preco": {
+      "preco": [
+        {
+          "valor": "299.69",
+          "data": "2021-10-23T19:13:44.664Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Geladeira/Refrigerador Continental TC44S Platinum 394L Top Freezer",
+    "nome": "Geladeira/Refrigerador Continental TC44S Platinum 394L Top Freezer",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2339.99",
+          "data": "2021-10-23T19:13:44.664Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Notebook Dell Inspiron I15-3584-AS50P 8ª Intel Core I3 4GB 256GB SSD 15,6\" W10 - Preto",
+    "nome": "Notebook Dell Inspiron I15-3584-AS50P 8ª Intel Core I3 4GB 256GB SSD 15,6\" W10 - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2462.39",
+          "data": "2021-10-23T19:13:44.664Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Aspirador de Po e Agua Electrolux A10N1 Cinza e Preto 10L - 1200W",
+    "nome": "Aspirador de Po e Agua Electrolux A10N1 Cinza e Preto 10L - 1200W",
+    "preco": {
+      "preco": [
+        {
+          "valor": "183.99",
+          "data": "2021-10-23T19:13:44.664Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Micro-ondas Brastemp BMS45 32 Litros Branco",
+    "nome": "Micro-ondas Brastemp BMS45 32 Litros Branco",
+    "preco": {
+      "preco": [
+        {
+          "valor": "599.99",
+          "data": "2021-10-23T19:13:44.664Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Mixer Britania Mixer e Triturador de Alimentos 2 Preto 200W 2 Velocidades 1 Batedor 1 Mixer com Recipiente e Copo - 127V",
+    "nome": "Mixer Britania Mixer e Triturador de Alimentos 2 Preto 200W 2 Velocidades 1 Batedor 1 Mixer com Recipiente e Copo - 127V",
+    "preco": {
+      "preco": [
+        {
+          "valor": "87.49",
+          "data": "2021-10-23T19:13:44.664Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Geladeira/Refrigerador Continental TC56 Branca 472L",
+    "nome": "Geladeira/Refrigerador Continental TC56 Branca 472L",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2316.59",
+          "data": "2021-10-23T19:13:44.664Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Passadeira a Vapor RI514 Philips Walita Easytouch Plus Rosa - 1600W",
+    "nome": "Passadeira a Vapor RI514 Philips Walita Easytouch Plus Rosa - 1600W",
+    "preco": {
+      "preco": [
+        {
+          "valor": "350.99",
+          "data": "2021-10-23T19:13:44.665Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Samsung Galaxy M21s - Azul",
+    "nome": "Smartphone Samsung Galaxy M21s - Azul",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1359.20",
+          "data": "2021-10-23T19:13:44.665Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Samsung Galaxy M21s - Preto",
+    "nome": "Smartphone Samsung Galaxy M21s - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1359.20",
+          "data": "2021-10-23T19:13:44.665Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Geladeira/Refrigerador Electrolux Duplex Frost Free Top Freezer 402 litros DF44S Inox",
+    "nome": "Geladeira/Refrigerador Electrolux Duplex Frost Free Top Freezer 402 litros DF44S Inox",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1999.99",
+          "data": "2021-10-23T19:13:44.665Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Motorola Moto G9 Plus Dual Chip Desbloqueado Android 10 Tela 6.8\" 128GB 4G Camera Quadrupla 64MP + 8MP+ 2MP + 2MP Qualcomm Snapdragon - Azul Indigo",
+    "nome": "Smartphone Motorola Moto G9 Plus Dual Chip Desbloqueado Android 10 Tela 6.8\" 128GB 4G Camera Quadrupla 64MP + 8MP+ 2MP + 2MP Qualcomm Snapdragon - Azul Indigo",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1279.99",
+          "data": "2021-10-23T19:13:44.665Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  }
+]

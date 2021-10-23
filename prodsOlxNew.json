@@ -1,16 +1,16 @@
 [
   {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-residencial-em-sao-paulo-sp-jacana-944287244",
-    "nome": "APARTAMENTO RESIDENCIAL em SAO PAULO - SP, JACANA",
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-64-m-venda-por-r-378-000-00-ou-aluguel-por-r-1-400-00-mes-imirim-sao-947879866",
+    "nome": "Apartamento, 64 m² - venda por R$ 378.000,00 ou aluguel por R$ 1.400,00/mes - Imirim - Sao",
     "preco": {
       "preco": [
         {
-          "valor": "409000",
-          "data": "2021-10-14T23:47:45.717Z"
+          "valor": "378000",
+          "data": "2021-10-23T19:12:46.622Z"
         }
       ]
     },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-residencial-em-sao-paulo-sp-jacana-944287244",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-64-m-venda-por-r-378-000-00-ou-aluguel-por-r-1-400-00-mes-imirim-sao-947879866",
     "keyword": [
       "casa",
       "apartamento",
@@ -18,17 +18,17 @@
     ]
   },
   {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-padrao-residencial-em-sao-paulo-sp-vila-mazzei-944286553",
-    "nome": "APARTAMENTO PADRAO RESIDENCIAL em SAO PAULO - SP, VILA MAZZEI",
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-64-m-venda-por-r-378-000-00-ou-aluguel-por-r-1-400-00-mes-imirim-sao-947879774",
+    "nome": "Apartamento, 64 m² - venda por R$ 378.000,00 ou aluguel por R$ 1.400,00/mes - Imirim - Sao",
     "preco": {
       "preco": [
         {
-          "valor": "379000",
-          "data": "2021-10-14T23:47:45.717Z"
+          "valor": "1400",
+          "data": "2021-10-23T19:12:46.622Z"
         }
       ]
     },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-padrao-residencial-em-sao-paulo-sp-vila-mazzei-944286553",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-64-m-venda-por-r-378-000-00-ou-aluguel-por-r-1-400-00-mes-imirim-sao-947879774",
     "keyword": [
       "casa",
       "apartamento",
@@ -36,34 +36,53 @@
     ]
   },
   {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-reikel-branco-938984818",
-    "nome": "Orgao eletronico reikel branco",
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-a-venda-100-m-por-r-394-900-00-moinho-velho-sao-paulo-sp-706375685",
+    "nome": "Apartamento a venda, 100 m² por R$ 394.900,00 - Moinho Velho - Sao Paulo/SP",
     "preco": {
       "preco": [
         {
-          "valor": "2200",
-          "data": "2021-10-14T23:47:45.718Z"
+          "valor": "394900",
+          "data": "2021-10-23T19:12:46.623Z"
         }
       ]
     },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-reikel-branco-938984818",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-a-venda-100-m-por-r-394-900-00-moinho-velho-sao-paulo-sp-706375685",
     "keyword": [
-      "orgao",
-      "eletrico"
+      "casa",
+      "apartamento",
+      "chacara"
     ]
   },
   {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-usado-unico-dono-943542809",
-    "nome": "Orgao eletronico usado - unico dono",
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/casa-para-venda-possui-188-metros-quadrados-com-3-quartos-em-tremembe-sao-paulo-sp-947585283",
+    "nome": "Casa para venda possui 188 metros quadrados com 3 quartos em Tremembe - Sao Paulo - SP",
     "preco": {
       "preco": [
         {
-          "valor": "1100",
-          "data": "2021-10-14T23:47:45.718Z"
+          "valor": "874800",
+          "data": "2021-10-23T19:12:46.623Z"
         }
       ]
     },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-usado-unico-dono-943542809",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/casa-para-venda-possui-188-metros-quadrados-com-3-quartos-em-tremembe-sao-paulo-sp-947585283",
+    "keyword": [
+      "casa",
+      "apartamento",
+      "chacara"
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-tradicional-ccb-negociamos-942591003",
+    "nome": "orgao eletronico tradicional ccb negociamos",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1600",
+          "data": "2021-10-23T19:12:46.623Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-tradicional-ccb-negociamos-942591003",
     "keyword": [
       "orgao",
       "eletrico"
@@ -76,7 +95,7 @@
       "preco": [
         {
           "valor": "3800",
-          "data": "2021-10-14T23:47:45.718Z"
+          "data": "2021-10-23T19:12:46.623Z"
         }
       ]
     },
@@ -87,100 +106,99 @@
     ]
   },
   {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-940164416",
-    "nome": "Orgao Eletronico",
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/pedal-driver-e-di-dr-j-sparrow-933474478",
+    "nome": "Pedal / Driver e DI Dr J - Sparrow",
     "preco": {
       "preco": [
         {
-          "valor": "2200",
-          "data": "2021-10-14T23:47:45.718Z"
+          "valor": "450",
+          "data": "2021-10-23T19:12:46.625Z"
         }
       ]
     },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-940164416",
-    "keyword": [
-      "orgao",
-      "eletrico"
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/baixo-condor-5-cordas-931936362",
-    "nome": "Baixo Condor 5 cordas",
-    "preco": {
-      "preco": [
-        {
-          "valor": "900",
-          "data": "2021-10-14T23:47:45.719Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/baixo-condor-5-cordas-931936362",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/pedal-driver-e-di-dr-j-sparrow-933474478",
     "keyword": [
       ""
     ]
   },
   {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/direct-box-vendo-ou-troco-932704349",
-    "nome": "Direct Box vendo ou troco",
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/amplificador-de-baixo-60w-falante-de-8-datrel-somente-venda-926731457",
+    "nome": "Amplificador De Baixo 60w Falante de 8''-Datrel - Somente Venda",
     "preco": {
       "preco": [
         {
-          "valor": "380",
-          "data": "2021-10-14T23:47:45.719Z"
+          "valor": "608",
+          "data": "2021-10-23T19:12:46.625Z"
         }
       ]
     },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/direct-box-vendo-ou-troco-932704349",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/amplificador-de-baixo-60w-falante-de-8-datrel-somente-venda-926731457",
     "keyword": [
       ""
     ]
   },
   {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-em-sol-sistema-oehler-928542854",
-    "nome": "Clarinete em Sol sistema oehler",
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-weril-boa-sonoridade-939673857",
+    "nome": "Clarinete weril boa sonoridade",
     "preco": {
       "preco": [
         {
-          "valor": "500",
-          "data": "2021-10-14T23:47:45.719Z"
+          "valor": "550",
+          "data": "2021-10-23T19:12:46.625Z"
         }
       ]
     },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-em-sol-sistema-oehler-928542854",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-weril-boa-sonoridade-939673857",
     "keyword": [
       "clarinete"
     ]
   },
   {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-sib-werill-r-2-300-942626110",
-    "nome": "Clarinete Sib Werill R$ 2.300",
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-em-sib-17-chaves-weril-maleta-luxo-com-fundo-falso-947617277",
+    "nome": "Clarinete em Sib - 17 Chaves - Weril - Maleta Luxo com Fundo Falso",
     "preco": {
       "preco": [
         {
-          "valor": "2300",
-          "data": "2021-10-14T23:47:45.719Z"
+          "valor": "1000",
+          "data": "2021-10-23T19:12:46.625Z"
         }
       ]
     },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-sib-werill-r-2-300-942626110",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-em-sib-17-chaves-weril-maleta-luxo-com-fundo-falso-947617277",
     "keyword": [
       "clarinete"
     ]
   },
   {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-weril-940982325",
-    "nome": "Clarinete weril",
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-em-do-bacherete-947526336",
+    "nome": "Clarinete em Do Bacherete",
     "preco": {
       "preco": [
         {
-          "valor": "750",
-          "data": "2021-10-14T23:47:45.719Z"
+          "valor": "680",
+          "data": "2021-10-23T19:12:46.625Z"
         }
       ]
     },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-weril-940982325",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-em-do-bacherete-947526336",
     "keyword": [
       "clarinete"
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/violoncelo-941821084",
+    "nome": "Violoncelo",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1000",
+          "data": "2021-10-23T19:12:46.625Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/violoncelo-941821084",
+    "keyword": [
+      "violoncelo"
     ]
   }
 ]

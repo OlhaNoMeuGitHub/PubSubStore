@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "id": "PROCESSADOR AMD RYZEN 5 3500 3.6GHZ + COOLER AMD WRAITH STEALTH, 92MM, AM4",
+    "nome": "PROCESSADOR AMD RYZEN 5 3500 3.6GHZ + COOLER AMD WRAITH STEALTH, 92MM, AM4",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1015.29",
+          "data": "2021-10-23T19:10:32.485Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19363/processador-amd-ryzen-5-3500-36ghz-cooler-amd-wraith-stealth-92mm-am4",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD RYZEN 5 PRO 2400GE 3.2GHZ + MEMORIA",
+    "nome": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD RYZEN 5 PRO 2400GE 3.2GHZ + MEMORIA",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2022.75",
+          "data": "2021-10-23T19:10:32.485Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/17736/upgrade736",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD RYZEN 5 PRO 2400GE 3.2GHZ + MEMORIA",
+    "nome": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD RYZEN 5 PRO 2400GE 3.2GHZ + MEMORIA",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2335.08",
+          "data": "2021-10-23T19:10:32.486Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/17758/upgrade744",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD RYZEN 5 PRO 2400GE 3.2GHZ + SSD 120G",
+    "nome": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD RYZEN 5 PRO 2400GE 3.2GHZ + SSD 120G",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1906.17",
+          "data": "2021-10-23T19:10:32.486Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/17727/upgrade728",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD RYZEN 5 PRO 2400GE 3.2GHZ + SSD 240G",
+    "nome": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD RYZEN 5 PRO 2400GE 3.2GHZ + SSD 240G",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2057.55",
+          "data": "2021-10-23T19:10:32.486Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/17731/upgrade732",
+    "keyword": [
+      "processador"
+    ]
+  }
+]

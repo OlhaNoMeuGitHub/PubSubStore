@@ -281,6 +281,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "1047.06",
+          "data": "2021-10-16T00:04:32.443Z"
+        },
+        {
           "valor": "1068.43",
           "data": "2021-10-11T23:16:40.342Z"
         }
@@ -557,6 +561,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "699.90",
+          "data": "2021-10-17T02:09:18.367Z"
+        },
+        {
           "valor": "599.90",
           "data": "2021-10-12T13:09:57.081Z"
         }
@@ -572,6 +580,14 @@
     "nome": "Placa-Mae Asus TUF Gaming B460M-Plus, Intel LGA1200, mATX",
     "preco": {
       "preco": [
+        {
+          "valor": "999.90",
+          "data": "2021-10-16T14:14:48.417Z"
+        },
+        {
+          "valor": "911.98",
+          "data": "2021-10-16T00:04:32.443Z"
+        },
         {
           "valor": "999.90",
           "data": "2021-10-12T13:09:57.081Z"
@@ -764,6 +780,26 @@
     "nome": "Placa-Mae Asus TUF B360M-Plus Gaming/BR, Intel LGA 1151, mATX, DDR4",
     "preco": {
       "preco": [
+        {
+          "valor": "629.90",
+          "data": "2021-10-17T02:09:18.367Z"
+        },
+        {
+          "valor": "579.90",
+          "data": "2021-10-17T02:09:18.367Z"
+        },
+        {
+          "valor": "629.90",
+          "data": "2021-10-16T14:14:48.417Z"
+        },
+        {
+          "valor": "579.90",
+          "data": "2021-10-16T14:14:48.417Z"
+        },
+        {
+          "valor": "629.90",
+          "data": "2021-10-16T00:04:32.443Z"
+        },
         {
           "valor": "579.90",
           "data": "2021-10-12T13:09:57.082Z"
@@ -993,6 +1029,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "1039.90",
+          "data": "2021-10-17T02:09:18.367Z"
+        },
+        {
           "valor": "999.90",
           "data": "2021-10-13T23:35:01.122Z"
         },
@@ -1012,6 +1052,10 @@
     "nome": "Placa-Mae Asus Prime A320M-K/BR, AMD AM4, mATX, DDR4",
     "preco": {
       "preco": [
+        {
+          "valor": "469.90",
+          "data": "2021-10-16T14:14:48.417Z"
+        },
         {
           "valor": "429.90",
           "data": "2021-10-13T23:35:01.122Z"
@@ -1049,6 +1093,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "819.90",
+          "data": "2021-10-16T00:04:32.443Z"
+        },
+        {
           "valor": "849.90",
           "data": "2021-10-14T23:34:27.168Z"
         },
@@ -1069,6 +1117,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "949.90",
+          "data": "2021-10-17T02:09:18.367Z"
+        },
+        {
           "valor": "899.90",
           "data": "2021-10-12T13:09:57.082Z"
         }
@@ -1084,6 +1136,10 @@
     "nome": "Placa-Mae Asus TUF Gaming X570-PLUS/BR, AMD AM4, ATX, DDR4",
     "preco": {
       "preco": [
+        {
+          "valor": "1499.90",
+          "data": "2021-10-16T00:04:32.443Z"
+        },
         {
           "valor": "1519.90",
           "data": "2021-10-12T13:09:57.082Z"
@@ -1781,6 +1837,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "729.90",
+          "data": "2021-10-17T02:09:18.367Z"
+        },
+        {
           "valor": "659.90",
           "data": "2021-10-12T13:14:48.618Z"
         }
@@ -1845,6 +1905,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "406.90",
+          "data": "2021-10-16T00:04:32.443Z"
+        },
+        {
           "valor": "349.90",
           "data": "2021-10-13T23:35:01.123Z"
         },
@@ -1868,6 +1932,10 @@
     "nome": "SSD Corsair Force MP600, 500GB, M.2 PCIe + NVMe, Leituras: 4950MB/s e Gravacoes: 2500MB/s - CSSD-F500GBMP600",
     "preco": {
       "preco": [
+        {
+          "valor": "919.90",
+          "data": "2021-10-17T02:09:18.367Z"
+        },
         {
           "valor": "809.90",
           "data": "2021-10-12T13:14:48.618Z"
@@ -2061,6 +2129,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "849.90",
+          "data": "2021-10-16T00:04:32.443Z"
+        },
+        {
           "valor": "899.90",
           "data": "2021-10-14T23:34:27.165Z"
         }
@@ -2099,6 +2171,22 @@
       ]
     },
     "url": "https://www.kabum.com.br/produto/104613/ssd-pny-cs3030-500gb-m-2-leitura-3-500mb-s-gravacao-2-000mb-s-m280cs3030-500-rb",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "SSD Adata XPG Spectrix S40G, 256GB, M.2, Leitura 3500MB/s, Gravacao 1200MB/s - AS40G-256GT-C",
+    "nome": "SSD Adata XPG Spectrix S40G, 256GB, M.2, Leitura 3500MB/s, Gravacao 1200MB/s - AS40G-256GT-C",
+    "preco": {
+      "preco": [
+        {
+          "valor": "399.90",
+          "data": "2021-10-16T00:04:32.439Z"
+        }
+      ]
+    },
+    "url": "https://www.kabum.com.br/produto/102747/ssd-adata-xpg-spectrix-s40g-256gb-m-2-leitura-3500mb-s-gravacao-1200mb-s-as40g-256gt-c",
     "keyword": [
       ""
     ]

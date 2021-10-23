@@ -254,5 +254,20 @@
     "keyword": [
       ""
     ]
+  },
+  {
+    "id": "RESERVADO - REF.: 220\n Serra Negra - SP\nR$ 700,00",
+    "nome": "RESERVADO - REF.: 220\n Serra Negra - SP\nR$ 700,00",
+    "preco": {
+      "preco": [
+        {
+          "valor": "700.00",
+          "data": "2021-10-21T00:18:48.905Z"
+        }
+      ]
+    },
+    "keyword": [
+      ""
+    ]
   }
 ]
