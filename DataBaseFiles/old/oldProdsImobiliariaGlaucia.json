@@ -254,5 +254,35 @@
     "keyword": [
       ""
     ]
+  },
+  {
+    "id": "CASA RUA PETROPOLIS - REF.: 228\n Serra Negra - SP\nR$ 1.200,00",
+    "nome": "CASA RUA PETROPOLIS - REF.: 228\n Serra Negra - SP\nR$ 1.200,00",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1200.00",
+          "data": "2021-10-26T23:22:58.532Z"
+        }
+      ]
+    },
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "RESERVADO - REF.: 220\n Serra Negra - SP\nR$ 700,00",
+    "nome": "RESERVADO - REF.: 220\n Serra Negra - SP\nR$ 700,00",
+    "preco": {
+      "preco": [
+        {
+          "valor": "700.00",
+          "data": "2021-10-26T23:22:58.532Z"
+        }
+      ]
+    },
+    "keyword": [
+      ""
+    ]
   }
 ]

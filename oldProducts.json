@@ -144,6 +144,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "703.99",
+          "data": "2021-10-26T23:25:13.189Z"
+        },
+        {
           "valor": "779.99",
           "data": "2021-10-09T20:13:03.781Z"
         }
@@ -283,6 +287,10 @@
     "nome": "Memoria Gamer Corsair Vengeance Lpx 8GB 3000mhz Ddr4 C16 Preto - Cmk8gx4m1d3000c16",
     "preco": {
       "preco": [
+        {
+          "valor": "253.08",
+          "data": "2021-10-26T23:25:13.189Z"
+        },
         {
           "valor": "361.54",
           "data": "2021-10-09T20:13:03.781Z"
@@ -530,6 +538,14 @@
     "preco": {
       "preco": [
         {
+          "valor": "134.99",
+          "data": "2021-10-28T22:19:42.563Z"
+        },
+        {
+          "valor": "101.24",
+          "data": "2021-10-26T23:25:13.188Z"
+        },
+        {
           "valor": "114.74",
           "data": "2021-10-09T20:13:03.781Z"
         }
@@ -618,6 +634,10 @@
     "nome": "Liquidificador Arno Power Max 700 Limpa Facil",
     "preco": {
       "preco": [
+        {
+          "valor": "138.59",
+          "data": "2021-10-27T23:22:29.843Z"
+        },
         {
           "valor": "117.80",
           "data": "2021-10-09T20:13:03.781Z"
@@ -730,6 +750,14 @@
       "preco": [
         {
           "valor": "861.68",
+          "data": "2021-10-28T22:19:42.563Z"
+        },
+        {
+          "valor": "603.18",
+          "data": "2021-10-27T23:22:29.843Z"
+        },
+        {
+          "valor": "861.68",
           "data": "2021-10-09T20:13:03.781Z"
         }
       ]
@@ -745,6 +773,10 @@
     "nome": "Liquidificador Philips Walita Duravita Ri2131 2,4L Preto - 1000w",
     "preco": {
       "preco": [
+        {
+          "valor": "166.49",
+          "data": "2021-10-27T23:22:29.843Z"
+        },
         {
           "valor": "133.19",
           "data": "2021-10-09T20:13:03.781Z"
@@ -1105,6 +1137,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "2210.39",
+          "data": "2021-10-27T23:22:29.843Z"
+        },
+        {
           "valor": "2762.99",
           "data": "2021-10-09T20:13:03.781Z"
         }
@@ -1324,6 +1360,14 @@
     "nome": "Mouse Gamer G403 Prodigy 12.000 DPI PC - Logitech",
     "preco": {
       "preco": [
+        {
+          "valor": "179.99",
+          "data": "2021-10-28T22:19:42.563Z"
+        },
+        {
+          "valor": "161.99",
+          "data": "2021-10-27T23:22:29.843Z"
+        },
         {
           "valor": "179.99",
           "data": "2021-10-09T20:13:03.781Z"
@@ -1664,6 +1708,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "109.16",
+          "data": "2021-10-27T23:22:29.843Z"
+        },
+        {
           "valor": "114.90",
           "data": "2021-10-09T20:13:03.781Z"
         }
@@ -1804,6 +1852,26 @@
     "preco": {
       "preco": [
         {
+          "valor": "2339.99",
+          "data": "2021-10-28T22:19:42.563Z"
+        },
+        {
+          "valor": "1799.99",
+          "data": "2021-10-28T12:42:01.886Z"
+        },
+        {
+          "valor": "2339.99",
+          "data": "2021-10-27T23:22:29.843Z"
+        },
+        {
+          "valor": "1799.99",
+          "data": "2021-10-26T23:25:13.188Z"
+        },
+        {
+          "valor": "2339.99",
+          "data": "2021-10-26T23:25:13.187Z"
+        },
+        {
           "valor": "2105.99",
           "data": "2021-10-09T20:13:03.781Z"
         }
@@ -1820,6 +1888,10 @@
     "nome": "Cafeteira PH16 Inox Vermelha - Philco",
     "preco": {
       "preco": [
+        {
+          "valor": "103.49",
+          "data": "2021-10-26T23:25:13.189Z"
+        },
         {
           "valor": "95.78",
           "data": "2021-10-09T20:13:03.781Z"
@@ -2032,6 +2104,10 @@
     "nome": "Liquidificador Philco Ph800 2,4L 4 Velocidades Preto - 800W - 127V",
     "preco": {
       "preco": [
+        {
+          "valor": "107.99",
+          "data": "2021-10-26T23:25:13.188Z"
+        },
         {
           "valor": "97.19",
           "data": "2021-10-09T20:13:03.781Z"
@@ -2687,6 +2763,14 @@
       "preco": [
         {
           "valor": "2799.99",
+          "data": "2021-10-28T22:19:42.563Z"
+        },
+        {
+          "valor": "2659.99",
+          "data": "2021-10-27T23:22:29.843Z"
+        },
+        {
+          "valor": "2799.99",
           "data": "2021-10-11T12:59:42.279Z"
         },
         {
@@ -2706,6 +2790,10 @@
     "nome": "Smartphone Motorola Moto G9 Plus Dual Chip Desbloqueado Android 10 Tela 6.8\" 128GB 4G Camera Quadrupla 64MP + 8MP+ 2MP + 2MP Qualcomm Snapdragon - Azul Indigo",
     "preco": {
       "preco": [
+        {
+          "valor": "1279.99",
+          "data": "2021-10-26T23:25:13.189Z"
+        },
         {
           "valor": "1429.99",
           "data": "2021-10-09T20:13:03.782Z"
@@ -2858,6 +2946,14 @@
     "nome": "Console Playstation 4 Hits 1TB Bundle Family",
     "preco": {
       "preco": [
+        {
+          "valor": "2646.22",
+          "data": "2021-10-28T22:19:42.563Z"
+        },
+        {
+          "valor": "2116.98",
+          "data": "2021-10-28T12:42:01.886Z"
+        },
         {
           "valor": "2646.22",
           "data": "2021-10-09T20:13:03.782Z"
@@ -3146,6 +3242,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "299.69",
+          "data": "2021-10-26T23:25:13.188Z"
+        },
+        {
           "valor": "149.99",
           "data": "2021-10-09T20:13:03.782Z"
         }
@@ -3230,6 +3330,10 @@
     "nome": "Tablet Philco tela 7\" PTB7RRG 16GB Quadcore Android Pie 9.0 WiFi",
     "preco": {
       "preco": [
+        {
+          "valor": "271.99",
+          "data": "2021-10-26T23:25:13.188Z"
+        },
         {
           "valor": "339.99",
           "data": "2021-10-09T20:13:03.782Z"
@@ -3883,6 +3987,10 @@
     "nome": "Geladeira/Refrigerador Brastemp Duplex 2 Portas BRE57 Frost Free 443L - Inox",
     "preco": {
       "preco": [
+        {
+          "valor": "3598.99",
+          "data": "2021-10-26T23:25:13.188Z"
+        },
         {
           "valor": "3299.99",
           "data": "2021-10-14T00:39:17.544Z"
@@ -6058,6 +6166,14 @@
     "nome": "Smart TV LED 42'' Philco Full HD - PTV42G70N5CF co",
     "preco": {
       "preco": [
+        {
+          "valor": "1699.99",
+          "data": "2021-10-27T23:22:29.843Z"
+        },
+        {
+          "valor": "1499.99",
+          "data": "2021-10-26T23:25:13.189Z"
+        },
         {
           "valor": "1699.99",
           "data": "2021-10-11T12:59:42.279Z"
@@ -9626,6 +9742,571 @@
         {
           "valor": "21.59",
           "data": "2021-10-14T23:34:21.746Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Som Portatil Philco 4W RMS MP3 USB Pb126 Branco",
+    "nome": "Som Portatil Philco 4W RMS MP3 USB Pb126 Branco",
+    "preco": {
+      "preco": [
+        {
+          "valor": "211.49",
+          "data": "2021-10-28T22:19:42.563Z"
+        },
+        {
+          "valor": "149.99",
+          "data": "2021-10-26T23:25:13.174Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Fogao 5 Bocas Mesa de Vidro Brastemp BFS5V com Mesa de Vidro e Turbo Chama Preto - Bivolt",
+    "nome": "Fogao 5 Bocas Mesa de Vidro Brastemp BFS5V com Mesa de Vidro e Turbo Chama Preto - Bivolt",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1804.99",
+          "data": "2021-10-26T23:25:13.174Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Panela de Arroz Eletrica Philco PH10P Visor Glass Inox",
+    "nome": "Panela de Arroz Eletrica Philco PH10P Visor Glass Inox",
+    "preco": {
+      "preco": [
+        {
+          "valor": "159.91",
+          "data": "2021-10-26T23:25:13.174Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Lava e Seca Philco 12kg PLS12B Branca - 110v",
+    "nome": "Lava e Seca Philco 12kg PLS12B Branca - 110v",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2959.99",
+          "data": "2021-10-26T23:25:13.174Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Panela de Pressao Eletrica Electrolux Chef Pcc20 6L",
+    "nome": "Panela de Pressao Eletrica Electrolux Chef Pcc20 6L",
+    "preco": {
+      "preco": [
+        {
+          "valor": "358.99",
+          "data": "2021-10-26T23:25:13.174Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Aspirador de Po e Agua Electrolux A10N1 Cinza e Preto 10L - 1200W",
+    "nome": "Aspirador de Po e Agua Electrolux A10N1 Cinza e Preto 10L - 1200W",
+    "preco": {
+      "preco": [
+        {
+          "valor": "183.99",
+          "data": "2021-10-26T23:25:13.174Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Micro-ondas Brastemp BMS45 32 Litros Branco",
+    "nome": "Micro-ondas Brastemp BMS45 32 Litros Branco",
+    "preco": {
+      "preco": [
+        {
+          "valor": "599.99",
+          "data": "2021-10-26T23:25:13.174Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Lavadora Brastemp 14kg BWK14 Branca",
+    "nome": "Lavadora Brastemp 14kg BWK14 Branca",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1529.99",
+          "data": "2021-10-26T23:25:13.174Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Batedeira Planetaria Philco Php500 Turbo Br - Branco",
+    "nome": "Batedeira Planetaria Philco Php500 Turbo Br - Branco",
+    "preco": {
+      "preco": [
+        {
+          "valor": "314.99",
+          "data": "2021-10-26T23:25:13.175Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Samsung Galaxy S20 Fe - Cloud Lavender",
+    "nome": "Smartphone Samsung Galaxy S20 Fe - Cloud Lavender",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1999.00",
+          "data": "2021-10-26T23:25:13.175Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smart TV LED 65\" LG Ultra HD 4k 65SK8500PSA com Conversor Digital 4 HDMI 3 USB Wi-Fi Webos 4.0 Dts Virtual X Sound Sync Inteligencia Artificial - Prata",
+    "nome": "Smart TV LED 65\" LG Ultra HD 4k 65SK8500PSA com Conversor Digital 4 HDMI 3 USB Wi-Fi Webos 4.0 Dts Virtual X Sound Sync Inteligencia Artificial - Prata",
+    "preco": {
+      "preco": [
+        {
+          "valor": "5716.79",
+          "data": "2021-10-26T23:25:13.175Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Som Portatil Philco 4W RMS MP3 USB Pb126 Branco",
+    "nome": "Som Portatil Philco 4W RMS MP3 USB Pb126 Branco",
+    "preco": {
+      "preco": [
+        {
+          "valor": "149.99",
+          "data": "2021-10-26T23:25:13.175Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Sony Xperia XA1 Dual Chip Android Dual Tela 5\" Octacore 32GB",
+    "nome": "Smartphone Sony Xperia XA1 Dual Chip Android Dual Tela 5\" Octacore 32GB",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1097.99",
+          "data": "2021-10-26T23:25:13.175Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "USADOS - Jogo de Panelas 5 pecas Turim Vermelho - Tramontina",
+    "nome": "USADOS - Jogo de Panelas 5 pecas Turim Vermelho - Tramontina",
+    "preco": {
+      "preco": [
+        {
+          "valor": "249.89",
+          "data": "2021-10-26T23:25:13.175Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Liquidificador Philco PH900 VM 2L 12 Velocidades Vermelho - 900W",
+    "nome": "Liquidificador Philco PH900 VM 2L 12 Velocidades Vermelho - 900W",
+    "preco": {
+      "preco": [
+        {
+          "valor": "107.99",
+          "data": "2021-10-26T23:25:13.175Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Motorola Moto Z2 Play - Power Edition Dual Chip Android 7.1.1 Nougat Tela 5,5\" Octa-Core 2.2 GHz 64GB Camera 12MP - Platinum",
+    "nome": "Smartphone Motorola Moto Z2 Play - Power Edition Dual Chip Android 7.1.1 Nougat Tela 5,5\" Octa-Core 2.2 GHz 64GB Camera 12MP - Platinum",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1574.99",
+          "data": "2021-10-26T23:25:13.175Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Motorola Moto G7 Power 32GB Dual Chip Android Pie - 9.0 Tela 6.2\" 1.8 GHz Octa-Core 4G Camera 12MP - Azul Navy",
+    "nome": "Smartphone Motorola Moto G7 Power 32GB Dual Chip Android Pie - 9.0 Tela 6.2\" 1.8 GHz Octa-Core 4G Camera 12MP - Azul Navy",
+    "preco": {
+      "preco": [
+        {
+          "valor": "980.99",
+          "data": "2021-10-26T23:25:13.175Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Relogio Feminino Seculus Analogico Fashion 28385L0SVNB1",
+    "nome": "Relogio Feminino Seculus Analogico Fashion 28385L0SVNB1",
+    "preco": {
+      "preco": [
+        {
+          "valor": "224.99",
+          "data": "2021-10-26T23:25:13.175Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartwatch Samsung Galaxy Watch3 45mm - Preto",
+    "nome": "Smartwatch Samsung Galaxy Watch3 45mm - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1007.99",
+          "data": "2021-10-26T23:25:13.175Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Lavadora de Roupas Electrolux 13kg LAC13 - Branca",
+    "nome": "Lavadora de Roupas Electrolux 13kg LAC13 - Branca",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1249.99",
+          "data": "2021-10-26T23:25:13.175Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Geladeira/Refrigerador Electrolux Duplex Frost Free Top Freezer 402 litros DF44S Inox",
+    "nome": "Geladeira/Refrigerador Electrolux Duplex Frost Free Top Freezer 402 litros DF44S Inox",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1999.99",
+          "data": "2021-10-26T23:25:13.175Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Micro-ondas Electrolux MTD30 20 Litros 220V - Branco",
+    "nome": "Micro-ondas Electrolux MTD30 20 Litros 220V - Branco",
+    "preco": {
+      "preco": [
+        {
+          "valor": "234.99",
+          "data": "2021-10-27T23:22:29.828Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Geladeira/Refrigerador Electrolux 382 litros TW42S Inox Top Freezer com Dispenser de Agua 220v",
+    "nome": "Geladeira/Refrigerador Electrolux 382 litros TW42S Inox Top Freezer com Dispenser de Agua 220v",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2096.99",
+          "data": "2021-10-27T23:22:29.828Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Maquina de Algodao Doce Cotton Pop Bma01 - Britania",
+    "nome": "Maquina de Algodao Doce Cotton Pop Bma01 - Britania",
+    "preco": {
+      "preco": [
+        {
+          "valor": "99.99",
+          "data": "2021-10-27T23:22:29.829Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Notebook Dell Inspiron I15-3584-AS50P 8ª Intel Core I3 4GB 256GB SSD 15,6\" W10 - Preto",
+    "nome": "Notebook Dell Inspiron I15-3584-AS50P 8ª Intel Core I3 4GB 256GB SSD 15,6\" W10 - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2591.99",
+          "data": "2021-10-27T23:22:29.829Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Asus Zenfone 3 Dual Chip Android 6 Tela 5.5\" 64GB 4G Camera 16MP - Dourado",
+    "nome": "Smartphone Asus Zenfone 3 Dual Chip Android 6 Tela 5.5\" 64GB 4G Camera 16MP - Dourado",
+    "preco": {
+      "preco": [
+        {
+          "valor": "849.99",
+          "data": "2021-10-27T23:22:29.829Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Samsung Galaxy A3 Dual Chip Android 6.0 Tela 4.7\" 16GB 4G Camera 13MP - Preto",
+    "nome": "Smartphone Samsung Galaxy A3 Dual Chip Android 6.0 Tela 4.7\" 16GB 4G Camera 13MP - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "886.49",
+          "data": "2021-10-27T23:22:29.829Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Forno de Micro-ondas Electrolux MTD30 20 Litros Branco 110V",
+    "nome": "Forno de Micro-ondas Electrolux MTD30 20 Litros Branco 110V",
+    "preco": {
+      "preco": [
+        {
+          "valor": "375.99",
+          "data": "2021-10-27T23:22:29.830Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Refrigerador Brastemp Side Inverse BRO80 540 Litros Ice Maker Evox",
+    "nome": "Refrigerador Brastemp Side Inverse BRO80 540 Litros Ice Maker Evox",
+    "preco": {
+      "preco": [
+        {
+          "valor": "4373.99",
+          "data": "2021-10-27T23:22:29.830Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Maquina de Lavar Brastemp 12kg Branca com Ciclo Tira Manchas Advanced e Ciclo Antibolinha - 220V",
+    "nome": "Maquina de Lavar Brastemp 12kg Branca com Ciclo Tira Manchas Advanced e Ciclo Antibolinha - 220V",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1196.99",
+          "data": "2021-10-27T23:22:29.830Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Geladeira/Refrigerador Electrolux Top Freezer TF55 Branca 431L - 110v",
+    "nome": "Geladeira/Refrigerador Electrolux Top Freezer TF55 Branca 431L - 110v",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2339.99",
+          "data": "2021-10-27T23:22:29.830Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "PEQUENAS AVARIAS: Panificadora Britania Preta 600W - 127V",
+    "nome": "PEQUENAS AVARIAS: Panificadora Britania Preta 600W - 127V",
+    "preco": {
+      "preco": [
+        {
+          "valor": "113.96",
+          "data": "2021-10-28T12:42:01.876Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Suqueira Fresh Acrilica 6,8L - La Cuisine",
+    "nome": "Suqueira Fresh Acrilica 6,8L - La Cuisine",
+    "preco": {
+      "preco": [
+        {
+          "valor": "78.39",
+          "data": "2021-10-28T12:42:01.878Z"
         }
       ]
     },

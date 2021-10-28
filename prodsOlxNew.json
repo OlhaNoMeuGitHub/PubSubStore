@@ -1,16 +1,16 @@
 [
   {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-residencial-em-sao-paulo-sp-jacana-944287244",
-    "nome": "APARTAMENTO RESIDENCIAL em SAO PAULO - SP, JACANA",
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-2-dormitorios-950129313",
+    "nome": "APARTAMENTO 2 dormitorios",
     "preco": {
       "preco": [
         {
-          "valor": "409000",
-          "data": "2021-10-14T23:47:45.717Z"
+          "valor": "426500",
+          "data": "2021-10-28T22:19:46.500Z"
         }
       ]
     },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-residencial-em-sao-paulo-sp-jacana-944287244",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-2-dormitorios-950129313",
     "keyword": [
       "casa",
       "apartamento",
@@ -18,17 +18,17 @@
     ]
   },
   {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-padrao-residencial-em-sao-paulo-sp-vila-mazzei-944286553",
-    "nome": "APARTAMENTO PADRAO RESIDENCIAL em SAO PAULO - SP, VILA MAZZEI",
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-com-3-dorms-3-banheiros-e-2-vagas-em-santana-950118871",
+    "nome": "apartamento com 3 dorms, 3 banheiros e 2 vagas em Santana",
     "preco": {
       "preco": [
         {
-          "valor": "379000",
-          "data": "2021-10-14T23:47:45.717Z"
+          "valor": "960000",
+          "data": "2021-10-28T22:19:46.500Z"
         }
       ]
     },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-padrao-residencial-em-sao-paulo-sp-vila-mazzei-944286553",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-com-3-dorms-3-banheiros-e-2-vagas-em-santana-950118871",
     "keyword": [
       "casa",
       "apartamento",
@@ -36,151 +36,68 @@
     ]
   },
   {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-reikel-branco-938984818",
-    "nome": "Orgao eletronico reikel branco",
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-tokai-md7-948401765",
+    "nome": "Orgao Eletronico Tokai MD7",
     "preco": {
       "preco": [
         {
-          "valor": "2200",
-          "data": "2021-10-14T23:47:45.718Z"
+          "valor": "5800",
+          "data": "2021-10-28T22:19:46.500Z"
         }
       ]
     },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-reikel-branco-938984818",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-tokai-md7-948401765",
     "keyword": [
       "orgao",
       "eletrico"
     ]
   },
   {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-usado-unico-dono-943542809",
-    "nome": "Orgao eletronico usado - unico dono",
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/pedal-driver-e-di-dr-j-sparrow-933474478",
+    "nome": "Pedal / Driver e DI Dr J - Sparrow",
     "preco": {
       "preco": [
         {
-          "valor": "1100",
-          "data": "2021-10-14T23:47:45.718Z"
+          "valor": "450",
+          "data": "2021-10-28T22:19:46.500Z"
         }
       ]
     },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-usado-unico-dono-943542809",
-    "keyword": [
-      "orgao",
-      "eletrico"
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-tokai-d2-preto-941530767",
-    "nome": "orgao eletronico tokai d2 Preto",
-    "preco": {
-      "preco": [
-        {
-          "valor": "3800",
-          "data": "2021-10-14T23:47:45.718Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-tokai-d2-preto-941530767",
-    "keyword": [
-      "orgao",
-      "eletrico"
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-940164416",
-    "nome": "Orgao Eletronico",
-    "preco": {
-      "preco": [
-        {
-          "valor": "2200",
-          "data": "2021-10-14T23:47:45.718Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-940164416",
-    "keyword": [
-      "orgao",
-      "eletrico"
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/baixo-condor-5-cordas-931936362",
-    "nome": "Baixo Condor 5 cordas",
-    "preco": {
-      "preco": [
-        {
-          "valor": "900",
-          "data": "2021-10-14T23:47:45.719Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/baixo-condor-5-cordas-931936362",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/pedal-driver-e-di-dr-j-sparrow-933474478",
     "keyword": [
       ""
     ]
   },
   {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/direct-box-vendo-ou-troco-932704349",
-    "nome": "Direct Box vendo ou troco",
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-buffet-crampon-e11-france-933101094",
+    "nome": "Clarinete Buffet Crampon E11 France",
     "preco": {
       "preco": [
         {
-          "valor": "380",
-          "data": "2021-10-14T23:47:45.719Z"
+          "valor": "5800",
+          "data": "2021-10-28T22:19:46.500Z"
         }
       ]
     },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/direct-box-vendo-ou-troco-932704349",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-em-sol-sistema-oehler-928542854",
-    "nome": "Clarinete em Sol sistema oehler",
-    "preco": {
-      "preco": [
-        {
-          "valor": "500",
-          "data": "2021-10-14T23:47:45.719Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-em-sol-sistema-oehler-928542854",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-buffet-crampon-e11-france-933101094",
     "keyword": [
       "clarinete"
     ]
   },
   {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-sib-werill-r-2-300-942626110",
-    "nome": "Clarinete Sib Werill R$ 2.300",
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/violoncelo-941821084",
+    "nome": "Violoncelo",
     "preco": {
       "preco": [
         {
-          "valor": "2300",
-          "data": "2021-10-14T23:47:45.719Z"
+          "valor": "1000",
+          "data": "2021-10-28T22:19:46.500Z"
         }
       ]
     },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-sib-werill-r-2-300-942626110",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/violoncelo-941821084",
     "keyword": [
-      "clarinete"
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-weril-940982325",
-    "nome": "Clarinete weril",
-    "preco": {
-      "preco": [
-        {
-          "valor": "750",
-          "data": "2021-10-14T23:47:45.719Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-weril-940982325",
-    "keyword": [
-      "clarinete"
+      "violoncelo"
     ]
   }
 ]

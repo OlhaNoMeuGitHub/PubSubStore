@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "id": "Som Portatil Philco 4W RMS MP3 USB Pb126 Branco",
+    "nome": "Som Portatil Philco 4W RMS MP3 USB Pb126 Branco",
+    "preco": {
+      "preco": [
+        {
+          "valor": "211.49",
+          "data": "2021-10-28T22:19:42.555Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Mouse Gamer G403 Prodigy 12.000 DPI PC - Logitech",
+    "nome": "Mouse Gamer G403 Prodigy 12.000 DPI PC - Logitech",
+    "preco": {
+      "preco": [
+        {
+          "valor": "179.99",
+          "data": "2021-10-28T22:19:42.555Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Console Playstation 4 Hits 1TB Bundle 15 - Games Spider-Man: Goty + Horizon Zero Dawn: Complete Edition + Ratchet&Clank",
+    "nome": "Console Playstation 4 Hits 1TB Bundle 15 - Games Spider-Man: Goty + Horizon Zero Dawn: Complete Edition + Ratchet&Clank",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2799.99",
+          "data": "2021-10-28T22:19:42.555Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  }
+]
