@@ -33,5 +33,14 @@
         "url": "https://www.kabum.com.br/hardware/ssd-2-5/m-2?query=ssd+m2&page_number=1&page_size=60&facet_filters=eyJGYXRvciBkZSBGb3JtYSI6WyJNLjIiXSwiQ2FwYWNpZGFkZSI6WyIyMTAgLSAzMDAgR0IiLCI0MTAgLSA1MDAgR0IiXSwicHJpY2UiOnsibWluIjoxOTEuMDMsIm1heCI6NTg4Mi4yNH19&sort=most_searched",
         "tipo": "SSD M2",
         "keyword": [""]
+    },
+
+    {
+        "url": "https://www.kabum.com.br/hardware/placa-de-video-vga?page_number=1&page_size=80&facet_filters=eyJwcmljZSI6eyJtaW4iOjI2Ljk0LCJtYXgiOjgxNTkuMzV9LCJjYXRlZ29yeSI6WyJIYXJkd2FyZSJdLCJGYWJyaWNhbnRlIGRvIENoaXBzZXQiOlsiTlZJRElBIl19&sort=most_searched",
+        "tipo": "video Nvida",
+        "keyword": [""]
     }
+
+
+    
 ]

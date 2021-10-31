@@ -28,5 +28,17 @@
       "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais?pe=1500&ps=200&q=violoncelo",
       "tipo": "instrumento musical",
       "keyword": ["violoncelo"]
+    },
+    {
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/zona-norte?q=moedor%20de%20cafe",
+      "tipo": "moedor de cafe",
+      "keyword": ["cafe"]
+    },
+    {
+      "url": "https://sp.olx.com.br/sao-paulo-e-regiao/zona-oeste?q=moedor%20de%20cafe",
+      "tipo": "moedor de cafe",
+      "keyword": ["cafe"]
     }
+
+    
   ]

@@ -5,8 +5,8 @@
     "preco": {
       "preco": [
         {
-          "valor": "1068.43",
-          "data": "2021-10-12T01:06:46.270Z"
+          "valor": "1119.00",
+          "data": "2021-10-30T20:04:18.182Z"
         },
         {
           "valor": "1000.43",
@@ -25,12 +25,44 @@
     "preco": {
       "preco": [
         {
-          "valor": "1219.90",
-          "data": "2021-10-12T01:06:46.262Z"
+          "valor": "1289.90",
+          "data": "2021-10-30T20:04:18.164Z"
         }
       ]
     },
     "url": "https://www.kabum.com.br/produto/112990/processador-intel-core-i5-10400-cache-12mb-2-9ghz-4-3ghz-max-turbo-lga-1200-bx8070110400",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "Processador Intel Core i7-9700F Coffee Lake, Cache 12MB, 3.0GHz (4.7GHz Max Turbo), LGA 1151 - BX80684i79700F",
+    "nome": "Processador Intel Core i7-9700F Coffee Lake, Cache 12MB, 3.0GHz (4.7GHz Max Turbo), LGA 1151 - BX80684i79700F",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1549.90",
+          "data": "2021-10-30T20:04:18.164Z"
+        }
+      ]
+    },
+    "url": "https://www.kabum.com.br/produto/104144/processador-intel-core-i7-9700f-coffee-lake-cache-12mb-3-0ghz-4-7ghz-max-turbo-lga-1151-bx80684i79700f",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "Processador Intel Core i7-11700 11ª Geracao, Cache 16MB, 2.5 GHz (4.8GHz Turbo), LGA1200 - BX8070811700",
+    "nome": "Processador Intel Core i7-11700 11ª Geracao, Cache 16MB, 2.5 GHz (4.8GHz Turbo), LGA1200 - BX8070811700",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2299.90",
+          "data": "2021-10-30T20:04:18.172Z"
+        }
+      ]
+    },
+    "url": "https://www.kabum.com.br/produto/148905/processador-intel-core-i7-11700-11-geracao-cache-16mb-2-5-ghz-4-8ghz-turbo-lga1200-bx8070811700",
     "keyword": [
       "processador"
     ]
@@ -42,7 +74,7 @@
       "preco": [
         {
           "valor": "1219.90",
-          "data": "2021-10-12T01:06:46.262Z"
+          "data": "2021-10-30T20:04:18.172Z"
         }
       ]
     },
@@ -52,29 +84,13 @@
     ]
   },
   {
-    "id": "Processador Intel Core i7-9700F Coffee Lake, Cache 12MB, 3.0GHz (4.7GHz Max Turbo), LGA 1151 - BX80684i79700F",
-    "nome": "Processador Intel Core i7-9700F Coffee Lake, Cache 12MB, 3.0GHz (4.7GHz Max Turbo), LGA 1151 - BX80684i79700F",
-    "preco": {
-      "preco": [
-        {
-          "valor": "1419.90",
-          "data": "2021-10-12T01:06:46.262Z"
-        }
-      ]
-    },
-    "url": "https://www.kabum.com.br/produto/104144/processador-intel-core-i7-9700f-coffee-lake-cache-12mb-3-0ghz-4-7ghz-max-turbo-lga-1151-bx80684i79700f",
-    "keyword": [
-      "processador"
-    ]
-  },
-  {
-    "id": "Processador Intel Core i5-11400 11ª Geração, Cache 12MB, 2.6 GHz (4.4GHz Turbo), LGA1200 - BX8070811400",
+    "id": "Processador Intel Core i5-11400 11ª Geracao, Cache 12MB, 2.6 GHz (4.4GHz Turbo), LGA1200 - BX8070811400",
     "nome": "Processador Intel Core i5-11400 11ª Geracao, Cache 12MB, 2.6 GHz (4.4GHz Turbo), LGA1200 - BX8070811400",
     "preco": {
       "preco": [
         {
           "valor": "1499.90",
-          "data": "2021-10-12T01:06:46.262Z"
+          "data": "2021-10-30T20:04:18.172Z"
         }
       ]
     },
@@ -84,33 +100,33 @@
     ]
   },
   {
-    "id": "Processador Intel Core i7-11700 11ª Geração, Cache 16MB, 2.5 GHz (4.8GHz Turbo), LGA1200 - BX8070811700",
-    "nome": "Processador Intel Core i7-11700 11ª Geracao, Cache 16MB, 2.5 GHz (4.8GHz Turbo), LGA1200 - BX8070811700",
+    "id": "Processador Intel Core i5-11600K 11ª Geracao, Cache 12MB, 3.9 GHz (4.9GHz Turbo), LGA1200 - BX8070811600K",
+    "nome": "Processador Intel Core i5-11600K 11ª Geracao, Cache 12MB, 3.9 GHz (4.9GHz Turbo), LGA1200 - BX8070811600K",
     "preco": {
       "preco": [
         {
-          "valor": "2099.90",
-          "data": "2021-10-12T01:06:46.262Z"
+          "valor": "1649.90",
+          "data": "2021-10-30T20:04:18.172Z"
         }
       ]
     },
-    "url": "https://www.kabum.com.br/produto/148905/processador-intel-core-i7-11700-11-geracao-cache-16mb-2-5-ghz-4-8ghz-turbo-lga1200-bx8070811700",
+    "url": "https://www.kabum.com.br/produto/148903/processador-intel-core-i5-11600k-11-geracao-cache-12mb-3-9-ghz-4-9ghz-turbo-lga1200-bx8070811600k",
     "keyword": [
       "processador"
     ]
   },
   {
-    "id": "Processador Intel Core i3-10100F, Cache 6MB, 4.30 GHz, LGA 1200 - BX8070110100F",
-    "nome": "Processador Intel Core i3-10100F, Cache 6MB, 4.30 GHz, LGA 1200 - BX8070110100F",
+    "id": "Processador Intel Core i5-10600K, Cache 12MB, 4.1GHz (4.8GHz Max Turbo), LGA 1200 - BX8070110600K",
+    "nome": "Processador Intel Core i5-10600K, Cache 12MB, 4.1GHz (4.8GHz Max Turbo), LGA 1200 - BX8070110600K",
     "preco": {
       "preco": [
         {
-          "valor": "899.90",
-          "data": "2021-10-12T01:06:46.262Z"
+          "valor": "1699.90",
+          "data": "2021-10-30T20:04:18.172Z"
         }
       ]
     },
-    "url": "https://www.kabum.com.br/produto/129960/processador-intel-core-i3-10100f-cache-6mb-4-30-ghz-lga-1200-bx8070110100f",
+    "url": "https://www.kabum.com.br/produto/112992/processador-intel-core-i5-10600k-cache-12mb-4-1ghz-4-8ghz-max-turbo-lga-1200-bx8070110600k",
     "keyword": [
       "processador"
     ]
@@ -122,7 +138,7 @@
       "preco": [
         {
           "valor": "1419.90",
-          "data": "2021-10-12T01:06:46.262Z"
+          "data": "2021-10-30T20:04:18.172Z"
         }
       ]
     },
@@ -132,33 +148,17 @@
     ]
   },
   {
-    "id": "Processador Intel Core i5-10600K, Cache 12MB, 4.1GHz (4.8GHz Max Turbo), LGA 1200 - BX8070110600K",
-    "nome": "Processador Intel Core i5-10600K, Cache 12MB, 4.1GHz (4.8GHz Max Turbo), LGA 1200 - BX8070110600K",
+    "id": "Processador Intel Core i3-10100F, Cache 6MB, 4.30 GHz, LGA 1200 - BX8070110100F",
+    "nome": "Processador Intel Core i3-10100F, Cache 6MB, 4.30 GHz, LGA 1200 - BX8070110100F",
     "preco": {
       "preco": [
         {
-          "valor": "1449.90",
-          "data": "2021-10-12T01:06:46.262Z"
+          "valor": "899.90",
+          "data": "2021-10-30T20:04:18.172Z"
         }
       ]
     },
-    "url": "https://www.kabum.com.br/produto/112992/processador-intel-core-i5-10600k-cache-12mb-4-1ghz-4-8ghz-max-turbo-lga-1200-bx8070110600k",
-    "keyword": [
-      "processador"
-    ]
-  },
-  {
-    "id": "Processador Intel Core i5-11600K 11ª Geração, Cache 12MB, 3.9 GHz (4.9GHz Turbo), LGA1200 - BX8070811600K",
-    "nome": "Processador Intel Core i5-11600K 11ª Geracao, Cache 12MB, 3.9 GHz (4.9GHz Turbo), LGA1200 - BX8070811600K",
-    "preco": {
-      "preco": [
-        {
-          "valor": "1649.90",
-          "data": "2021-10-12T01:06:46.262Z"
-        }
-      ]
-    },
-    "url": "https://www.kabum.com.br/produto/148903/processador-intel-core-i5-11600k-11-geracao-cache-12mb-3-9-ghz-4-9ghz-turbo-lga1200-bx8070811600k",
+    "url": "https://www.kabum.com.br/produto/129960/processador-intel-core-i3-10100f-cache-6mb-4-30-ghz-lga-1200-bx8070110100f",
     "keyword": [
       "processador"
     ]
@@ -170,7 +170,7 @@
       "preco": [
         {
           "valor": "2299.90",
-          "data": "2021-10-12T01:06:46.262Z"
+          "data": "2021-10-30T20:04:18.172Z"
         }
       ]
     },
@@ -180,29 +180,29 @@
     ]
   },
   {
-    "id": "Processador Intel Core i7-9700KF Coffee Lake Refresh, Cache 12MB, 3.6GHz (4.9GHz Max Turbo), LGA 1151, Sem Vídeo - BX80684I79700KF",
-    "nome": "Processador Intel Core i7-9700KF Coffee Lake Refresh, Cache 12MB, 3.6GHz (4.9GHz Max Turbo), LGA 1151, Sem Video - BX80684I79700KF",
+    "id": "Processador Intel Core i7-9700 Coffee Lake, Cache 12MB, 3.0GHz (4.7GHz Max Turbo), LGA 1151 - BX80684i79700",
+    "nome": "Processador Intel Core i7-9700 Coffee Lake, Cache 12MB, 3.0GHz (4.7GHz Max Turbo), LGA 1151 - BX80684i79700",
     "preco": {
       "preco": [
         {
-          "valor": "1999.90",
-          "data": "2021-10-12T01:06:46.262Z"
+          "valor": "1749.90",
+          "data": "2021-10-30T20:04:18.172Z"
         }
       ]
     },
-    "url": "https://www.kabum.com.br/produto/102522/processador-intel-core-i7-9700kf-coffee-lake-refresh-cache-12mb-3-6ghz-4-9ghz-max-turbo-lga-1151-sem-video-bx80684i79700kf",
+    "url": "https://www.kabum.com.br/produto/104145/processador-intel-core-i7-9700-coffee-lake-cache-12mb-3-0ghz-4-7ghz-max-turbo-lga-1151-bx80684i79700",
     "keyword": [
       "processador"
     ]
   },
   {
-    "id": "Processador Intel Core i7-11700F 11ª Geração, Cache 16MB, 2.5 GHz (4.8GHz Turbo), LGA1200 - BX8070811700F",
+    "id": "Processador Intel Core i7-11700F 11ª Geracao, Cache 16MB, 2.5 GHz (4.8GHz Turbo), LGA1200 - BX8070811700F",
     "nome": "Processador Intel Core i7-11700F 11ª Geracao, Cache 16MB, 2.5 GHz (4.8GHz Turbo), LGA1200 - BX8070811700F",
     "preco": {
       "preco": [
         {
           "valor": "2219.90",
-          "data": "2021-10-12T01:06:46.263Z"
+          "data": "2021-10-30T20:04:18.172Z"
         }
       ]
     },
@@ -218,7 +218,7 @@
       "preco": [
         {
           "valor": "2279.90",
-          "data": "2021-10-12T01:06:46.263Z"
+          "data": "2021-10-30T20:04:18.172Z"
         }
       ]
     },
@@ -228,17 +228,17 @@
     ]
   },
   {
-    "id": "Processador Intel Core i7-9700 Coffee Lake, Cache 12MB, 3.0GHz (4.7GHz Max Turbo), LGA 1151 - BX80684i79700",
-    "nome": "Processador Intel Core i7-9700 Coffee Lake, Cache 12MB, 3.0GHz (4.7GHz Max Turbo), LGA 1151 - BX80684i79700",
+    "id": "Processador Intel Core i7-9700KF Coffee Lake Refresh, Cache 12MB, 3.6GHz (4.9GHz Max Turbo), LGA 1151, Sem Video - BX80684I79700KF",
+    "nome": "Processador Intel Core i7-9700KF Coffee Lake Refresh, Cache 12MB, 3.6GHz (4.9GHz Max Turbo), LGA 1151, Sem Video - BX80684I79700KF",
     "preco": {
       "preco": [
         {
-          "valor": "1749.90",
-          "data": "2021-10-12T01:06:46.263Z"
+          "valor": "1999.90",
+          "data": "2021-10-30T20:04:18.172Z"
         }
       ]
     },
-    "url": "https://www.kabum.com.br/produto/104145/processador-intel-core-i7-9700-coffee-lake-cache-12mb-3-0ghz-4-7ghz-max-turbo-lga-1151-bx80684i79700",
+    "url": "https://www.kabum.com.br/produto/102522/processador-intel-core-i7-9700kf-coffee-lake-refresh-cache-12mb-3-6ghz-4-9ghz-max-turbo-lga-1151-sem-video-bx80684i79700kf",
     "keyword": [
       "processador"
     ]
@@ -250,7 +250,7 @@
       "preco": [
         {
           "valor": "1239.90",
-          "data": "2021-10-12T01:06:46.263Z"
+          "data": "2021-10-30T20:04:18.172Z"
         }
       ]
     },
@@ -266,7 +266,7 @@
       "preco": [
         {
           "valor": "1579.90",
-          "data": "2021-10-12T01:06:46.263Z"
+          "data": "2021-10-30T20:04:18.172Z"
         }
       ]
     },
@@ -276,13 +276,13 @@
     ]
   },
   {
-    "id": "Processador Intel Core i7-8700 Coffee Lake 8ª Geração, 3.2GHz, 4.6GHz, LGA 1151 - BX80684I78700",
+    "id": "Processador Intel Core i7-8700 Coffee Lake 8ª Geracao, 3.2GHz, 4.6GHz, LGA 1151 - BX80684I78700",
     "nome": "Processador Intel Core i7-8700 Coffee Lake 8ª Geracao, 3.2GHz, 4.6GHz, LGA 1151 - BX80684I78700",
     "preco": {
       "preco": [
         {
           "valor": "2684.65",
-          "data": "2021-10-12T01:06:46.263Z"
+          "data": "2021-10-30T20:04:18.172Z"
         }
       ]
     },

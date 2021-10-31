@@ -1,80 +1,64 @@
 [
   {
-    "id": "PROCESSADOR AMD RYZEN 5 3500 3.6GHZ + COOLER AMD WRAITH STEALTH, 92MM, AM4",
-    "nome": "PROCESSADOR AMD RYZEN 5 3500 3.6GHZ + COOLER AMD WRAITH STEALTH, 92MM, AM4",
+    "id": "PROCESSADOR INTEL CORE I3 10100 3.60GHZ (4.30GHZ TURBO), 10ª GERACAO, 4-CORES 8-THREADS, LGA 1200, OEM",
+    "nome": "PROCESSADOR INTEL CORE I3 10100 3.60GHZ (4.30GHZ TURBO), 10ª GERACAO, 4-CORES 8-THREADS, LGA 1200, OEM",
     "preco": {
       "preco": [
         {
-          "valor": "1015.29",
-          "data": "2021-10-23T19:10:32.485Z"
+          "valor": "799.99",
+          "data": "2021-10-31T02:44:03.011Z"
         }
       ]
     },
-    "url": "https://www.terabyteshop.com.br/produto/19363/processador-amd-ryzen-5-3500-36ghz-cooler-amd-wraith-stealth-92mm-am4",
+    "url": "https://www.terabyteshop.com.br/produto/19595/processador-intel-core-i3-10100-360ghz-430ghz-turbo-10-geracao-4-cores-8-threads-lga-1200-oem-bx8070110100",
     "keyword": [
       "processador"
     ]
   },
   {
-    "id": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD RYZEN 5 PRO 2400GE 3.2GHZ + MEMORIA",
-    "nome": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD RYZEN 5 PRO 2400GE 3.2GHZ + MEMORIA",
+    "id": "PROCESSADOR INTEL CORE I5 10400F 2.90GHZ (4.30GHZ TURBO), 10ª GERACAO, 6-CORES 12-THREADS, LGA 1200, O",
+    "nome": "PROCESSADOR INTEL CORE I5 10400F 2.90GHZ (4.30GHZ TURBO), 10ª GERACAO, 6-CORES 12-THREADS, LGA 1200, O",
     "preco": {
       "preco": [
         {
-          "valor": "2022.75",
-          "data": "2021-10-23T19:10:32.485Z"
+          "valor": "1089.00",
+          "data": "2021-10-31T02:44:03.011Z"
         }
       ]
     },
-    "url": "https://www.terabyteshop.com.br/produto/17736/upgrade736",
+    "url": "https://www.terabyteshop.com.br/produto/19365/processador-intel-core-i5-10400f-290ghz-430ghz-turbo-10-geracao-6-cores-12-threads-lga-1200-oem",
     "keyword": [
       "processador"
     ]
   },
   {
-    "id": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD RYZEN 5 PRO 2400GE 3.2GHZ + MEMORIA",
-    "nome": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD RYZEN 5 PRO 2400GE 3.2GHZ + MEMORIA",
+    "id": "PROCESSADOR INTEL CORE I5 10400F 2.90GHZ (4.30GHZ TURBO), 10ª GERACAO, 6-CORES 12-THREADS, LGA 1200, B",
+    "nome": "PROCESSADOR INTEL CORE I5 10400F 2.90GHZ (4.30GHZ TURBO), 10ª GERACAO, 6-CORES 12-THREADS, LGA 1200, B",
     "preco": {
       "preco": [
         {
-          "valor": "2335.08",
-          "data": "2021-10-23T19:10:32.486Z"
+          "valor": "1229.00",
+          "data": "2021-10-31T02:44:03.012Z"
         }
       ]
     },
-    "url": "https://www.terabyteshop.com.br/produto/17758/upgrade744",
+    "url": "https://www.terabyteshop.com.br/produto/13676/processador-intel-core-i5-10400f-290ghz-430ghz-turbo-10-geracao-6-cores-12-threads-lga-1200-bx8070110400f",
     "keyword": [
       "processador"
     ]
   },
   {
-    "id": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD RYZEN 5 PRO 2400GE 3.2GHZ + SSD 120G",
-    "nome": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD RYZEN 5 PRO 2400GE 3.2GHZ + SSD 120G",
+    "id": "PROCESSADOR INTEL CORE I7 11700K 3.6GHZ (5.0GHZ TURBO), 11ª GERACAO, 8-CORES 16-THREADS, LGA 1200, BX8",
+    "nome": "PROCESSADOR INTEL CORE I7 11700K 3.6GHZ (5.0GHZ TURBO), 11ª GERACAO, 8-CORES 16-THREADS, LGA 1200, BX8",
     "preco": {
       "preco": [
         {
-          "valor": "1906.17",
-          "data": "2021-10-23T19:10:32.486Z"
+          "valor": "2765.73",
+          "data": "2021-10-31T02:44:03.013Z"
         }
       ]
     },
-    "url": "https://www.terabyteshop.com.br/produto/17727/upgrade728",
-    "keyword": [
-      "processador"
-    ]
-  },
-  {
-    "id": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD RYZEN 5 PRO 2400GE 3.2GHZ + SSD 240G",
-    "nome": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD RYZEN 5 PRO 2400GE 3.2GHZ + SSD 240G",
-    "preco": {
-      "preco": [
-        {
-          "valor": "2057.55",
-          "data": "2021-10-23T19:10:32.486Z"
-        }
-      ]
-    },
-    "url": "https://www.terabyteshop.com.br/produto/17731/upgrade732",
+    "url": "https://www.terabyteshop.com.br/produto/17255/processador-intel-core-i7-11700k-36ghz-50ghz-turbo-11-geracao-8-cores-16-threads-lga-1200-bx8070811700k",
     "keyword": [
       "processador"
     ]

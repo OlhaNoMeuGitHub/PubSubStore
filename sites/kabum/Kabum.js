@@ -13,17 +13,17 @@ async function startKabum(OldProds, fileNameOld, FileNameNew, ArrURL) {
 
 const getdataFuncKabum =  async function getdataKabum(page, item) {
   return page.evaluate((item) => {
-    return Array.from(document.querySelectorAll("a.sc-jeGTLq")).reduce((accumulator, currentValue) => {
+    return Array.from(document.querySelectorAll("a.sc-jeraig")).reduce((accumulator, currentValue) => {
       if (
-        typeof currentValue.getElementsByClassName("sc-jNMcJZ izgvGc sc-ehSDrC kWEbnc nameCard")[0] == "object" &&
-        typeof currentValue.getElementsByClassName("sc-iwyWTf jdSnuC priceCard")[0] ==
+        typeof currentValue.getElementsByClassName("nameCard")[0] == "object" &&
+        typeof currentValue.getElementsByClassName("priceCard")[0] ==
         "object"
         ) {
           
           let obj = {
-            nome: currentValue.getElementsByClassName("sc-jNMcJZ izgvGc sc-ehSDrC kWEbnc nameCard")[0].innerText,
+            nome: currentValue.getElementsByClassName("nameCard")[0].innerText,
             preco:
-            currentValue.getElementsByClassName("sc-iwyWTf jdSnuC priceCard")[0].innerText,
+            currentValue.getElementsByClassName("priceCard")[0].innerText,
             filtro: item.tipo,
             url: currentValue.href,
             keyword: item.keyword,
