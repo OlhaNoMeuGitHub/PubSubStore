@@ -49,12 +49,17 @@
     "preco": {
       "preco": [
         {
+<<<<<<< HEAD
           "valor": "349.99",
           "data": "2021-10-30T01:13:26.539Z"
         },
         {
           "valor": "499.00",
           "data": "2021-10-29T12:25:00.217Z"
+=======
+          "valor": "499.00",
+          "data": "2021-10-28T22:18:09.126Z"
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         },
         {
           "valor": "379.00",
@@ -89,6 +94,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "1399.00",
+          "data": "2021-10-28T12:39:58.105Z"
+        },
+        {
           "valor": "1189.00",
           "data": "2021-10-12T14:11:43.723Z"
         }
@@ -106,7 +115,11 @@
       "preco": [
         {
           "valor": "699.00",
+<<<<<<< HEAD
           "data": "2021-10-21T00:18:21.567Z"
+=======
+          "data": "2021-10-28T12:39:58.105Z"
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         },
         {
           "valor": "599.00",
@@ -142,11 +155,15 @@
       "preco": [
         {
           "valor": "659.00",
+<<<<<<< HEAD
           "data": "2021-10-21T00:18:21.567Z"
         },
         {
           "valor": "589.00",
           "data": "2021-10-16T14:12:59.776Z"
+=======
+          "data": "2021-10-28T12:39:58.105Z"
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         },
         {
           "valor": "749.00",
@@ -170,7 +187,11 @@
       "preco": [
         {
           "valor": "1799.00",
+<<<<<<< HEAD
           "data": "2021-10-21T00:18:21.567Z"
+=======
+          "data": "2021-10-28T12:39:58.105Z"
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         },
         {
           "valor": "1759.00",
@@ -194,7 +215,11 @@
       "preco": [
         {
           "valor": "2299.00",
+<<<<<<< HEAD
           "data": "2021-10-16T14:12:59.776Z"
+=======
+          "data": "2021-10-28T12:39:58.105Z"
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         },
         {
           "valor": "2059.00",
@@ -270,7 +295,11 @@
       "preco": [
         {
           "valor": "2049.00",
+<<<<<<< HEAD
           "data": "2021-10-29T12:25:00.217Z"
+=======
+          "data": "2021-10-28T12:39:58.105Z"
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         },
         {
           "valor": "1749.00",
@@ -288,6 +317,10 @@
     "nome": "PROCESSADOR INTEL CORE I7 10700KF, 3.80GHZ (5.10GHZ TURBO), 10ª GERACAO, 8-CORES 16-THREADS, LGA 1200,",
     "preco": {
       "preco": [
+        {
+          "valor": "2087.13",
+          "data": "2021-10-28T12:39:58.105Z"
+        },
         {
           "valor": "1899.00",
           "data": "2021-10-30T01:13:26.539Z"
@@ -312,6 +345,10 @@
     "nome": "PROCESSADOR AMD RYZEN 7 5800X 3.8GHZ (4.7GHZ TURBO), 8-CORES 16-THREADS, AM4, SEM COOLER",
     "preco": {
       "preco": [
+        {
+          "valor": "2999.00",
+          "data": "2021-10-28T12:39:58.105Z"
+        },
         {
           "valor": "2499.00",
           "data": "2021-10-30T01:13:26.539Z"
@@ -386,7 +423,11 @@
       "preco": [
         {
           "valor": "2199.00",
+<<<<<<< HEAD
           "data": "2021-10-29T12:25:00.217Z"
+=======
+          "data": "2021-10-28T12:39:58.105Z"
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         },
         {
           "valor": "2189.00",
@@ -469,6 +510,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "799.00",
+          "data": "2021-10-28T12:39:58.105Z"
+        },
+        {
           "valor": "749.00",
           "data": "2021-10-14T23:31:42.676Z"
         },
@@ -490,6 +535,7 @@
       "preco": [
         {
           "valor": "4959.00",
+<<<<<<< HEAD
           "data": "2021-10-31T02:44:03.125Z"
         },
         {
@@ -499,6 +545,9 @@
         {
           "valor": "4959.00",
           "data": "2021-10-29T12:25:00.217Z"
+=======
+          "data": "2021-10-28T12:39:58.105Z"
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         },
         {
           "valor": "5699.00",
@@ -550,7 +599,11 @@
       "preco": [
         {
           "valor": "1389.00",
+<<<<<<< HEAD
           "data": "2021-10-21T00:18:21.567Z"
+=======
+          "data": "2021-10-28T12:39:58.105Z"
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         },
         {
           "valor": "1269.00",
@@ -770,6 +823,7 @@
       "preco": [
         {
           "valor": "2765.73",
+<<<<<<< HEAD
           "data": "2021-10-31T02:44:03.125Z"
         },
         {
@@ -779,6 +833,9 @@
         {
           "valor": "2765.73",
           "data": "2021-10-29T12:25:00.217Z"
+=======
+          "data": "2021-10-28T12:39:58.105Z"
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         },
         {
           "valor": "2799.00",
@@ -974,7 +1031,11 @@
       "preco": [
         {
           "valor": "369.90",
+<<<<<<< HEAD
           "data": "2021-10-29T12:25:00.217Z"
+=======
+          "data": "2021-10-28T22:18:09.126Z"
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         },
         {
           "valor": "375.00",
@@ -994,7 +1055,11 @@
       "preco": [
         {
           "valor": "59.00",
+<<<<<<< HEAD
           "data": "2021-10-21T00:18:21.567Z"
+=======
+          "data": "2021-10-28T12:39:58.105Z"
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         },
         {
           "valor": "55.00",
@@ -1046,7 +1111,11 @@
       "preco": [
         {
           "valor": "159.90",
+<<<<<<< HEAD
           "data": "2021-10-29T12:25:00.217Z"
+=======
+          "data": "2021-10-28T22:18:09.126Z"
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         },
         {
           "valor": "155.00",
@@ -1114,7 +1183,11 @@
       "preco": [
         {
           "valor": "429.90",
+<<<<<<< HEAD
           "data": "2021-10-29T12:25:00.217Z"
+=======
+          "data": "2021-10-28T22:18:09.126Z"
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         },
         {
           "valor": "469.90",
@@ -1310,7 +1383,11 @@
       "preco": [
         {
           "valor": "299.90",
+<<<<<<< HEAD
           "data": "2021-10-29T12:25:00.217Z"
+=======
+          "data": "2021-10-28T22:18:09.126Z"
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         },
         {
           "valor": "285.00",
@@ -1362,6 +1439,7 @@
       "preco": [
         {
           "valor": "1758.27",
+<<<<<<< HEAD
           "data": "2021-10-21T00:18:21.567Z"
         },
         {
@@ -1371,6 +1449,9 @@
         {
           "valor": "1782.74",
           "data": "2021-10-16T14:12:59.777Z"
+=======
+          "data": "2021-10-28T12:39:58.105Z"
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         },
         {
           "valor": "1666.45",
@@ -1389,12 +1470,17 @@
     "preco": {
       "preco": [
         {
+<<<<<<< HEAD
           "valor": "1599.00",
           "data": "2021-10-30T01:13:26.539Z"
         },
         {
           "valor": "1745.22",
           "data": "2021-10-21T00:18:21.567Z"
+=======
+          "valor": "1745.22",
+          "data": "2021-10-28T12:39:58.105Z"
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         },
         {
           "valor": "1769.69",
@@ -1414,6 +1500,7 @@
       "preco": [
         {
           "valor": "1379.82",
+<<<<<<< HEAD
           "data": "2021-10-21T00:18:21.567Z"
         },
         {
@@ -1423,6 +1510,9 @@
         {
           "valor": "1404.29",
           "data": "2021-10-16T14:12:59.777Z"
+=======
+          "data": "2021-10-28T12:39:58.105Z"
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         },
         {
           "valor": "1288.00",
@@ -1774,7 +1864,11 @@
       "preco": [
         {
           "valor": "1249.99",
+<<<<<<< HEAD
           "data": "2021-10-29T12:25:00.217Z"
+=======
+          "data": "2021-10-28T12:39:58.105Z"
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         },
         {
           "valor": "1319.00",
@@ -1793,12 +1887,17 @@
     "preco": {
       "preco": [
         {
+<<<<<<< HEAD
           "valor": "799.99",
           "data": "2021-10-31T02:44:03.125Z"
         },
         {
           "valor": "899.00",
           "data": "2021-10-29T12:25:00.217Z"
+=======
+          "valor": "899.00",
+          "data": "2021-10-28T12:39:58.105Z"
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         },
         {
           "valor": "839.00",
@@ -1900,6 +1999,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "id": "PROCESSADOR INTEL CORE I5 11400 4.4GHZ + COOLER GAMDIAS BOREAS E1-410",
     "nome": "PROCESSADOR INTEL CORE I5 11400 4.4GHZ + COOLER GAMDIAS BOREAS E1-410",
     "preco": {
@@ -1940,12 +2040,15 @@
     ]
   },
   {
+=======
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
     "id": "PROCESSADOR INTEL CORE I5 10400F 2.90GHZ (4.30GHZ TURBO), 10ª GERACAO, 6-CORES 12-THREADS, LGA 1200, B",
     "nome": "PROCESSADOR INTEL CORE I5 10400F 2.90GHZ (4.30GHZ TURBO), 10ª GERACAO, 6-CORES 12-THREADS, LGA 1200, B",
     "preco": {
       "preco": [
         {
           "valor": "1229.00",
+<<<<<<< HEAD
           "data": "2021-10-31T02:44:03.125Z"
         },
         {
@@ -1955,6 +2058,9 @@
         {
           "valor": "1229.00",
           "data": "2021-10-21T00:18:20.985Z"
+=======
+          "data": "2021-10-28T12:39:58.002Z"
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         }
       ]
     },
@@ -1964,6 +2070,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "id": "COOLER PARA PROCESSADOR PCYES ZERO KZ2, LED BLUE 92MM, INTEL-AMD, ACZK292LDA",
     "nome": "COOLER PARA PROCESSADOR PCYES ZERO KZ2, LED BLUE 92MM, INTEL-AMD, ACZK292LDA",
     "preco": {
@@ -1991,11 +2098,25 @@
       ]
     },
     "url": "https://www.terabyteshop.com.br/produto/19540/cooler-para-processador-aerocool-core-plus-argb-120mm-intel-amd-73003",
+=======
+    "id": "PROCESSADOR INTEL CORE I3 10100 3.60GHZ (4.30GHZ TURBO), 10ª GERACAO, 4-CORES 8-THREADS, LGA 1200, BX8",
+    "nome": "PROCESSADOR INTEL CORE I3 10100 3.60GHZ (4.30GHZ TURBO), 10ª GERACAO, 4-CORES 8-THREADS, LGA 1200, BX8",
+    "preco": {
+      "preco": [
+        {
+          "valor": "999.00",
+          "data": "2021-10-28T12:39:58.002Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/13448/processador-intel-core-i3-10100-360ghz-430ghz-turbo-10-geracao-4-cores-8-threads-lga-1200-bx8070110100",
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
     "keyword": [
       "processador"
     ]
   },
   {
+<<<<<<< HEAD
     "id": "COOLER PARA PROCESSADOR AEROCOOL AIR FROST PLUS, FRGB, 120MM, INTEL-AMD",
     "nome": "COOLER PARA PROCESSADOR AEROCOOL AIR FROST PLUS, FRGB, 120MM, INTEL-AMD",
     "preco": {
@@ -2007,11 +2128,25 @@
       ]
     },
     "url": "https://www.terabyteshop.com.br/produto/19538/cooler-para-processador-aerocool-air-frost-plus-frgb-120mm-intel-amd-73002",
+=======
+    "id": "COOLER PARA PROCESSADOR RAIJINTEK PALLAS 120 RGB, 120MM, INTEL-AMD, 0R10B00121",
+    "nome": "COOLER PARA PROCESSADOR RAIJINTEK PALLAS 120 RGB, 120MM, INTEL-AMD, 0R10B00121",
+    "preco": {
+      "preco": [
+        {
+          "valor": "259.00",
+          "data": "2021-10-28T12:39:58.002Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/16364/cooler-para-processador-raijintek-pallas-120-rgb-120mm-intel-amd-0r10b00121",
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
     "keyword": [
       "processador"
     ]
   },
   {
+<<<<<<< HEAD
     "id": "COOLER PARA PROCESSADOR T-DAGGER IDUN M, 90MM, RAINBOW, INTEL-AMD, T-GC9109 M",
     "nome": "COOLER PARA PROCESSADOR T-DAGGER IDUN M, 90MM, RAINBOW, INTEL-AMD, T-GC9109 M",
     "preco": {
@@ -2023,11 +2158,25 @@
       ]
     },
     "url": "https://www.terabyteshop.com.br/produto/19459/cooler-para-processador-t-dagger-idun-m-90mm-rainbow-intel-amd-t-gc9109-m",
+=======
+    "id": "COOLER PARA PROCESSADOR DEEPCOOL GAMMAXX 400 V2, RED, 120MM, INTEL-AMD, DP-MCH4-GMX400V2-RD",
+    "nome": "COOLER PARA PROCESSADOR DEEPCOOL GAMMAXX 400 V2, RED, 120MM, INTEL-AMD, DP-MCH4-GMX400V2-RD",
+    "preco": {
+      "preco": [
+        {
+          "valor": "129.90",
+          "data": "2021-10-28T12:39:58.002Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/13649/cooler-para-processador-deepcool-gammaxx-400-v2-led-red-120mm-intel-amd-dp-mch4-gmx400v2-rd",
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
     "keyword": [
       "processador"
     ]
   },
   {
+<<<<<<< HEAD
     "id": "COOLER PARA PROCESSADOR REDRAGON THOR, RAINBOW, 120MM, INTEL-AMD, CC-9103",
     "nome": "COOLER PARA PROCESSADOR REDRAGON THOR, RAINBOW, 120MM, INTEL-AMD, CC-9103",
     "preco": {
@@ -2039,11 +2188,25 @@
       ]
     },
     "url": "https://www.terabyteshop.com.br/produto/19439/cooler-para-processador-redragon-thor-rainbow-120mm-intel-amd-cc-9103",
+=======
+    "id": "COOLER PARA PROCESSADOR SCYTHE KATANA 5 92MM, INTEL-AMD, SCKTN-5000",
+    "nome": "COOLER PARA PROCESSADOR SCYTHE KATANA 5 92MM, INTEL-AMD, SCKTN-5000",
+    "preco": {
+      "preco": [
+        {
+          "valor": "219.90",
+          "data": "2021-10-28T12:39:58.002Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/11854/cooler-para-processador-scythe-katana-5-92mm-intel-amd-scktn-5000",
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
     "keyword": [
       "processador"
     ]
   },
   {
+<<<<<<< HEAD
     "id": "COOLER PARA PROCESSADOR COOLER MASTER MASTERAIR MA624 STEALTH, 140MM, INTEL-AMD, MAM-D6PS-314PK-R1",
     "nome": "COOLER PARA PROCESSADOR COOLER MASTER MASTERAIR MA624 STEALTH, 140MM, INTEL-AMD, MAM-D6PS-314PK-R1",
     "preco": {
@@ -2055,11 +2218,25 @@
       ]
     },
     "url": "https://www.terabyteshop.com.br/produto/18968/cooler-para-processador-cooler-master-masterair-ma624-120mm-intel-amd-mam-d6ps-314pk-r1",
+=======
+    "id": "COOLER PARA PROCESSADOR COOLER MASTER HYPER H410R, LED RED 92MM, INTEL-AMD, RR-H410-20PK-R1",
+    "nome": "COOLER PARA PROCESSADOR COOLER MASTER HYPER H410R, LED RED 92MM, INTEL-AMD, RR-H410-20PK-R1",
+    "preco": {
+      "preco": [
+        {
+          "valor": "139.00",
+          "data": "2021-10-28T12:39:58.002Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/9803/cooler-master-hyper-h410r-rr-h410-20pk-r1-led-vermelho-intelamd",
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
     "keyword": [
       "processador"
     ]
   },
   {
+<<<<<<< HEAD
     "id": "PROCESSADOR INTEL CORE I5 11400F 4.4GHZ + COOLER GAMDIAS BOREAS E1-410",
     "nome": "PROCESSADOR INTEL CORE I5 11400F 4.4GHZ + COOLER GAMDIAS BOREAS E1-410",
     "preco": {
@@ -2071,11 +2248,25 @@
       ]
     },
     "url": "https://www.terabyteshop.com.br/produto/19615/upgrade1071",
+=======
+    "id": "COOLER PARA PROCESSADOR COOLER MASTER HYPER H412R, 92MM, INTEL-AMD, RR-H412-20PK-R2",
+    "nome": "COOLER PARA PROCESSADOR COOLER MASTER HYPER H412R, 92MM, INTEL-AMD, RR-H412-20PK-R2",
+    "preco": {
+      "preco": [
+        {
+          "valor": "139.00",
+          "data": "2021-10-28T12:39:58.002Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/9110/cooler-master-hyper-h412r-rr-h412-20pk-r2-intelamd",
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
     "keyword": [
       "processador"
     ]
   },
   {
+<<<<<<< HEAD
     "id": "KIT UPGRADE PLACA MAE MSI MAG B550 TOMAHAWK AM4 + PROCESSADOR AMD RYZEN 5 5600X + MEMORIA GEIL SUPER LU",
     "nome": "KIT UPGRADE PLACA MAE MSI MAG B550 TOMAHAWK AM4 + PROCESSADOR AMD RYZEN 5 5600X + MEMORIA GEIL SUPER LU",
     "preco": {
@@ -2103,11 +2294,25 @@
       ]
     },
     "url": "https://www.terabyteshop.com.br/produto/15987/kit-upgrade-placa-mae-msi-mag-b550-tomahawk-am4-processador-amd-ryzen-5-5600x-memoria-geil-super-luce-rgb-ddr4-16gb-2x8gb-3000mhz",
+=======
+    "id": "COOLER PARA PROCESSADOR T-DAGGER IDUN M, 90MM, RAINBOW, INTEL-AMD, T-GC9109 M",
+    "nome": "COOLER PARA PROCESSADOR T-DAGGER IDUN M, 90MM, RAINBOW, INTEL-AMD, T-GC9109 M",
+    "preco": {
+      "preco": [
+        {
+          "valor": "59.00",
+          "data": "2021-10-28T12:39:58.002Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19459/cooler-para-processador-t-dagger-idun-m-90mm-rainbow-intel-amd-t-gc9109-m",
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
     "keyword": [
       "processador"
     ]
   },
   {
+<<<<<<< HEAD
     "id": "KIT UPGRADE PLACA MAE MSI MAG B550 TOMAHAWK AM4 + PROCESSADOR AMD RYZEN 5 5600X",
     "nome": "KIT UPGRADE PLACA MAE MSI MAG B550 TOMAHAWK AM4 + PROCESSADOR AMD RYZEN 5 5600X",
     "preco": {
@@ -2119,11 +2324,25 @@
       ]
     },
     "url": "https://www.terabyteshop.com.br/produto/15985/kitupgrade575",
+=======
+    "id": "COOLER PARA PROCESSADOR COOLER MASTER MASTERAIR MA624 STEALTH, 140MM, INTEL-AMD, MAM-D6PS-314PK-R1",
+    "nome": "COOLER PARA PROCESSADOR COOLER MASTER MASTERAIR MA624 STEALTH, 140MM, INTEL-AMD, MAM-D6PS-314PK-R1",
+    "preco": {
+      "preco": [
+        {
+          "valor": "729.90",
+          "data": "2021-10-28T12:39:58.002Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/18968/cooler-para-processador-cooler-master-masterair-ma624-120mm-intel-amd-mam-d6ps-314pk-r1",
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
     "keyword": [
       "processador"
     ]
   },
   {
+<<<<<<< HEAD
     "id": "KIT UPGRADE PLACA MAE MSI MAG B550 TOMAHAWK AM4 + PROCESSADOR AMD RYZEN 5 5600X + MEMORIA OLOY OWL BLA",
     "nome": "KIT UPGRADE PLACA MAE MSI MAG B550 TOMAHAWK AM4 + PROCESSADOR AMD RYZEN 5 5600X + MEMORIA OLOY OWL BLA",
     "preco": {
@@ -2135,11 +2354,25 @@
       ]
     },
     "url": "https://www.terabyteshop.com.br/produto/15988/kit-upgrade-placa-mae-msi-mag-b550-tomahawk-am4-processador-amd-ryzen-5-5600x-memoria-oloy-owl-black-ddr4-8gb-3000mhz",
+=======
+    "id": "COOLER PARA PROCESSADOR COOLER MASTER HYPER 212 TURBO ARGB 120MM, INTEL-AMD, RR-212TK-18PA-R1",
+    "nome": "COOLER PARA PROCESSADOR COOLER MASTER HYPER 212 TURBO ARGB 120MM, INTEL-AMD, RR-212TK-18PA-R1",
+    "preco": {
+      "preco": [
+        {
+          "valor": "299.90",
+          "data": "2021-10-28T12:39:58.002Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/18960/cooler-para-processador-cooler-master-hyper-212-turbo-argb-120mm-intel-amd-rr-212tk-18pa-r1",
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
     "keyword": [
       "processador"
     ]
   },
   {
+<<<<<<< HEAD
     "id": "KIT UPGRADE PLACA MAE MSI MAG B550 TOMAHAWK AM4 + PROCESSADOR AMD RYZEN 5 5600X + MEMORIA OLOY OWL BLAC",
     "nome": "KIT UPGRADE PLACA MAE MSI MAG B550 TOMAHAWK AM4 + PROCESSADOR AMD RYZEN 5 5600X + MEMORIA OLOY OWL BLAC",
     "preco": {
@@ -2151,11 +2384,25 @@
       ]
     },
     "url": "https://www.terabyteshop.com.br/produto/15989/kit-upgrade-placa-mae-msi-mag-b550-tomahawk-am4-processador-amd-ryzen-5-5600x-memoria-oloy-owl-black-ddr4-16gb-2x8gb-3000mhz",
+=======
+    "id": "COOLER PARA PROCESSADOR THERMALTAKE UX200 ARGB LIGHTING, 120MM, INTEL-AMD, CL-P065-AL12SW-A",
+    "nome": "COOLER PARA PROCESSADOR THERMALTAKE UX200 ARGB LIGHTING, 120MM, INTEL-AMD, CL-P065-AL12SW-A",
+    "preco": {
+      "preco": [
+        {
+          "valor": "249.90",
+          "data": "2021-10-28T12:39:58.002Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/12755/cooler-para-processador-thermaltake-ux200-argb-lighting-120mm-intel-amd-cl-p065-al12sw-a",
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
     "keyword": [
       "processador"
     ]
   },
   {
+<<<<<<< HEAD
     "id": "KIT UPGRADE PLACA MAE MSI MAG B550 TOMAHAWK AM4 + PROCESSADOR AMD RYZEN 5 5600X + MEMORIA OLOY WARHAWK",
     "nome": "KIT UPGRADE PLACA MAE MSI MAG B550 TOMAHAWK AM4 + PROCESSADOR AMD RYZEN 5 5600X + MEMORIA OLOY WARHAWK",
     "preco": {
@@ -2167,11 +2414,25 @@
       ]
     },
     "url": "https://www.terabyteshop.com.br/produto/15991/kit-upgrade-placa-mae-msi-mag-b550-tomahawk-am4-processador-amd-ryzen-5-5600x-memoria-oloy-warhawk-black-rgb-ddr4-16gb-2x8gb-3000mhz",
+=======
+    "id": "COOLER PARA PROCESSADOR AEROCOOL VERKHO 5, 120MM, INTEL-AMD",
+    "nome": "COOLER PARA PROCESSADOR AEROCOOL VERKHO 5, 120MM, INTEL-AMD",
+    "preco": {
+      "preco": [
+        {
+          "valor": "189.90",
+          "data": "2021-10-28T12:39:58.002Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/8771/cooler-aerocool-verkho-5-intelamd-am4-ryzen-preto",
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
     "keyword": [
       "processador"
     ]
   },
   {
+<<<<<<< HEAD
     "id": "KIT UPGRADE PLACA MAE GIGABYTE Z390 M GAMING DDR4 CROSSFIRE LGA 1151 + PROCESSADOR INTEL CORE I9 9900K 3",
     "nome": "KIT UPGRADE PLACA MAE GIGABYTE Z390 M GAMING DDR4 CROSSFIRE LGA 1151 + PROCESSADOR INTEL CORE I9 9900K 3",
     "preco": {
@@ -2183,6 +2444,19 @@
       ]
     },
     "url": "https://www.terabyteshop.com.br/produto/10824/kit-upgrade160-placa-mae-processador-intel",
+=======
+    "id": "KIT UPGRADE PLACA MAE MSI MAG B550 TOMAHAWK AM4 + PROCESSADOR AMD RYZEN 5 5600X + MEMORIA GEIL SUPER LU",
+    "nome": "KIT UPGRADE PLACA MAE MSI MAG B550 TOMAHAWK AM4 + PROCESSADOR AMD RYZEN 5 5600X + MEMORIA GEIL SUPER LU",
+    "preco": {
+      "preco": [
+        {
+          "valor": "3767.79",
+          "data": "2021-10-28T12:39:58.003Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/15987/kit-upgrade-placa-mae-msi-mag-b550-tomahawk-am4-processador-amd-ryzen-5-5600x-memoria-geil-super-luce-rgb-ddr4-16gb-2x8gb-3000mhz",
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
     "keyword": [
       "processador"
     ]
@@ -2194,7 +2468,11 @@
       "preco": [
         {
           "valor": "209.90",
+<<<<<<< HEAD
           "data": "2021-10-29T12:24:59.404Z"
+=======
+          "data": "2021-10-28T22:18:09.109Z"
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         }
       ]
     },
@@ -2204,6 +2482,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "id": "PROCESSADOR INTEL CORE I3 10100 3.60GHZ (4.30GHZ TURBO), 10ª GERACAO, 4-CORES 8-THREADS, LGA 1200, BX8",
     "nome": "PROCESSADOR INTEL CORE I3 10100 3.60GHZ (4.30GHZ TURBO), 10ª GERACAO, 4-CORES 8-THREADS, LGA 1200, BX8",
     "preco": {
@@ -2236,13 +2515,19 @@
     ]
   },
   {
+=======
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
     "id": "PROCESSADOR INTEL CORE I7 12700K 3.6GHZ (5.0GHZ TURBO), 12ª GERACAO, 12-CORES 20-THREADS, LGA 1700, BX",
     "nome": "PROCESSADOR INTEL CORE I7 12700K 3.6GHZ (5.0GHZ TURBO), 12ª GERACAO, 12-CORES 20-THREADS, LGA 1700, BX",
     "preco": {
       "preco": [
         {
           "valor": "3399.00",
+<<<<<<< HEAD
           "data": "2021-10-29T12:24:59.405Z"
+=======
+          "data": "2021-10-28T22:18:09.110Z"
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         }
       ]
     },
@@ -2258,7 +2543,11 @@
       "preco": [
         {
           "valor": "3199.00",
+<<<<<<< HEAD
           "data": "2021-10-29T12:24:59.405Z"
+=======
+          "data": "2021-10-28T22:18:09.110Z"
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         }
       ]
     },
@@ -2274,7 +2563,11 @@
       "preco": [
         {
           "valor": "2399.00",
+<<<<<<< HEAD
           "data": "2021-10-29T12:24:59.405Z"
+=======
+          "data": "2021-10-28T22:18:09.110Z"
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         }
       ]
     },
@@ -2290,7 +2583,11 @@
       "preco": [
         {
           "valor": "4999.00",
+<<<<<<< HEAD
           "data": "2021-10-29T12:24:59.405Z"
+=======
+          "data": "2021-10-28T22:18:09.110Z"
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         }
       ]
     },
@@ -2300,6 +2597,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "id": "COOLER PARA PROCESSADOR COOLER MASTER HYPER 212 TURBO ARGB 120MM, INTEL-AMD, RR-212TK-18PA-R1",
     "nome": "COOLER PARA PROCESSADOR COOLER MASTER HYPER 212 TURBO ARGB 120MM, INTEL-AMD, RR-212TK-18PA-R1",
     "preco": {
@@ -2407,6 +2705,19 @@
       ]
     },
     "url": "https://www.terabyteshop.com.br/produto/19415/cooler-para-processador-pcyes-notus-b-120mm-intel-amd-pcyacnb",
+=======
+    "id": "COOLER PARA PROCESSADOR REDRAGON THOR, RAINBOW, 120MM, INTEL-AMD, CC-9103",
+    "nome": "COOLER PARA PROCESSADOR REDRAGON THOR, RAINBOW, 120MM, INTEL-AMD, CC-9103",
+    "preco": {
+      "preco": [
+        {
+          "valor": "129.90",
+          "data": "2021-10-28T22:18:09.110Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19439/cooler-para-processador-redragon-thor-rainbow-120mm-intel-amd-cc-9103",
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
     "keyword": [
       "processador"
     ]

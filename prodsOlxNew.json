@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD
     "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-digital-acordes-serie-ouro-950880206",
     "nome": "Orgao eletronico digital acordes/serie ouro",
     "preco": {
@@ -11,6 +12,55 @@
       ]
     },
     "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-digital-acordes-serie-ouro-950880206",
+=======
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-2-dormitorios-950129313",
+    "nome": "APARTAMENTO 2 dormitorios",
+    "preco": {
+      "preco": [
+        {
+          "valor": "426500",
+          "data": "2021-10-28T22:19:46.500Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-2-dormitorios-950129313",
+    "keyword": [
+      "casa",
+      "apartamento",
+      "chacara"
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-com-3-dorms-3-banheiros-e-2-vagas-em-santana-950118871",
+    "nome": "apartamento com 3 dorms, 3 banheiros e 2 vagas em Santana",
+    "preco": {
+      "preco": [
+        {
+          "valor": "960000",
+          "data": "2021-10-28T22:19:46.500Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-com-3-dorms-3-banheiros-e-2-vagas-em-santana-950118871",
+    "keyword": [
+      "casa",
+      "apartamento",
+      "chacara"
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-tokai-md7-948401765",
+    "nome": "Orgao Eletronico Tokai MD7",
+    "preco": {
+      "preco": [
+        {
+          "valor": "5800",
+          "data": "2021-10-28T22:19:46.500Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-tokai-md7-948401765",
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
     "keyword": [
       "orgao",
       "eletrico"
@@ -19,6 +69,7 @@
   {
     "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/pedal-driver-e-di-dr-j-sparrow-933474478",
     "nome": "Pedal / Driver e DI Dr J - Sparrow",
+<<<<<<< HEAD
     "preco": {
       "preco": [
         {
@@ -60,11 +111,39 @@
       ]
     },
     "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-jupiter-jcl635-madeira-zerada-830586444",
+=======
+    "preco": {
+      "preco": [
+        {
+          "valor": "450",
+          "data": "2021-10-28T22:19:46.500Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/pedal-driver-e-di-dr-j-sparrow-933474478",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-buffet-crampon-e11-france-933101094",
+    "nome": "Clarinete Buffet Crampon E11 France",
+    "preco": {
+      "preco": [
+        {
+          "valor": "5800",
+          "data": "2021-10-28T22:19:46.500Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-buffet-crampon-e11-france-933101094",
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
     "keyword": [
       "clarinete"
     ]
   },
   {
+<<<<<<< HEAD
     "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-eagle-cl04-sb-com-17-chaves-otimo-estado-933205349",
     "nome": "Clarinete Eagle CL04 SB com 17 chaves- Otimo estado.",
     "preco": {
@@ -76,8 +155,21 @@
       ]
     },
     "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-eagle-cl04-sb-com-17-chaves-otimo-estado-933205349",
+=======
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/violoncelo-941821084",
+    "nome": "Violoncelo",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1000",
+          "data": "2021-10-28T22:19:46.500Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/violoncelo-941821084",
+>>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
     "keyword": [
-      "clarinete"
+      "violoncelo"
     ]
   }
 ]
