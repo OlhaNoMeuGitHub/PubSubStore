@@ -1,12 +1,12 @@
 [
   {
-    "id": "Som Portatil Philco 4W RMS MP3 USB Pb126 Branco",
-    "nome": "Som Portatil Philco 4W RMS MP3 USB Pb126 Branco",
+    "id": "Smartphone LG K10 Novo Dual Chip Android 7.0 Tela 5,3\" 32GB 4G 13MP - Preto",
+    "nome": "Smartphone LG K10 Novo Dual Chip Android 7.0 Tela 5,3\" 32GB 4G 13MP - Preto",
     "preco": {
       "preco": [
         {
-          "valor": "211.49",
-          "data": "2021-10-28T22:19:42.555Z"
+          "valor": "643.49",
+          "data": "2021-11-01T02:02:13.592Z"
         }
       ]
     },
@@ -17,13 +17,13 @@
     ]
   },
   {
-    "id": "Mouse Gamer G403 Prodigy 12.000 DPI PC - Logitech",
-    "nome": "Mouse Gamer G403 Prodigy 12.000 DPI PC - Logitech",
+    "id": "Fritadeira Sem Oleo - Air Fryer Philco Chrome 5,5 Litros Preta com Timer",
+    "nome": "Fritadeira Sem Oleo - Air Fryer Philco Chrome 5,5 Litros Preta com Timer",
     "preco": {
       "preco": [
         {
-          "valor": "179.99",
-          "data": "2021-10-28T22:19:42.555Z"
+          "valor": "1224.99",
+          "data": "2021-11-01T02:02:13.592Z"
         }
       ]
     },
@@ -34,13 +34,302 @@
     ]
   },
   {
-    "id": "Console Playstation 4 Hits 1TB Bundle 15 - Games Spider-Man: Goty + Horizon Zero Dawn: Complete Edition + Ratchet&Clank",
-    "nome": "Console Playstation 4 Hits 1TB Bundle 15 - Games Spider-Man: Goty + Horizon Zero Dawn: Complete Edition + Ratchet&Clank",
+    "id": "Smartphone Sony Xperia XA1 Dual Chip Android Dual Tela 5\" Octacore 32GB",
+    "nome": "Smartphone Sony Xperia XA1 Dual Chip Android Dual Tela 5\" Octacore 32GB",
     "preco": {
       "preco": [
         {
-          "valor": "2799.99",
-          "data": "2021-10-28T22:19:42.555Z"
+          "valor": "1097.99",
+          "data": "2021-11-01T02:02:13.592Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Samsung Galaxy A3 Dual Chip Android 6.0 Tela 4.7\" 16GB 4G Camera 13MP - Preto",
+    "nome": "Smartphone Samsung Galaxy A3 Dual Chip Android 6.0 Tela 4.7\" 16GB 4G Camera 13MP - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "886.49",
+          "data": "2021-11-01T02:02:13.592Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "iPhone 5C 32GB Verde iOS 8 4G Camera 8MP - Apple",
+    "nome": "iPhone 5C 32GB Verde iOS 8 4G Camera 8MP - Apple",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1034.99",
+          "data": "2021-11-01T02:02:13.592Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Geladeira/Refrigerador Consul Duplex Frost Free 340 litros CRM39 Evox 220V",
+    "nome": "Geladeira/Refrigerador Consul Duplex Frost Free 340 litros CRM39 Evox 220V",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1961.99",
+          "data": "2021-11-01T02:02:13.592Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Philco Hit PCS02 Max Rose",
+    "nome": "Smartphone Philco Hit PCS02 Max Rose",
+    "preco": {
+      "preco": [
+        {
+          "valor": "799.99",
+          "data": "2021-11-01T02:02:13.592Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Sony Xperia Z3 Dual Desbloqueado Android 16gb 4g 20.7mp - Branco",
+    "nome": "Smartphone Sony Xperia Z3 Dual Desbloqueado Android 16gb 4g 20.7mp - Branco",
+    "preco": {
+      "preco": [
+        {
+          "valor": "899.99",
+          "data": "2021-11-01T02:02:13.592Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Samsung Galaxy M31 - Azul",
+    "nome": "Smartphone Samsung Galaxy M31 - Azul",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1499.99",
+          "data": "2021-11-01T02:02:13.592Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Geladeira/Refrigerador Electrolux Frost Free DFX41 Inox 371L - 110v",
+    "nome": "Geladeira/Refrigerador Electrolux Frost Free DFX41 Inox 371L - 110v",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2249.09",
+          "data": "2021-11-01T02:02:13.593Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Samsung Galaxy A70 - Azul",
+    "nome": "Smartphone Samsung Galaxy A70 - Azul",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1599.99",
+          "data": "2021-11-01T02:02:13.593Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Som Portatil Philco PB119N CD Player Radio FM Entradas Aux/USB 5W Preto",
+    "nome": "Som Portatil Philco PB119N CD Player Radio FM Entradas Aux/USB 5W Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "108.49",
+          "data": "2021-11-01T02:02:13.593Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Tablet Genesis Betty Boop 4GB Wi-fi Tela 7\" Android 4.0 Processador Cortex A9 1.2 GHz - Preto",
+    "nome": "Tablet Genesis Betty Boop 4GB Wi-fi Tela 7\" Android 4.0 Processador Cortex A9 1.2 GHz - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "413.99",
+          "data": "2021-11-01T02:02:13.593Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Radio Portatil Mondial UP Dynamic Bx-19 entrada USB Bluetooth Bivolt",
+    "nome": "Radio Portatil Mondial UP Dynamic Bx-19 entrada USB Bluetooth Bivolt",
+    "preco": {
+      "preco": [
+        {
+          "valor": "107.09",
+          "data": "2021-11-01T02:02:13.593Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Headset Gamer Tittan 2.0 Usb - Dazz",
+    "nome": "Headset Gamer Tittan 2.0 Usb - Dazz",
+    "preco": {
+      "preco": [
+        {
+          "valor": "114.90",
+          "data": "2021-11-01T02:02:13.594Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Fone de Ouvido Bluetooth Philco PFO01BTP - Preto",
+    "nome": "Fone de Ouvido Bluetooth Philco PFO01BTP - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "85.11",
+          "data": "2021-11-01T02:02:13.594Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone LG K51S Dual Chip Android 9.0 Pie 6.55\" Octa Core 64GB 4G Camera 32MP+5MP+2MP+2MP - Titanio",
+    "nome": "Smartphone LG K51S Dual Chip Android 9.0 Pie 6.55\" Octa Core 64GB 4G Camera 32MP+5MP+2MP+2MP - Titanio",
+    "preco": {
+      "preco": [
+        {
+          "valor": "979.99",
+          "data": "2021-11-01T02:02:13.594Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Samsung Galaxy M21s - Preto",
+    "nome": "Smartphone Samsung Galaxy M21s - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1359.20",
+          "data": "2021-11-01T02:02:13.594Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Tablet Philco tela 7\" PTB7RRG 16GB Quadcore Android Pie 9.0 WiFi",
+    "nome": "Tablet Philco tela 7\" PTB7RRG 16GB Quadcore Android Pie 9.0 WiFi",
+    "preco": {
+      "preco": [
+        {
+          "valor": "339.99",
+          "data": "2021-11-01T02:02:13.594Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Samsung Galaxy A01 32GB Camera 13MP(Principal) + 2MP(Profundidade) Octa-Core - Azul",
+    "nome": "Smartphone Samsung Galaxy A01 32GB Camera 13MP(Principal) + 2MP(Profundidade) Octa-Core - Azul",
+    "preco": {
+      "preco": [
+        {
+          "valor": "759.99",
+          "data": "2021-11-01T02:02:13.594Z"
         }
       ]
     },

@@ -487,7 +487,10 @@
       "preco": [
         {
           "valor": "450",
-<<<<<<< HEAD
+          "data": "2021-11-01T02:02:35.023Z"
+        },
+        {
+          "valor": "450",
           "data": "2021-10-31T02:46:38.846Z"
         },
         {
@@ -537,21 +540,6 @@
         {
           "valor": "450",
           "data": "2021-10-16T00:04:44.706Z"
-=======
-          "data": "2021-10-28T22:19:46.508Z"
-        },
-        {
-          "valor": "450",
-          "data": "2021-10-28T12:41:55.180Z"
-        },
-        {
-          "valor": "450",
-          "data": "2021-10-27T23:22:25.600Z"
-        },
-        {
-          "valor": "450",
-          "data": "2021-10-26T23:24:55.397Z"
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         },
         {
           "valor": "450",
@@ -775,7 +763,10 @@
       "preco": [
         {
           "valor": "580",
-<<<<<<< HEAD
+          "data": "2021-11-01T02:02:35.023Z"
+        },
+        {
+          "valor": "580",
           "data": "2021-10-31T02:46:38.846Z"
         },
         {
@@ -825,21 +816,6 @@
         {
           "valor": "580",
           "data": "2021-10-16T00:04:44.706Z"
-=======
-          "data": "2021-10-28T22:19:46.508Z"
-        },
-        {
-          "valor": "580",
-          "data": "2021-10-28T12:41:55.180Z"
-        },
-        {
-          "valor": "580",
-          "data": "2021-10-27T23:22:25.600Z"
-        },
-        {
-          "valor": "608",
-          "data": "2021-10-26T23:24:55.397Z"
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         },
         {
           "valor": "580",
@@ -1247,11 +1223,7 @@
       "preco": [
         {
           "valor": "1687",
-<<<<<<< HEAD
           "data": "2021-10-29T12:27:59.571Z"
-=======
-          "data": "2021-10-26T23:24:55.398Z"
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         },
         {
           "valor": "1.687",
@@ -1271,11 +1243,7 @@
       "preco": [
         {
           "valor": "1675",
-<<<<<<< HEAD
           "data": "2021-10-29T12:27:59.571Z"
-=======
-          "data": "2021-10-26T23:24:55.398Z"
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         },
         {
           "valor": "1.675",
@@ -1395,7 +1363,10 @@
       "preco": [
         {
           "valor": "600",
-<<<<<<< HEAD
+          "data": "2021-11-01T02:02:35.024Z"
+        },
+        {
+          "valor": "600",
           "data": "2021-10-31T02:46:38.846Z"
         },
         {
@@ -1421,21 +1392,6 @@
         {
           "valor": "600",
           "data": "2021-10-23T19:12:46.636Z"
-=======
-          "data": "2021-10-28T22:19:46.508Z"
-        },
-        {
-          "valor": "600",
-          "data": "2021-10-28T12:41:55.180Z"
-        },
-        {
-          "valor": "600",
-          "data": "2021-10-27T23:22:25.600Z"
-        },
-        {
-          "valor": "600",
-          "data": "2021-10-26T23:24:55.398Z"
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         },
         {
           "valor": "600",
@@ -1455,11 +1411,7 @@
       "preco": [
         {
           "valor": "5800",
-<<<<<<< HEAD
           "data": "2021-10-29T12:27:59.571Z"
-=======
-          "data": "2021-10-28T22:19:46.508Z"
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         },
         {
           "valor": "5.800",
@@ -2682,11 +2634,7 @@
       "preco": [
         {
           "valor": "14355.00300",
-<<<<<<< HEAD
           "data": "2021-10-29T12:27:59.571Z"
-=======
-          "data": "2021-10-27T23:22:25.600Z"
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         },
         {
           "valor": "355",
@@ -2969,11 +2917,7 @@
       "preco": [
         {
           "valor": "1600",
-<<<<<<< HEAD
           "data": "2021-10-22T00:44:13.859Z"
-=======
-          "data": "2021-10-26T23:24:55.397Z"
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         },
         {
           "valor": "1950",
@@ -2998,7 +2942,10 @@
       "preco": [
         {
           "valor": "2900",
-<<<<<<< HEAD
+          "data": "2021-11-01T02:02:35.023Z"
+        },
+        {
+          "valor": "2900",
           "data": "2021-10-31T02:46:38.846Z"
         },
         {
@@ -3048,21 +2995,6 @@
         {
           "valor": "2900",
           "data": "2021-10-16T00:04:44.706Z"
-=======
-          "data": "2021-10-28T22:19:46.508Z"
-        },
-        {
-          "valor": "2900",
-          "data": "2021-10-28T12:41:55.180Z"
-        },
-        {
-          "valor": "2900",
-          "data": "2021-10-27T23:22:25.600Z"
-        },
-        {
-          "valor": "2900",
-          "data": "2021-10-26T23:24:55.397Z"
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         },
         {
           "valor": "2900",
@@ -3149,15 +3081,7 @@
       "preco": [
         {
           "valor": "3800",
-<<<<<<< HEAD
           "data": "2021-10-25T23:13:02.639Z"
-=======
-          "data": "2021-10-26T23:24:55.397Z"
-        },
-        {
-          "valor": "3800",
-          "data": "2021-10-14T23:47:45.736Z"
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         },
         {
           "valor": "3800",
@@ -3763,11 +3687,7 @@
       "preco": [
         {
           "valor": "1600",
-<<<<<<< HEAD
           "data": "2021-10-23T19:12:46.636Z"
-=======
-          "data": "2021-10-26T23:24:55.397Z"
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         },
         {
           "valor": "1950",
@@ -4134,7 +4054,10 @@
       "preco": [
         {
           "valor": "1000",
-<<<<<<< HEAD
+          "data": "2021-11-01T02:02:35.024Z"
+        },
+        {
+          "valor": "1000",
           "data": "2021-10-31T02:46:38.846Z"
         },
         {
@@ -4184,21 +4107,6 @@
         {
           "valor": "1000",
           "data": "2021-10-16T00:04:44.706Z"
-=======
-          "data": "2021-10-28T22:19:46.508Z"
-        },
-        {
-          "valor": "1000",
-          "data": "2021-10-28T12:41:55.180Z"
-        },
-        {
-          "valor": "1000",
-          "data": "2021-10-27T23:22:25.600Z"
-        },
-        {
-          "valor": "1000",
-          "data": "2021-10-26T23:24:55.398Z"
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         },
         {
           "valor": "1000",
@@ -4246,11 +4154,7 @@
       "preco": [
         {
           "valor": "1300",
-<<<<<<< HEAD
           "data": "2021-10-22T00:44:13.859Z"
-=======
-          "data": "2021-10-26T23:24:55.398Z"
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         },
         {
           "valor": "1500",
@@ -4501,11 +4405,7 @@
       "preco": [
         {
           "valor": "400",
-<<<<<<< HEAD
           "data": "2021-10-29T12:27:59.571Z"
-=======
-          "data": "2021-10-26T23:24:55.397Z"
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         },
         {
           "valor": "450",
@@ -4874,7 +4774,6 @@
     ]
   },
   {
-<<<<<<< HEAD
     "id": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-padrao-2-dormitorio-s-2-banheiro-s-1-garagem-ns-64m-944464199",
     "nome": "Apartamento padrao, 2 dormitorio(s), 2 banheiro(s), 1 garagem(ns), 64m²",
     "preco": {
@@ -4886,19 +4785,6 @@
       ]
     },
     "url": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-padrao-2-dormitorio-s-2-banheiro-s-1-garagem-ns-64m-944464199",
-=======
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-a-venda-santana-sao-paulo-sp-948928786",
-    "nome": "Apartamento a venda, Santana, Sao Paulo, SP",
-    "preco": {
-      "preco": [
-        {
-          "valor": "460000",
-          "data": "2021-10-26T23:24:55.386Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-a-venda-santana-sao-paulo-sp-948928786",
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
     "keyword": [
       "casa",
       "apartamento",
@@ -4906,7 +4792,6 @@
     ]
   },
   {
-<<<<<<< HEAD
     "id": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-para-alugar-com-1-dormitorios-em-tremembe-sao-paulo-cod-234553-944308181",
     "nome": "Apartamento para alugar com 1 dormitorios em Tremembe, Sao paulo cod:234553",
     "preco": {
@@ -4936,47 +4821,12 @@
       ]
     },
     "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-spark-944406057",
-=======
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-harmonia-hs-100-948771391",
-    "nome": "Orgao eletronico Harmonia Hs- 100",
-    "preco": {
-      "preco": [
-        {
-          "valor": "3000",
-          "data": "2021-10-26T23:24:55.386Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-harmonia-hs-100-948771391",
     "keyword": [
       "orgao",
       "eletrico"
     ]
   },
   {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-tokai-md7-948401765",
-    "nome": "Orgao Eletronico Tokai MD7",
-    "preco": {
-      "preco": [
-        {
-          "valor": "5800",
-          "data": "2021-10-28T22:19:46.508Z"
-        },
-        {
-          "valor": "6000",
-          "data": "2021-10-26T23:24:55.386Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-tokai-md7-948401765",
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
-    "keyword": [
-      "orgao",
-      "eletrico"
-    ]
-  },
-  {
-<<<<<<< HEAD
     "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-bugobot-14-chaves-profissional-944425025",
     "nome": "Clarinete bugobot 14 chaves profissional",
     "preco": {
@@ -5268,310 +5118,10 @@
   {
     "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/contra-baixo-washburn-xb-500-5-cordas-945796003",
     "nome": "Contra baixo Washburn XB 500 - 5 Cordas",
-=======
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletonico-gambitt-padrao-ccb-948250033",
-    "nome": "orgao eletonico gambitt padrao ccb",
-    "preco": {
-      "preco": [
-        {
-          "valor": "1600",
-          "data": "2021-10-26T23:24:55.386Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletonico-gambitt-padrao-ccb-948250033",
-    "keyword": [
-      "orgao",
-      "eletrico"
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-gambitt-ccb-948231091",
-    "nome": "orgao gambitt CCB",
-    "preco": {
-      "preco": [
-        {
-          "valor": "1600",
-          "data": "2021-10-26T23:24:55.386Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-gambitt-ccb-948231091",
-    "keyword": [
-      "orgao",
-      "eletrico"
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-gambitt-perfeito-estado-conservacao-funcionamento-948223442",
-    "nome": "orgao eletronico gambitt perfeito estado conservacao funcionamento",
-    "preco": {
-      "preco": [
-        {
-          "valor": "1600",
-          "data": "2021-10-26T23:24:55.386Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-gambitt-perfeito-estado-conservacao-funcionamento-948223442",
-    "keyword": [
-      "orgao",
-      "eletrico"
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-digital-acordes-preto-laca-2d-usado-12x-s-juros-946943816",
-    "nome": "Orgao Eletronico Digital Acordes Preto Laca 2d - Usado! 12x s/ juros",
-    "preco": {
-      "preco": [
-        {
-          "valor": "2999",
-          "data": "2021-10-26T23:24:55.386Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-digital-acordes-preto-laca-2d-usado-12x-s-juros-946943816",
-    "keyword": [
-      "orgao",
-      "eletrico"
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/antiguidades/orgao-eletronico-poeme-lll-946140040",
-    "nome": "Orgao Eletronico POEME lll",
     "preco": {
       "preco": [
         {
           "valor": "800",
-          "data": "2021-10-26T23:24:55.387Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/antiguidades/orgao-eletronico-poeme-lll-946140040",
-    "keyword": [
-      "orgao",
-      "eletrico"
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-harmonia-hs-75-945671997",
-    "nome": "Orgao eletronico HARMONIA HS 75",
-    "preco": {
-      "preco": [
-        {
-          "valor": "5099",
-          "data": "2021-10-26T23:24:55.387Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-harmonia-hs-75-945671997",
-    "keyword": [
-      "orgao",
-      "eletrico"
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-spark-944406057",
-    "nome": "Orgao Eletronico Spark",
-    "preco": {
-      "preco": [
-        {
-          "valor": "1000",
-          "data": "2021-10-26T23:24:55.387Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-spark-944406057",
-    "keyword": [
-      "orgao",
-      "eletrico"
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/boquilha-para-clarinete-baixo-da-buffet-crampon-modelo-epe-jm-947175426",
-    "nome": "Boquilha para clarinete baixo da Buffet Crampon, modelo epe jm",
-    "preco": {
-      "preco": [
-        {
-          "valor": "565",
-          "data": "2021-10-26T23:24:55.387Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/boquilha-para-clarinete-baixo-da-buffet-crampon-modelo-epe-jm-947175426",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/baixo-cort-action-v-946210437",
-    "nome": "Baixo Cort Action V",
-    "preco": {
-      "preco": [
-        {
-          "valor": "800",
-          "data": "2021-10-26T23:24:55.387Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/baixo-cort-action-v-946210437",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/contra-baixo-washburn-xb-500-5-cordas-945796003",
-    "nome": "Contra baixo Washburn XB 500 - 5 Cordas",
-    "preco": {
-      "preco": [
-        {
-          "valor": "800",
-          "data": "2021-10-26T23:24:55.387Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/contra-baixo-washburn-xb-500-5-cordas-945796003",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/violao-flat-strinberg-baixei-p-vender-942066198",
-    "nome": "Violao Flat Strinberg Baixei p vender",
-    "preco": {
-      "preco": [
-        {
-          "valor": "520",
-          "data": "2021-10-26T23:24:55.387Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/violao-flat-strinberg-baixei-p-vender-942066198",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/baixo-golden-948299684",
-    "nome": "Baixo Golden",
-    "preco": {
-      "preco": [
-        {
-          "valor": "500",
-          "data": "2021-10-26T23:24:55.387Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/baixo-golden-948299684",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/bateria-musical-946643704",
-    "nome": "Bateria musical",
-    "preco": {
-      "preco": [
-        {
-          "valor": "900",
-          "data": "2021-10-26T23:24:55.387Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/bateria-musical-946643704",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-em-sib-17-chaves-weril-maleta-luxo-com-fundo-falso-947617277",
-    "nome": "Clarinete em Sib - 17 Chaves - Weril - Maleta Luxo com Fundo Falso",
-    "preco": {
-      "preco": [
-        {
-          "valor": "1000",
-          "data": "2021-10-26T23:24:55.387Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-em-sib-17-chaves-weril-maleta-luxo-com-fundo-falso-947617277",
-    "keyword": [
-      "clarinete"
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-yamaha-ycl-250-946514897",
-    "nome": "Clarinete Yamaha YCL - 250",
-    "preco": {
-      "preco": [
-        {
-          "valor": "2000",
-          "data": "2021-10-26T23:24:55.387Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-yamaha-ycl-250-946514897",
-    "keyword": [
-      "clarinete"
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-buffet-crampon-e11-madeira-948879445",
-    "nome": "Clarinete Buffet Crampon E11 madeira.",
-    "preco": {
-      "preco": [
-        {
-          "valor": "4990",
-          "data": "2021-10-26T23:24:55.387Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-buffet-crampon-e11-madeira-948879445",
-    "keyword": [
-      "clarinete"
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-em-do-de-madeira-948624986",
-    "nome": "Clarinete em do, de Madeira",
-    "preco": {
-      "preco": [
-        {
-          "valor": "670",
-          "data": "2021-10-26T23:24:55.387Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-em-do-de-madeira-948624986",
-    "keyword": [
-      "clarinete"
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-selmer-s9-full-boehm-948612294",
-    "nome": "Clarinete selmer s9 full boehm",
-    "preco": {
-      "preco": [
-        {
-          "valor": "6000",
-          "data": "2021-10-26T23:24:55.387Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-selmer-s9-full-boehm-948612294",
-    "keyword": [
-      "clarinete"
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-martin-freres-lamont-948560384",
-    "nome": "Clarinete Martin Freres Lamont",
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
-    "preco": {
-      "preco": [
-        {
-          "valor": "800",
-<<<<<<< HEAD
           "data": "2021-10-29T12:27:59.571Z"
         },
         {
@@ -5613,67 +5163,11 @@
       ]
     },
     "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-jupiter-carnegie-xl-massa-zerada-865820602",
-=======
-          "data": "2021-10-26T23:24:55.387Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-martin-freres-lamont-948560384",
     "keyword": [
       "clarinete"
     ]
   },
   {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-de-madeira-em-do-13-chaves-bugobot-948325766",
-    "nome": "Clarinete de Madeira em Do 13 chaves Bugobot",
-    "preco": {
-      "preco": [
-        {
-          "valor": "1300",
-          "data": "2021-10-26T23:24:55.387Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-de-madeira-em-do-13-chaves-bugobot-948325766",
-    "keyword": [
-      "clarinete"
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-em-sib-novo-948145997",
-    "nome": "CLARINETE EM SIB NOVO",
-    "preco": {
-      "preco": [
-        {
-          "valor": "",
-          "data": "2021-10-26T23:24:55.387Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-em-sib-novo-948145997",
-    "keyword": [
-      "clarinete"
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-em-do-bacherete-947526336",
-    "nome": "Clarinete em Do Bacherete",
-    "preco": {
-      "preco": [
-        {
-          "valor": "680",
-          "data": "2021-10-26T23:24:55.387Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-em-do-bacherete-947526336",
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
-    "keyword": [
-      "clarinete"
-    ]
-  },
-  {
-<<<<<<< HEAD
     "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-yamaha-ycl-250-946514897",
     "nome": "Clarinete Yamaha YCL - 250",
     "preco": {
@@ -5685,19 +5179,6 @@
       ]
     },
     "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-yamaha-ycl-250-946514897",
-=======
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-jupiter-carnegie-xl-massa-zerada-865820602",
-    "nome": "Clarinete Jupiter Carnegie Xl massa zerada...",
-    "preco": {
-      "preco": [
-        {
-          "valor": "1900",
-          "data": "2021-10-26T23:24:55.387Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-jupiter-carnegie-xl-massa-zerada-865820602",
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
     "keyword": [
       "clarinete"
     ]
@@ -5709,11 +5190,7 @@
       "preco": [
         {
           "valor": "1550",
-<<<<<<< HEAD
           "data": "2021-10-21T00:21:05.699Z"
-=======
-          "data": "2021-10-26T23:24:55.387Z"
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         }
       ]
     },
@@ -5729,11 +5206,7 @@
       "preco": [
         {
           "valor": "2690",
-<<<<<<< HEAD
           "data": "2021-10-21T00:21:05.699Z"
-=======
-          "data": "2021-10-26T23:24:55.387Z"
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         }
       ]
     },
@@ -5749,11 +5222,7 @@
       "preco": [
         {
           "valor": "1100",
-<<<<<<< HEAD
           "data": "2021-10-21T00:21:05.699Z"
-=======
-          "data": "2021-10-26T23:24:55.387Z"
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         }
       ]
     },
@@ -5769,11 +5238,7 @@
       "preco": [
         {
           "valor": "1100",
-<<<<<<< HEAD
           "data": "2021-10-21T00:21:05.699Z"
-=======
-          "data": "2021-10-26T23:24:55.387Z"
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         }
       ]
     },
@@ -5783,7 +5248,6 @@
     ]
   },
   {
-<<<<<<< HEAD
     "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/violoncelo-macico-preto-acetinado-939892045",
     "nome": "Violoncelo macico preto acetinado",
     "preco": {
@@ -6451,115 +5915,6 @@
       ]
     },
     "url": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-2-dorm-1-suite-2-vagas-varanda-gourmet-940983233",
-=======
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-marrom-17-chaves-marca-veagle-917341272",
-    "nome": "Clarinete marrom 17 chaves marca veagle",
-    "preco": {
-      "preco": [
-        {
-          "valor": "420",
-          "data": "2021-10-26T23:24:55.387Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-marrom-17-chaves-marca-veagle-917341272",
-    "keyword": [
-      "clarinete"
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-sib-yamaha-ycl-650-madeira-usado-945393425",
-    "nome": "Clarinete Sib Yamaha YCL 650 madeira, usado",
-    "preco": {
-      "preco": [
-        {
-          "valor": "6500",
-          "data": "2021-10-26T23:24:55.387Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-sib-yamaha-ycl-650-madeira-usado-945393425",
-    "keyword": [
-      "clarinete"
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-shelter-ebano-945363872",
-    "nome": "Clarinete Shelter Ebano",
-    "preco": {
-      "preco": [
-        {
-          "valor": "1300",
-          "data": "2021-10-26T23:24:55.387Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-shelter-ebano-945363872",
-    "keyword": [
-      "clarinete"
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-eagle-bb-945362785",
-    "nome": "Clarinete Eagle Bb",
-    "preco": {
-      "preco": [
-        {
-          "valor": "950",
-          "data": "2021-10-26T23:24:55.387Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-eagle-bb-945362785",
-    "keyword": [
-      "clarinete"
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/violoncelo-1-2-metade-do-valor-946384414",
-    "nome": "Violoncelo 1/2 Metade do Valor.",
-    "preco": {
-      "preco": [
-        {
-          "valor": "900",
-          "data": "2021-10-26T23:24:55.387Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/violoncelo-1-2-metade-do-valor-946384414",
-    "keyword": [
-      "violoncelo"
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/violoncelo-4-4-jahnke-novo-945879821",
-    "nome": "Violoncelo 4/4 Jahnke (NOVO)",
-    "preco": {
-      "preco": [
-        {
-          "valor": "1500",
-          "data": "2021-10-26T23:24:55.387Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/violoncelo-4-4-jahnke-novo-945879821",
-    "keyword": [
-      "violoncelo"
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-com-2-dormitorios-a-venda-47-m-por-r-285-000-00-itaberaba-sao-paulo-sp-949361403",
-    "nome": "Apartamento com 2 dormitorios a venda, 47 m² por R$ 285.000,00 - Itaberaba - Sao Paulo/SP",
-    "preco": {
-      "preco": [
-        {
-          "valor": "285000",
-          "data": "2021-10-27T23:22:25.589Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-com-2-dormitorios-a-venda-47-m-por-r-285-000-00-itaberaba-sao-paulo-sp-949361403",
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
     "keyword": [
       "casa",
       "apartamento",
@@ -6573,11 +5928,7 @@
       "preco": [
         {
           "valor": "2999",
-<<<<<<< HEAD
           "data": "2021-10-29T12:27:59.559Z"
-=======
-          "data": "2021-10-27T23:22:25.589Z"
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         }
       ]
     },
@@ -6594,11 +5945,7 @@
       "preco": [
         {
           "valor": "5800",
-<<<<<<< HEAD
           "data": "2021-10-29T12:27:59.559Z"
-=======
-          "data": "2021-10-27T23:22:25.589Z"
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         }
       ]
     },
@@ -6615,11 +5962,7 @@
       "preco": [
         {
           "valor": "2900",
-<<<<<<< HEAD
           "data": "2021-10-29T12:27:59.559Z"
-=======
-          "data": "2021-10-27T23:22:25.589Z"
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         }
       ]
     },
@@ -6636,11 +5979,7 @@
       "preco": [
         {
           "valor": "2700",
-<<<<<<< HEAD
           "data": "2021-10-29T12:27:59.559Z"
-=======
-          "data": "2021-10-27T23:22:25.589Z"
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         }
       ]
     },
@@ -6657,11 +5996,7 @@
       "preco": [
         {
           "valor": "600",
-<<<<<<< HEAD
           "data": "2021-10-29T12:27:59.560Z"
-=======
-          "data": "2021-10-27T23:22:25.590Z"
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         }
       ]
     },
@@ -6671,7 +6006,6 @@
     ]
   },
   {
-<<<<<<< HEAD
     "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/bateria-eletronica-zoom-rt-234-949808752",
     "nome": "Bateria Eletronica Zoom RT-234",
     "preco": {
@@ -6688,19 +6022,13 @@
     ]
   },
   {
-=======
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
     "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/guitarra-washburn-650-00-949306200",
     "nome": "Guitarra Washburn 650,00",
     "preco": {
       "preco": [
         {
           "valor": "650",
-<<<<<<< HEAD
           "data": "2021-10-29T12:27:59.560Z"
-=======
-          "data": "2021-10-27T23:22:25.590Z"
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         }
       ]
     },
@@ -6710,7 +6038,6 @@
     ]
   },
   {
-<<<<<<< HEAD
     "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-yamaha-profissional-61-nippon-japan-949840937",
     "nome": "Clarinete Yamaha Profissional 61(NIPPON Japan)",
     "preco": {
@@ -6727,19 +6054,13 @@
     ]
   },
   {
-=======
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
     "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-clarineta-tander-bb-si-bemol-17-chaves-pouco-usado-949731301",
     "nome": "Clarinete/Clarineta Tander Bb (si bemol) 17 chaves pouco usado.",
     "preco": {
       "preco": [
         {
           "valor": "350",
-<<<<<<< HEAD
           "data": "2021-10-29T12:27:59.560Z"
-=======
-          "data": "2021-10-27T23:22:25.590Z"
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         }
       ]
     },
@@ -6755,11 +6076,7 @@
       "preco": [
         {
           "valor": "1100",
-<<<<<<< HEAD
           "data": "2021-10-29T12:27:59.560Z"
-=======
-          "data": "2021-10-27T23:22:25.590Z"
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         }
       ]
     },
@@ -6769,7 +6086,6 @@
     ]
   },
   {
-<<<<<<< HEAD
     "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-buffet-crampon-e11-madeira-948879445",
     "nome": "Clarinete Buffet Crampon E11 madeira.",
     "preco": {
@@ -6802,19 +6118,13 @@
     ]
   },
   {
-=======
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
     "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/violoncelo-3-4-949615571",
     "nome": "Violoncelo 3/4",
     "preco": {
       "preco": [
         {
           "valor": "1500",
-<<<<<<< HEAD
           "data": "2021-10-29T12:27:59.560Z"
-=======
-          "data": "2021-10-27T23:22:25.590Z"
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
         }
       ]
     },
@@ -6824,7 +6134,6 @@
     ]
   },
   {
-<<<<<<< HEAD
     "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletrico-946706650",
     "nome": "Orgao Eletrico",
     "preco": {
@@ -6969,79 +6278,11 @@
       ]
     },
     "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/baixo-tagima-tbm-5-944862489",
-=======
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/casa-para-venda-possui-188-metros-quadrados-com-3-quartos-em-tremembe-sao-paulo-sp-947585283",
-    "nome": "Casa para venda possui 188 metros quadrados com 3 quartos em Tremembe - Sao Paulo - SP",
-    "preco": {
-      "preco": [
-        {
-          "valor": "874800",
-          "data": "2021-10-28T12:41:55.166Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/casa-para-venda-possui-188-metros-quadrados-com-3-quartos-em-tremembe-sao-paulo-sp-947585283",
-    "keyword": [
-      "casa",
-      "apartamento",
-      "chacara"
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-a-venda-vila-dom-pedro-ii-sao-paulo-sp-949856727",
-    "nome": "Apartamento a venda, Vila Dom Pedro II, Sao Paulo, SP",
-    "preco": {
-      "preco": [
-        {
-          "valor": "475000",
-          "data": "2021-10-28T12:41:55.166Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-a-venda-vila-dom-pedro-ii-sao-paulo-sp-949856727",
-    "keyword": [
-      "casa",
-      "apartamento",
-      "chacara"
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-2-dorm-1-suite-2-vagas-varanda-gourmet-940983233",
-    "nome": "APARTAMENTO - 2 DORM. 1 SUITE. 2 VAGAS - VARANDA GOURMET",
-    "preco": {
-      "preco": [
-        {
-          "valor": "798000",
-          "data": "2021-10-28T12:41:55.166Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-2-dorm-1-suite-2-vagas-varanda-gourmet-940983233",
-    "keyword": [
-      "casa",
-      "apartamento",
-      "chacara"
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/bateria-eletronica-zoom-rt-234-949808752",
-    "nome": "Bateria Eletronica Zoom RT-234",
-    "preco": {
-      "preco": [
-        {
-          "valor": "750",
-          "data": "2021-10-28T12:41:55.167Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/bateria-eletronica-zoom-rt-234-949808752",
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
     "keyword": [
       ""
     ]
   },
   {
-<<<<<<< HEAD
     "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-michael-950779900",
     "nome": "Clarinete Michael",
     "preco": {
@@ -7069,25 +6310,11 @@
       ]
     },
     "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-de-ebano-frances-bb-lp-frances-927900822",
-=======
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-yamaha-profissional-61-nippon-japan-949840937",
-    "nome": "Clarinete Yamaha Profissional 61(NIPPON Japan)",
-    "preco": {
-      "preco": [
-        {
-          "valor": "3800",
-          "data": "2021-10-28T12:41:55.167Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-yamaha-profissional-61-nippon-japan-949840937",
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
     "keyword": [
       "clarinete"
     ]
   },
   {
-<<<<<<< HEAD
     "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-digital-acordes-serie-ouro-950880206",
     "nome": "Orgao eletronico digital acordes/serie ouro",
     "preco": {
@@ -7118,18 +6345,20 @@
     "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-eagle-950779900",
     "keyword": [
       "clarinete"
-=======
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-2-dormitorios-950129313",
-    "nome": "APARTAMENTO 2 dormitorios",
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-sao-paulo-vila-guilherme-ref-reo621283-950982495",
+    "nome": "Apartamento-Sao Paulo-VILA GUILHERME | Ref.: REO621283",
     "preco": {
       "preco": [
         {
-          "valor": "426500",
-          "data": "2021-10-28T22:19:46.500Z"
+          "valor": "480000",
+          "data": "2021-11-01T02:02:35.012Z"
         }
       ]
     },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-2-dormitorios-950129313",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-sao-paulo-vila-guilherme-ref-reo621283-950982495",
     "keyword": [
       "casa",
       "apartamento",
@@ -7137,22 +6366,137 @@
     ]
   },
   {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-com-3-dorms-3-banheiros-e-2-vagas-em-santana-950118871",
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-no-eco-way-vila-nova-cachoeirinha-950956878",
+    "nome": "Apartamento no Eco Way Vila Nova Cachoeirinha",
+    "preco": {
+      "preco": [
+        {
+          "valor": "330000",
+          "data": "2021-11-01T02:02:35.012Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-no-eco-way-vila-nova-cachoeirinha-950956878",
+    "keyword": [
+      "casa",
+      "apartamento",
+      "chacara"
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-2-dormitorios-950956493",
+    "nome": "APARTAMENTO 2 dormitorios",
+    "preco": {
+      "preco": [
+        {
+          "valor": "426500",
+          "data": "2021-11-01T02:02:35.012Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-2-dormitorios-950956493",
+    "keyword": [
+      "casa",
+      "apartamento",
+      "chacara"
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-com-3-dorms-3-banheiros-e-2-vagas-em-santana-950941590",
     "nome": "apartamento com 3 dorms, 3 banheiros e 2 vagas em Santana",
     "preco": {
       "preco": [
         {
           "valor": "960000",
-          "data": "2021-10-28T22:19:46.500Z"
+          "data": "2021-11-01T02:02:35.012Z"
         }
       ]
     },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-com-3-dorms-3-banheiros-e-2-vagas-em-santana-950118871",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-com-3-dorms-3-banheiros-e-2-vagas-em-santana-950941590",
     "keyword": [
       "casa",
       "apartamento",
       "chacara"
->>>>>>> 4df4bf98f382ccd0be2b8072c94ff22d5dac6728
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-em-ebano-17-chaves-sib-951221309",
+    "nome": "Clarinete em ebano 17 chaves sib",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2000",
+          "data": "2021-11-01T02:02:35.013Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-em-ebano-17-chaves-sib-951221309",
+    "keyword": [
+      "clarinete"
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-jahnke-927895705",
+    "nome": "Clarinete Jahnke",
+    "preco": {
+      "preco": [
+        {
+          "valor": "550",
+          "data": "2021-11-01T02:02:35.013Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-jahnke-927895705",
+    "keyword": [
+      "clarinete"
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-vito-951090664",
+    "nome": "Clarinete Vito",
+    "preco": {
+      "preco": [
+        {
+          "valor": "900",
+          "data": "2021-11-01T02:02:35.013Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-vito-951090664",
+    "keyword": [
+      "clarinete"
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-italiano-patricola-cl2-18-chaves-sib-950987065",
+    "nome": "Clarinete Italiano Patricola CL2 18 Chaves Sib",
+    "preco": {
+      "preco": [
+        {
+          "valor": "8000",
+          "data": "2021-11-01T02:02:35.013Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-italiano-patricola-cl2-18-chaves-sib-950987065",
+    "keyword": [
+      "clarinete"
+    ]
+  },
+  {
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/violoncelo-4-4-950972790",
+    "nome": "Violoncelo 4/4",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1150",
+          "data": "2021-11-01T02:02:35.013Z"
+        }
+      ]
+    },
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/violoncelo-4-4-950972790",
+    "keyword": [
+      "violoncelo"
     ]
   }
 ]
