@@ -1,18 +1,114 @@
 [
   {
-    "id": "https://www.facebook.com/marketplace/item/2998607460386449/?ref=search&referral_code=marketplace_search&referral_story_type=post",
-    "nome": "VENDO CASA Serra Negra, SP",
+    "id": "https://www.facebook.com/marketplace/item/423128049349363/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "2 quartos · 1 banheiro · Casa Serra Negra, SP",
     "preco": {
       "preco": [
         {
-          "valor": "240000",
-          "data": "2021-11-01T02:00:38.258Z"
+          "valor": "800",
+          "data": "2021-11-22T01:34:33.322Z"
         }
       ]
     },
-    "url": "https://www.facebook.com/marketplace/item/2998607460386449/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "url": "https://www.facebook.com/marketplace/item/423128049349363/?ref=search&referral_code=marketplace_search&referral_story_type=post",
     "keyword": [
       "serra"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/313801947000817/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "2 quartos 1 banheiro – Casa Serra Negra, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1",
+          "data": "2021-11-22T01:34:33.483Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/313801947000817/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "serra"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/398119188612500/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "2 quartos 1 banheiro Apartamento Serra Negra, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "200000",
+          "data": "2021-11-22T01:34:33.483Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/398119188612500/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "serra"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/417217056327234/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Sitio paraiso da serra Serra Negra, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1300",
+          "data": "2021-11-22T01:34:33.483Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/417217056327234/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "serra"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/435169177980538/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "2 casas para venda em Lindoia Perto do lago Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "195000",
+          "data": "2021-11-22T01:34:33.483Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/435169177980538/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/200125275629857/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "TERRENO A VENDA BARATO 35.000 Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "35000",
+          "data": "2021-11-22T01:34:33.483Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/200125275629857/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/1054264665322107/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Chacara a venda em Lindoia– SP Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "550000",
+          "data": "2021-11-22T01:34:33.483Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/1054264665322107/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
     ]
   }
 ]

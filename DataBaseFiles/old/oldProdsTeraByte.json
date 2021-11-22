@@ -49,6 +49,18 @@
     "preco": {
       "preco": [
         {
+          "valor": "499.00",
+          "data": "2021-11-17T12:44:17.380Z"
+        },
+        {
+          "valor": "349.99",
+          "data": "2021-11-11T11:16:20.020Z"
+        },
+        {
+          "valor": "499.00",
+          "data": "2021-11-05T01:19:40.503Z"
+        },
+        {
           "valor": "349.99",
           "data": "2021-10-30T01:13:26.539Z"
         },
@@ -89,6 +101,14 @@
     "preco": {
       "preco": [
         {
+          "valor": "1489.00",
+          "data": "2021-11-21T03:16:31.786Z"
+        },
+        {
+          "valor": "1499.00",
+          "data": "2021-11-11T00:11:53.281Z"
+        },
+        {
           "valor": "1399.00",
           "data": "2021-10-28T12:39:58.105Z"
         },
@@ -108,6 +128,14 @@
     "nome": "PROCESSADOR INTEL CORE I3 10105F 3.7GHZ (4.4GHZ TURBO), 10ª GERACAO, 4-CORES 8-THREADS, LGA 1200, BX80",
     "preco": {
       "preco": [
+        {
+          "valor": "699.00",
+          "data": "2021-11-21T03:16:31.786Z"
+        },
+        {
+          "valor": "799.00",
+          "data": "2021-11-11T11:16:20.020Z"
+        },
         {
           "valor": "699.00",
           "data": "2021-10-21T00:18:21.567Z"
@@ -172,6 +200,18 @@
     "nome": "PROCESSADOR AMD RYZEN 5 5600X 3.7GHZ (4.6GHZ TURBO), 6-CORES 12-THREADS, COOLER WRAITH STEALTH, AM4, 100-",
     "preco": {
       "preco": [
+        {
+          "valor": "1759.99",
+          "data": "2021-11-21T03:16:31.786Z"
+        },
+        {
+          "valor": "1799.00",
+          "data": "2021-11-17T01:26:31.903Z"
+        },
+        {
+          "valor": "1649.99",
+          "data": "2021-11-09T23:33:20.313Z"
+        },
         {
           "valor": "1799.00",
           "data": "2021-10-21T00:18:21.567Z"
@@ -257,6 +297,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "1869.63",
+          "data": "2021-11-17T12:44:17.380Z"
+        },
+        {
           "valor": "1769.00",
           "data": "2021-10-12T14:11:43.723Z"
         }
@@ -272,6 +316,22 @@
     "nome": "PROCESSADOR AMD RYZEN 5 5600G 3.9GHZ (4.4GHZ TURBO), 6-CORES 12-THREADS, COOLER WRAITH STEALTH, AM4, COM",
     "preco": {
       "preco": [
+        {
+          "valor": "2049.00",
+          "data": "2021-11-21T03:16:31.787Z"
+        },
+        {
+          "valor": "1719.00",
+          "data": "2021-11-17T01:26:31.903Z"
+        },
+        {
+          "valor": "1699.00",
+          "data": "2021-11-11T00:11:53.281Z"
+        },
+        {
+          "valor": "1799.00",
+          "data": "2021-11-04T22:08:59.729Z"
+        },
         {
           "valor": "2049.00",
           "data": "2021-10-29T12:25:00.217Z"
@@ -292,6 +352,10 @@
     "nome": "PROCESSADOR INTEL CORE I7 10700KF, 3.80GHZ (5.10GHZ TURBO), 10ª GERACAO, 8-CORES 16-THREADS, LGA 1200,",
     "preco": {
       "preco": [
+        {
+          "valor": "2199.00",
+          "data": "2021-11-11T00:11:53.281Z"
+        },
         {
           "valor": "2087.13",
           "data": "2021-10-28T12:39:58.105Z"
@@ -320,6 +384,18 @@
     "nome": "PROCESSADOR AMD RYZEN 7 5800X 3.8GHZ (4.7GHZ TURBO), 8-CORES 16-THREADS, AM4, SEM COOLER",
     "preco": {
       "preco": [
+        {
+          "valor": "2489.99",
+          "data": "2021-11-21T03:16:31.787Z"
+        },
+        {
+          "valor": "2499.00",
+          "data": "2021-11-17T01:26:31.903Z"
+        },
+        {
+          "valor": "2699.00",
+          "data": "2021-11-04T22:08:59.729Z"
+        },
         {
           "valor": "2999.00",
           "data": "2021-10-28T12:39:58.105Z"
@@ -350,6 +426,14 @@
       "preco": [
         {
           "valor": "1359.00",
+          "data": "2021-11-11T11:16:20.020Z"
+        },
+        {
+          "valor": "1599.00",
+          "data": "2021-11-04T22:08:59.729Z"
+        },
+        {
+          "valor": "1359.00",
           "data": "2021-10-30T01:13:26.539Z"
         },
         {
@@ -378,6 +462,14 @@
       "preco": [
         {
           "valor": "1699.00",
+          "data": "2021-11-09T23:33:20.313Z"
+        },
+        {
+          "valor": "1982.73",
+          "data": "2021-11-07T13:00:24.331Z"
+        },
+        {
+          "valor": "1699.00",
           "data": "2021-10-30T01:13:26.539Z"
         },
         {
@@ -396,6 +488,14 @@
     "nome": "PROCESSADOR AMD RYZEN 7 5700G 3.8GHZ (4.6GHZ TURBO), 8-CORES 16-THREADS, COOLER WRAITH STEALTH, AM4, COM",
     "preco": {
       "preco": [
+        {
+          "valor": "2089.99",
+          "data": "2021-11-21T03:16:31.787Z"
+        },
+        {
+          "valor": "2099.00",
+          "data": "2021-11-17T01:26:31.903Z"
+        },
         {
           "valor": "2199.00",
           "data": "2021-10-29T12:25:00.217Z"
@@ -416,6 +516,18 @@
     "nome": "PROCESSADOR INTEL CORE I5 11600K 3.9GHZ (5.0GHZ TURBO), 11ª GERACAO, 6-CORES 12-THREADS, LGA 1200, BX8",
     "preco": {
       "preco": [
+        {
+          "valor": "1749.00",
+          "data": "2021-11-21T03:16:31.787Z"
+        },
+        {
+          "valor": "1899.00",
+          "data": "2021-11-11T00:11:53.281Z"
+        },
+        {
+          "valor": "1849.00",
+          "data": "2021-11-04T22:08:59.729Z"
+        },
         {
           "valor": "1629.00",
           "data": "2021-10-12T14:11:43.723Z"
@@ -448,6 +560,10 @@
     "nome": "PROCESSADOR AMD RYZEN 5 3500 3.6GHZ + COOLER AMD WRAITH STEALTH, 92MM, AM4",
     "preco": {
       "preco": [
+        {
+          "valor": "1015.29",
+          "data": "2021-11-09T23:33:20.313Z"
+        },
         {
           "valor": "899.00",
           "data": "2021-10-25T23:10:06.701Z"
@@ -505,6 +621,14 @@
     "preco": {
       "preco": [
         {
+          "valor": "4799.00",
+          "data": "2021-11-21T03:16:31.786Z"
+        },
+        {
+          "valor": "4899.00",
+          "data": "2021-11-11T00:11:53.281Z"
+        },
+        {
           "valor": "4959.00",
           "data": "2021-10-31T02:44:03.125Z"
         },
@@ -532,6 +656,14 @@
     "nome": "PROCESSADOR INTEL CORE I9 10900, 2.80GHZ (5.20GHZ TURBO), 10ª GERACAO, 10-CORES 20-THREADS, LGA 1200,",
     "preco": {
       "preco": [
+        {
+          "valor": "3099.00",
+          "data": "2021-11-21T03:16:31.787Z"
+        },
+        {
+          "valor": "2999.00",
+          "data": "2021-11-11T00:11:53.281Z"
+        },
         {
           "valor": "2696.13",
           "data": "2021-10-12T14:11:43.723Z"
@@ -813,6 +945,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "1399.00",
+          "data": "2021-11-21T03:16:31.787Z"
+        },
+        {
           "valor": "1459.00",
           "data": "2021-10-14T23:31:42.676Z"
         },
@@ -833,6 +969,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "2699.00",
+          "data": "2021-11-21T03:16:31.787Z"
+        },
+        {
           "valor": "2713.53",
           "data": "2021-10-12T14:11:43.724Z"
         }
@@ -848,6 +988,10 @@
     "nome": "PROCESSADOR INTEL CORE I9 11900K 3.5GHZ (5.3GHZ TURBO), 11ª GERACAO, 8-CORES 16-THREADS, LGA 1200, BX8",
     "preco": {
       "preco": [
+        {
+          "valor": "3389.00",
+          "data": "2021-11-21T03:16:31.787Z"
+        },
         {
           "valor": "3899.00",
           "data": "2021-10-12T14:11:43.724Z"
@@ -933,6 +1077,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "2034.93",
+          "data": "2021-11-11T11:16:20.020Z"
+        },
+        {
           "valor": "1699.00",
           "data": "2021-10-30T01:13:26.539Z"
         },
@@ -958,6 +1106,14 @@
       "preco": [
         {
           "valor": "159.90",
+          "data": "2021-11-21T03:16:31.787Z"
+        },
+        {
+          "valor": "165.00",
+          "data": "2021-11-17T01:26:31.903Z"
+        },
+        {
+          "valor": "159.90",
           "data": "2021-10-13T02:03:24.219Z"
         }
       ]
@@ -972,6 +1128,10 @@
     "nome": "COOLER PARA PROCESSADOR SCYTHE MUGEN 5 ARGB PLUS 120MM, INTEL-AMD, SCMG-5102AR",
     "preco": {
       "preco": [
+        {
+          "valor": "499.90",
+          "data": "2021-11-11T00:11:53.281Z"
+        },
         {
           "valor": "485.90",
           "data": "2021-10-13T02:03:24.220Z"
@@ -1009,6 +1169,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "55.90",
+          "data": "2021-11-21T03:16:31.787Z"
+        },
+        {
           "valor": "59.00",
           "data": "2021-10-21T00:18:21.567Z"
         },
@@ -1028,6 +1192,10 @@
     "nome": "COOLER PARA PROCESSADOR T-DAGGER IDUN R, 90MM, LED RED, INTEL-AMD, T-GC9109 R",
     "preco": {
       "preco": [
+        {
+          "valor": "55.90",
+          "data": "2021-11-21T03:16:31.787Z"
+        },
         {
           "valor": "59.00",
           "data": "2021-10-13T02:03:24.220Z"
@@ -1181,6 +1349,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "215.00",
+          "data": "2021-11-12T01:05:46.954Z"
+        },
+        {
           "valor": "199.90",
           "data": "2021-10-13T02:03:24.220Z"
         }
@@ -1246,6 +1418,14 @@
       "preco": [
         {
           "valor": "249.90",
+          "data": "2021-11-09T23:33:20.313Z"
+        },
+        {
+          "valor": "189.00",
+          "data": "2021-11-06T12:23:02.951Z"
+        },
+        {
+          "valor": "249.90",
           "data": "2021-10-13T02:03:24.220Z"
         }
       ]
@@ -1260,6 +1440,10 @@
     "nome": "COOLER PARA PROCESSADOR DEEPCOOL GAMMAXX GT A-RGB, 120MM, INTEL- AMD, DP-MCH4-GMX-GT-ARGB",
     "preco": {
       "preco": [
+        {
+          "valor": "225.00",
+          "data": "2021-11-12T01:05:46.954Z"
+        },
         {
           "valor": "209.90",
           "data": "2021-10-13T02:03:24.220Z"
@@ -1276,6 +1460,10 @@
     "nome": "COOLER PARA PROCESSADOR SCYTHE MUGEN 5 RGB EDITION 120MM, INTEL-AMD, SCMG-5100BK",
     "preco": {
       "preco": [
+        {
+          "valor": "389.90",
+          "data": "2021-11-21T03:16:31.787Z"
+        },
         {
           "valor": "389.00",
           "data": "2021-10-13T02:03:24.220Z"
@@ -1324,6 +1512,14 @@
     "nome": "COOLER PARA PROCESSADOR SCYTHE KOTETSU MARK 2, 120MM, INTEL-AMD, SCKTT-2000",
     "preco": {
       "preco": [
+        {
+          "valor": "235.00",
+          "data": "2021-11-17T01:26:31.903Z"
+        },
+        {
+          "valor": "229.00",
+          "data": "2021-11-06T12:23:02.951Z"
+        },
         {
           "valor": "299.90",
           "data": "2021-10-29T12:25:00.217Z"
@@ -1377,6 +1573,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "1784.37",
+          "data": "2021-11-07T13:00:24.331Z"
+        },
+        {
           "valor": "1758.27",
           "data": "2021-10-21T00:18:21.567Z"
         },
@@ -1405,6 +1605,14 @@
     "preco": {
       "preco": [
         {
+          "valor": "1771.32",
+          "data": "2021-11-07T23:55:36.617Z"
+        },
+        {
+          "valor": "1745.22",
+          "data": "2021-11-03T00:23:00.017Z"
+        },
+        {
           "valor": "1599.00",
           "data": "2021-10-30T01:13:26.539Z"
         },
@@ -1428,6 +1636,10 @@
     "nome": "KIT UPGRADE PLACA MAE BIOSTAR A320MH DDR4 AMD AM4 + PROCESSADOR AMD 5 3500 4.1GHZ",
     "preco": {
       "preco": [
+        {
+          "valor": "1405.92",
+          "data": "2021-11-07T23:55:36.617Z"
+        },
         {
           "valor": "1379.82",
           "data": "2021-10-21T00:18:21.567Z"
@@ -1689,6 +1901,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "79.90",
+          "data": "2021-11-03T18:33:44.293Z"
+        },
+        {
           "valor": "69.00",
           "data": "2021-10-13T23:32:15.748Z"
         }
@@ -1809,6 +2025,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "899.00",
+          "data": "2021-11-06T12:23:02.951Z"
+        },
+        {
           "valor": "799.99",
           "data": "2021-10-31T02:44:03.125Z"
         },
@@ -1848,6 +2068,10 @@
     "nome": "COOLER PARA PROCESSADOR COOLER MASTER HYPER H410R, RGB, 92MM, INTEL-AMD, RR-H410-20PC-R1",
     "preco": {
       "preco": [
+        {
+          "valor": "169.90",
+          "data": "2021-11-04T22:08:59.729Z"
+        },
         {
           "valor": "155.90",
           "data": "2021-10-14T23:31:42.674Z"
@@ -1896,6 +2120,10 @@
     "nome": "PROCESSADOR INTEL CORE I3 10100 3.6GHZ + COOLER T-DAGGER VITI",
     "preco": {
       "preco": [
+        {
+          "valor": "799.99",
+          "data": "2021-11-17T01:26:31.903Z"
+        },
         {
           "valor": "899.58",
           "data": "2021-10-21T00:18:21.568Z"
@@ -1961,6 +2189,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "1089.00",
+          "data": "2021-11-21T03:16:31.786Z"
+        },
+        {
           "valor": "1229.00",
           "data": "2021-10-31T02:44:03.125Z"
         },
@@ -2001,6 +2233,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "99.90",
+          "data": "2021-11-21T03:16:31.787Z"
+        },
+        {
           "valor": "109.90",
           "data": "2021-10-21T00:18:20.985Z"
         }
@@ -2016,6 +2252,10 @@
     "nome": "COOLER PARA PROCESSADOR AEROCOOL AIR FROST PLUS, FRGB, 120MM, INTEL-AMD",
     "preco": {
       "preco": [
+        {
+          "valor": "59.90",
+          "data": "2021-11-21T03:16:31.787Z"
+        },
         {
           "valor": "65.90",
           "data": "2021-10-21T00:18:20.985Z"
@@ -2225,6 +2465,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "989.00",
+          "data": "2021-11-21T03:16:31.787Z"
+        },
+        {
           "valor": "999.00",
           "data": "2021-10-29T12:24:59.404Z"
         }
@@ -2240,6 +2484,10 @@
     "nome": "COOLER PARA PROCESSADOR SCYTHE KATANA 5 92MM, INTEL-AMD, SCKTN-5000",
     "preco": {
       "preco": [
+        {
+          "valor": "209.90",
+          "data": "2021-11-11T00:11:53.281Z"
+        },
         {
           "valor": "219.90",
           "data": "2021-10-29T12:24:59.405Z"
@@ -2305,6 +2553,18 @@
     "preco": {
       "preco": [
         {
+          "valor": "5184.33",
+          "data": "2021-11-21T03:16:31.787Z"
+        },
+        {
+          "valor": "5480.13",
+          "data": "2021-11-17T01:26:31.903Z"
+        },
+        {
+          "valor": "5599.00",
+          "data": "2021-11-09T23:33:20.313Z"
+        },
+        {
           "valor": "4999.00",
           "data": "2021-10-29T12:24:59.405Z"
         }
@@ -2352,6 +2612,14 @@
     "nome": "PROCESSADOR AMD RYZEN 5 3500 3.6GHZ (4.1GHZ TURBO), 6-CORES 6-THREADS, COOLER WRAITH STEALTH, AM4",
     "preco": {
       "preco": [
+        {
+          "valor": "1299.00",
+          "data": "2021-11-11T00:11:53.281Z"
+        },
+        {
+          "valor": "1199.00",
+          "data": "2021-11-03T00:23:00.017Z"
+        },
         {
           "valor": "899.00",
           "data": "2021-10-30T01:13:26.534Z"
@@ -2417,12 +2685,552 @@
     "preco": {
       "preco": [
         {
+          "valor": "169.65",
+          "data": "2021-11-03T18:33:44.293Z"
+        },
+        {
           "valor": "179.90",
           "data": "2021-10-30T01:13:26.535Z"
         }
       ]
     },
     "url": "https://www.terabyteshop.com.br/produto/19415/cooler-para-processador-pcyes-notus-b-120mm-intel-amd-pcyacnb",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR AMD RYZEN 5 3600 3.6GHZ (4.2GHZ TURBO), 6-CORES 12-THREADS, COOLER WRAITH STEALTH, AM4, 100-1",
+    "nome": "PROCESSADOR AMD RYZEN 5 3600 3.6GHZ (4.2GHZ TURBO), 6-CORES 12-THREADS, COOLER WRAITH STEALTH, AM4, 100-1",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1399.00",
+          "data": "2021-11-11T11:16:20.020Z"
+        },
+        {
+          "valor": "1549.00",
+          "data": "2021-11-11T00:11:53.281Z"
+        },
+        {
+          "valor": "1499.00",
+          "data": "2021-11-03T00:23:00.013Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/11313/processador-amd-ryzen-5-3600-36ghz-42ghz-turbo-6-core-12-thread-cooler-wraith-stealth-am4",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR NOTUS LP ARGB, 120MM, INTEL-AMD, PCYNTLPARGB",
+    "nome": "COOLER PARA PROCESSADOR NOTUS LP ARGB, 120MM, INTEL-AMD, PCYNTLPARGB",
+    "preco": {
+      "preco": [
+        {
+          "valor": "239.90",
+          "data": "2021-11-03T00:23:00.013Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19686/cooler-para-processador-notus-lp-argb-120mm-intel-amd-pcyntlpargb",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I5 11400 4.4GHZ + COOLER INTEL",
+    "nome": "PROCESSADOR INTEL CORE I5 11400 4.4GHZ + COOLER INTEL",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1293.48",
+          "data": "2021-11-21T03:16:31.787Z"
+        },
+        {
+          "valor": "1360.68",
+          "data": "2021-11-03T00:23:00.013Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19698/processador-intel-core-i5-11400-44ghz-cooler-intel",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR COOLER MASTER HYPER H410R, LED RED 92MM, INTEL-AMD, RR-H410-20PK-R1",
+    "nome": "COOLER PARA PROCESSADOR COOLER MASTER HYPER H410R, LED RED 92MM, INTEL-AMD, RR-H410-20PK-R1",
+    "preco": {
+      "preco": [
+        {
+          "valor": "139.00",
+          "data": "2021-11-03T18:33:44.290Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/9803/cooler-master-hyper-h410r-rr-h410-20pk-r1-led-vermelho-intelamd",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR COOLER MASTER HYPER T200, 112.5 MM, INTEL-AMD, RR-T200-22PK-R1",
+    "nome": "COOLER PARA PROCESSADOR COOLER MASTER HYPER T200, 112.5 MM, INTEL-AMD, RR-T200-22PK-R1",
+    "preco": {
+      "preco": [
+        {
+          "valor": "89.90",
+          "data": "2021-11-03T18:33:44.290Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/10571/cooler-master-hyper-t200-rr-t200-22pk-r1-intelamd",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I3 10105 3.70GHZ (4.40GHZ TURBO), 10ª GERACAO, 4-CORES 8-THREADS, LGA 1200, BX8",
+    "nome": "PROCESSADOR INTEL CORE I3 10105 3.70GHZ (4.40GHZ TURBO), 10ª GERACAO, 4-CORES 8-THREADS, LGA 1200, BX8",
+    "preco": {
+      "preco": [
+        {
+          "valor": "989.00",
+          "data": "2021-11-21T03:16:31.786Z"
+        },
+        {
+          "valor": "999.00",
+          "data": "2021-11-04T22:08:59.727Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/18697/processador-intel-core-i3-10105-370ghz-440ghz-turbo-10-geracao-4-cores-8-threads-lga-1200-bx8070110105",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL, CORE I7 10700KA AVENGERS EDITION, 3.8GHZ (5.1GHZ TURBO), 8 CORES, 16 THREADS, LGA 1200",
+    "nome": "PROCESSADOR INTEL, CORE I7 10700KA AVENGERS EDITION, 3.8GHZ (5.1GHZ TURBO), 8 CORES, 16 THREADS, LGA 1200",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2699.00",
+          "data": "2021-11-11T00:11:53.281Z"
+        },
+        {
+          "valor": "1989.90",
+          "data": "2021-11-04T22:08:59.727Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/14889/processador-intel-core-i7-10700ka-avengers-edition-38ghz-51ghz-turbo-8-cores-16-threads-lga-1200-bx8070110700ka-c-video-scooler",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL PENTIUM GOLD G6405 4.1GHZ 4MB, 10ª GERACAO, COMET LAKE, LGA 1200, BX80701G6405",
+    "nome": "PROCESSADOR INTEL PENTIUM GOLD G6405 4.1GHZ 4MB, 10ª GERACAO, COMET LAKE, LGA 1200, BX80701G6405",
+    "preco": {
+      "preco": [
+        {
+          "valor": "499.00",
+          "data": "2021-11-04T22:08:59.727Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19083/processador-intel-pentium-gold-g6405-41ghz-4mb-10-geracao-comet-lake-lga-1200-bx80701g6405",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL, CORE I9 10850KA AVENGERS EDITION, 3.6GHZ (5.2GHZ TURBO), 10 CORES, 20 THREADS, LGA 120",
+    "nome": "PROCESSADOR INTEL, CORE I9 10850KA AVENGERS EDITION, 3.6GHZ (5.2GHZ TURBO), 10 CORES, 20 THREADS, LGA 120",
+    "preco": {
+      "preco": [
+        {
+          "valor": "3089.00",
+          "data": "2021-11-04T22:08:59.727Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/14900/processador-intel-core-i9-10850ka-avengers-edition-36ghz-52ghz-turbo-10-cores-20-threads-lga-1200-bx8070110850ka-c-video-scooler",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR COOLER MASTER MASTERAIR MA410M TUF, RGB, INTEL/AMD, MAM-T4PN-AFNPC-R1",
+    "nome": "COOLER PARA PROCESSADOR COOLER MASTER MASTERAIR MA410M TUF, RGB, INTEL/AMD, MAM-T4PN-AFNPC-R1",
+    "preco": {
+      "preco": [
+        {
+          "valor": "315.00",
+          "data": "2021-11-21T03:16:31.787Z"
+        },
+        {
+          "valor": "329.90",
+          "data": "2021-11-05T21:53:07.167Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/11000/cooler-master-masterair-ma410m-tuf-rgb-intelamd-mam-t4pn-afnpc-r1",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I5 11400F 2.6GHZ (4.4GHZ TURBO) + COOLER REDRAGON TYR RED",
+    "nome": "PROCESSADOR INTEL CORE I5 11400F 2.6GHZ (4.4GHZ TURBO) + COOLER REDRAGON TYR RED",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1277.16",
+          "data": "2021-11-07T23:55:36.432Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19707/processador-intel-core-i5-11400f-26ghz-44ghz-turbo-cooler-redragon-tyr-red",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR SILVERSTONE AR12, RGB, 120MM, INTEL-AMD, SST-AR12-RGB",
+    "nome": "COOLER PARA PROCESSADOR SILVERSTONE AR12, RGB, 120MM, INTEL-AMD, SST-AR12-RGB",
+    "preco": {
+      "preco": [
+        {
+          "valor": "219.00",
+          "data": "2021-11-09T23:33:19.582Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/17036/cooler-para-processador-silverstone-ar12-rgb-120mm-intel-amd-sst-ar12-rgb",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I7 10700F, 2.90GHZ (4.80GHZ TURBO), 10ª GERACAO, 8-CORES 16-THREADS, LGA 1200,",
+    "nome": "PROCESSADOR INTEL CORE I7 10700F, 2.90GHZ (4.80GHZ TURBO), 10ª GERACAO, 8-CORES 16-THREADS, LGA 1200,",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1999.00",
+          "data": "2021-11-11T00:11:53.222Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/16126/processador-intel-core-i7-10700f-290ghz-480ghz-turbo-10-geracao-8-cores-16-threads-lga-1200-bx8070110700f",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR AMD RYZEN 9 5900X 3.7GHZ (4.8GHZ TURBO), 12-CORES 24-THREADS, AM4, SEM COOLER",
+    "nome": "PROCESSADOR AMD RYZEN 9 5900X 3.7GHZ (4.8GHZ TURBO), 12-CORES 24-THREADS, AM4, SEM COOLER",
+    "preco": {
+      "preco": [
+        {
+          "valor": "3299.00",
+          "data": "2021-11-21T03:16:31.787Z"
+        },
+        {
+          "valor": "3499.00",
+          "data": "2021-11-11T00:11:53.222Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/15696/processador-amd-ryzen-9-5900x-37ghz-48ghz-turbo-12-cores-24-threads-am4-sem-cooler",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR DEEPCOOL GAMMAXX 400 V2 BLUE, 120MM, INTEL-AMD, DP-MCH4-GMX400V2-BL",
+    "nome": "COOLER PARA PROCESSADOR DEEPCOOL GAMMAXX 400 V2 BLUE, 120MM, INTEL-AMD, DP-MCH4-GMX400V2-BL",
+    "preco": {
+      "preco": [
+        {
+          "valor": "127.99",
+          "data": "2021-11-21T03:16:31.786Z"
+        },
+        {
+          "valor": "128.00",
+          "data": "2021-11-12T01:05:46.950Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/15086/cooler-para-processador-deepcool-gammaxx-400-v2-blue-120mm-intel-amd-dp-mch4-gmx400v2-bl",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR DEEPCOOL GAMMAXX GTE V2, LED RGB, 120MM, INTEL-AMD, DP-MCH4-GMX-GTEV2",
+    "nome": "COOLER PARA PROCESSADOR DEEPCOOL GAMMAXX GTE V2, LED RGB, 120MM, INTEL-AMD, DP-MCH4-GMX-GTEV2",
+    "preco": {
+      "preco": [
+        {
+          "valor": "155.00",
+          "data": "2021-11-12T01:05:46.950Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/13648/cooler-para-processador-deepcool-gammaxx-gte-v2-led-rgb-120mm-intel-amd-dp-mch4-gmx-gtev2",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR DEEPCOOL GAMMAXX 400 V2, RED, 120MM, INTEL-AMD, DP-MCH4-GMX400V2-RD",
+    "nome": "COOLER PARA PROCESSADOR DEEPCOOL GAMMAXX 400 V2, RED, 120MM, INTEL-AMD, DP-MCH4-GMX400V2-RD",
+    "preco": {
+      "preco": [
+        {
+          "valor": "127.99",
+          "data": "2021-11-21T03:16:31.786Z"
+        },
+        {
+          "valor": "128.00",
+          "data": "2021-11-12T01:05:46.950Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/13649/cooler-para-processador-deepcool-gammaxx-400-v2-led-red-120mm-intel-amd-dp-mch4-gmx400v2-rd",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I9 12900KF 3.2GHZ (5.2GHZ TURBO), 12ª GERACAO, 16-CORES 24-THREADS, LGA 1700, B",
+    "nome": "PROCESSADOR INTEL CORE I9 12900KF 3.2GHZ (5.2GHZ TURBO), 12ª GERACAO, 16-CORES 24-THREADS, LGA 1700, B",
+    "preco": {
+      "preco": [
+        {
+          "valor": "4999.00",
+          "data": "2021-11-12T01:05:46.950Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19616/processador-intel-core-i9-12900kf-32ghz-52ghz-turbo-12-geracao-16-cores-24-threads-lga-1700-bx8071512900kf",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I5 12600KF 3.7GHZ (4.9GHZ TURBO), 12ª GERACAO, 10-CORES 16-THREADS, LGA 1700, B",
+    "nome": "PROCESSADOR INTEL CORE I5 12600KF 3.7GHZ (4.9GHZ TURBO), 12ª GERACAO, 10-CORES 16-THREADS, LGA 1700, B",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2348.13",
+          "data": "2021-11-17T01:26:31.903Z"
+        },
+        {
+          "valor": "2399.00",
+          "data": "2021-11-12T01:05:46.950Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19624/processador-intel-core-i5-12600kf-37ghz-49ghz-turbo-12-geracao-10-cores-16-threads-lga-1700-bx8071512600kf",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR DEEPCOOL GAMMAXX GTE V2, 120MM, INTEL-AMD, BLACK, DP-MCH4-GMX-GTE-V2BK",
+    "nome": "COOLER PARA PROCESSADOR DEEPCOOL GAMMAXX GTE V2, 120MM, INTEL-AMD, BLACK, DP-MCH4-GMX-GTE-V2BK",
+    "preco": {
+      "preco": [
+        {
+          "valor": "199.90",
+          "data": "2021-11-12T01:05:46.950Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/13869/cooler-para-processador-deepcool-gammaxx-gte-v2-120mm-intel-amd-black-dp-mch4-gmx-gte-v2bk",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR DEEPCOOL GAMMAXX GTE V2, 120MM, INTEL-AMD, WHITE, DP-MCH4-GMX-GTE-V2WH",
+    "nome": "COOLER PARA PROCESSADOR DEEPCOOL GAMMAXX GTE V2, 120MM, INTEL-AMD, WHITE, DP-MCH4-GMX-GTE-V2WH",
+    "preco": {
+      "preco": [
+        {
+          "valor": "149.90",
+          "data": "2021-11-12T01:05:46.950Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/13870/cooler-para-processador-deepcool-gammaxx-gte-v2-120mm-intel-amd-white-dp-mch4-gmx-gte-v2wh",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR DEEPCOOL GAMMAXX 400S, 120MM, INTEL-AMD, DP-MCH4-GMX400S",
+    "nome": "COOLER PARA PROCESSADOR DEEPCOOL GAMMAXX 400S, 120MM, INTEL-AMD, DP-MCH4-GMX400S",
+    "preco": {
+      "preco": [
+        {
+          "valor": "119.90",
+          "data": "2021-11-13T00:53:56.171Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19774/cooler-para-processador-deepcool-gammaxx-400s-120mm-intel-amd-dp-mch4-gmx400s",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR GAMER STORM ASSASSIN III 140MM, INTEL-AMD, DP-GS-MCH7-ASN-3",
+    "nome": "COOLER PARA PROCESSADOR GAMER STORM ASSASSIN III 140MM, INTEL-AMD, DP-GS-MCH7-ASN-3",
+    "preco": {
+      "preco": [
+        {
+          "valor": "595.90",
+          "data": "2021-11-13T00:53:56.171Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/12214/cooler-para-processador-gamerstorm-assassin-iii-140mm-intel-amd-dp-gs-mch7-asn-3",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR AMD RYZEN 7 PRO 4750G 3.6GHZ (4.4GHZ TURBO), 8-CORES 16-THREADS, AM4, COOLER WRAITH STEALTH,",
+    "nome": "PROCESSADOR AMD RYZEN 7 PRO 4750G 3.6GHZ (4.4GHZ TURBO), 8-CORES 16-THREADS, AM4, COOLER WRAITH STEALTH,",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2835.33",
+          "data": "2021-11-17T01:26:31.881Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/18150/processador-amd-ryzen-7-pro-4750g-36ghz-44ghz-turbo-8-cores-16-threads-am4-cooler-wraith-stealth-100-000000145",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "SUPER KIT UPGRADE AMD ZEN 2, PROCESSADOR AMD RYZEN 7 4700S + MEMORIA RAM 16GB + PLACA MAE",
+    "nome": "SUPER KIT UPGRADE AMD ZEN 2, PROCESSADOR AMD RYZEN 7 4700S + MEMORIA RAM 16GB + PLACA MAE",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1499.00",
+          "data": "2021-11-21T03:16:30.880Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/18896/kit-upgrade-amd-cardinal-zen-2-processador-amd-4700s-36ghz-turbo-40ghz-memoria-ram-16gb",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I5 10500, 3.10GHZ, (4.50GHZ TURBO), 10ª GERACAO, 6-CORES 12-THREADS, LGA 1200,",
+    "nome": "PROCESSADOR INTEL CORE I5 10500, 3.10GHZ, (4.50GHZ TURBO), 10ª GERACAO, 6-CORES 12-THREADS, LGA 1200,",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1599.00",
+          "data": "2021-11-21T03:16:30.881Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/18466/processador-intel-core-i5-10500-310ghz-430ghz-turbo-10-geracao-6-cores-12-threads-lga-1200-bx8070110500",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR AEROCOOL CYLON 4F, ARGB, 120MM, INTEL-AMD",
+    "nome": "COOLER PARA PROCESSADOR AEROCOOL CYLON 4F, ARGB, 120MM, INTEL-AMD",
+    "preco": {
+      "preco": [
+        {
+          "valor": "309.00",
+          "data": "2021-11-21T03:16:30.881Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19834/cooler-para-processador-aerocool-cylon-4f-argb-120mm-intel-amd",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR AEROCOOL MIRAGE 5, ARGB, INTEL-AMD",
+    "nome": "COOLER PARA PROCESSADOR AEROCOOL MIRAGE 5, ARGB, INTEL-AMD",
+    "preco": {
+      "preco": [
+        {
+          "valor": "299.90",
+          "data": "2021-11-21T03:16:30.881Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19835/cooler-para-processador-aerocool-mirage-5-argb-intel-amd",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR AEROCOOL CYLON 4F, ARGB, WHITE, 120MM, INTEL-AMD",
+    "nome": "COOLER PARA PROCESSADOR AEROCOOL CYLON 4F, ARGB, WHITE, 120MM, INTEL-AMD",
+    "preco": {
+      "preco": [
+        {
+          "valor": "299.90",
+          "data": "2021-11-21T03:16:30.881Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19836/cooler-para-processador-aerocool-cylon-4f-argb-white-120mm-intel-amd",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR AEROCOOL CYLON 3H, ARGB, 120MM, INTEL-AMD",
+    "nome": "COOLER PARA PROCESSADOR AEROCOOL CYLON 3H, ARGB, 120MM, INTEL-AMD",
+    "preco": {
+      "preco": [
+        {
+          "valor": "229.90",
+          "data": "2021-11-21T03:16:30.881Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19809/cooler-para-processador-aerocool-cylon-3h-argb-120mm-intel-amd",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR AEROCOOL CYLON 3, ARGB, 120MM, INTEL-AMD",
+    "nome": "COOLER PARA PROCESSADOR AEROCOOL CYLON 3, ARGB, 120MM, INTEL-AMD",
+    "preco": {
+      "preco": [
+        {
+          "valor": "249.90",
+          "data": "2021-11-21T03:16:30.881Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19816/cooler-para-processador-aerocool-cylon-3-argb-120mm-intel-amd",
     "keyword": [
       "processador"
     ]

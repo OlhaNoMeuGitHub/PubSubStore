@@ -457,6 +457,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "1",
+          "data": "2021-11-17T01:27:05.705Z"
+        },
+        {
           "valor": "580000",
           "data": "2021-10-14T23:32:14.719Z"
         }
@@ -748,6 +752,10 @@
     "nome": "Apartamento CDHU - localizado em Lindoia municipio de Sp. Lindoia, SP",
     "preco": {
       "preco": [
+        {
+          "valor": "42000",
+          "data": "2021-11-11T00:12:33.426Z"
+        },
         {
           "valor": "40000",
           "data": "2021-10-22T00:41:13.788Z"
@@ -2285,6 +2293,30 @@
     "preco": {
       "preco": [
         {
+          "valor": "480000",
+          "data": "2021-11-22T01:34:33.686Z"
+        },
+        {
+          "valor": "480000",
+          "data": "2021-11-21T03:17:02.364Z"
+        },
+        {
+          "valor": "480000",
+          "data": "2021-11-17T12:44:49.807Z"
+        },
+        {
+          "valor": "480000",
+          "data": "2021-11-17T01:27:05.705Z"
+        },
+        {
+          "valor": "480000",
+          "data": "2021-11-12T01:06:46.583Z"
+        },
+        {
+          "valor": "480000",
+          "data": "2021-11-11T00:12:33.427Z"
+        },
+        {
           "valor": "450000",
           "data": "2021-10-30T17:48:35.501Z"
         },
@@ -2945,6 +2977,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "20000",
+          "data": "2021-11-11T00:12:33.426Z"
+        },
+        {
           "valor": "60000",
           "data": "2021-10-30T01:14:11.660Z"
         },
@@ -3245,6 +3281,1138 @@
     "url": "https://www.facebook.com/marketplace/item/2998607460386449/?ref=search&referral_code=marketplace_search&referral_story_type=post",
     "keyword": [
       "serra"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/263390785693041/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Casa Serra Negra, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "170",
+          "data": "2021-11-03T00:23:57.225Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/263390785693041/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "serra"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/257526766423791/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Casa - Serra Negra Serra Negra, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "320000",
+          "data": "2021-11-03T00:23:57.226Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/257526766423791/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "serra"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/185165857111985/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Trabalhe em casa Serra Negra, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "20",
+          "data": "2021-11-03T00:23:57.441Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/185165857111985/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "serra"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/1044572059643279/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Casa em Construcao Serra Negra, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "300000",
+          "data": "2021-11-03T00:23:57.441Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/1044572059643279/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "serra"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/2971688093042823/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Apartamento em Lindoia - SP Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1",
+          "data": "2021-11-21T03:17:02.364Z"
+        },
+        {
+          "valor": "900",
+          "data": "2021-11-03T00:23:57.441Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/2971688093042823/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/1019357552221137/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "TERRENO A VENDA NO CIRCUITO DAS AGUAS SO 59.000 Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "59000",
+          "data": "2021-11-03T00:23:57.441Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/1019357552221137/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/1252741698495608/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Sitio em Lindoia [hidden information] Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2500.000",
+          "data": "2021-11-03T00:23:57.442Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/1252741698495608/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/1026132281454693/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "3 quartos 1 banheiro Casa Aguas de Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1500",
+          "data": "2021-11-03T00:23:57.442Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/1026132281454693/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/328487905511197/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Vendo casa Aguas de Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "240000",
+          "data": "2021-11-03T00:23:57.442Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/328487905511197/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/3112775958980139/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Casa em Aguas de Lindoia Aguas de Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "690000",
+          "data": "2021-11-03T00:23:57.442Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/3112775958980139/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/1517088855289362/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "4 quartos · 3 banheiro · Casa Para FDS feriados Aguas de Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "600",
+          "data": "2021-11-03T00:23:57.442Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/1517088855289362/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/396904541977787/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Apartamento no Matao Condominio Lindoia Sumare, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "60000",
+          "data": "2021-11-03T00:23:57.442Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/396904541977787/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/380333097106589/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Vendo apto em Aguas de Lindoia Aguas de Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "300000",
+          "data": "2021-11-03T18:34:22.846Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/380333097106589/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/3208528919369054/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Apto em Aguas de Lindoia Aguas de Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "300000",
+          "data": "2021-11-03T18:34:22.846Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/3208528919369054/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/384265796726861/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "TERRENO A VENDA NO CIRCUITO DAS AGUAS PRECO OCASIAO Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "59000",
+          "data": "2021-11-03T18:34:22.846Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/384265796726861/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/1475390982816723/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "3 quartos 2 banheiros Casa Serra Negra, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "170000",
+          "data": "2021-11-04T22:09:45.708Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/1475390982816723/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "serra"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/569133914168749/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Casa condominio fechado Aguas de Lindoia Aguas de Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "650000",
+          "data": "2021-11-05T01:20:19.742Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/569133914168749/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/500457631193598/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "3 quartos 2 banheiros – Casa Serra Negra, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "300000",
+          "data": "2021-11-06T12:23:40.684Z"
+        },
+        {
+          "valor": "250000",
+          "data": "2021-11-05T21:53:43.687Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/500457631193598/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "serra"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/920255741905800/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Vendo casa bela vista Aguas de Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "125000140.000",
+          "data": "2021-11-05T21:53:43.688Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/920255741905800/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/4253642318028302/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Chacara Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "500",
+          "data": "2021-11-05T21:53:43.688Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/4253642318028302/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/546196893201987/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Terreno 15x75metros Serra Negra SP oportunidade Serra Negra, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "150000",
+          "data": "2021-11-06T12:23:40.408Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/546196893201987/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "serra"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/638304223825488/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "2 quartos 2 banheiros Apartamento Aguas de Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "190000",
+          "data": "2021-11-06T12:23:40.408Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/638304223825488/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/950927675778758/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Casa (Dide pizza) Serra Negra, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1000",
+          "data": "2021-11-07T00:22:49.651Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/950927675778758/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "serra"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/351251519977574/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "2 quartos 2 banheiros Casa Serra Negra, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "350000",
+          "data": "2021-11-21T03:17:02.364Z"
+        },
+        {
+          "valor": "1000",
+          "data": "2021-11-07T00:22:49.651Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/351251519977574/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "serra"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/1096351337772696/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "TERRENO BARATO A VENDA NO CIRCUITO DAS AGUAS so 59.000 Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "59000",
+          "data": "2021-11-07T13:01:08.247Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/1096351337772696/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/162546412534766/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Terreno em Aguas de Lindoia Aguas de Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "150000",
+          "data": "2021-11-07T13:01:08.247Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/162546412534766/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/585892132392658/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "vendo linda chacara de 2.400 m2 Aguas de Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "300000",
+          "data": "2021-11-07T13:01:08.247Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/585892132392658/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/318315259737799/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Casa em.serra.negra sp. Serra Negra, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "185000",
+          "data": "2021-11-07T23:56:14.538Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/318315259737799/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "serra"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/891679558443788/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "vendo lindo terreno- chacara de 1000 m2 Aguas de Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "80000",
+          "data": "2021-11-07T23:56:14.539Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/891679558443788/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/603986467508828/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "SAIA DO ALUGUEL E COMPRE SUA CASA NOVA Serra Negra, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "100000",
+          "data": "2021-11-09T23:34:28.550Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/603986467508828/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "serra"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/1018474449003786/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Vendo casa no Didi Pizza Serra Negra, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "200000",
+          "data": "2021-11-11T00:12:32.752Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/1018474449003786/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "serra"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/279667807254140/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "2 quartos 3 banheiros Casa Serra Negra, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1180",
+          "data": "2021-11-11T00:12:32.752Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/279667807254140/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "serra"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/975117036746950/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Vivenda com 2 quartos e 2 casas de banho Aguas de Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "235000",
+          "data": "2021-11-11T00:12:33.327Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/975117036746950/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/430214958440445/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "2 quartos · 1 banheiro · Apartamento Aguas de Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "25",
+          "data": "2021-11-11T00:12:33.327Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/430214958440445/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/414125173713469/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Vende se 2 casa localizada no bairro da popular em Aguas de Lindoia SP Aguas de Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "200000",
+          "data": "2021-11-11T00:12:33.327Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/414125173713469/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/480530466338072/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Terreno [hidden information]) c/ Miriam Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "90000",
+          "data": "2021-11-11T00:12:33.327Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/480530466338072/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/614859036341531/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Vendo terreno Aguas de Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "95000",
+          "data": "2021-11-11T00:12:33.327Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/614859036341531/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/1040992976506685/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Casa conteiner 42 m² com mezanino Serra Negra, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "30000",
+          "data": "2021-11-12T01:06:45.824Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/1040992976506685/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "serra"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/866085507437454/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Vendo terreno com casa pre construida Serra Negra, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "220000",
+          "data": "2021-11-12T01:06:46.249Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/866085507437454/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "serra"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/179466794176556/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "ALUGO CASA DOIS COMODOS Serra Negra, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "590",
+          "data": "2021-11-12T01:06:46.249Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/179466794176556/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "serra"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/3112153709110079/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Vendo casas Serra Negra, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "630000",
+          "data": "2021-11-12T01:06:46.250Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/3112153709110079/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "serra"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/926961451553735/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "3 quartos 1 banheiro Casa Aguas de Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1200",
+          "data": "2021-11-12T01:06:46.250Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/926961451553735/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/984865478919441/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Vendo casa em aguas de Lindoia escriturada Aguas de Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "480000",
+          "data": "2021-11-12T01:06:46.250Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/984865478919441/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/220143036890353/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Vendo linda chacara em aguas de lindoia 2500 mts pego carro ou imoveis em Monte siao Monte Siao, MG",
+    "preco": {
+      "preco": [
+        {
+          "valor": "430000",
+          "data": "2021-11-13T00:54:22.116Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/220143036890353/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/385045646552028/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "2 quartos 2 banheiros Apartamento Aguas de Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "280000",
+          "data": "2021-11-13T00:54:22.117Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/385045646552028/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/231270322408807/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "2 quartos 3 banheiros Casa Serra Negra, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1180",
+          "data": "2021-11-17T01:27:05.571Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/231270322408807/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "serra"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/828300004548472/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Casa de Campo em Serra Negra Serra Negra, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "360000",
+          "data": "2021-11-17T01:27:05.571Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/828300004548472/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "serra"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/1069260510595962/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Imovel a venda aguas de lindoia Aguas de Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "240000",
+          "data": "2021-11-17T01:27:05.571Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/1069260510595962/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/419673506460191/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Chacara com duas casas com 1000 MT tudo cercado em lindoia Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "160000",
+          "data": "2021-11-17T01:27:05.571Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/419673506460191/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/936397290610111/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "vendo linda chacara de 1000m2 Aguas de Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "330000",
+          "data": "2021-11-17T01:27:05.572Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/936397290610111/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/429735115214977/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "vendo lindo terreno de 3000m2 Aguas de Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "450000",
+          "data": "2021-11-17T01:27:05.573Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/429735115214977/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/1249660538841478/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Vende se chacara de 1.100 metros quadrados Aguas de Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "460000",
+          "data": "2021-11-17T01:27:05.573Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/1249660538841478/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/4511475865597320/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "CASA PROXIMO AO CENTRO Serra Negra, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "",
+          "data": "2021-11-17T12:44:49.785Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/4511475865597320/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "serra"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/600418134718511/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "vendo linda casa- chacara de 1000m2 Aguas de Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "330000",
+          "data": "2021-11-17T12:44:49.786Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/600418134718511/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/240378581519945/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "vendo lindo terreno- chacara de 1800 m2 Aguas de Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "180000",
+          "data": "2021-11-17T12:44:49.787Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/240378581519945/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/619056145916941/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "1 quarto 1 banheiro – Casa Serra Negra, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "200000",
+          "data": "2021-11-21T03:17:01.915Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/619056145916941/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "serra"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/1319487948500726/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "ALUGO CASA 1.200 Serra Negra, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1200",
+          "data": "2021-11-21T03:17:01.915Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/1319487948500726/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "serra"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/205415095101060/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Alugo casa 550 Serra Negra, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "550",
+          "data": "2021-11-21T03:17:01.915Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/205415095101060/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "serra"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/626338685218512/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Imovel a venda Aguas de Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "245000",
+          "data": "2021-11-21T03:17:02.056Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/626338685218512/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/210656594507898/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "3 quartos 3 banheiros Casa Aguas de Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2000",
+          "data": "2021-11-21T03:17:02.056Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/210656594507898/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/482720176410912/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "vendo casa no Jardim Europa, aguas de Lindoia sp. Aguas de Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "300000",
+          "data": "2021-11-21T03:17:02.056Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/482720176410912/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/991044164808962/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Chacara a venda em Lindoia– SP Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "550000",
+          "data": "2021-11-21T03:17:02.057Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/991044164808962/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/637628593897831/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Imovel - (A vista/Parcelado) Aguas de Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1400.000",
+          "data": "2021-11-21T03:17:02.057Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/637628593897831/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/423128049349363/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "2 quartos · 1 banheiro · Casa Serra Negra, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "800",
+          "data": "2021-11-22T01:34:33.322Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/423128049349363/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "serra"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/313801947000817/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "2 quartos 1 banheiro – Casa Serra Negra, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1",
+          "data": "2021-11-22T01:34:33.483Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/313801947000817/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "serra"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/398119188612500/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "2 quartos 1 banheiro Apartamento Serra Negra, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "200000",
+          "data": "2021-11-22T01:34:33.483Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/398119188612500/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "serra"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/417217056327234/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Sitio paraiso da serra Serra Negra, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1300",
+          "data": "2021-11-22T01:34:33.483Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/417217056327234/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "serra"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/435169177980538/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "2 casas para venda em Lindoia Perto do lago Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "195000",
+          "data": "2021-11-22T01:34:33.483Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/435169177980538/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/200125275629857/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "TERRENO A VENDA BARATO 35.000 Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "35000",
+          "data": "2021-11-22T01:34:33.483Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/200125275629857/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
+    ]
+  },
+  {
+    "id": "https://www.facebook.com/marketplace/item/1054264665322107/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "nome": "Chacara a venda em Lindoia– SP Lindoia, SP",
+    "preco": {
+      "preco": [
+        {
+          "valor": "550000",
+          "data": "2021-11-22T01:34:33.483Z"
+        }
+      ]
+    },
+    "url": "https://www.facebook.com/marketplace/item/1054264665322107/?ref=search&referral_code=marketplace_search&referral_story_type=post",
+    "keyword": [
+      "lindoia"
     ]
   }
 ]

@@ -1,320 +1,96 @@
 [
   {
-    "id": "Processador Intel Core i5-11400, 6-Core, 12-Threads, 2.6GHz (4.4GHz Turbo), Cache 12MB, LGA1200, BX8070811400-TRAY",
-    "nome": "Processador Intel Core i5-11400, 6-Core, 12-Threads, 2.6GHz (4.4GHz Turbo), Cache 12MB, LGA1200, BX8070811400-TRAY",
+    "id": "Processador Intel Core i5-10400F, 6-Core, 12-Threads, 2.9Ghz (4.3Ghz Turbo), Cache 12MB, LGA1200, BX8070110400F-TRAY",
+    "nome": "Processador Intel Core i5-10400F, 6-Core, 12-Threads, 2.9Ghz (4.3Ghz Turbo), Cache 12MB, LGA1200, BX8070110400F-TRAY",
     "preco": {
       "preco": [
         {
-          "valor": "1599.90",
-          "data": "2021-11-01T02:00:43.441Z"
+          "valor": "1289.90",
+          "data": "2021-11-22T01:34:44.750Z"
         }
       ]
     },
-    "url": "https://www.pichau.com.br/processador-intel-core-i5-11400-6-core-12-threads-2-6ghz-4-4ghz-turbo-cache-12mb-lga1200-bx8070811400-tray",
+    "url": "https://www.pichau.com.br/processador-intel-core-i5-10400f-6-core-12-threads-2-9ghz-4-3ghz-turbo-cache-12mb-lga1200-bx8070110400f-tray",
     "keyword": [
       ""
     ]
   },
   {
-    "id": "Placa de Video Asus GeForce RTX 3080 Ti OC 12GB GDDR6X ROG Strix 384-bit, ROG-STRIX-RTX3080TI-O12G-GAMING",
-    "nome": "Placa de Video Asus GeForce RTX 3080 Ti OC 12GB GDDR6X ROG Strix 384-bit, ROG-STRIX-RTX3080TI-O12G-GAMING",
+    "id": "Processador Intel Core i5-10600KF, 6-Core, 12-Threads, 4.1GHz (4.8GHz Turbo), Cache 12MB, LGA1200, BX8070110600KF",
+    "nome": "Processador Intel Core i5-10600KF, 6-Core, 12-Threads, 4.1GHz (4.8GHz Turbo), Cache 12MB, LGA1200, BX8070110600KF",
     "preco": {
       "preco": [
         {
-          "valor": "16649.79",
-          "data": "2021-11-01T02:00:43.442Z"
+          "valor": "1863.52",
+          "data": "2021-11-22T01:34:44.750Z"
         }
       ]
     },
-    "url": "https://www.pichau.com.br/placa-de-video-asus-geforce-rtx-3080-ti-oc-12gb-gddr6x-rog-strix-384-bit-rog-strix-rtx3080ti-o12g-gaming",
+    "url": "https://www.pichau.com.br/processador-intel-core-i5-10600kf-6-core-12-threads-4-1ghz-4-8ghz-turbo-cache-12mb-lga1200-bx8070110600kf",
     "keyword": [
       ""
     ]
   },
   {
-    "id": "Placa de Video Asus GeForce RTX 3080 ROG Strix OC, LHR, 10GB, GDDR6X, 320-bit, ROG-STRIX-RTX3080-O10G-V2-GAMING",
-    "nome": "Placa de Video Asus GeForce RTX 3080 ROG Strix OC, LHR, 10GB, GDDR6X, 320-bit, ROG-STRIX-RTX3080-O10G-V2-GAMING",
+    "id": "Processador Intel Core i5-11600K, 6-Core, 12-Threads, 3.9GHz (4.9GHz Turbo), Cache 12MB, LGA1200, BX8070811600K",
+    "nome": "Processador Intel Core i5-11600K, 6-Core, 12-Threads, 3.9GHz (4.9GHz Turbo), Cache 12MB, LGA1200, BX8070811600K",
     "preco": {
       "preco": [
         {
-          "valor": "12799.84",
-          "data": "2021-11-01T02:00:43.442Z"
+          "valor": "2199.90",
+          "data": "2021-11-22T01:34:44.750Z"
         }
       ]
     },
-    "url": "https://www.pichau.com.br/placa-de-video-asus-geforce-rtx-3080-rog-strix-oc-lhr-10gb-gddr6x-320-bit-rog-strix-rtx3080-o10g-v2-gaming",
+    "url": "https://www.pichau.com.br/processador-intel-core-i5-11600k-6-core-12-threads-3-9ghz-4-9ghz-turbo-cache-12mb-lga1200-bx8070811600k",
     "keyword": [
       ""
     ]
   },
   {
-    "id": "Placa de Video Asus GeForce RTX 3080 ROG Strix White Edition OC, LHR, 10GB, GDDR6X, 320-bit, ROG-STRIX-RTX3080-O10G-WHITE-V2",
-    "nome": "Placa de Video Asus GeForce RTX 3080 ROG Strix White Edition OC, LHR, 10GB, GDDR6X, 320-bit, ROG-STRIX-RTX3080-O10G-WHITE-V2",
+    "id": "Processador Intel Core i7-10700KF, 8-Core, 16-Threads, 3.8GHz (5.1GHz Turbo), Cache 16MB, LGA1200, BX8070110700KF",
+    "nome": "Processador Intel Core i7-10700KF, 8-Core, 16-Threads, 3.8GHz (5.1GHz Turbo), Cache 16MB, LGA1200, BX8070110700KF",
     "preco": {
       "preco": [
         {
-          "valor": "12379.90",
-          "data": "2021-11-01T02:00:43.442Z"
+          "valor": "2669.90",
+          "data": "2021-11-22T01:34:44.750Z"
         }
       ]
     },
-    "url": "https://www.pichau.com.br/placa-de-video-asus-geforce-rtx-3080-rog-strix-white-edition-oc-lhr-10gb-gddr6x-320-bit-rog-strix-rtx3080-o10g-white-v2",
+    "url": "https://www.pichau.com.br/processador-intel-core-i7-10700kf-8-core-16-threads-3-8ghz-5-1ghz-turbo-cache-16mb-lga1200-bx8070110700kf",
     "keyword": [
       ""
     ]
   },
   {
-    "id": "Placa de Video Asus GeForce RTX 3070 TUF Gaming OC LHR 8GB GDDR6 256-bit, TUF-RTX3070-O8G-V2-GAMING",
-    "nome": "Placa de Video Asus GeForce RTX 3070 TUF Gaming OC LHR 8GB GDDR6 256-bit, TUF-RTX3070-O8G-V2-GAMING",
+    "id": "Processador Intel Core i7-10700K Avengers Edition, 8-Core, 16-Threads, 3.8GHz (5.1GHz Turbo), Cache 16MB, LGA1200, BX8070110700KA",
+    "nome": "Processador Intel Core i7-10700K Avengers Edition, 8-Core, 16-Threads, 3.8GHz (5.1GHz Turbo), Cache 16MB, LGA1200, BX8070110700KA",
     "preco": {
       "preco": [
         {
-          "valor": "7599.90",
-          "data": "2021-11-01T02:00:43.442Z"
+          "valor": "3636.25",
+          "data": "2021-11-22T01:34:44.750Z"
         }
       ]
     },
-    "url": "https://www.pichau.com.br/placa-de-video-asus-geforce-rtx-3070-tuf-gaming-oc-lhr-8gb-gddr6-256-bit-tuf-rtx3070-o8g-v2-gaming",
+    "url": "https://www.pichau.com.br/processador-intel-core-i7-10700k-avengers-edition-8-core-16-threads-3-8ghz-5-1ghz-turbo-cache-16mb-lga1200-bx8070110700ka",
     "keyword": [
       ""
     ]
   },
   {
-    "id": "Placa de Video Gigabyte GeForce RTX 3070 Aorus Master, LHR, 8GB, GDDR6, 256-bit, GV-N3070AORUS M-8GD REV 2.0",
-    "nome": "Placa de Video Gigabyte GeForce RTX 3070 Aorus Master, LHR, 8GB, GDDR6, 256-bit, GV-N3070AORUS M-8GD REV 2.0",
+    "id": "Processador Intel Core i7-10700K, 8-Core, 16-Threads, 3.8GHz (5.1GHz Turbo), Cache 16MB, LGA1200, BX8070110700K",
+    "nome": "Processador Intel Core i7-10700K, 8-Core, 16-Threads, 3.8GHz (5.1GHz Turbo), Cache 16MB, LGA1200, BX8070110700K",
     "preco": {
       "preco": [
         {
-          "valor": "7499.90",
-          "data": "2021-11-01T02:00:43.442Z"
+          "valor": "2899.90",
+          "data": "2021-11-22T01:34:44.750Z"
         }
       ]
     },
-    "url": "https://www.pichau.com.br/placa-de-video-gigabyte-geforce-rtx-3070-aorus-master-lhr-8gb-gddr6-256-bit-gv-n3070aorus-m-8gd-rev-2-0",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "Placa de Video Asus GeForce RTX 3070 OC LHR 8GB GDDR6 Dual 256-bit, DUAL-RTX3070-O8G-V2",
-    "nome": "Placa de Video Asus GeForce RTX 3070 OC LHR 8GB GDDR6 Dual 256-bit, DUAL-RTX3070-O8G-V2",
-    "preco": {
-      "preco": [
-        {
-          "valor": "7399.41",
-          "data": "2021-11-01T02:00:43.442Z"
-        }
-      ]
-    },
-    "url": "https://www.pichau.com.br/placa-de-video-asus-geforce-rtx-3070-oc-lhr-8gb-gddr6-dual-256-bit-dual-rtx3070-o8g-v2",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "Placa de Video Asus GeForce RTX 3070 KO OC LHR, 8GB, GDDR6, 256-bit, KO-RTX3070-O8G-V2-GAMING",
-    "nome": "Placa de Video Asus GeForce RTX 3070 KO OC LHR, 8GB, GDDR6, 256-bit, KO-RTX3070-O8G-V2-GAMING",
-    "preco": {
-      "preco": [
-        {
-          "valor": "6989.90",
-          "data": "2021-11-01T02:00:43.442Z"
-        }
-      ]
-    },
-    "url": "https://www.pichau.com.br/placa-de-video-asus-geforce-rtx-3070-ko-oc-lhr-8gb-gddr6-256-bit-ko-rtx3070-o8g-v2-gaming",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "Placa de Video Asus GeForce RTX 3060 Ti ROG Strix OC, LHR, 8GB, GDDR6, 256-bit, ROG-STRIX-RTX3060TI-O8G-V2-GAMING",
-    "nome": "Placa de Video Asus GeForce RTX 3060 Ti ROG Strix OC, LHR, 8GB, GDDR6, 256-bit, ROG-STRIX-RTX3060TI-O8G-V2-GAMING",
-    "preco": {
-      "preco": [
-        {
-          "valor": "6979.90",
-          "data": "2021-11-01T02:00:43.442Z"
-        }
-      ]
-    },
-    "url": "https://www.pichau.com.br/placa-de-video-asus-geforce-rtx-3060-ti-rog-strix-oc-lhr-8gb-gddr6-256-bit-rog-strix-rtx3060ti-o8g-v2-gaming",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "Placa de Video Asus GeForce RTX 3060 Ti ROG Strix, LHR, 8GB, GDDR6, 256-bit, ROG-STRIX-RTX3060TI-8G-V2-GAMING",
-    "nome": "Placa de Video Asus GeForce RTX 3060 Ti ROG Strix, LHR, 8GB, GDDR6, 256-bit, ROG-STRIX-RTX3060TI-8G-V2-GAMING",
-    "preco": {
-      "preco": [
-        {
-          "valor": "6899.90",
-          "data": "2021-11-01T02:00:43.442Z"
-        }
-      ]
-    },
-    "url": "https://www.pichau.com.br/placa-de-video-asus-geforce-rtx-3060-ti-rog-strix-lhr-8gb-gddr6-256-bit-rog-strix-rtx3060ti-8g-v2-gaming",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "Placa de Video Asus GeForce RTX 3060 Ti KO OC, LHR, 8GB, GDDR6, 256-bit, KO-RTX3060TI-O8G-V2-GAMING",
-    "nome": "Placa de Video Asus GeForce RTX 3060 Ti KO OC, LHR, 8GB, GDDR6, 256-bit, KO-RTX3060TI-O8G-V2-GAMING",
-    "preco": {
-      "preco": [
-        {
-          "valor": "6499.91",
-          "data": "2021-11-01T02:00:43.442Z"
-        }
-      ]
-    },
-    "url": "https://www.pichau.com.br/placa-de-video-asus-geforce-rtx-3060-ti-ko-oc-lhr-8gb-gddr6-256-bit-ko-rtx3060ti-o8g-v2-gaming",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "Placa de Video Gigabyte GeForce RTX 3060 Ti Aorus Elite, LHR, 8GB, GDDR6, 256-bit, GV-N306TAORUS E-8GD REV 2.0",
-    "nome": "Placa de Video Gigabyte GeForce RTX 3060 Ti Aorus Elite, LHR, 8GB, GDDR6, 256-bit, GV-N306TAORUS E-8GD REV 2.0",
-    "preco": {
-      "preco": [
-        {
-          "valor": "6349.91",
-          "data": "2021-11-01T02:00:43.442Z"
-        }
-      ]
-    },
-    "url": "https://www.pichau.com.br/placa-de-video-gigabyte-geforce-rtx-3060-ti-aorus-elite-lhr-8gb-gddr6-256-bit-gv-n306taorus-e-8gd-rev-2-0",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "Placa de Video Asus GeForce RTX 3060 TUF Gaming OC, 12GB, GDDR6, 192-bit, TUF-RTX3060-O12G-V2-GAMING-NAC",
-    "nome": "Placa de Video Asus GeForce RTX 3060 TUF Gaming OC, 12GB, GDDR6, 192-bit, TUF-RTX3060-O12G-V2-GAMING-NAC",
-    "preco": {
-      "preco": [
-        {
-          "valor": "5499.92",
-          "data": "2021-11-01T02:00:43.442Z"
-        }
-      ]
-    },
-    "url": "https://www.pichau.com.br/placa-de-video-asus-geforce-rtx-3060-tuf-gaming-oc-12gb-gddr6-192-bit-tuf-rtx3060-o12g-v2-gaming-nac",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "Placa de Video PNY Quadro P1000 V2 4GB GDDR5 128-bit, VCQP1000V2-PB",
-    "nome": "Placa de Video PNY Quadro P1000 V2 4GB GDDR5 128-bit, VCQP1000V2-PB",
-    "preco": {
-      "preco": [
-        {
-          "valor": "3199.95",
-          "data": "2021-11-01T02:00:43.442Z"
-        }
-      ]
-    },
-    "url": "https://www.pichau.com.br/placa-de-video-pny-quadro-p1000-v2-4gb-gddr5-128-bit-vcqp1000v2-pb",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "Placa de Video Asus GeForce GTX 1650 OC 4GB GDDR6 TUF Gaming 128-bit, TUF-GTX1650-O4GD6-P-GAMING",
-    "nome": "Placa de Video Asus GeForce GTX 1650 OC 4GB GDDR6 TUF Gaming 128-bit, TUF-GTX1650-O4GD6-P-GAMING",
-    "preco": {
-      "preco": [
-        {
-          "valor": "2227.90",
-          "data": "2021-11-01T02:00:43.442Z"
-        }
-      ]
-    },
-    "url": "https://www.pichau.com.br/placa-de-video-asus-geforce-gtx-1650-oc-4gb-gddr6-tuf-gaming-128-bit-tuf-gtx1650-o4gd6-p-gaming",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "Placa de Video Gigabyte GeForce GTX 1650 D6 Windforce OC 4GB 128-bit, GV-N1656WF2OC-4GD REV 2.0-NAC",
-    "nome": "Placa de Video Gigabyte GeForce GTX 1650 D6 Windforce OC 4GB 128-bit, GV-N1656WF2OC-4GD REV 2.0-NAC",
-    "preco": {
-      "preco": [
-        {
-          "valor": "2119.90",
-          "data": "2021-11-01T02:00:43.442Z"
-        }
-      ]
-    },
-    "url": "https://www.pichau.com.br/placa-de-video-gigabyte-geforce-gtx-1650-d6-windforce-oc-4gb-128-bit-gv-n1656wf2oc-4gd-rev-2-0-nac",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "Placa de Video PNY Quadro T400, 2GB, GDDR6, 64-bit, VCNT400-PB-NAC",
-    "nome": "Placa de Video PNY Quadro T400, 2GB, GDDR6, 64-bit, VCNT400-PB-NAC",
-    "preco": {
-      "preco": [
-        {
-          "valor": "1099.99",
-          "data": "2021-11-01T02:00:43.442Z"
-        }
-      ]
-    },
-    "url": "https://www.pichau.com.br/placa-de-video-pny-quadro-t400-2gb-gddr6-64-bit-vcnt400-pb-nac",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "Placa de Video Gigabyte GeForce GT 1030 2GB DDR4 Low Profile D4 64-bit, GV-N1030D4-2GL",
-    "nome": "Placa de Video Gigabyte GeForce GT 1030 2GB DDR4 Low Profile D4 64-bit, GV-N1030D4-2GL",
-    "preco": {
-      "preco": [
-        {
-          "valor": "748.99",
-          "data": "2021-11-01T02:00:43.442Z"
-        }
-      ]
-    },
-    "url": "https://www.pichau.com.br/placa-de-video-gigabyte-geforce-gt-1030-2gb-ddr4-low-profile-d4-64-bit-gv-n1030d4-2gl",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "Placa de Video Gigabyte GeForce GT 710 2GB DDR3 Low Profile 64-bit, GV-N710D3-2GL",
-    "nome": "Placa de Video Gigabyte GeForce GT 710 2GB DDR3 Low Profile 64-bit, GV-N710D3-2GL",
-    "preco": {
-      "preco": [
-        {
-          "valor": "499.98",
-          "data": "2021-11-01T02:00:43.442Z"
-        }
-      ]
-    },
-    "url": "https://www.pichau.com.br/placa-de-video-gigabyte-geforce-gt-710-2gb-ddr3-low-profile-64-bit-gv-n710d3-2gl",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "Placa de Video Mancer GeForce GT610 2GB GDDR3 64Bit, MCR-6102GD3-V1",
-    "nome": "Placa de Video Mancer GeForce GT610 2GB GDDR3 64Bit, MCR-6102GD3-V1",
-    "preco": {
-      "preco": [
-        {
-          "valor": "556.72",
-          "data": "2021-11-01T02:00:43.442Z"
-        }
-      ]
-    },
-    "url": "https://www.pichau.com.br/placa-de-video-mancer-geforce-gt610-2gb-gddr3-64bit-mcr-6102gd3-v1",
+    "url": "https://www.pichau.com.br/processador-intel-core-i7-10700k-8-core-16-threads-3-8ghz-5-1ghz-turbo-cache-16mb-lga1200-bx8070110700k",
     "keyword": [
       ""
     ]

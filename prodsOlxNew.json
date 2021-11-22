@@ -1,34 +1,16 @@
 [
   {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-sao-paulo-vila-guilherme-ref-reo621283-950982495",
-    "nome": "Apartamento-Sao Paulo-VILA GUILHERME | Ref.: REO621283",
-    "preco": {
-      "preco": [
-        {
-          "valor": "480000",
-          "data": "2021-11-01T02:02:35.012Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-sao-paulo-vila-guilherme-ref-reo621283-950982495",
-    "keyword": [
-      "casa",
-      "apartamento",
-      "chacara"
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-no-eco-way-vila-nova-cachoeirinha-950956878",
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-no-eco-way-vila-nova-cachoeirinha-957718783",
     "nome": "Apartamento no Eco Way Vila Nova Cachoeirinha",
     "preco": {
       "preco": [
         {
-          "valor": "330000",
-          "data": "2021-11-01T02:02:35.012Z"
+          "valor": "325000",
+          "data": "2021-11-17T12:48:25.731Z"
         }
       ]
     },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-no-eco-way-vila-nova-cachoeirinha-950956878",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-no-eco-way-vila-nova-cachoeirinha-957718783",
     "keyword": [
       "casa",
       "apartamento",
@@ -36,17 +18,17 @@
     ]
   },
   {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-2-dormitorios-950956493",
-    "nome": "APARTAMENTO 2 dormitorios",
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-para-venda-possui-57-metros-quadrados-com-2-quartos-varanda-gourmet-957702385",
+    "nome": "Apartamento para venda possui 57 metros quadrados com 2 quartos, varanda gourmet",
     "preco": {
       "preco": [
         {
-          "valor": "426500",
-          "data": "2021-11-01T02:02:35.012Z"
+          "valor": "475000",
+          "data": "2021-11-17T12:48:25.731Z"
         }
       ]
     },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-2-dormitorios-950956493",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-para-venda-possui-57-metros-quadrados-com-2-quartos-varanda-gourmet-957702385",
     "keyword": [
       "casa",
       "apartamento",
@@ -54,133 +36,36 @@
     ]
   },
   {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-com-3-dorms-3-banheiros-e-2-vagas-em-santana-950941590",
-    "nome": "apartamento com 3 dorms, 3 banheiros e 2 vagas em Santana",
-    "preco": {
-      "preco": [
-        {
-          "valor": "960000",
-          "data": "2021-11-01T02:02:35.012Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/imoveis/apartamento-com-3-dorms-3-banheiros-e-2-vagas-em-santana-950941590",
-    "keyword": [
-      "casa",
-      "apartamento",
-      "chacara"
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/pedal-driver-e-di-dr-j-sparrow-933474478",
-    "nome": "Pedal / Driver e DI Dr J - Sparrow",
-    "preco": {
-      "preco": [
-        {
-          "valor": "450",
-          "data": "2021-11-01T02:02:35.013Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/pedal-driver-e-di-dr-j-sparrow-933474478",
-    "keyword": [
-      ""
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-em-ebano-17-chaves-sib-951221309",
-    "nome": "Clarinete em ebano 17 chaves sib",
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-novissimo-957725774",
+    "nome": "Orgao eletronico novissimo",
     "preco": {
       "preco": [
         {
           "valor": "2000",
-          "data": "2021-11-01T02:02:35.013Z"
+          "data": "2021-11-17T12:48:25.731Z"
         }
       ]
     },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-em-ebano-17-chaves-sib-951221309",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/orgao-eletronico-novissimo-957725774",
     "keyword": [
-      "clarinete"
+      "orgao",
+      "eletrico"
     ]
   },
   {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-vito-951090664",
-    "nome": "Clarinete Vito",
+    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/amplificador-de-baixo-60w-falante-de-8-datrel-somente-venda-926731457",
+    "nome": "Amplificador De Baixo 60w Falante de 8''-Datrel - Somente Venda",
     "preco": {
       "preco": [
         {
-          "valor": "900",
-          "data": "2021-11-01T02:02:35.013Z"
+          "valor": "580",
+          "data": "2021-11-17T12:48:25.732Z"
         }
       ]
     },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-vito-951090664",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/amplificador-de-baixo-60w-falante-de-8-datrel-somente-venda-926731457",
     "keyword": [
-      "clarinete"
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-italiano-patricola-cl2-18-chaves-sib-950987065",
-    "nome": "Clarinete Italiano Patricola CL2 18 Chaves Sib",
-    "preco": {
-      "preco": [
-        {
-          "valor": "8000",
-          "data": "2021-11-01T02:02:35.013Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-italiano-patricola-cl2-18-chaves-sib-950987065",
-    "keyword": [
-      "clarinete"
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-eagle-cl04-sb-com-17-chaves-otimo-estado-933205349",
-    "nome": "Clarinete Eagle CL04 SB com 17 chaves- Otimo estado.",
-    "preco": {
-      "preco": [
-        {
-          "valor": "600",
-          "data": "2021-11-01T02:02:35.013Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/clarinete-eagle-cl04-sb-com-17-chaves-otimo-estado-933205349",
-    "keyword": [
-      "clarinete"
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/violoncelo-4-4-950972790",
-    "nome": "Violoncelo 4/4",
-    "preco": {
-      "preco": [
-        {
-          "valor": "1150",
-          "data": "2021-11-01T02:02:35.013Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/violoncelo-4-4-950972790",
-    "keyword": [
-      "violoncelo"
-    ]
-  },
-  {
-    "id": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/violoncelo-941821084",
-    "nome": "Violoncelo",
-    "preco": {
-      "preco": [
-        {
-          "valor": "1000",
-          "data": "2021-11-01T02:02:35.013Z"
-        }
-      ]
-    },
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/instrumentos-musicais/violoncelo-941821084",
-    "keyword": [
-      "violoncelo"
+      ""
     ]
   }
 ]

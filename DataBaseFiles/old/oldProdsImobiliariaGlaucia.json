@@ -299,5 +299,125 @@
     "keyword": [
       ""
     ]
+  },
+  {
+    "id": "RESERVADO - REF.: 236\n Serra Negra - SP\nR$ 750,00",
+    "nome": "RESERVADO - REF.: 236\n Serra Negra - SP\nR$ 750,00",
+    "preco": {
+      "preco": [
+        {
+          "valor": "750.00",
+          "data": "2021-11-03T18:33:56.499Z"
+        }
+      ]
+    },
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "RESERVADO - REF.: 212\n Serra Negra - SP\nR$ 900,00",
+    "nome": "RESERVADO - REF.: 212\n Serra Negra - SP\nR$ 900,00",
+    "preco": {
+      "preco": [
+        {
+          "valor": "900.00",
+          "data": "2021-11-03T18:33:56.499Z"
+        }
+      ]
+    },
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "CASA JARDIM NOVA SERRA NEGRA - REF.: 220\n Serra Negra - SP\nR$ 700,00",
+    "nome": "CASA JARDIM NOVA SERRA NEGRA - REF.: 220\n Serra Negra - SP\nR$ 700,00",
+    "preco": {
+      "preco": [
+        {
+          "valor": "700.00",
+          "data": "2021-11-03T18:33:56.499Z"
+        }
+      ]
+    },
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "RESERVADO - CENTRO REF.: 222\n Serra Negra - SP\nR$ 650,00",
+    "nome": "RESERVADO - CENTRO REF.: 222\n Serra Negra - SP\nR$ 650,00",
+    "preco": {
+      "preco": [
+        {
+          "valor": "650.00",
+          "data": "2021-11-04T22:09:15.939Z"
+        }
+      ]
+    },
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "CASA RUA IPOJUCA - REF.: 220\n Serra Negra - SP\nR$ 1.200,00",
+    "nome": "CASA RUA IPOJUCA - REF.: 220\n Serra Negra - SP\nR$ 1.200,00",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1200.00",
+          "data": "2021-11-11T00:12:06.870Z"
+        }
+      ]
+    },
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "RESERVADO - REF.: 220\n Serra Negra - SP\nR$ 1.200,00",
+    "nome": "RESERVADO - REF.: 220\n Serra Negra - SP\nR$ 1.200,00",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1200.00",
+          "data": "2021-11-12T01:06:22.120Z"
+        }
+      ]
+    },
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "RESERVADO - REF.: 222\n Serra Negra - SP\nR$ 650,00",
+    "nome": "RESERVADO - REF.: 222\n Serra Negra - SP\nR$ 650,00",
+    "preco": {
+      "preco": [
+        {
+          "valor": "650.00",
+          "data": "2021-11-21T03:16:57.072Z"
+        }
+      ]
+    },
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "RESERVADO - REF.: 211\n Serra Negra - SP\nR$ 950,00",
+    "nome": "RESERVADO - REF.: 211\n Serra Negra - SP\nR$ 950,00",
+    "preco": {
+      "preco": [
+        {
+          "valor": "950.00",
+          "data": "2021-11-21T03:16:57.072Z"
+        }
+      ]
+    },
+    "keyword": [
+      ""
+    ]
   }
 ]

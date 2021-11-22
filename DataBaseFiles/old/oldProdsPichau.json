@@ -21,6 +21,26 @@
     "preco": {
       "preco": [
         {
+          "valor": "1590.80",
+          "data": "2021-11-22T01:34:44.751Z"
+        },
+        {
+          "valor": "1399.90",
+          "data": "2021-11-21T03:17:17.460Z"
+        },
+        {
+          "valor": "1590.80",
+          "data": "2021-11-09T23:34:54.271Z"
+        },
+        {
+          "valor": "1399.90",
+          "data": "2021-11-07T00:22:56.411Z"
+        },
+        {
+          "valor": "1590.80",
+          "data": "2021-11-03T00:24:01.530Z"
+        },
+        {
           "valor": "1399.90",
           "data": "2021-10-31T02:43:18.562Z"
         }
@@ -36,6 +56,14 @@
     "nome": "Processador Intel Core i5-11400, 6-Core, 12-Threads, 2.6GHz (4.4GHz Turbo), Cache 12MB, LGA1200, BX8070811400-TRAY",
     "preco": {
       "preco": [
+        {
+          "valor": "1599.90",
+          "data": "2021-11-07T00:22:56.411Z"
+        },
+        {
+          "valor": "1818.07",
+          "data": "2021-11-05T21:53:54.588Z"
+        },
         {
           "valor": "1599.90",
           "data": "2021-11-01T02:00:43.444Z"
@@ -58,6 +86,38 @@
       "preco": [
         {
           "valor": "1289.90",
+          "data": "2021-11-22T01:34:44.751Z"
+        },
+        {
+          "valor": "1465.80",
+          "data": "2021-11-12T01:07:00.198Z"
+        },
+        {
+          "valor": "1289.90",
+          "data": "2021-11-11T11:17:03.136Z"
+        },
+        {
+          "valor": "1465.80",
+          "data": "2021-11-11T00:12:36.070Z"
+        },
+        {
+          "valor": "1289.90",
+          "data": "2021-11-07T00:22:56.411Z"
+        },
+        {
+          "valor": "1465.80",
+          "data": "2021-11-05T21:53:54.588Z"
+        },
+        {
+          "valor": "1289.90",
+          "data": "2021-11-04T22:09:56.154Z"
+        },
+        {
+          "valor": "1465.80",
+          "data": "2021-11-03T18:34:26.041Z"
+        },
+        {
+          "valor": "1289.90",
           "data": "2021-10-31T02:43:18.563Z"
         }
       ]
@@ -72,6 +132,10 @@
     "nome": "Processador Intel Core i3-10105, 4-Core, 8-Threads, 3.7Ghz (4.4Ghz Turbo), Cache 6MB, LGA1200, BX8070110105",
     "preco": {
       "preco": [
+        {
+          "valor": "1124.89",
+          "data": "2021-11-11T00:12:36.070Z"
+        },
         {
           "valor": "989.90",
           "data": "2021-11-01T02:00:43.444Z"
@@ -93,6 +157,18 @@
     "preco": {
       "preco": [
         {
+          "valor": "1863.52",
+          "data": "2021-11-22T01:34:44.751Z"
+        },
+        {
+          "valor": "1639.90",
+          "data": "2021-11-21T03:17:17.460Z"
+        },
+        {
+          "valor": "1863.52",
+          "data": "2021-11-12T01:07:00.198Z"
+        },
+        {
           "valor": "1397.90",
           "data": "2021-10-31T02:43:18.563Z"
         }
@@ -110,6 +186,30 @@
       "preco": [
         {
           "valor": "1135.23",
+          "data": "2021-11-22T01:34:44.751Z"
+        },
+        {
+          "valor": "999.00",
+          "data": "2021-11-21T03:17:17.460Z"
+        },
+        {
+          "valor": "1135.23",
+          "data": "2021-11-17T12:45:03.227Z"
+        },
+        {
+          "valor": "999.00",
+          "data": "2021-11-17T01:27:07.934Z"
+        },
+        {
+          "valor": "1135.23",
+          "data": "2021-11-09T23:34:54.271Z"
+        },
+        {
+          "valor": "999.00",
+          "data": "2021-11-03T18:34:26.041Z"
+        },
+        {
+          "valor": "1135.23",
           "data": "2021-10-31T02:43:18.563Z"
         }
       ]
@@ -124,6 +224,14 @@
     "nome": "Processador Intel Core i7-11700KF, 8-Core, 16-Threads, 3.6GHz (5.0GHz Turbo), Cache 16MB, LGA1200, BX8070811700KF",
     "preco": {
       "preco": [
+        {
+          "valor": "3409.04",
+          "data": "2021-11-11T00:12:36.070Z"
+        },
+        {
+          "valor": "2999.96",
+          "data": "2021-11-09T23:34:54.271Z"
+        },
         {
           "valor": "3409.04",
           "data": "2021-10-31T02:43:18.563Z"
@@ -156,6 +264,10 @@
     "nome": "Processador Intel Core i7-11700K, 8-Core, 16-Threads, 3.6GHz (5.0GHz Turbo), Cache 16MB, LGA1200, BX8070811700K",
     "preco": {
       "preco": [
+        {
+          "valor": "3649.95",
+          "data": "2021-11-21T03:17:17.460Z"
+        },
         {
           "valor": "4147.67",
           "data": "2021-10-31T02:43:18.563Z"
@@ -206,6 +318,30 @@
       "preco": [
         {
           "valor": "2669.90",
+          "data": "2021-11-22T01:34:44.751Z"
+        },
+        {
+          "valor": "3033.98",
+          "data": "2021-11-17T12:45:03.227Z"
+        },
+        {
+          "valor": "2669.90",
+          "data": "2021-11-17T01:27:07.934Z"
+        },
+        {
+          "valor": "3033.98",
+          "data": "2021-11-11T00:12:36.070Z"
+        },
+        {
+          "valor": "2669.90",
+          "data": "2021-11-09T23:34:54.271Z"
+        },
+        {
+          "valor": "3033.98",
+          "data": "2021-11-03T18:34:26.041Z"
+        },
+        {
+          "valor": "2669.90",
           "data": "2021-10-31T02:43:18.563Z"
         }
       ]
@@ -220,6 +356,14 @@
     "nome": "Processador Intel Core i7-9700KF, 8-Core, 8-Threads, 3.6GHz (4.9GHz Turbo), Cache 12MB, LGA1151, BX80684I79700KF",
     "preco": {
       "preco": [
+        {
+          "valor": "1790.90",
+          "data": "2021-11-17T12:45:03.227Z"
+        },
+        {
+          "valor": "2035.11",
+          "data": "2021-11-17T01:27:07.934Z"
+        },
         {
           "valor": "1790.90",
           "data": "2021-10-31T02:43:18.563Z"
@@ -253,6 +397,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "11699.85",
+          "data": "2021-11-04T22:09:56.154Z"
+        },
+        {
           "valor": "12799.84",
           "data": "2021-11-01T02:00:43.442Z"
         }
@@ -269,6 +417,14 @@
     "preco": {
       "preco": [
         {
+          "valor": "11499.85",
+          "data": "2021-11-21T03:17:17.460Z"
+        },
+        {
+          "valor": "11999.85",
+          "data": "2021-11-04T22:09:56.154Z"
+        },
+        {
           "valor": "12379.90",
           "data": "2021-11-01T02:00:43.442Z"
         }
@@ -284,6 +440,10 @@
     "nome": "Placa de Video Asus GeForce RTX 3070 TUF Gaming OC LHR 8GB GDDR6 256-bit, TUF-RTX3070-O8G-V2-GAMING",
     "preco": {
       "preco": [
+        {
+          "valor": "7399.90",
+          "data": "2021-11-17T01:27:07.934Z"
+        },
         {
           "valor": "7599.90",
           "data": "2021-11-01T02:00:43.442Z"
@@ -316,6 +476,10 @@
     "nome": "Placa de Video Asus GeForce RTX 3070 OC LHR 8GB GDDR6 Dual 256-bit, DUAL-RTX3070-O8G-V2",
     "preco": {
       "preco": [
+        {
+          "valor": "6749.91",
+          "data": "2021-11-17T01:27:07.934Z"
+        },
         {
           "valor": "7399.41",
           "data": "2021-11-01T02:00:43.442Z"
@@ -381,6 +545,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "5850.83",
+          "data": "2021-11-21T03:17:17.460Z"
+        },
+        {
           "valor": "6499.91",
           "data": "2021-11-01T02:00:43.442Z"
         }
@@ -428,6 +596,10 @@
     "nome": "Placa de Video PNY Quadro P1000 V2 4GB GDDR5 128-bit, VCQP1000V2-PB",
     "preco": {
       "preco": [
+        {
+          "valor": "2589.89",
+          "data": "2021-11-21T03:17:17.460Z"
+        },
         {
           "valor": "3199.95",
           "data": "2021-11-01T02:00:43.442Z"
@@ -477,6 +649,14 @@
     "preco": {
       "preco": [
         {
+          "valor": "947.99",
+          "data": "2021-11-21T03:17:17.460Z"
+        },
+        {
+          "valor": "967.99",
+          "data": "2021-11-03T00:24:01.530Z"
+        },
+        {
           "valor": "1099.99",
           "data": "2021-11-01T02:00:43.442Z"
         }
@@ -492,6 +672,18 @@
     "nome": "Placa de Video Gigabyte GeForce GT 1030 2GB DDR4 Low Profile D4 64-bit, GV-N1030D4-2GL",
     "preco": {
       "preco": [
+        {
+          "valor": "851.13",
+          "data": "2021-11-17T01:27:07.934Z"
+        },
+        {
+          "valor": "748.99",
+          "data": "2021-11-04T22:09:56.154Z"
+        },
+        {
+          "valor": "851.13",
+          "data": "2021-11-03T18:34:26.041Z"
+        },
         {
           "valor": "748.99",
           "data": "2021-11-01T02:00:43.442Z"
@@ -531,6 +723,758 @@
       ]
     },
     "url": "https://www.pichau.com.br/placa-de-video-mancer-geforce-gt610-2gb-gddr3-64bit-mcr-6102gd3-v1",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Processador Intel Core i5-10400, 6-Core, 12-Threads, 2.9Ghz (4Ghz Turbo), Cache 12MB, LGA1200, BX8070110400",
+    "nome": "Processador Intel Core i5-10400, 6-Core, 12-Threads, 2.9Ghz (4Ghz Turbo), Cache 12MB, LGA1200, BX8070110400",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1379.90",
+          "data": "2021-11-21T03:17:17.460Z"
+        },
+        {
+          "valor": "1580.57",
+          "data": "2021-11-11T00:12:36.070Z"
+        },
+        {
+          "valor": "1390.90",
+          "data": "2021-11-09T23:34:54.271Z"
+        },
+        {
+          "valor": "1489.90",
+          "data": "2021-11-03T00:24:01.528Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/processador-intel-core-i5-10400-6-core-12-threads-2-9ghz-4ghz-turbo-cache-12mb-lga1200-bx8070110400",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video Asus GeForce RTX 3060 Ti TUF Gaming OC LHR 8GB GDDR6 256-bit, TUF-RTX3060TI-O8G-V2-GAMING",
+    "nome": "Placa de Video Asus GeForce RTX 3060 Ti TUF Gaming OC LHR 8GB GDDR6 256-bit, TUF-RTX3060TI-O8G-V2-GAMING",
+    "preco": {
+      "preco": [
+        {
+          "valor": "5889.90",
+          "data": "2021-11-03T18:34:26.039Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-asus-geforce-rtx-3060-ti-tuf-gaming-oc-lhr-8gb-gddr6-256-bit-tuf-rtx3060ti-o8g-v2-gaming",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video Asus GeForce RTX 3070 Ti OC 8GB GDDR6X ROG Strix 256-bit, ROG-STRIX-RTX3070TI-O8G-GAMING",
+    "nome": "Placa de Video Asus GeForce RTX 3070 Ti OC 8GB GDDR6X ROG Strix 256-bit, ROG-STRIX-RTX3070TI-O8G-GAMING",
+    "preco": {
+      "preco": [
+        {
+          "valor": "8560.24",
+          "data": "2021-11-21T03:17:17.460Z"
+        },
+        {
+          "valor": "8899.88",
+          "data": "2021-11-04T22:09:56.147Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-asus-geforce-rtx-3070-ti-oc-8gb-gddr6x-rog-strix-256-bit-rog-strix-rtx3070ti-o8g-gaming",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video PNY Quadro RTX 4000 8GB GDDR6 256-bit, VCQRTX4000-PB",
+    "nome": "Placa de Video PNY Quadro RTX 4000 8GB GDDR6 256-bit, VCQRTX4000-PB",
+    "preco": {
+      "preco": [
+        {
+          "valor": "6999.91",
+          "data": "2021-11-04T22:09:56.147Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-pny-quadro-rtx-4000-8gb-gddr6-256-bit-vcqrtx4000-pb",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video Asus GeForce RTX 3060 Dual OC Edition V2, 12GB, GDDR6, 192-bit, DUAL-RTX3060-O12G-V2-NAC",
+    "nome": "Placa de Video Asus GeForce RTX 3060 Dual OC Edition V2, 12GB, GDDR6, 192-bit, DUAL-RTX3060-O12G-V2-NAC",
+    "preco": {
+      "preco": [
+        {
+          "valor": "4689.90",
+          "data": "2021-11-04T22:09:56.147Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-asus-geforce-rtx-3060-dual-oc-edition-v2-12gb-gddr6-192-bit-dual-rtx3060-o12g-v2-nac",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Processador Intel Core i5-10400F, 6-Core, 12-Threads, 2.9Ghz (4.3Ghz Turbo), Cache 12MB, LGA1200, BX8070110400F",
+    "nome": "Processador Intel Core i5-10400F, 6-Core, 12-Threads, 2.9Ghz (4.3Ghz Turbo), Cache 12MB, LGA1200, BX8070110400F",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1363.61",
+          "data": "2021-11-21T03:17:17.460Z"
+        },
+        {
+          "valor": "1199.98",
+          "data": "2021-11-05T21:53:54.586Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/processador-intel-core-i5-10400f-6-core-12-threads-2-9ghz-4-3ghz-turbo-cache-12mb-lga1200-bx8070110400f",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video Asus GeForce RTX 3070 ROG Strix OC LHR 8GB GDDR6 256-bit, ROG-STRIX-RTX3070-O8G-V2-GAMING",
+    "nome": "Placa de Video Asus GeForce RTX 3070 ROG Strix OC LHR 8GB GDDR6 256-bit, ROG-STRIX-RTX3070-O8G-V2-GAMING",
+    "preco": {
+      "preco": [
+        {
+          "valor": "7999.90",
+          "data": "2021-11-05T21:53:54.586Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-asus-geforce-rtx-3070-rog-strix-oc-lhr-8gb-gddr6-256-bit-rog-strix-rtx3070-o8g-v2-gaming",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video Asus GeForce RTX 3060 Ti V2 OC LHR 8GB GDDR6 Dual 256-bit, DUAL-RTX3060TI-O8G-V2",
+    "nome": "Placa de Video Asus GeForce RTX 3060 Ti V2 OC LHR 8GB GDDR6 Dual 256-bit, DUAL-RTX3060TI-O8G-V2",
+    "preco": {
+      "preco": [
+        {
+          "valor": "5999.92",
+          "data": "2021-11-05T21:53:54.586Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-asus-geforce-rtx-3060-ti-v2-oc-lhr-8gb-gddr6-dual-256-bit-dual-rtx3060ti-o8g-v2",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video Asus GeForce RTX 3060 TUF Gaming OC, 12GB, GDDR6, 192-bit, TUF-RTX3060-O12G-V2-GAMING",
+    "nome": "Placa de Video Asus GeForce RTX 3060 TUF Gaming OC, 12GB, GDDR6, 192-bit, TUF-RTX3060-O12G-V2-GAMING",
+    "preco": {
+      "preco": [
+        {
+          "valor": "4999.93",
+          "data": "2021-11-21T03:17:17.460Z"
+        },
+        {
+          "valor": "5299.92",
+          "data": "2021-11-05T21:53:54.586Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-asus-geforce-rtx-3060-tuf-gaming-oc-12gb-gddr6-192-bit-tuf-rtx3060-o12g-v2-gaming",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video Asus GeForce RTX 3060 KO OC, LHR, 12GB, GDDR6, 192-bit, KO-RTX3060-O12G-V2-GAMING",
+    "nome": "Placa de Video Asus GeForce RTX 3060 KO OC, LHR, 12GB, GDDR6, 192-bit, KO-RTX3060-O12G-V2-GAMING",
+    "preco": {
+      "preco": [
+        {
+          "valor": "4950.39",
+          "data": "2021-11-21T03:17:17.460Z"
+        },
+        {
+          "valor": "5248.94",
+          "data": "2021-11-05T21:53:54.586Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-asus-geforce-rtx-3060-ko-oc-lhr-12gb-gddr6-192-bit-ko-rtx3060-o12g-v2-gaming",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video Asus GeForce RTX 3060 V2 OC 12GB GDDR6 Dual 192-bit, DUAL-RTX3060-O12G-V2",
+    "nome": "Placa de Video Asus GeForce RTX 3060 V2 OC 12GB GDDR6 Dual 192-bit, DUAL-RTX3060-O12G-V2",
+    "preco": {
+      "preco": [
+        {
+          "valor": "4770.84",
+          "data": "2021-11-21T03:17:17.460Z"
+        },
+        {
+          "valor": "5099.93",
+          "data": "2021-11-05T21:53:54.586Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-asus-geforce-rtx-3060-v2-oc-12gb-gddr6-dual-192-bit-dual-rtx3060-o12g-v2",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video Galax GeForce GTX 1660 Ti 6GB GDDR6 1-Click OC 192-bit, 60IRL7DSY91C",
+    "nome": "Placa de Video Galax GeForce GTX 1660 Ti 6GB GDDR6 1-Click OC 192-bit, 60IRL7DSY91C",
+    "preco": {
+      "preco": [
+        {
+          "valor": "3499.94",
+          "data": "2021-11-05T21:53:54.586Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-galax-geforce-gtx-1660-ti-6gb-gddr6-1-click-oc-192-bit-60irl7dsy91c",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video Galax GeForce GTX 1650 EX 4GB GDDR6 1-Click OC 128-bit, 65SQL8DS66E6",
+    "nome": "Placa de Video Galax GeForce GTX 1650 EX 4GB GDDR6 1-Click OC 128-bit, 65SQL8DS66E6",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2278.47",
+          "data": "2021-11-05T21:53:54.586Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-galax-geforce-gtx-1650-ex-4gb-gddr6-1-click-oc-128-bit-65sql8ds66e6",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video Galax Geforce GTX 1050 Ti 1-Click OC, 4GB, GDDR5, 128-Bit, 50IQH8DSQ3CC",
+    "nome": "Placa de Video Galax Geforce GTX 1050 Ti 1-Click OC, 4GB, GDDR5, 128-Bit, 50IQH8DSQ3CC",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1698.98",
+          "data": "2021-11-05T21:53:54.586Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-galax-geforce-gtx-1050-ti-1-click-oc-4gb-gddr5-128-bit-50iqh8dsq3cc",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Processador Intel Core i5-11600K, 6-Core, 12-Threads, 3.9GHz (4.9GHz Turbo), Cache 12MB, LGA1200, BX8070811600K",
+    "nome": "Processador Intel Core i5-11600K, 6-Core, 12-Threads, 3.9GHz (4.9GHz Turbo), Cache 12MB, LGA1200, BX8070811600K",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2199.90",
+          "data": "2021-11-22T01:34:44.751Z"
+        },
+        {
+          "valor": "2499.89",
+          "data": "2021-11-11T00:12:36.070Z"
+        },
+        {
+          "valor": "2199.90",
+          "data": "2021-11-09T23:34:54.268Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/processador-intel-core-i5-11600k-6-core-12-threads-3-9ghz-4-9ghz-turbo-cache-12mb-lga1200-bx8070811600k",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Processador Intel Core i9-10850K Avengers Edition, 10-Core, 20-Threads, 3.6GHz (5.2GHz Turbo), Cache 20MB, LGA1200, BX8070110850KA",
+    "nome": "Processador Intel Core i9-10850K Avengers Edition, 10-Core, 20-Threads, 3.6GHz (5.2GHz Turbo), Cache 20MB, LGA1200, BX8070110850KA",
+    "preco": {
+      "preco": [
+        {
+          "valor": "3799.90",
+          "data": "2021-11-21T03:17:17.460Z"
+        },
+        {
+          "valor": "4318.07",
+          "data": "2021-11-17T12:45:03.227Z"
+        },
+        {
+          "valor": "3799.90",
+          "data": "2021-11-09T23:34:54.268Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/processador-intel-core-i9-10850k-avengers-edition-10-core-20-threads-3-6ghz-5-2ghz-turbo-cache-20mb-lga1200-bx8070110850ka",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Processador Intel Core i7-10700K Avengers Edition, 8-Core, 16-Threads, 3.8GHz (5.1GHz Turbo), Cache 16MB, LGA1200, BX8070110700KA",
+    "nome": "Processador Intel Core i7-10700K Avengers Edition, 8-Core, 16-Threads, 3.8GHz (5.1GHz Turbo), Cache 16MB, LGA1200, BX8070110700KA",
+    "preco": {
+      "preco": [
+        {
+          "valor": "3636.25",
+          "data": "2021-11-22T01:34:44.751Z"
+        },
+        {
+          "valor": "3199.90",
+          "data": "2021-11-21T03:17:17.460Z"
+        },
+        {
+          "valor": "3636.25",
+          "data": "2021-11-11T00:12:36.070Z"
+        },
+        {
+          "valor": "3199.90",
+          "data": "2021-11-09T23:34:54.268Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/processador-intel-core-i7-10700k-avengers-edition-8-core-16-threads-3-8ghz-5-1ghz-turbo-cache-16mb-lga1200-bx8070110700ka",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Processador Intel Core i7-10700K, 8-Core, 16-Threads, 3.8GHz (5.1GHz Turbo), Cache 16MB, LGA1200, BX8070110700K",
+    "nome": "Processador Intel Core i7-10700K, 8-Core, 16-Threads, 3.8GHz (5.1GHz Turbo), Cache 16MB, LGA1200, BX8070110700K",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2899.90",
+          "data": "2021-11-22T01:34:44.751Z"
+        },
+        {
+          "valor": "3295.34",
+          "data": "2021-11-11T00:12:36.070Z"
+        },
+        {
+          "valor": "2899.90",
+          "data": "2021-11-09T23:34:54.268Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/processador-intel-core-i7-10700k-8-core-16-threads-3-8ghz-5-1ghz-turbo-cache-16mb-lga1200-bx8070110700k",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Processador Intel Core i3-10100, 4-Core, 8-Threads, 3.6Ghz (4.3Ghz Turbo), Cache 6MB, LGA1200, BX8070110100",
+    "nome": "Processador Intel Core i3-10100, 4-Core, 8-Threads, 3.6Ghz (4.3Ghz Turbo), Cache 6MB, LGA1200, BX8070110100",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1363.52",
+          "data": "2021-11-21T03:17:17.460Z"
+        },
+        {
+          "valor": "1199.90",
+          "data": "2021-11-09T23:34:54.268Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/processador-intel-core-i3-10100-4-core-8-threads-3-6ghz-4-3ghz-turbo-cache-6mb-lga1200-bx8070110100",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Processador Intel Core i7-9700F, 8-Core, 8-Threads, 3.0GHz (4.7GHz Turbo), Cache 12MB, LGA1151, BX80684I79700F",
+    "nome": "Processador Intel Core i7-9700F, 8-Core, 8-Threads, 3.0GHz (4.7GHz Turbo), Cache 12MB, LGA1151, BX80684I79700F",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1799.90",
+          "data": "2021-11-21T03:17:17.460Z"
+        },
+        {
+          "valor": "2045.34",
+          "data": "2021-11-11T00:12:36.070Z"
+        },
+        {
+          "valor": "1799.90",
+          "data": "2021-11-09T23:34:54.268Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/processador-intel-core-i7-9700f-8-core-8-threads-3-0ghz-4-7ghz-turbo-cache-12mb-lga1151-bx80684i79700f",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video Asus GeForce RTX 3070 OC 8GB GDDR6 TUF Gaming 256-bit, TUF-RTX3070-O8G-GAMING",
+    "nome": "Placa de Video Asus GeForce RTX 3070 OC 8GB GDDR6 TUF Gaming 256-bit, TUF-RTX3070-O8G-GAMING",
+    "preco": {
+      "preco": [
+        {
+          "valor": "10999.86",
+          "data": "2021-11-09T23:34:54.268Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-asus-geforce-rtx-3070-oc-8gb-gddr6-tuf-gaming-256-bit-tuf-rtx3070-o8g-gaming",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video MSI GeForce GTX 1650 4GB Ventus XS OC 128-bit, 912-V809-3445",
+    "nome": "Placa de Video MSI GeForce GTX 1650 4GB Ventus XS OC 128-bit, 912-V809-3445",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2099.96",
+          "data": "2021-11-12T01:07:00.195Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-msi-geforce-gtx-1650-4gb-ventus-xs-oc-128-bit-912-v809-3445",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video PNY Quadro T600, 4GB, GDDR6, 128-bit, VCNT600-PB",
+    "nome": "Placa de Video PNY Quadro T600, 4GB, GDDR6, 128-bit, VCNT600-PB",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1698.98",
+          "data": "2021-11-12T01:07:00.195Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-pny-quadro-t600-4gb-gddr6-128-bit-vcnt600-pb",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video Asus GeForce GTX 1660 6GB GDDR5 Phoenix OC 192-bit, PH-GTX1660-O6G",
+    "nome": "Placa de Video Asus GeForce GTX 1660 6GB GDDR5 Phoenix OC 192-bit, PH-GTX1660-O6G",
+    "preco": {
+      "preco": [
+        {
+          "valor": "3999.94",
+          "data": "2021-11-17T01:27:07.932Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-asus-geforce-gtx-1660-6gb-gddr5-phoenix-oc-192-bit-ph-gtx1660-o6g",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video Asus Radeon RX 6600 Dual, 8GB, GDDR6, 128-Bit, DUAL-RX6600-8G",
+    "nome": "Placa de Video Asus Radeon RX 6600 Dual, 8GB, GDDR6, 128-Bit, DUAL-RX6600-8G",
+    "preco": {
+      "preco": [
+        {
+          "valor": "3949.94",
+          "data": "2021-11-17T01:27:07.932Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-asus-radeon-rx-6600-dual-8gb-gddr6-128-bit-dual-rx6600-8g",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video Asus GeForce GTX 1650 Phoenix OC, 4GB, GDDR5, 128-bit, PH-GTX1650-O4G",
+    "nome": "Placa de Video Asus GeForce GTX 1650 Phoenix OC, 4GB, GDDR5, 128-bit, PH-GTX1650-O4G",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2199.96",
+          "data": "2021-11-17T01:27:07.932Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-asus-geforce-gtx-1650-phoenix-oc-4gb-gddr5-128-bit-ph-gtx1650-o4g",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video Asus GeForce GTX 1650 4GB GDDR6 TUF Gaming 128-bit, TUF-GTX1650-4GD6-GAMING",
+    "nome": "Placa de Video Asus GeForce GTX 1650 4GB GDDR6 TUF Gaming 128-bit, TUF-GTX1650-4GD6-GAMING",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2199.96",
+          "data": "2021-11-17T01:27:07.932Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-asus-geforce-gtx-1650-4gb-gddr6-tuf-gaming-128-bit-tuf-gtx1650-4gd6-gaming",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video Asus GeForce GTX 1050 Ti OC 4GB GDDR5 128-bit, CERBERUS-GTX1050TI-O4G",
+    "nome": "Placa de Video Asus GeForce GTX 1050 Ti OC 4GB GDDR5 128-bit, CERBERUS-GTX1050TI-O4G",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1735.98",
+          "data": "2021-11-17T01:27:07.932Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-asus-geforce-gtx-1050-ti-oc-4gb-gddr5-128-bit-cerberus-gtx1050ti-o4g",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Processador Intel Core i9-11900K, 8-Core, 16-Threads, 3.5GHz (5.3GHz Turbo), Cache 16MB, LGA1200, BX8070811900K",
+    "nome": "Processador Intel Core i9-11900K, 8-Core, 16-Threads, 3.5GHz (5.3GHz Turbo), Cache 16MB, LGA1200, BX8070811900K",
+    "preco": {
+      "preco": [
+        {
+          "valor": "4543.07",
+          "data": "2021-11-21T03:17:17.457Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/processador-intel-core-i9-11900k-8-core-16-threads-3-5ghz-5-3ghz-turbo-cache-16mb-lga1200-bx8070811900k",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Processador Intel Core i7-10700, 8-Core, 16-Threads, 2.9GHz (4.8GHz Turbo), Cache 16MB, LGA1200, BX8070110700",
+    "nome": "Processador Intel Core i7-10700, 8-Core, 16-Threads, 2.9GHz (4.8GHz Turbo), Cache 16MB, LGA1200, BX8070110700",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1875.90",
+          "data": "2021-11-21T03:17:17.457Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/processador-intel-core-i7-10700-8-core-16-threads-2-9ghz-4-8ghz-turbo-cache-16mb-lga1200-bx8070110700",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video Zotac GeForce RTX 3090 Trinity 24GB GDDR6X 384-bit, ZT-A30900D-10P",
+    "nome": "Placa de Video Zotac GeForce RTX 3090 Trinity 24GB GDDR6X 384-bit, ZT-A30900D-10P",
+    "preco": {
+      "preco": [
+        {
+          "valor": "19990.90",
+          "data": "2021-11-21T03:17:17.457Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-zotac-geforce-rtx-3090-trinity-24gb-384-bit-zt-a30900d-10p",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video MSI GeForce RTX 3080 Ventus 3x OC Edition, LHR, 10GB, GDDR6X, 320-bit, 912-V389-212",
+    "nome": "Placa de Video MSI GeForce RTX 3080 Ventus 3x OC Edition, LHR, 10GB, GDDR6X, 320-bit, 912-V389-212",
+    "preco": {
+      "preco": [
+        {
+          "valor": "10199.90",
+          "data": "2021-11-21T03:17:17.457Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-msi-geforce-rtx-3080-ventus-3x-oc-edition-lhr-10gb-gddr6x-320-bit-912-v389-212",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video Zotac GeForce RTX 3070 Ti Trinity 8GB GDDR6X 256-bit, ZT-A30710D-10P",
+    "nome": "Placa de Video Zotac GeForce RTX 3070 Ti Trinity 8GB GDDR6X 256-bit, ZT-A30710D-10P",
+    "preco": {
+      "preco": [
+        {
+          "valor": "7989.90",
+          "data": "2021-11-21T03:17:17.457Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-zotac-geforce-rtx-3070-ti-trinity-8gb-gddr6x-256-bit-zt-a30710d-10p",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video Zotac GeForce RTX 3070 Twin Edge LHR, 8GB, GDDR6, 256-bit, ZT-A30700E-10PLHR",
+    "nome": "Placa de Video Zotac GeForce RTX 3070 Twin Edge LHR, 8GB, GDDR6, 256-bit, ZT-A30700E-10PLHR",
+    "preco": {
+      "preco": [
+        {
+          "valor": "6899.90",
+          "data": "2021-11-21T03:17:17.457Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-zotac-geforce-rtx-3070-twin-edge-lhr-8gb-gddr6-256-bit-zt-a30700e-10plhr",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video Galax GeForce RTX 3060 1-Click OC, LHR, 12GB, GDDR6, 192-bit, 36NOL7MD1VOC",
+    "nome": "Placa de Video Galax GeForce RTX 3060 1-Click OC, LHR, 12GB, GDDR6, 192-bit, 36NOL7MD1VOC",
+    "preco": {
+      "preco": [
+        {
+          "valor": "4989.90",
+          "data": "2021-11-21T03:17:17.457Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-galax-geforce-rtx-3060-1-click-oc-lhr-12gb-gddr6-192-bit-36nol7md1voc",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video MSI GeForce RTX 3060 Ventus 2X OC, 12GB, GDDR6, 192-bit, 912-V397-050",
+    "nome": "Placa de Video MSI GeForce RTX 3060 Ventus 2X OC, 12GB, GDDR6, 192-bit, 912-V397-050",
+    "preco": {
+      "preco": [
+        {
+          "valor": "4599.90",
+          "data": "2021-11-21T03:17:17.457Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-msi-geforce-rtx-3060-ventus-2x-oc-12gb-gddr6-192-bit-912-v397-050",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video Zotac GeForce RTX 3060 Twin Edge, 12GB, GDDR6, 192-Bit, ZT-A30600E-10M",
+    "nome": "Placa de Video Zotac GeForce RTX 3060 Twin Edge, 12GB, GDDR6, 192-Bit, ZT-A30600E-10M",
+    "preco": {
+      "preco": [
+        {
+          "valor": "4299.94",
+          "data": "2021-11-21T03:17:17.457Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-zotac-geforce-rtx-3060-twin-edge-12gb-gddr6-192-bit-zt-a30600e-10m",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video ZOTAC GeForce GTX 1660 Ti 6GB GDDR6 AMP 192-bit, ZT-T16610D-10M",
+    "nome": "Placa de Video ZOTAC GeForce GTX 1660 Ti 6GB GDDR6 AMP 192-bit, ZT-T16610D-10M",
+    "preco": {
+      "preco": [
+        {
+          "valor": "3799.89",
+          "data": "2021-11-21T03:17:17.457Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-zotac-geforce-gtx-1660-ti-6gb-gddr6-amp-192-bit-zt-t16610d-10m",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video PNY GeForce GTX 1650 GDDR6 4GB 128-bit, VCG16504D6DFPPB",
+    "nome": "Placa de Video PNY GeForce GTX 1650 GDDR6 4GB 128-bit, VCG16504D6DFPPB",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2999.89",
+          "data": "2021-11-21T03:17:17.457Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-pny-geforce-gtx-1650-gddr6-4gb-128-bit-vcg16504d6dfppb",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video Duex Geforce GTX 1060, 3GB, GDDR5, 192Bit, DX GTX1060-3GD5",
+    "nome": "Placa de Video Duex Geforce GTX 1060, 3GB, GDDR5, 192Bit, DX GTX1060-3GD5",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1999.40",
+          "data": "2021-11-21T03:17:17.457Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-duex-geforce-gtx-1060-3gb-gddr5-192bit-dx-gtx1060-3gd5",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video PNY Quadro P400 V2 2GB GDDR5 64-bit, VCQP400V2-PB",
+    "nome": "Placa de Video PNY Quadro P400 V2 2GB GDDR5 64-bit, VCQP400V2-PB",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1189.90",
+          "data": "2021-11-21T03:17:17.457Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-pny-quadro-p400-v2-2gb-gddr5-64-bit-vcqp400v2-porpb",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa De Video Duex Geforce GTX 750TI 4GB DDR5 128Bit, DX GTX750TI-4GD5",
+    "nome": "Placa De Video Duex Geforce GTX 750TI 4GB DDR5 128Bit, DX GTX750TI-4GD5",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1037.70",
+          "data": "2021-11-21T03:17:17.457Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-duex-geforce-gtx-750ti-4gb-ddr5-128bit-dx-gtx750ti-4gd5",
     "keyword": [
       ""
     ]
