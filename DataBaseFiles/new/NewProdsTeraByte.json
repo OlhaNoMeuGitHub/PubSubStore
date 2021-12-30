@@ -1,1 +1,146 @@
-[]
+[
+  {
+    "id": "PROCESSADOR INTEL CORE I5 10400, 2.90GHZ, (4.30GHZ TURBO), 10ª GERACAO, 6-CORES 12-THREADS, LGA 1200,",
+    "nome": "PROCESSADOR INTEL CORE I5 10400, 2.90GHZ, (4.30GHZ TURBO), 10ª GERACAO, 6-CORES 12-THREADS, LGA 1200,",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1089.00",
+          "data": "2021-12-30T19:52:05.207Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/20019/processador-intel-core-i5-10400-290ghz-430ghz-turbo-10-geracao-6-cores-12-threads-lga-1200-oem-cm8070104290715",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I3 10100F 3.60GHZ (4.30GHZ TURBO), 10ª GERACAO, 4-CORES 8-THREADS, LGA 1200, S/",
+    "nome": "PROCESSADOR INTEL CORE I3 10100F 3.60GHZ (4.30GHZ TURBO), 10ª GERACAO, 4-CORES 8-THREADS, LGA 1200, S/",
+    "preco": {
+      "preco": [
+        {
+          "valor": "589.00",
+          "data": "2021-12-30T19:52:05.207Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/16324/processador-intel-core-i3-10100f-360ghz-430ghz-turbo-10-geracao-4-cores-8-threads-lga-1200-s-video-bx8070110100f",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I5 10400F 2.90GHZ (4.30GHZ TURBO), 10ª GERACAO, 6-CORES 12-THREADS, LGA 1200, B",
+    "nome": "PROCESSADOR INTEL CORE I5 10400F 2.90GHZ (4.30GHZ TURBO), 10ª GERACAO, 6-CORES 12-THREADS, LGA 1200, B",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1049.99",
+          "data": "2021-12-30T19:52:05.207Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/13676/processador-intel-core-i5-10400f-290ghz-430ghz-turbo-10-geracao-6-cores-12-threads-lga-1200-bx8070110400f",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I9 12900KF 3.2GHZ (5.2GHZ TURBO), 12ª GERACAO, 16-CORES 24-THREADS, LGA 1700, B",
+    "nome": "PROCESSADOR INTEL CORE I9 12900KF 3.2GHZ (5.2GHZ TURBO), 12ª GERACAO, 16-CORES 24-THREADS, LGA 1700, B",
+    "preco": {
+      "preco": [
+        {
+          "valor": "4199.00",
+          "data": "2021-12-30T19:52:05.207Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19616/processador-intel-core-i9-12900kf-32ghz-52ghz-turbo-12-geracao-16-cores-24-threads-lga-1700-bx8071512900kf",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR AEROCOOL MIRAGE 5, ARGB, INTEL-AMD",
+    "nome": "COOLER PARA PROCESSADOR AEROCOOL MIRAGE 5, ARGB, INTEL-AMD",
+    "preco": {
+      "preco": [
+        {
+          "valor": "285.00",
+          "data": "2021-12-30T19:52:05.207Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19835/cooler-para-processador-aerocool-mirage-5-argb-intel-amd",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR AEROCOOL CYLON 3H, ARGB, 120MM, INTEL-AMD",
+    "nome": "COOLER PARA PROCESSADOR AEROCOOL CYLON 3H, ARGB, 120MM, INTEL-AMD",
+    "preco": {
+      "preco": [
+        {
+          "valor": "215.00",
+          "data": "2021-12-30T19:52:05.207Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19809/cooler-para-processador-aerocool-cylon-3h-argb-120mm-intel-amd",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I9 12900K 3.2GHZ (5.2GHZ TURBO), 12ª GERACAO, 16-CORES 24-THREADS, LGA 1700, BX",
+    "nome": "PROCESSADOR INTEL CORE I9 12900K 3.2GHZ (5.2GHZ TURBO), 12ª GERACAO, 16-CORES 24-THREADS, LGA 1700, BX",
+    "preco": {
+      "preco": [
+        {
+          "valor": "4199.00",
+          "data": "2021-12-30T19:52:05.207Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/19613/processador-intel-core-i9-12900k-32ghz-52ghz-turbo-12-geracao-16-cores-24-threads-lga-1700-bx8071512900k",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "PROCESSADOR INTEL CORE I7 10700F, 2.90GHZ (4.80GHZ TURBO), 10ª GERACAO, 8-CORES 16-THREADS, LGA 1200,",
+    "nome": "PROCESSADOR INTEL CORE I7 10700F, 2.90GHZ (4.80GHZ TURBO), 10ª GERACAO, 8-CORES 16-THREADS, LGA 1200,",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2249.00",
+          "data": "2021-12-30T19:52:05.208Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/16126/processador-intel-core-i7-10700f-290ghz-480ghz-turbo-10-geracao-8-cores-16-threads-lga-1200-bx8070110700f",
+    "keyword": [
+      "processador"
+    ]
+  },
+  {
+    "id": "COOLER PARA PROCESSADOR COOLER MASTER HYPER H411R, 92MM, INTEL-AMD, RR-H411-20PW-R1",
+    "nome": "COOLER PARA PROCESSADOR COOLER MASTER HYPER H411R, 92MM, INTEL-AMD, RR-H411-20PW-R1",
+    "preco": {
+      "preco": [
+        {
+          "valor": "149.90",
+          "data": "2021-12-30T19:52:05.208Z"
+        }
+      ]
+    },
+    "url": "https://www.terabyteshop.com.br/produto/9111/cooler-master-hyper-h411r-rr-h411-20pw-r1-intelamd",
+    "keyword": [
+      "processador"
+    ]
+  }
+]

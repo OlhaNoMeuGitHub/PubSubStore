@@ -142,6 +142,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "419.99",
+          "data": "2021-12-26T13:47:37.409Z"
+        },
+        {
           "valor": "367.49",
           "data": "2021-11-17T01:28:23.376Z"
         },
@@ -166,6 +170,10 @@
     "nome": "Liquidificador Philips Walita RI2087/90 2 Litros 8 Velocidades com Jarra DuraVita Preto 600W",
     "preco": {
       "preco": [
+        {
+          "valor": "69.99",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
         {
           "valor": "99.99",
           "data": "2021-11-17T01:28:23.376Z"
@@ -263,6 +271,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "611.99",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
+        {
           "valor": "799.99",
           "data": "2021-11-17T01:28:23.373Z"
         },
@@ -295,6 +307,10 @@
     "nome": "Smartphone Microsoft Lumia 640 XL Dual Chip Desbloqueado Windows Phone 8.1 Tela 5.7\" 8GB 3G Camera 13MP - Preto",
     "preco": {
       "preco": [
+        {
+          "valor": "363.37",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
         {
           "valor": "474.99",
           "data": "2021-11-17T01:28:23.376Z"
@@ -371,6 +387,10 @@
     "nome": "Memoria Gamer Corsair Vengeance Lpx 8GB 3000mhz Ddr4 C16 Preto - Cmk8gx4m1d3000c16",
     "preco": {
       "preco": [
+        {
+          "valor": "289.23",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
         {
           "valor": "253.08",
           "data": "2021-11-17T12:47:21.166Z"
@@ -505,6 +525,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "1799.99",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
+        {
           "valor": "2020.94",
           "data": "2021-10-09T20:13:03.781Z"
         }
@@ -538,6 +562,10 @@
     "nome": "Secador de Cabelo Philco PH3700 Golden Star - 2000W",
     "preco": {
       "preco": [
+        {
+          "valor": "91.19",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
         {
           "valor": "96.89",
           "data": "2021-10-10T16:05:02.584Z"
@@ -614,6 +642,10 @@
     "nome": "Smartphone Samsung Galaxy M31 - Preto",
     "preco": {
       "preco": [
+        {
+          "valor": "1499.99",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
         {
           "valor": "1199.99",
           "data": "2021-11-17T01:28:23.374Z"
@@ -727,6 +759,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "181.43",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
+        {
           "valor": "255.14",
           "data": "2021-10-09T20:13:03.781Z"
         }
@@ -743,6 +779,10 @@
     "nome": "Tablet Samsung Galaxy A7 64GB Wi-Fi Tela 10.4\" Octa-Core 2.0GHz - Grafite",
     "preco": {
       "preco": [
+        {
+          "valor": "1439.99",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
         {
           "valor": "949.99",
           "data": "2021-10-09T20:13:03.781Z"
@@ -785,6 +825,10 @@
     "nome": "Smartphone Samsung Galaxy Z Flip Dual Chip Android 10 Tela 6.7\" Octa-Core 156GB 4G Camera Dupla 12MP + 13MP - Ultravioleta",
     "preco": {
       "preco": [
+        {
+          "valor": "3343.04",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
         {
           "valor": "4369.99",
           "data": "2021-11-17T01:28:23.376Z"
@@ -856,6 +900,10 @@
     "nome": "Fone de Ouvido Philco Air Beats PFI96ESA Hands Free - Azul",
     "preco": {
       "preco": [
+        {
+          "valor": "156.79",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
         {
           "valor": "148.95",
           "data": "2021-11-17T01:28:23.376Z"
@@ -1081,6 +1129,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "134.99",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
+        {
           "valor": "94.49",
           "data": "2021-11-17T01:28:23.376Z"
         },
@@ -1105,6 +1157,10 @@
     "nome": "Headphone Bluetooth Philco PFO01BTG com ate 10 horas de bateria - Bege",
     "preco": {
       "preco": [
+        {
+          "valor": "79.55",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
         {
           "valor": "88.39",
           "data": "2021-11-17T01:28:23.376Z"
@@ -1171,6 +1227,10 @@
     "nome": "Fritadeira Sem Oleo - Air Fryer Philco Chrome 5,5 Litros Preta com Timer",
     "preco": {
       "preco": [
+        {
+          "valor": "319.19",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
         {
           "valor": "455.99",
           "data": "2021-11-17T01:28:23.373Z"
@@ -1381,6 +1441,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "458.99",
+          "data": "2021-12-19T13:08:03.124Z"
+        },
+        {
           "valor": "599.99",
           "data": "2021-11-17T01:28:23.376Z"
         },
@@ -1534,6 +1598,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "845.99",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
+        {
           "valor": "983.24",
           "data": "2021-11-17T01:28:23.375Z"
         },
@@ -1609,6 +1677,14 @@
     "preco": {
       "preco": [
         {
+          "valor": "1784.99",
+          "data": "2021-12-30T19:52:57.421Z"
+        },
+        {
+          "valor": "1679.99",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
+        {
           "valor": "1567.99",
           "data": "2021-11-17T01:28:23.375Z"
         },
@@ -1638,6 +1714,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "686.37",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
+        {
           "valor": "807.49",
           "data": "2021-11-17T01:28:23.375Z"
         },
@@ -1658,6 +1738,10 @@
     "nome": "Smartphone Samsung Galaxy Z Flip Dual Chip Android 10 Tela 6.7\" Octa-Core 156GB 4G Camera Dupla 12MP + 13MP - Preto",
     "preco": {
       "preco": [
+        {
+          "valor": "3056.17",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
         {
           "valor": "3994.99",
           "data": "2021-11-17T01:28:23.376Z"
@@ -1691,6 +1775,10 @@
     "nome": "Tablet Philco Ptb10rsg 3g 32gb Android Pie 9.0 Dual Sim e Tela Multi-toque",
     "preco": {
       "preco": [
+        {
+          "valor": "601.99",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
         {
           "valor": "421.39",
           "data": "2021-11-17T01:28:23.375Z"
@@ -1821,6 +1909,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "143.99",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
+        {
           "valor": "125.99",
           "data": "2021-11-17T01:28:23.376Z"
         },
@@ -1900,6 +1992,14 @@
     "preco": {
       "preco": [
         {
+          "valor": "2124.99",
+          "data": "2021-12-30T19:52:57.421Z"
+        },
+        {
+          "valor": "1999.99",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
+        {
           "valor": "2057.99",
           "data": "2021-11-17T01:28:23.376Z"
         },
@@ -1937,6 +2037,10 @@
     "nome": "iPhone 5S 64GB Dourado iOS 7 4G Camera 8MP - Apple",
     "preco": {
       "preco": [
+        {
+          "valor": "971.99",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
         {
           "valor": "1279.99",
           "data": "2021-11-17T01:28:23.376Z"
@@ -2067,6 +2171,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "836.99",
+          "data": "2021-12-19T13:08:03.124Z"
+        },
+        {
           "valor": "1062.49",
           "data": "2021-10-09T20:13:03.781Z"
         }
@@ -2134,6 +2242,10 @@
     "nome": "Smartphone Sony Xperia XZ Premium Single Chip Android N Tela 5.4\" 64GB Camera 19MP - Preto",
     "preco": {
       "preco": [
+        {
+          "valor": "2677.49",
+          "data": "2021-12-19T13:08:03.124Z"
+        },
         {
           "valor": "2499.99",
           "data": "2021-10-09T20:13:03.781Z"
@@ -2214,6 +2326,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "152.14",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
+        {
           "valor": "217.34",
           "data": "2021-11-17T01:28:23.374Z"
         },
@@ -2246,6 +2362,10 @@
     "nome": "Smartphone Sony Xperia E3 Dual Chip Desbloqueado Android 4.4 Tela 4.5\" 4GB Camera de 5MP GPS - Preto",
     "preco": {
       "preco": [
+        {
+          "valor": "292.61",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
         {
           "valor": "382.49",
           "data": "2021-11-17T01:28:23.373Z"
@@ -2304,6 +2424,10 @@
     "nome": "Micro System Britania BS370 - 7,5W, Reproduz MP3, Radio AM/FM",
     "preco": {
       "preco": [
+        {
+          "valor": "183.95",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
         {
           "valor": "229.94",
           "data": "2021-11-17T01:28:23.374Z"
@@ -2367,6 +2491,10 @@
     "nome": "Centrifuga Britania 1000 2 Velocidades - 110V",
     "preco": {
       "preco": [
+        {
+          "valor": "157.49",
+          "data": "2021-12-22T01:32:15.661Z"
+        },
         {
           "valor": "224.99",
           "data": "2021-11-03T18:35:47.062Z"
@@ -2447,6 +2575,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "137.75",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
+        {
           "valor": "110.20",
           "data": "2021-11-17T01:28:23.376Z"
         },
@@ -2467,6 +2599,10 @@
     "nome": "Geladeira/Refrigerador Continental TC44S Platinum 394L Top Freezer",
     "preco": {
       "preco": [
+        {
+          "valor": "1988.99",
+          "data": "2021-12-26T13:47:37.409Z"
+        },
         {
           "valor": "2339.99",
           "data": "2021-11-09T23:38:10.534Z"
@@ -2598,6 +2734,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "114.99",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
+        {
           "valor": "80.49",
           "data": "2021-11-17T01:28:23.376Z"
         },
@@ -2686,6 +2826,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "287.99",
+          "data": "2021-12-19T13:08:03.124Z"
+        },
+        {
           "valor": "201.59",
           "data": "2021-11-17T01:28:23.374Z"
         },
@@ -2752,6 +2896,10 @@
     "nome": "Lampada LED Bulbo 9W Branco Quente Bivolt - Gaya",
     "preco": {
       "preco": [
+        {
+          "valor": "8.95",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
         {
           "valor": "6.71",
           "data": "2021-11-17T01:28:23.376Z"
@@ -2862,6 +3010,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "836.99",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
+        {
           "valor": "1077.99",
           "data": "2021-11-17T01:28:23.373Z"
         },
@@ -2907,6 +3059,10 @@
     "nome": "Monitor Gamer LED 49\" Curvo 1ms 144hz Double Full HD Ultra Wide - Samsung",
     "preco": {
       "preco": [
+        {
+          "valor": "6150.59",
+          "data": "2021-12-26T13:47:37.409Z"
+        },
         {
           "valor": "7235.99",
           "data": "2021-10-09T20:13:03.781Z"
@@ -3030,6 +3186,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "4499.99",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
+        {
           "valor": "2250.00",
           "data": "2021-11-17T01:28:23.374Z"
         },
@@ -3106,6 +3266,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "569.39",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
+        {
           "valor": "827.99",
           "data": "2021-10-09T20:13:03.781Z"
         }
@@ -3122,6 +3286,10 @@
     "nome": "USADO : Liquidificador Philips Walita Duravita Ri2131 2,4L Preto - 1000w",
     "preco": {
       "preco": [
+        {
+          "valor": "91.72",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
         {
           "valor": "114.65",
           "data": "2021-11-17T01:28:23.375Z"
@@ -3260,6 +3428,10 @@
     "nome": "Smartphone Motorola Moto X4 Dual Cam Android 7.0 Tela 5.2\" Octa-Core 32GB Wi-Fi 4G Camera 12MP - Azul Topazio",
     "preco": {
       "preco": [
+        {
+          "valor": "688.49",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
         {
           "valor": "999.99",
           "data": "2021-10-16T14:14:54.460Z"
@@ -3472,6 +3644,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "710.10",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
+        {
           "valor": "854.05",
           "data": "2021-11-17T01:28:23.376Z"
         },
@@ -3504,6 +3680,10 @@
     "nome": "Smartphone Samsung Galaxy M21s - Azul",
     "preco": {
       "preco": [
+        {
+          "valor": "854.99",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
         {
           "valor": "949.99",
           "data": "2021-11-17T01:28:23.376Z"
@@ -3658,6 +3838,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "2799.99",
+          "data": "2021-12-19T13:08:03.124Z"
+        },
+        {
           "valor": "2659.99",
           "data": "2021-11-17T01:28:23.376Z"
         },
@@ -3711,6 +3895,10 @@
     "nome": "Geladeira/Refrigerador Electrolux Duplex TW42S Top Freezer com Dispenser de Agua 382L Inox",
     "preco": {
       "preco": [
+        {
+          "valor": "2209.99",
+          "data": "2021-12-26T13:47:37.410Z"
+        },
         {
           "valor": "1728.71",
           "data": "2021-11-17T01:28:23.376Z"
@@ -3944,6 +4132,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "1070.99",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
+        {
           "valor": "1399.99",
           "data": "2021-11-17T01:28:23.376Z"
         },
@@ -3972,6 +4164,10 @@
     "nome": "Smartphone Asus ZenFone Selfie Dual Chip Android Nougat 7.0 Tela 5.5 Qualcomm Snapdragon 16GB 4G Camera 13MP + Frontal 13MP - Dourado",
     "preco": {
       "preco": [
+        {
+          "valor": "452.96",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
         {
           "valor": "657.89",
           "data": "2021-11-07T00:24:04.888Z"
@@ -4018,6 +4214,10 @@
     "nome": "Caixa de Som Philco Go Speaker Pbs05bt 8W Hands Free para Atendimento de Chamadas",
     "preco": {
       "preco": [
+        {
+          "valor": "68.59",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
         {
           "valor": "97.99",
           "data": "2021-11-05T21:56:09.732Z"
@@ -4255,6 +4455,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "579.99",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
+        {
           "valor": "715.27",
           "data": "2021-10-09T20:13:03.782Z"
         }
@@ -4288,6 +4492,10 @@
     "nome": "Smartphone Asus Zenfone 5 64GB Dual Chip Android Oreo Tela 6.2\" Snapdragon 636 Octacore 4G Camera 12MP + 8MP (Dual Traseira) 3300mAh - Preto",
     "preco": {
       "preco": [
+        {
+          "valor": "905.92",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
         {
           "valor": "1315.79",
           "data": "2021-11-07T00:24:04.889Z"
@@ -4444,6 +4652,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "172.36",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
+        {
           "valor": "215.45",
           "data": "2021-11-17T12:47:21.166Z"
         },
@@ -4468,6 +4680,10 @@
     "nome": "iPhone 5C 32GB Azul iOS 8 4G Camera 8MP - Apple",
     "preco": {
       "preco": [
+        {
+          "valor": "845.99",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
         {
           "valor": "983.24",
           "data": "2021-11-21T03:19:56.549Z"
@@ -4675,6 +4891,14 @@
     "preco": {
       "preco": [
         {
+          "valor": "695.99",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
+        {
+          "valor": "695.99",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
+        {
           "valor": "487.19",
           "data": "2021-11-17T01:28:23.376Z"
         },
@@ -4699,6 +4923,10 @@
     "nome": "Smartphone Motorola Moto G 3ª Geracao Colors Dual Chip Desbloqueado Android 5.1 Tela 5\" 16GB 4G 13MP - Branco",
     "preco": {
       "preco": [
+        {
+          "valor": "413.09",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
         {
           "valor": "599.99",
           "data": "2021-11-17T01:28:23.376Z"
@@ -4992,6 +5220,10 @@
     "nome": "Smartphone Samsung Galaxy A01 32GB Camera 13MP(Principal) + 2MP(Profundidade) Octa-Core - Azul",
     "preco": {
       "preco": [
+        {
+          "valor": "629.99",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
         {
           "valor": "699.99",
           "data": "2021-11-17T01:28:23.376Z"
@@ -5842,6 +6074,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "2847.14",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
+        {
           "valor": "3163.49",
           "data": "2021-11-17T01:28:23.376Z"
         },
@@ -5900,6 +6136,10 @@
     "nome": "Smartphone Asus Zenfone 3 Max Dual Chip Android 6 Tela 5.2\" 16GB 4G Camera 13MP - Cinza Escuro",
     "preco": {
       "preco": [
+        {
+          "valor": "444.76",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
         {
           "valor": "581.39",
           "data": "2021-11-17T01:28:23.375Z"
@@ -7000,6 +7240,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "799.20",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
+        {
           "valor": "559.44",
           "data": "2021-11-07T00:24:04.889Z"
         },
@@ -7279,6 +7523,14 @@
     "preco": {
       "preco": [
         {
+          "valor": "398.57",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
+        {
+          "valor": "398.57",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
+        {
           "valor": "492.07",
           "data": "2021-11-17T01:28:23.376Z"
         },
@@ -7337,6 +7589,10 @@
     "nome": "Smartphone Sony G8341 Xperia Xz1 Single Chip Android Tela 5.2\" Octa-core 64GB 4G Camera 13MP - Preto",
     "preco": {
       "preco": [
+        {
+          "valor": "1685.44",
+          "data": "2021-12-19T13:08:03.124Z"
+        },
         {
           "valor": "2080.79",
           "data": "2021-11-17T01:28:23.376Z"
@@ -7522,6 +7778,14 @@
     "nome": "Smart TV LED 42'' Philco Full HD - PTV42G70N5CF co",
     "preco": {
       "preco": [
+        {
+          "valor": "1444.99",
+          "data": "2021-12-26T13:47:37.409Z"
+        },
+        {
+          "valor": "1699.99",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
         {
           "valor": "1349.99",
           "data": "2021-11-17T01:28:23.376Z"
@@ -7738,6 +8002,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "138.23",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
+        {
           "valor": "172.79",
           "data": "2021-11-17T01:28:23.376Z"
         },
@@ -7766,6 +8034,10 @@
     "nome": "Aspirador de Po Philco PAS4000v Power Clean 2000W",
     "preco": {
       "preco": [
+        {
+          "valor": "117.59",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
         {
           "valor": "94.07",
           "data": "2021-11-17T12:47:21.166Z"
@@ -7809,6 +8081,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "107.99",
+          "data": "2021-12-26T13:47:37.409Z"
+        },
+        {
           "valor": "107.03",
           "data": "2021-10-09T20:35:52.063Z"
         }
@@ -7825,6 +8101,10 @@
     "nome": "Geladeira/Refrigerador Continental TC56 Branca 472L",
     "preco": {
       "preco": [
+        {
+          "valor": "1969.10",
+          "data": "2021-12-26T13:47:37.410Z"
+        },
         {
           "valor": "2316.59",
           "data": "2021-11-09T23:38:10.534Z"
@@ -8244,6 +8524,10 @@
     "nome": "Sanduicheira e Grill Britania Press Inox - Preto",
     "preco": {
       "preco": [
+        {
+          "valor": "95.86",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
         {
           "valor": "97.92",
           "data": "2021-11-03T18:35:47.062Z"
@@ -9037,6 +9321,14 @@
     "preco": {
       "preco": [
         {
+          "valor": "62.99",
+          "data": "2021-12-22T01:32:15.661Z"
+        },
+        {
+          "valor": "47.87",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
+        {
           "valor": "44.09",
           "data": "2021-11-17T01:28:23.376Z"
         },
@@ -9074,6 +9366,10 @@
     "nome": "Tablet Genesis Betty Boop 4GB Wi-fi Tela 7\" Android 4.0 Processador Cortex A9 1.2 GHz - Preto",
     "preco": {
       "preco": [
+        {
+          "valor": "242.28",
+          "data": "2021-12-19T13:08:03.124Z"
+        },
         {
           "valor": "351.89",
           "data": "2021-11-17T01:28:23.376Z"
@@ -9239,6 +9535,14 @@
     "nome": "Trompa Dupla F/Bb - Niquelada - ref. 28617 6443 - Eastman",
     "preco": {
       "preco": [
+        {
+          "valor": "11825.99",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
+        {
+          "valor": "11825.99",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
         {
           "valor": "8278.19",
           "data": "2021-11-17T01:28:23.376Z"
@@ -9486,6 +9790,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "130.49",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
+        {
           "valor": "91.34",
           "data": "2021-11-21T03:19:56.549Z"
         },
@@ -9591,6 +9899,10 @@
     "nome": "Relogio Monitor Cardiaco Speedo 58010G0EVNP1 Masculino Preto",
     "preco": {
       "preco": [
+        {
+          "valor": "135.99",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
         {
           "valor": "95.19",
           "data": "2021-11-21T03:19:56.549Z"
@@ -10021,6 +10333,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "619.64",
+          "data": "2021-12-22T01:32:15.661Z"
+        },
+        {
           "valor": "899.99",
           "data": "2021-10-14T23:34:21.746Z"
         }
@@ -10126,6 +10442,10 @@
     "nome": "Smartphone Samsung Galaxy J5 Pro Dual Chip Android 7.0 Tela 5,2\" Octa-Core 1.6 GHz 32GB 4G Camera 13MP - Preto",
     "preco": {
       "preco": [
+        {
+          "valor": "569.39",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
         {
           "valor": "827.00",
           "data": "2021-10-14T23:34:21.746Z"
@@ -10654,6 +10974,14 @@
     "preco": {
       "preco": [
         {
+          "valor": "557.68",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
+        {
+          "valor": "557.68",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
+        {
           "valor": "809.99",
           "data": "2021-11-17T01:28:23.376Z"
         },
@@ -10733,6 +11061,10 @@
     "nome": "Ventilador de Mesa Philco PVT400 Turbo 3 Velocidades 40cm Preto - 127v",
     "preco": {
       "preco": [
+        {
+          "valor": "170.10",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
         {
           "valor": "119.07",
           "data": "2021-11-17T12:47:21.165Z"
@@ -10924,6 +11256,10 @@
     "nome": "Fone de Ouvido Monster Ncredible Ntune On Ear Midnight Azul",
     "preco": {
       "preco": [
+        {
+          "valor": "338.39",
+          "data": "2021-12-22T01:32:15.661Z"
+        },
         {
           "valor": "422.99",
           "data": "2021-10-14T23:34:21.746Z"
@@ -11289,6 +11625,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "153.59",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
+        {
           "valor": "191.99",
           "data": "2021-10-16T00:04:46.095Z"
         }
@@ -11339,6 +11679,10 @@
     "nome": "Tripe Vivitar Vivmpt400 com Altura ate 1,27 Metros - Azul",
     "preco": {
       "preco": [
+        {
+          "valor": "151.99",
+          "data": "2021-12-22T01:32:15.661Z"
+        },
         {
           "valor": "129.19",
           "data": "2021-10-16T00:04:46.096Z"
@@ -11407,6 +11751,10 @@
     "nome": "Ferro a Vapor Arno Smart Protect 84 - 220V",
     "preco": {
       "preco": [
+        {
+          "valor": "159.99",
+          "data": "2021-12-22T01:32:15.661Z"
+        },
         {
           "valor": "199.99",
           "data": "2021-10-16T00:04:46.096Z"
@@ -11492,6 +11840,10 @@
     "nome": "Smartphone Samsung Galaxy A3 Dual Chip Android 6.0 Tela 4.7\" 16GB 4G Camera 13MP - Preto",
     "preco": {
       "preco": [
+        {
+          "valor": "610.35",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
         {
           "valor": "753.52",
           "data": "2021-11-17T01:28:23.374Z"
@@ -12162,6 +12514,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "108.79",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
+        {
           "valor": "135.99",
           "data": "2021-10-16T14:14:54.428Z"
         }
@@ -12216,6 +12572,10 @@
     "nome": "Smartphone Asus Zenfone 3 Max Dual Chip Android 6.0 Tela 5.5\" Qualcomm Snapdragon 32GB 4G Camera 16MP - Prata",
     "preco": {
       "preco": [
+        {
+          "valor": "550.79",
+          "data": "2021-12-22T01:32:15.661Z"
+        },
         {
           "valor": "679.99",
           "data": "2021-11-22T01:35:49.742Z"
@@ -12309,6 +12669,10 @@
     "nome": "Smartphone Samsung Galaxy A9 Dual Chip Android 6.0 Tela 6\" Octa-Core 1.8 Ghz 32GB 4G Camera 16MP - Preto",
     "preco": {
       "preco": [
+        {
+          "valor": "1399.99",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
         {
           "valor": "1571.99",
           "data": "2021-10-16T14:14:54.428Z"
@@ -12666,6 +13030,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "30.98",
+          "data": "2021-12-23T01:49:51.501Z"
+        },
+        {
           "valor": "34.42",
           "data": "2021-11-22T01:35:49.742Z"
         },
@@ -12720,6 +13088,10 @@
     "nome": "Smartphone Sony Xperia XA1 Dual Chip Android Dual Tela 5\" Octacore 32GB",
     "preco": {
       "preco": [
+        {
+          "valor": "755.96",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
         {
           "valor": "933.29",
           "data": "2021-11-17T01:28:23.375Z"
@@ -12811,6 +13183,10 @@
     "nome": "Smartphone Asus Zenfone 3 Dual Chip Android 6 Tela 5.5\" 64GB 4G Camera 16MP - Dourado",
     "preco": {
       "preco": [
+        {
+          "valor": "654.99",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
         {
           "valor": "807.49",
           "data": "2021-11-17T01:28:23.374Z"
@@ -13117,6 +13493,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "180.89",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
+        {
           "valor": "226.12",
           "data": "2021-10-18T01:37:58.038Z"
         }
@@ -13133,6 +13513,10 @@
     "nome": "Umidificador Ultrassonico Design Air Relaxmedic RM-HA0103 Preto",
     "preco": {
       "preco": [
+        {
+          "valor": "517.49",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
         {
           "valor": "362.24",
           "data": "2021-11-17T12:47:21.166Z"
@@ -13154,6 +13538,10 @@
     "nome": "Smartphone Motorola Moto Z2 Play - Power Edition Dual Chip Android 7.1.1 Nougat Tela 5,5\" Octa-Core 2.2 GHz 64GB Camera 12MP - Platinum",
     "preco": {
       "preco": [
+        {
+          "valor": "1084.38",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
         {
           "valor": "1338.74",
           "data": "2021-11-17T12:47:21.166Z"
@@ -13285,6 +13673,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "1104.99",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
+        {
           "valor": "1299.99",
           "data": "2021-10-18T01:37:58.038Z"
         }
@@ -13335,6 +13727,10 @@
     "nome": "Smartphone LG Joy Claro Dual Chip Desbloqueado Android 4. 4 Tela 4\" 4GB 3G Wi-Fi Camera 5MP - Preto",
     "preco": {
       "preco": [
+        {
+          "valor": "307.24",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
         {
           "valor": "401.62",
           "data": "2021-11-17T01:28:23.375Z"
@@ -13531,6 +13927,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "387.13",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
+        {
           "valor": "562.27",
           "data": "2021-11-17T01:28:23.374Z"
         },
@@ -13611,6 +14011,22 @@
     "preco": {
       "preco": [
         {
+          "valor": "99.99",
+          "data": "2021-12-30T19:52:57.420Z"
+        },
+        {
+          "valor": "151.99",
+          "data": "2021-12-27T22:35:39.059Z"
+        },
+        {
+          "valor": "99.99",
+          "data": "2021-12-26T13:47:37.409Z"
+        },
+        {
+          "valor": "151.99",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
+        {
           "valor": "94.99",
           "data": "2021-11-03T00:26:59.289Z"
         },
@@ -13631,6 +14047,14 @@
     "nome": "Lava e Seca Philco 12kg PLS12B Branca - 110v",
     "preco": {
       "preco": [
+        {
+          "valor": "2515.99",
+          "data": "2021-12-26T13:47:37.409Z"
+        },
+        {
+          "valor": "2959.99",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
         {
           "valor": "2320.63",
           "data": "2021-11-17T01:28:23.376Z"
@@ -13752,6 +14176,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "144.49",
+          "data": "2021-12-30T19:52:57.421Z"
+        },
+        {
           "valor": "118.99",
           "data": "2021-11-17T01:28:23.376Z"
         },
@@ -13801,6 +14229,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "4573.43",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
+        {
           "valor": "5430.95",
           "data": "2021-11-17T01:28:23.374Z"
         },
@@ -13825,6 +14257,10 @@
     "nome": "Relogio Feminino Seculus Analogico Fashion 28385L0SVNB1",
     "preco": {
       "preco": [
+        {
+          "valor": "224.99",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
         {
           "valor": "112.50",
           "data": "2021-11-17T01:28:23.376Z"
@@ -13955,6 +14391,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "169.99",
+          "data": "2021-12-26T13:47:37.409Z"
+        },
+        {
           "valor": "183.99",
           "data": "2021-10-23T19:13:44.664Z"
         }
@@ -14077,6 +14517,14 @@
     "preco": {
       "preco": [
         {
+          "valor": "1017.44",
+          "data": "2021-12-26T13:47:37.410Z"
+        },
+        {
+          "valor": "1196.99",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
+        {
           "valor": "1797.74",
           "data": "2021-11-21T03:19:56.552Z"
         },
@@ -14148,6 +14596,10 @@
     "nome": "Geladeira/Refrigerador Electrolux Top Freezer TF55 Branca 431L - 110v",
     "preco": {
       "preco": [
+        {
+          "valor": "1871.99",
+          "data": "2021-12-27T22:35:39.059Z"
+        },
         {
           "valor": "2339.99",
           "data": "2021-10-29T12:27:30.215Z"
@@ -14305,6 +14757,14 @@
     "nome": "Geladeira/Refrigerador Electrolux Frost Free DFX41 Inox 371L - 110v",
     "preco": {
       "preco": [
+        {
+          "valor": "1911.73",
+          "data": "2021-12-30T19:52:57.421Z"
+        },
+        {
+          "valor": "1799.27",
+          "data": "2021-12-23T01:49:51.501Z"
+        },
         {
           "valor": "1911.73",
           "data": "2021-11-17T01:28:23.376Z"
@@ -14488,6 +14948,14 @@
     "preco": {
       "preco": [
         {
+          "valor": "118.99",
+          "data": "2021-12-23T01:49:51.501Z"
+        },
+        {
+          "valor": "139.99",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
+        {
           "valor": "111.99",
           "data": "2021-11-07T13:02:33.746Z"
         }
@@ -14504,6 +14972,14 @@
     "nome": "Smartphone Samsung Galaxy A01 Tela 5,7\" Camera Dupla Traseira de 13MP(Principal) + 2MP(Profundidade) 32GB - Preto",
     "preco": {
       "preco": [
+        {
+          "valor": "759.99",
+          "data": "2021-12-26T13:47:37.409Z"
+        },
+        {
+          "valor": "759.99",
+          "data": "2021-12-26T13:47:37.409Z"
+        },
         {
           "valor": "607.99",
           "data": "2021-11-17T01:28:23.376Z"
@@ -14666,6 +15142,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "87.03",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
+        {
           "valor": "108.79",
           "data": "2021-11-17T01:28:23.374Z"
         },
@@ -14793,6 +15273,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "499.99",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
+        {
           "valor": "212.50",
           "data": "2021-11-17T01:28:23.358Z"
         }
@@ -14809,6 +15293,10 @@
     "nome": "Maquina de Waffle Britania Golden Waffle 850W Prata e Preta - 127V",
     "preco": {
       "preco": [
+        {
+          "valor": "59.99",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
         {
           "valor": "88.19",
           "data": "2021-11-17T12:47:21.152Z"
@@ -14878,6 +15366,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "69.99",
+          "data": "2021-12-22T01:32:15.661Z"
+        },
+        {
           "valor": "59.49",
           "data": "2021-11-21T03:19:56.537Z"
         }
@@ -14911,6 +15403,10 @@
     "nome": "Maquina de Waffle Britania Golden Waffle 850W Prata e Preta",
     "preco": {
       "preco": [
+        {
+          "valor": "61.73",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
         {
           "valor": "88.19",
           "data": "2021-11-21T03:19:56.537Z"
@@ -15082,6 +15578,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "8.95",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
+        {
           "valor": "6.71",
           "data": "2021-11-21T03:19:56.537Z"
         }
@@ -15098,6 +15598,10 @@
     "nome": "Smartphone Samsung Galaxy J7 Prime Dual Chip Android Tela 5.5\" 32GB 4G Camera 13MP - Dourado",
     "preco": {
       "preco": [
+        {
+          "valor": "749.69",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
         {
           "valor": "832.99",
           "data": "2021-11-21T03:19:56.537Z"
@@ -15184,6 +15688,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "350.99",
+          "data": "2021-12-18T19:15:50.507Z"
+        },
+        {
           "valor": "245.69",
           "data": "2021-11-21T03:19:56.538Z"
         }
@@ -15235,6 +15743,10 @@
     "preco": {
       "preco": [
         {
+          "valor": "923.99",
+          "data": "2021-12-18T19:15:50.506Z"
+        },
+        {
           "valor": "877.79",
           "data": "2021-11-22T01:35:49.732Z"
         }
@@ -15268,6 +15780,10 @@
     "nome": "Cafeteira Eletrica Britania CP30 Temp 30 Xicaras - Preta Inox",
     "preco": {
       "preco": [
+        {
+          "valor": "109.99",
+          "data": "2021-12-26T13:47:37.409Z"
+        },
         {
           "valor": "93.49",
           "data": "2021-11-22T01:35:49.733Z"
@@ -15339,6 +15855,1491 @@
         {
           "valor": "799.99",
           "data": "2021-11-22T01:35:49.733Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Relogio Masculino Seculus Analogico Esportivo 28655g0svnu1 com Calendario",
+    "nome": "Relogio Masculino Seculus Analogico Esportivo 28655g0svnu1 com Calendario",
+    "preco": {
+      "preco": [
+        {
+          "valor": "139.99",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Geladeira / Refrigerador Electrolux Frost Free Bottom Freezer 454 L DB53",
+    "nome": "Geladeira / Refrigerador Electrolux Frost Free Bottom Freezer 454 L DB53",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2560.00",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smart TV 40'' Philco FAST PTV40G60SNBL FHD com Tela Infinita Audio Dolby Loja de Aplicativos e Processador Quadcore",
+    "nome": "Smart TV 40'' Philco FAST PTV40G60SNBL FHD com Tela Infinita Audio Dolby Loja de Aplicativos e Processador Quadcore",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1369.99",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Relogio Feminino Euro Analogico Fashion Eu2035xzl/b2c",
+    "nome": "Relogio Feminino Euro Analogico Fashion Eu2035xzl/b2c",
+    "preco": {
+      "preco": [
+        {
+          "valor": "95.99",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Forno Eletrico Arno Air Fry 5 em 1 20L Preto",
+    "nome": "Forno Eletrico Arno Air Fry 5 em 1 20L Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "315.99",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Patins In-Line Roller Pro Aluminio Azul (32-35) - Bel Sports",
+    "nome": "Patins In-Line Roller Pro Aluminio Azul (32-35) - Bel Sports",
+    "preco": {
+      "preco": [
+        {
+          "valor": "211.49",
+          "data": "2021-12-22T01:32:15.661Z"
+        },
+        {
+          "valor": "133.24",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Geladeira / Refrigerador Panasonic Duplex NR-BB53GV3BA Frost Free 425L Black Glass",
+    "nome": "Geladeira / Refrigerador Panasonic Duplex NR-BB53GV3BA Frost Free 425L Black Glass",
+    "preco": {
+      "preco": [
+        {
+          "valor": "3839.19",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Refrigerador Panasonic Duplex NR-BT51PV3X Frost Free Top Freezer 435L Aco Escovado - 110v",
+    "nome": "Refrigerador Panasonic Duplex NR-BT51PV3X Frost Free Top Freezer 435L Aco Escovado - 110v",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2515.99",
+          "data": "2021-12-26T13:47:37.409Z"
+        },
+        {
+          "valor": "2959.99",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Geladeira/Refrigerador Electrolux Duplex Frost Free Inverter Top Freezer 431 litros IF55S Inox 220V",
+    "nome": "Geladeira/Refrigerador Electrolux Duplex Frost Free Inverter Top Freezer 431 litros IF55S Inox 220V",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2609.99",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Monitor LED 24\" Full HD Samsung Curvo LC24F390 Preto",
+    "nome": "Monitor LED 24\" Full HD Samsung Curvo LC24F390 Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "675.99",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Necessaire Philips Oneblade Preta",
+    "nome": "Necessaire Philips Oneblade Preta",
+    "preco": {
+      "preco": [
+        {
+          "valor": "29.99",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Cafeteira Eletrica Britania CP30 Temp 30 Xicaras - Preta Inox 220V",
+    "nome": "Cafeteira Eletrica Britania CP30 Temp 30 Xicaras - Preta Inox 220V",
+    "preco": {
+      "preco": [
+        {
+          "valor": "109.99",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Micro-ondas Brastemp BMS45 32 Litros Branco -220v",
+    "nome": "Micro-ondas Brastemp BMS45 32 Litros Branco -220v",
+    "preco": {
+      "preco": [
+        {
+          "valor": "565.33",
+          "data": "2021-12-30T19:52:57.421Z"
+        },
+        {
+          "valor": "532.07",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Google Chromecast 3 Preto",
+    "nome": "Google Chromecast 3 Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "188.99",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Lava e Seca Samsung 11Kg  WD11M44733W Branca com AirWash",
+    "nome": "Lava e Seca Samsung 11Kg  WD11M44733W Branca com AirWash",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2209.99",
+          "data": "2021-12-30T19:52:57.421Z"
+        },
+        {
+          "valor": "2599.99",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Cooktop a Gas Electrolux KE5GP 5 Bocas e Mesa com Vidro Temperado - Bivolt",
+    "nome": "Cooktop a Gas Electrolux KE5GP 5 Bocas e Mesa com Vidro Temperado - Bivolt",
+    "preco": {
+      "preco": [
+        {
+          "valor": "443.69",
+          "data": "2021-12-30T19:52:57.420Z"
+        },
+        {
+          "valor": "417.59",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Panela Wok DreamCook Antiaderente 32cm com Tampa - Classic Home",
+    "nome": "Panela Wok DreamCook Antiaderente 32cm com Tampa - Classic Home",
+    "preco": {
+      "preco": [
+        {
+          "valor": "136.70",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Asus Zenfone 3 Max Dual Chip Android Tela 5.5\" Qualcomm Snapdragon 32GB 4G Wi-Fi Camera 16 MP - Cinza Titanio",
+    "nome": "Smartphone Asus Zenfone 3 Max Dual Chip Android Tela 5.5\" Qualcomm Snapdragon 32GB 4G Wi-Fi Camera 16 MP - Cinza Titanio",
+    "preco": {
+      "preco": [
+        {
+          "valor": "583.19",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Ferro de Passar a Vapor Philips Powerlife Preto Ri2995/84 com Base Ceramina Steamglide - 2400W",
+    "nome": "Ferro de Passar a Vapor Philips Powerlife Preto Ri2995/84 com Base Ceramina Steamglide - 2400W",
+    "preco": {
+      "preco": [
+        {
+          "valor": "183.59",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Processador Philips Walita Ri7632/33 Deep Red - 650w",
+    "nome": "Processador Philips Walita Ri7632/33 Deep Red - 650w",
+    "preco": {
+      "preco": [
+        {
+          "valor": "176.39",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Liquidificador Philco PH900 VM 2 Litros 12 Velocidades Vermelho - 900W",
+    "nome": "Liquidificador Philco PH900 VM 2 Litros 12 Velocidades Vermelho - 900W",
+    "preco": {
+      "preco": [
+        {
+          "valor": "86.39",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smart TV Oled 55'' LG OLED55C9 Ultra HD 4K HDR Ativo com Dolby Vision e Dolby Atmos 4 HDMI 3 USB Wi-Fi com Inteligencia Artificial Controle Smart Magic",
+    "nome": "Smart TV Oled 55'' LG OLED55C9 Ultra HD 4K HDR Ativo com Dolby Vision e Dolby Atmos 4 HDMI 3 USB Wi-Fi com Inteligencia Artificial Controle Smart Magic",
+    "preco": {
+      "preco": [
+        {
+          "valor": "3839.99",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Ferro de Passar a Vapor Philips Powerlife Preto Ri2995/84 com Base Ceramina Steamglide - 2400W",
+    "nome": "Ferro de Passar a Vapor Philips Powerlife Preto Ri2995/84 com Base Ceramina Steamglide - 2400W",
+    "preco": {
+      "preco": [
+        {
+          "valor": "183.59",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Samsung Galaxy J7 Prime Dual Chip Android Tela 5.5\" 32GB 4G Camera 13MP - Preto",
+    "nome": "Smartphone Samsung Galaxy J7 Prime Dual Chip Android Tela 5.5\" 32GB 4G Camera 13MP - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "585.22",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Cafeteira Eletrica Britania CP15 Inox Temp 15 Xicaras Preto",
+    "nome": "Cafeteira Eletrica Britania CP15 Inox Temp 15 Xicaras Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "103.99",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Samsung Galaxy S10 128GB Nano Chip Android Tela 6.1¿ Octa-Core 4G Camera Tripla Traseira 12MP + 12MP + 16MP - Azul",
+    "nome": "Smartphone Samsung Galaxy S10 128GB Nano Chip Android Tela 6.1¿ Octa-Core 4G Camera Tripla Traseira 12MP + 12MP + 16MP - Azul",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1804.99",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Microondas com Som Disney Princess - Xalingo",
+    "nome": "Microondas com Som Disney Princess - Xalingo",
+    "preco": {
+      "preco": [
+        {
+          "valor": "89.99",
+          "data": "2021-12-22T01:32:15.661Z"
+        },
+        {
+          "valor": "56.69",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Caixa de Som Bluetooth JBL Charge 4 30W a Prova d´agua IPX7 com ate 20 Horas de bateria carrega celular - Vermelho",
+    "nome": "Caixa de Som Bluetooth JBL Charge 4 30W a Prova d´agua IPX7 com ate 20 Horas de bateria carrega celular - Vermelho",
+    "preco": {
+      "preco": [
+        {
+          "valor": "839.99",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Lava e Seca LG 11kg Aco VC4 com Inteligencia Artificial Aidd e Motor Inverter",
+    "nome": "Lava e Seca LG 11kg Aco VC4 com Inteligencia Artificial Aidd e Motor Inverter",
+    "preco": {
+      "preco": [
+        {
+          "valor": "3824.99",
+          "data": "2021-12-30T19:52:57.421Z"
+        },
+        {
+          "valor": "3599.99",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Pasta Feminina para Notebook ate 10,2 Preta PON496BK - Sumdex",
+    "nome": "Pasta Feminina para Notebook ate 10,2 Preta PON496BK - Sumdex",
+    "preco": {
+      "preco": [
+        {
+          "valor": "76.49",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Samsung Galaxy A9 Dual Chip Android 6.0 Tela 6\" Octa-Core 1.8 Ghz 32GB 4G Camera 16MP - Dourado",
+    "nome": "Smartphone Samsung Galaxy A9 Dual Chip Android 6.0 Tela 6\" Octa-Core 1.8 Ghz 32GB 4G Camera 16MP - Dourado",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1257.59",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Liquidificador Philco PLQ912P Inox 3L 12 Velocidades + Pulsar/Autolimpeza Preto - 1200W",
+    "nome": "Liquidificador Philco PLQ912P Inox 3L 12 Velocidades + Pulsar/Autolimpeza Preto - 1200W",
+    "preco": {
+      "preco": [
+        {
+          "valor": "179.99",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Kit Travel Shine Bivolt Secador + Prancha - Philco",
+    "nome": "Kit Travel Shine Bivolt Secador + Prancha - Philco",
+    "preco": {
+      "preco": [
+        {
+          "valor": "79.99",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Relogio Smartwatch Samsung Galaxy Watch Bt 46mm - Prata",
+    "nome": "Relogio Smartwatch Samsung Galaxy Watch Bt 46mm - Prata",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1776.32",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Asus Zenfone Selfie Dual Chip Android 5 Tela 5.5\" Memoria Interna 32GB 4G Camera 13MP - Rosa",
+    "nome": "Smartphone Asus Zenfone Selfie Dual Chip Android 5 Tela 5.5\" Memoria Interna 32GB 4G Camera 13MP - Rosa",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1308.14",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Quadro Beach 0001 (md.553b) (56,5x56,5x5cm) - Artimage",
+    "nome": "Quadro Beach 0001 (md.553b) (56,5x56,5x5cm) - Artimage",
+    "preco": {
+      "preco": [
+        {
+          "valor": "143.99",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Samsung Galaxy Note 4 Desbloqueado Android 4.4 Tela 5.7\" 32GB Wi-Fi Camera 16MP - Preto",
+    "nome": "Smartphone Samsung Galaxy Note 4 Desbloqueado Android 4.4 Tela 5.7\" 32GB Wi-Fi Camera 16MP - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1465.47",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Asus Zenfone 2 Dual Chip Desbloqueado Android Tela 5.5\" 16GB 4G Wi-Fi 13MP - Prata",
+    "nome": "Smartphone Asus Zenfone 2 Dual Chip Desbloqueado Android Tela 5.5\" 16GB 4G Wi-Fi 13MP - Prata",
+    "preco": {
+      "preco": [
+        {
+          "valor": "690.90",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Escumadeira Grande Scoop Joseph & Joseph Berinjela",
+    "nome": "Escumadeira Grande Scoop Joseph & Joseph Berinjela",
+    "preco": {
+      "preco": [
+        {
+          "valor": "39.20",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Sanduicheira e Grill Philco Press Inox Red",
+    "nome": "Sanduicheira e Grill Philco Press Inox Red",
+    "preco": {
+      "preco": [
+        {
+          "valor": "88.19",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Aspirador de Po Philco Ciclone Force 2 em 1 Preto 1250W - 220V",
+    "nome": "Aspirador de Po Philco Ciclone Force 2 em 1 Preto 1250W - 220V",
+    "preco": {
+      "preco": [
+        {
+          "valor": "68.79",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Panificadora Domestica - Britania",
+    "nome": "Panificadora Domestica - Britania",
+    "preco": {
+      "preco": [
+        {
+          "valor": "199.99",
+          "data": "2021-12-18T19:15:50.501Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Aspirador De Po Philco Ph1100 Rapid Turbo 2 em 1 Vermelho 1000W - 110V",
+    "nome": "Aspirador De Po Philco Ph1100 Rapid Turbo 2 em 1 Vermelho 1000W - 110V",
+    "preco": {
+      "preco": [
+        {
+          "valor": "106.39",
+          "data": "2021-12-19T13:08:03.119Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Geladeira / Refrigerador Duplex Consul CRD37 - 334 Litros - Branco",
+    "nome": "Geladeira / Refrigerador Duplex Consul CRD37 - 334 Litros - Branco",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1499.99",
+          "data": "2021-12-19T13:08:03.119Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Fogao Brastemp 5 Bocas BFS5N Inox com Botoes Removiveis e Exclusivo Aro Protetor",
+    "nome": "Fogao Brastemp 5 Bocas BFS5N Inox com Botoes Removiveis e Exclusivo Aro Protetor",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1119.99",
+          "data": "2021-12-19T13:08:03.119Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Motorola Moto G8 Dual Chip Desbloqueado Android Tela 6,4\" 64GB 4G Camera Traseira 16MP + 8MP + 2MP Foco a Laser Filmadora 4K Qualcomm Snapdragon 665 - Branco Prisma",
+    "nome": "Smartphone Motorola Moto G8 Dual Chip Desbloqueado Android Tela 6,4\" 64GB 4G Camera Traseira 16MP + 8MP + 2MP Foco a Laser Filmadora 4K Qualcomm Snapdragon 665 - Branco Prisma",
+    "preco": {
+      "preco": [
+        {
+          "valor": "899.99",
+          "data": "2021-12-19T13:08:03.119Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Geladeira/Refrigerador Samsung Side by Side RS50N3 - 127v",
+    "nome": "Geladeira/Refrigerador Samsung Side by Side RS50N3 - 127v",
+    "preco": {
+      "preco": [
+        {
+          "valor": "6240.00",
+          "data": "2021-12-19T13:08:03.120Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Aspirador De Po Philco Ph1100 Rapid Turbo 2 em 1 Vermelho 1000W - 110V",
+    "nome": "Aspirador De Po Philco Ph1100 Rapid Turbo 2 em 1 Vermelho 1000W - 110V",
+    "preco": {
+      "preco": [
+        {
+          "valor": "106.39",
+          "data": "2021-12-19T13:08:03.120Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Samsung Galaxy A01 Core 32GB 4G Wi-Fi Tela 5.3'' Dual Chip 2GB RAM Camera 8MP + Selfie 5MP - Vermelho",
+    "nome": "Smartphone Samsung Galaxy A01 Core 32GB 4G Wi-Fi Tela 5.3'' Dual Chip 2GB RAM Camera 8MP + Selfie 5MP - Vermelho",
+    "preco": {
+      "preco": [
+        {
+          "valor": "503.99",
+          "data": "2021-12-22T01:32:15.657Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Asus Zenfone 3 Dual Chip Android 6 Tela 5.2\" 32GB 4G Camera 16MP - Branco",
+    "nome": "Smartphone Asus Zenfone 3 Dual Chip Android 6 Tela 5.2\" 32GB 4G Camera 16MP - Branco",
+    "preco": {
+      "preco": [
+        {
+          "valor": "615.59",
+          "data": "2021-12-22T01:32:15.657Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Grill Britania Grill Toast Bgr01v - Vermelho",
+    "nome": "Grill Britania Grill Toast Bgr01v - Vermelho",
+    "preco": {
+      "preco": [
+        {
+          "valor": "54.99",
+          "data": "2021-12-22T01:32:15.657Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Panela de Pressao Eletrica Philco 5L Multifuncional Digital Gold",
+    "nome": "Panela de Pressao Eletrica Philco 5L Multifuncional Digital Gold",
+    "preco": {
+      "preco": [
+        {
+          "valor": "144.00",
+          "data": "2021-12-23T01:49:51.496Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Lava-Loucas Brastemp Ative! BLF08 8 Servicos",
+    "nome": "Lava-Loucas Brastemp Ative! BLF08 8 Servicos",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1274.99",
+          "data": "2021-12-30T19:52:57.421Z"
+        },
+        {
+          "valor": "1199.99",
+          "data": "2021-12-23T01:49:51.496Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Lavadora de Roupas Electrolux 11Kg LES11 Branca Essencial Care - 110v",
+    "nome": "Lavadora de Roupas Electrolux 11Kg LES11 Branca Essencial Care - 110v",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1011.40",
+          "data": "2021-12-26T13:47:37.409Z"
+        },
+        {
+          "valor": "1189.88",
+          "data": "2021-12-23T01:49:51.497Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Fone de Ouvido Waldman Headphone Azul e Branco Soft Gloves SG-10-CBF/BL",
+    "nome": "Fone de Ouvido Waldman Headphone Azul e Branco Soft Gloves SG-10-CBF/BL",
+    "preco": {
+      "preco": [
+        {
+          "valor": "63.99",
+          "data": "2021-12-23T01:49:51.497Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Panela Eletrica Quadrada Classic Home CH40 4L Preta",
+    "nome": "Panela Eletrica Quadrada Classic Home CH40 4L Preta",
+    "preco": {
+      "preco": [
+        {
+          "valor": "123.19",
+          "data": "2021-12-23T01:49:51.497Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Pelucia Frozen Olaf Gira e Fala - Multikids",
+    "nome": "Pelucia Frozen Olaf Gira e Fala - Multikids",
+    "preco": {
+      "preco": [
+        {
+          "valor": "143.99",
+          "data": "2021-12-23T01:49:51.497Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smart Tv LG 55\" 55UN7310 4K UHD Wifi Bluetooth HDR 3 HDMI 2 USB Inteligencia Artificial Thinq Ai Google Assistente",
+    "nome": "Smart Tv LG 55\" 55UN7310 4K UHD Wifi Bluetooth HDR 3 HDMI 2 USB Inteligencia Artificial Thinq Ai Google Assistente",
+    "preco": {
+      "preco": [
+        {
+          "valor": "2431.99",
+          "data": "2021-12-23T01:49:51.497Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Geladeira/Refrigerador Electrolux Duplex DFN41 Frost Free 371L Branca - 110V",
+    "nome": "Geladeira/Refrigerador Electrolux Duplex DFN41 Frost Free 371L Branca - 110V",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1709.99",
+          "data": "2021-12-23T01:49:51.497Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Batedeira Planetaria Php500v Turbo",
+    "nome": "Batedeira Planetaria Php500v Turbo",
+    "preco": {
+      "preco": [
+        {
+          "valor": "105.60",
+          "data": "2021-12-26T13:47:37.404Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Micro-ondas Brastemp BMS45 32 Litros Espelhado",
+    "nome": "Micro-ondas Brastemp BMS45 32 Litros Espelhado",
+    "preco": {
+      "preco": [
+        {
+          "valor": "530.99",
+          "data": "2021-12-26T13:47:37.404Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Aspirador para Agua e Po Flexn Electrolux 1400W Azul/Cinza",
+    "nome": "Aspirador para Agua e Po Flexn Electrolux 1400W Azul/Cinza",
+    "preco": {
+      "preco": [
+        {
+          "valor": "209.99",
+          "data": "2021-12-26T13:47:37.404Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Samsung Galaxy A51 Android Tela 6,5\" Super Amoled Octa-Core 2.3 128GB 4G Camera 48MP+12MP+5MP - Branco",
+    "nome": "Smartphone Samsung Galaxy A51 Android Tela 6,5\" Super Amoled Octa-Core 2.3 128GB 4G Camera 48MP+12MP+5MP - Branco",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1529.99",
+          "data": "2021-12-26T13:47:37.404Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Forno Eletrico Philco PFE09V 3 em 1 Vermelho - 127v",
+    "nome": "Forno Eletrico Philco PFE09V 3 em 1 Vermelho - 127v",
+    "preco": {
+      "preco": [
+        {
+          "valor": "239.99",
+          "data": "2021-12-26T13:47:37.404Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Forno micro-ondas Electrolux MTO30 Branco 20L - 220v",
+    "nome": "Forno micro-ondas Electrolux MTO30 Branco 20L - 220v",
+    "preco": {
+      "preco": [
+        {
+          "valor": "339.99",
+          "data": "2021-12-26T13:47:37.404Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Forno Eletrico Britania BFE36P 36L Preto - 1500W 220v",
+    "nome": "Forno Eletrico Britania BFE36P 36L Preto - 1500W 220v",
+    "preco": {
+      "preco": [
+        {
+          "valor": "178.99",
+          "data": "2021-12-26T13:47:37.404Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Forno Eletrico Philco PFE50 50L 1500W Timer - Preto - 220V",
+    "nome": "Forno Eletrico Philco PFE50 50L 1500W Timer - Preto - 220V",
+    "preco": {
+      "preco": [
+        {
+          "valor": "264.59",
+          "data": "2021-12-26T13:47:37.404Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Asus Zenfone Go LTE Dual Chip Android 6.0 Tela 5\" Qualcomm Snapdragon 16GB 4G Camera 13MP - Preto",
+    "nome": "Smartphone Asus Zenfone Go LTE Dual Chip Android 6.0 Tela 5\" Qualcomm Snapdragon 16GB 4G Camera 13MP - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "421.19",
+          "data": "2021-12-26T13:47:37.404Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smartphone Moto G (3ª Geracao) Edicao Especial Music Dual Chip Android 5.1 Tela 5\" 16GB 4G Camera 13MP + Fone Sem Fio Bluetooth - Preto",
+    "nome": "Smartphone Moto G (3ª Geracao) Edicao Especial Music Dual Chip Android 5.1 Tela 5\" 16GB 4G Camera 13MP + Fone Sem Fio Bluetooth - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "585.57",
+          "data": "2021-12-26T13:47:37.404Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Grill e sanduicheira antiaderente abertura 180º preto e inox - Basic+",
+    "nome": "Grill e sanduicheira antiaderente abertura 180º preto e inox - Basic+",
+    "preco": {
+      "preco": [
+        {
+          "valor": "111.99",
+          "data": "2021-12-26T13:47:37.404Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Galaxy Fit E Samsung - Preto",
+    "nome": "Galaxy Fit E Samsung - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "109.99",
+          "data": "2021-12-26T13:47:37.404Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Processador de Alimentos Philips Viva Preto com 2 velocidades e Pulsar 600W - 220V",
+    "nome": "Processador de Alimentos Philips Viva Preto com 2 velocidades e Pulsar 600W - 220V",
+    "preco": {
+      "preco": [
+        {
+          "valor": "116.99",
+          "data": "2021-12-26T13:47:37.404Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Micro-ondas Electrolux MI41S 31 Litros - Silver",
+    "nome": "Micro-ondas Electrolux MI41S 31 Litros - Silver",
+    "preco": {
+      "preco": [
+        {
+          "valor": "535.49",
+          "data": "2021-12-30T19:52:57.421Z"
+        },
+        {
+          "valor": "629.99",
+          "data": "2021-12-26T13:47:37.404Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Secador Philco Titanium Travel Bivolt 2 Velocidades Vermelho e preto",
+    "nome": "Secador Philco Titanium Travel Bivolt 2 Velocidades Vermelho e preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "49.99",
+          "data": "2021-12-26T13:47:37.404Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Jogo de Panelas 9 Pecas Turim Vermelho Tramontina",
+    "nome": "Jogo de Panelas 9 Pecas Turim Vermelho Tramontina",
+    "preco": {
+      "preco": [
+        {
+          "valor": "173.59",
+          "data": "2021-12-27T22:35:39.054Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Lava e Seca Smart LG VC4 CV5011TS4 11kg Aco Escovado com Inteligencia Artificial AIDD Motor Inverter",
+    "nome": "Lava e Seca Smart LG VC4 CV5011TS4 11kg Aco Escovado com Inteligencia Artificial AIDD Motor Inverter",
+    "preco": {
+      "preco": [
+        {
+          "valor": "3059.99",
+          "data": "2021-12-30T19:52:57.415Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Liquidificador Philco Nutrifit 1,2L Preto 700W - 127v",
+    "nome": "Liquidificador Philco Nutrifit 1,2L Preto 700W - 127v",
+    "preco": {
+      "preco": [
+        {
+          "valor": "115.20",
+          "data": "2021-12-30T19:52:57.415Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Forno Eletrico Philco PFE50 50L 1500W Timer - Preto - 127V",
+    "nome": "Forno Eletrico Philco PFE50 50L 1500W Timer - Preto - 127V",
+    "preco": {
+      "preco": [
+        {
+          "valor": "339.19",
+          "data": "2021-12-30T19:52:57.415Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Aspirador de Po Britania Dust Off BAS1250V - 127v",
+    "nome": "Aspirador de Po Britania Dust Off BAS1250V - 127v",
+    "preco": {
+      "preco": [
+        {
+          "valor": "127.93",
+          "data": "2021-12-30T19:52:57.415Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Cafeteira Multicapsula Pcf19vp Philco",
+    "nome": "Cafeteira Multicapsula Pcf19vp Philco",
+    "preco": {
+      "preco": [
+        {
+          "valor": "319.99",
+          "data": "2021-12-30T19:52:57.415Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Batedeira Planetaria Philco PHP500 Turbo 4 velocidades 500W + Liquidificador Philco PLQ800P Turbo 900W Pkt31ir - Preto",
+    "nome": "Batedeira Planetaria Philco PHP500 Turbo 4 velocidades 500W + Liquidificador Philco PLQ800P Turbo 900W Pkt31ir - Preto",
+    "preco": {
+      "preco": [
+        {
+          "valor": "215.99",
+          "data": "2021-12-30T19:52:57.415Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Smart TV 55'' LG 55NANO81 4K UHD NanoCell 4 HDMI 2 USB Wi-Fi Inteligencia Artificial ThinQAI Google Assistente Alexa IOT",
+    "nome": "Smart TV 55'' LG 55NANO81 4K UHD NanoCell 4 HDMI 2 USB Wi-Fi Inteligencia Artificial ThinQAI Google Assistente Alexa IOT",
+    "preco": {
+      "preco": [
+        {
+          "valor": "3191.99",
+          "data": "2021-12-30T19:52:57.415Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Geladeira/Refrigerador Brastemp Frost Free BRM44 375 Litros - Evox",
+    "nome": "Geladeira/Refrigerador Brastemp Frost Free BRM44 375 Litros - Evox",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1529.99",
+          "data": "2021-12-30T19:52:57.416Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Lavadora de Roupas Brastemp 9kg BWJ09 - Branco",
+    "nome": "Lavadora de Roupas Brastemp 9kg BWJ09 - Branco",
+    "preco": {
+      "preco": [
+        {
+          "valor": "964.99",
+          "data": "2021-12-30T19:52:57.416Z"
+        }
+      ]
+    },
+    "tipo": "usado",
+    "url": "",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Micro-ondas Electrolux MTD30 20 Litros 220V - Branco",
+    "nome": "Micro-ondas Electrolux MTD30 20 Litros 220V - Branco",
+    "preco": {
+      "preco": [
+        {
+          "valor": "234.99",
+          "data": "2021-12-30T19:52:57.416Z"
         }
       ]
     },

@@ -419,5 +419,80 @@
     "keyword": [
       ""
     ]
+  },
+  {
+    "id": "CASA BAIRRO ALTO DAS PALMEIRAS - REF.: 204\n Serra Negra - SP\nR$ 750,00",
+    "nome": "CASA BAIRRO ALTO DAS PALMEIRAS - REF.: 204\n Serra Negra - SP\nR$ 750,00",
+    "preco": {
+      "preco": [
+        {
+          "valor": "750.00",
+          "data": "2021-12-18T19:14:59.997Z"
+        }
+      ]
+    },
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "CASA BAIRRO ALTO DAS PALMEIRAS - REF.: 211\n Serra Negra - SP\nR$ 950,00",
+    "nome": "CASA BAIRRO ALTO DAS PALMEIRAS - REF.: 211\n Serra Negra - SP\nR$ 950,00",
+    "preco": {
+      "preco": [
+        {
+          "valor": "950.00",
+          "data": "2021-12-18T19:14:59.997Z"
+        }
+      ]
+    },
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "CASA RUA 13 DE MAIO - CENTRO REF: 237\n Serra Negra - SP\nR$ 600,00",
+    "nome": "CASA RUA 13 DE MAIO - CENTRO REF: 237\n Serra Negra - SP\nR$ 600,00",
+    "preco": {
+      "preco": [
+        {
+          "valor": "600.00",
+          "data": "2021-12-18T19:14:59.997Z"
+        }
+      ]
+    },
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "RESERVADO - REF: 235\n Serra Negra - SP\nR$ 400,00",
+    "nome": "RESERVADO - REF: 235\n Serra Negra - SP\nR$ 400,00",
+    "preco": {
+      "preco": [
+        {
+          "valor": "400.00",
+          "data": "2021-12-18T19:14:59.997Z"
+        }
+      ]
+    },
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "KITNET RUA TIRADENTES - REF: 415\n Serra Negra - SP\nR$ 450,00",
+    "nome": "KITNET RUA TIRADENTES - REF: 415\n Serra Negra - SP\nR$ 450,00",
+    "preco": {
+      "preco": [
+        {
+          "valor": "450.00",
+          "data": "2021-12-18T19:14:59.997Z"
+        }
+      ]
+    },
+    "keyword": [
+      ""
+    ]
   }
 ]

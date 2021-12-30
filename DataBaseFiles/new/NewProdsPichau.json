@@ -1,96 +1,208 @@
 [
   {
-    "id": "Processador Intel Core i5-10400F, 6-Core, 12-Threads, 2.9Ghz (4.3Ghz Turbo), Cache 12MB, LGA1200, BX8070110400F-TRAY",
-    "nome": "Processador Intel Core i5-10400F, 6-Core, 12-Threads, 2.9Ghz (4.3Ghz Turbo), Cache 12MB, LGA1200, BX8070110400F-TRAY",
+    "id": "Processador Intel Core i3-10100, 4-Core, 8-Threads, 3.6Ghz (4.3Ghz Turbo), Cache 6MB, LGA1200, BX8070110100",
+    "nome": "Processador Intel Core i3-10100, 4-Core, 8-Threads, 3.6Ghz (4.3Ghz Turbo), Cache 6MB, LGA1200, BX8070110100",
     "preco": {
       "preco": [
         {
-          "valor": "1289.90",
-          "data": "2021-11-22T01:34:44.750Z"
+          "valor": "1199.90",
+          "data": "2021-12-30T19:52:18.317Z"
         }
       ]
     },
-    "url": "https://www.pichau.com.br/processador-intel-core-i5-10400f-6-core-12-threads-2-9ghz-4-3ghz-turbo-cache-12mb-lga1200-bx8070110400f-tray",
+    "url": "https://www.pichau.com.br/processador-intel-core-i3-10100-4-core-8-threads-3-6ghz-4-3ghz-turbo-cache-6mb-lga1200-bx8070110100",
     "keyword": [
       ""
     ]
   },
   {
-    "id": "Processador Intel Core i5-10600KF, 6-Core, 12-Threads, 4.1GHz (4.8GHz Turbo), Cache 12MB, LGA1200, BX8070110600KF",
-    "nome": "Processador Intel Core i5-10600KF, 6-Core, 12-Threads, 4.1GHz (4.8GHz Turbo), Cache 12MB, LGA1200, BX8070110600KF",
+    "id": "Processador Intel Core i5-9400F, 6-Core, 6-Threads, 2.9GHz (4.1GHz Turbo), Cache 9MB, LGA1151 BX80684I59400F",
+    "nome": "Processador Intel Core i5-9400F, 6-Core, 6-Threads, 2.9GHz (4.1GHz Turbo), Cache 9MB, LGA1151 BX80684I59400F",
     "preco": {
       "preco": [
         {
-          "valor": "1863.52",
-          "data": "2021-11-22T01:34:44.750Z"
+          "valor": "1299.90",
+          "data": "2021-12-30T19:52:18.317Z"
         }
       ]
     },
-    "url": "https://www.pichau.com.br/processador-intel-core-i5-10600kf-6-core-12-threads-4-1ghz-4-8ghz-turbo-cache-12mb-lga1200-bx8070110600kf",
+    "url": "https://www.pichau.com.br/processador-intel-core-i5-9400f-6-core-6-threads-2-9ghz-4-1ghz-turbo-cache-9mb-lga1151-bx80684i59400f",
     "keyword": [
       ""
     ]
   },
   {
-    "id": "Processador Intel Core i5-11600K, 6-Core, 12-Threads, 3.9GHz (4.9GHz Turbo), Cache 12MB, LGA1200, BX8070811600K",
-    "nome": "Processador Intel Core i5-11600K, 6-Core, 12-Threads, 3.9GHz (4.9GHz Turbo), Cache 12MB, LGA1200, BX8070811600K",
+    "id": "Placa de Video Gainward GeForce RTX 3080 Ti Phantom, 12GB, GDDR6X, 384-bit, NED308T019KB-1020M",
+    "nome": "Placa de Video Gainward GeForce RTX 3080 Ti Phantom, 12GB, GDDR6X, 384-bit, NED308T019KB-1020M",
     "preco": {
       "preco": [
         {
-          "valor": "2199.90",
-          "data": "2021-11-22T01:34:44.750Z"
+          "valor": "14649.82",
+          "data": "2021-12-30T19:52:18.317Z"
         }
       ]
     },
-    "url": "https://www.pichau.com.br/processador-intel-core-i5-11600k-6-core-12-threads-3-9ghz-4-9ghz-turbo-cache-12mb-lga1200-bx8070811600k",
+    "url": "https://www.pichau.com.br/placa-de-video-gainward-geforce-rtx-3080-ti-phantom-12gb-gddr6x-384-bit-ned308t019kb-1020m",
     "keyword": [
       ""
     ]
   },
   {
-    "id": "Processador Intel Core i7-10700KF, 8-Core, 16-Threads, 3.8GHz (5.1GHz Turbo), Cache 16MB, LGA1200, BX8070110700KF",
-    "nome": "Processador Intel Core i7-10700KF, 8-Core, 16-Threads, 3.8GHz (5.1GHz Turbo), Cache 16MB, LGA1200, BX8070110700KF",
+    "id": "Placa de Video Gainward GeForce RTX 3080 Ti Phoenix, 12GB, GDDR6X, 384-bit, NED308T019KB-132AX",
+    "nome": "Placa de Video Gainward GeForce RTX 3080 Ti Phoenix, 12GB, GDDR6X, 384-bit, NED308T019KB-132AX",
     "preco": {
       "preco": [
         {
-          "valor": "2669.90",
-          "data": "2021-11-22T01:34:44.750Z"
+          "valor": "13999.82",
+          "data": "2021-12-30T19:52:18.317Z"
         }
       ]
     },
-    "url": "https://www.pichau.com.br/processador-intel-core-i7-10700kf-8-core-16-threads-3-8ghz-5-1ghz-turbo-cache-16mb-lga1200-bx8070110700kf",
+    "url": "https://www.pichau.com.br/placa-de-video-gainward-geforce-rtx-3080-ti-phoenix-12gb-gddr6x-384-bit-ned308t019kb-132ax",
     "keyword": [
       ""
     ]
   },
   {
-    "id": "Processador Intel Core i7-10700K Avengers Edition, 8-Core, 16-Threads, 3.8GHz (5.1GHz Turbo), Cache 16MB, LGA1200, BX8070110700KA",
-    "nome": "Processador Intel Core i7-10700K Avengers Edition, 8-Core, 16-Threads, 3.8GHz (5.1GHz Turbo), Cache 16MB, LGA1200, BX8070110700KA",
+    "id": "Placa de Video Gainward GeForce RTX 3080 Phantom+, LHR, 10GB, GDDR6, 320-bit, NED3080U19IA-1020M",
+    "nome": "Placa de Video Gainward GeForce RTX 3080 Phantom+, LHR, 10GB, GDDR6, 320-bit, NED3080U19IA-1020M",
     "preco": {
       "preco": [
         {
-          "valor": "3636.25",
-          "data": "2021-11-22T01:34:44.750Z"
+          "valor": "10998.86",
+          "data": "2021-12-30T19:52:18.317Z"
         }
       ]
     },
-    "url": "https://www.pichau.com.br/processador-intel-core-i7-10700k-avengers-edition-8-core-16-threads-3-8ghz-5-1ghz-turbo-cache-16mb-lga1200-bx8070110700ka",
+    "url": "https://www.pichau.com.br/placa-de-video-gainward-geforce-rtx-3080-phantom-lhr-10gb-gddr6-320-bit-ned3080u19ia-1020m",
     "keyword": [
       ""
     ]
   },
   {
-    "id": "Processador Intel Core i7-10700K, 8-Core, 16-Threads, 3.8GHz (5.1GHz Turbo), Cache 16MB, LGA1200, BX8070110700K",
-    "nome": "Processador Intel Core i7-10700K, 8-Core, 16-Threads, 3.8GHz (5.1GHz Turbo), Cache 16MB, LGA1200, BX8070110700K",
+    "id": "Placa de Video Asus GeForce RTX 3070 ROG Strix White Edition, OC, LHR, 8GB, GDDR6, 256-bit, ROG-STRIX-RTX3070-O8G-WHITE-V2",
+    "nome": "Placa de Video Asus GeForce RTX 3070 ROG Strix White Edition, OC, LHR, 8GB, GDDR6, 256-bit, ROG-STRIX-RTX3070-O8G-WHITE-V2",
     "preco": {
       "preco": [
         {
-          "valor": "2899.90",
-          "data": "2021-11-22T01:34:44.750Z"
+          "valor": "8099.89",
+          "data": "2021-12-30T19:52:18.317Z"
         }
       ]
     },
-    "url": "https://www.pichau.com.br/processador-intel-core-i7-10700k-8-core-16-threads-3-8ghz-5-1ghz-turbo-cache-16mb-lga1200-bx8070110700k",
+    "url": "https://www.pichau.com.br/placa-de-video-asus-geforce-rtx-3070-rog-strix-white-edition-oc-lhr-8gb-gddr6-256-bit-rog-strix-rtx3070-o8g-white-v2",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video Gainward GeForce RTX 3070 Phantom+, LHR, 8GB, GDDR6, 256-bit, NE63070019P2-1040M",
+    "nome": "Placa de Video Gainward GeForce RTX 3070 Phantom+, LHR, 8GB, GDDR6, 256-bit, NE63070019P2-1040M",
+    "preco": {
+      "preco": [
+        {
+          "valor": "7099.90",
+          "data": "2021-12-30T19:52:18.317Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-gainward-geforce-rtx-3070-phantom-lhr-8gb-gddr6-256-bit-ne63070019p2-1040m",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video Asus GeForce RTX 3070 TUF Gaming OC LHR 8GB GDDR6 256-bit, TUF-RTX3070-O8G-V2-GAMING",
+    "nome": "Placa de Video Asus GeForce RTX 3070 TUF Gaming OC LHR 8GB GDDR6 256-bit, TUF-RTX3070-O8G-V2-GAMING",
+    "preco": {
+      "preco": [
+        {
+          "valor": "6699.91",
+          "data": "2021-12-30T19:52:18.317Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-asus-geforce-rtx-3070-tuf-gaming-oc-lhr-8gb-gddr6-256-bit-tuf-rtx3070-o8g-v2-gaming",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video Asus GeForce RTX 3070 KO OC LHR, 8GB, GDDR6, 256-bit, KO-RTX3070-O8G-V2-GAMING",
+    "nome": "Placa de Video Asus GeForce RTX 3070 KO OC LHR, 8GB, GDDR6, 256-bit, KO-RTX3070-O8G-V2-GAMING",
+    "preco": {
+      "preco": [
+        {
+          "valor": "6449.92",
+          "data": "2021-12-30T19:52:18.317Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-asus-geforce-rtx-3070-ko-oc-lhr-8gb-gddr6-256-bit-ko-rtx3070-o8g-v2-gaming",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video Gainward GeForce RTX 3060 Ghost, 12GB, GDDR6, 192-bit, NE63060019K9-190AU",
+    "nome": "Placa de Video Gainward GeForce RTX 3060 Ghost, 12GB, GDDR6, 192-bit, NE63060019K9-190AU",
+    "preco": {
+      "preco": [
+        {
+          "valor": "4848.94",
+          "data": "2021-12-30T19:52:18.317Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-gainward-geforce-rtx-3060-ghost-12gb-gddr6-192-bit-ne63060019k9-190au",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video Gainward GeForce RTX 3060 Pegasus, 12GB, GDDR6, 192-bit, NE63060019K9-190AE",
+    "nome": "Placa de Video Gainward GeForce RTX 3060 Pegasus, 12GB, GDDR6, 192-bit, NE63060019K9-190AE",
+    "preco": {
+      "preco": [
+        {
+          "valor": "4499.30",
+          "data": "2021-12-30T19:52:18.317Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-gainward-geforce-rtx-3060-pegasus-12gb-gddr6-192-bit-ne63060019k9-190ae",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video Gainward Geforce GTX 1650 D6 Ghost, GDDR6, 4GB, 128-bit, NE6165001BG1-1175D",
+    "nome": "Placa de Video Gainward Geforce GTX 1650 D6 Ghost, GDDR6, 4GB, 128-bit, NE6165001BG1-1175D",
+    "preco": {
+      "preco": [
+        {
+          "valor": "1949.97",
+          "data": "2021-12-30T19:52:18.317Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-gainward-geforce-gtx-1650-d6-ghost-gddr6-4gb-128-bit-ne6165001bg1-1175d",
+    "keyword": [
+      ""
+    ]
+  },
+  {
+    "id": "Placa de Video Afox GeForce GT 610, 2GB, DDR3, 64-Bit, AF610-2048D3L7-V5",
+    "nome": "Placa de Video Afox GeForce GT 610, 2GB, DDR3, 64-Bit, AF610-2048D3L7-V5",
+    "preco": {
+      "preco": [
+        {
+          "valor": "340.80",
+          "data": "2021-12-30T19:52:18.317Z"
+        }
+      ]
+    },
+    "url": "https://www.pichau.com.br/placa-de-video-afox-geforce-gt-610-2gb-ddr3-64-bit-af610-2048d3l7-v5",
     "keyword": [
       ""
     ]
